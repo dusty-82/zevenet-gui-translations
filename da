@@ -1,0 +1,344 @@
+Dashboard|| Hovedmenu
+LSLB|| LSLB
+Farms|| Gårde
+SSL Certificates|| SSL-certifikater
+DSLB|| DSLB
+Monitoring|| Overvågning
+Graphs|| Grafer
+Farm Stats|| Gårdstatistik
+Farmguardians|| Farmguardians
+Network|| Netværk
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| Virtuelle grænseflader
+Gateway|| Gateway
+System|| System
+Remote Services|| Fjernbetjeninger
+Backups|| Sikkerhedskopier
+User|| Bruger
+Logs|| Logs
+License|| Licens
+Support Save|| Support Gem
+Create|| Opret
+Edit|| Redigere
+Configure|| Sæt
+Upload|| Upload
+View|| Specifikation
+Generate CSR|| Generer CSR
+farm|| gård
+certificate|| certifikat
+farmguardian|| farmguardian
+VLAN|| VLAN
+virtual interface|| virtuel grænseflade
+backup|| backup
+backend|| backend
+session|| Session
+Professional Products|| Professionelle Produkter
+Professional Services|| Professionelle tjenester
+News|| Nyheder
+Resources|| Ressourcer
+System Stats|| System Stats
+CPU|| CPU
+Memory|| Hukommelse
+Load|| Load
+Cores|| kerner
+System Information|| System Information
+Zevenet Version|| Zevenet Version
+Appliance Version|| Appliance Version
+Kernel Version|| Kernel Version
+Hostname|| hostname
+System Date|| System Dato
+NIC Interfaces|| NIC-grænseflader
+Megabytes (MB)|| Megabytes (MB)
+Farm List|| Farm List
+Name|| Navn
+Profile|| profiler
+Status|| Status
+LSLB Farm List|| LSLB Farm List
+Create LSLB Farm|| Opret LSLB Farm
+Listener|| Lytter
+Advanced settings|| Avancerede indstillinger
+Rewrite location headers|| Omskriv overskriftsoverskrifter
+HTTP verbs accepted|| HTTP verbs accepteret
+Backend connection timeout|| Backend forbindelses timeout
+Backend response timeout|| Backend respons timeout
+Frequency to check resurrected backends|| Frekvens for at kontrollere genoprettede bagsider
+Client request timeout|| Klient anmodning timeout
+Message Error 414|| Meddelelsesfejl 414
+Message Error 500|| Meddelelsesfejl 500
+Message Error 501|| Meddelelsesfejl 501
+Message Error 503|| Meddelelsesfejl 503
+HTTPS Parameters|| HTTPS-parametre
+Disable SSLv2|| Deaktiver SSLv2
+Disable SSLv3|| Deaktiver SSLv3
+Disable TLSv1|| Deaktiver TLSv1
+Disable TLSv1.1|| Deaktiver TLSv1.1
+Disable TLSv1.2|| Deaktiver TLSv1.2
+Ciphers|| ciphers
+Custom Ciphers|| Brugerdefinerede cifre
+Certificate Enabled|| Certifikat aktiveret
+Virtual Host|| Virtual Host
+URL Pattern|| URL-mønster
+Least Response|| Mindste svar
+HTTPS Backends|| HTTPS backends
+Redirect|| Omdiriger
+Redirect URL|| Omdirigeringswebadresse
+Redirect Type|| Omdirigeringstype
+Load balancer Algorithm|| Load balancer Algoritme
+Persistence|| Vedholdenhed
+Persistence session identifier|| Persistens session identifikator
+Persistence session time to live|| Persistens session tid til live
+No persistence|| Ingen vedholdenhed
+IP: Client address|| IP: Klientadresse
+BASIC: Basic authentication|| GRUNDLÆGGENDE: Grundlæggende godkendelse
+URL: A request parameter|| URL: En anmodning parameter
+PARM: An URI parameter|| PARM: En URI-parameter
+COOKIE: A certain cookie|| COOKIE: En bestemt cookie
+HEADER: A certain request header|| HEADER: En bestemt forespørgselsoverskrift
+Protocol type|| Protokol type
+Nat type|| Nat type
+Load balancer Algorithm|| Load balancer Algoritme
+Persistence|| Vedholdenhed
+Persistence session time to live|| Persistens session tid til live
+No persistence|| Ingen vedholdenhed
+IP: Source IP|| IP: Source IP
+Port: Source|| Port: Kilde
+MAC: Source MAC|| MAC: Source MAC
+Source IP and Source Port|| Kilde IP og Source Port
+Source IP and Destination Port|| Kilde IP og destinationsport
+Weight: connection linear dispatching by weight|| Vægt: Tilslutning lineær forsendelse efter vægt
+Source Hash: Hash per Source IP and Source Port|| Source Hash: Hash per kilde IP og Source Port
+Simple Source Hash: Hash per Source IP only|| Simple Source Hash: Hash pr. Kilde IP kun
+Symmetric Hash: Round trip hash per IP and Port|| Symmetrisk Hash: Round trip hash pr. IP og Port
+Round Robin: Sequential backend selection|| Round Robin: Sekventiel backend-valg
+SSL Certificate List|| SSL-certifikatliste
+Generate CSR|| Generer CSR
+Upload SSL Certificate|| Upload SSL-certifikat
+Choose one or more files|| Vælg en eller flere filer
+DSLB Farm List|| DSLB Farm List
+Create DSLB Farm|| Opret DSLB Farm
+System Graphs|| Systemgrafer
+Interfaces Graphs || Grænseflader
+Show Graphs|| Vis grafer
+Farms Graphs|| Gårde Grafer
+Select Graphs|| Vælg Grafer
+Farms Stats|| Farms Stats
+Farms Graphs|| Gårde Grafer
+Farmguardians|| Farmguardians
+Farms Settings|| Farms Indstillinger
+Create Farmguardian|| Opret Farmguardian
+NIC List|| NIC-liste
+VLAN Interface List|| VLAN Interface List
+Create VLAN interface|| Opret VLAN-grænseflade
+Virtual Interface List|| Virtual Interface List
+Create Virtual interface|| Opret Virtual Interface
+IPv4 Gateway|| IPv4 Gateway
+IPv6 Gateway|| IPv6 Gateway
+Gateway Settings|| Gateway Indstillinger
+DNS Service|| DNS Service
+Default is 8.8.8.8|| Standard er 8.8.8.8
+Optional|| Valgfri
+Default is pool.ntp.org|| Standard er pool.ntp.org
+Primary server|| Primær server
+Secondary server|| Sekundær server
+NPT Service|| NPT Service
+NPT Server|| NPT-server
+SNMP Service|| SNMP Service
+Enable SNMP|| Aktivér SNMP
+Physical interface where is running SNMP service|| Fysisk grænseflade hvor kører SNMP-service
+SNMP Port where is running SNMP service|| SNMP Port, hvor kører SNMP-tjeneste
+Default is 161.|| Standard er 161.
+Community name|| Gruppenavn
+IP or subnet with access (IP/bit)|| IP eller subnet med adgang (IP / bit)
+Backup List|| Backup List
+Upload Backup|| Upload sikkerhedskopiering
+Backup File|| Backup-fil
+Create Backup|| Opret sikkerhedskopiering
+Choose one file|| Vælg en fil
+Settings User|| Indstillinger Bruger
+User|| Bruger
+ZAPI Permissions|| ZAPI-tilladelser
+ZAPI Key|| ZAPI-nøgle
+Change Password|| Skift adgangskode
+Current Password|| Nuværende kodeord
+New Password|| Ny adgangskode
+Repeat new password|| Gentag ny adgangskode
+Log List|| Logliste
+Log View|| Logvisning
+Number of lines|| Antal linjer
+License|| Licens
+Support Save|| Support Gem
+When this action is executed a file with system information will be downloaded.|| Når denne handling udføres, downloades en fil med systemoplysninger.
+This action may take several seconds, you can continue browsing the GUI.|| Denne handling kan tage flere sekunder, du kan fortsætte browsing GUI'en.
+Name|| Navn
+Locality|| Lokalitet
+Country|| Land
+State/Province|| Stat / provins
+Common Name|| Almindeligt navn
+Organization|| Organisation
+Division|| Afdeling
+E-mail Address|| Email adresse
+Services Settings|| Tjenester Indstillinger
+Global Settings|| Globale indstillinger
+Virtual IP and Port|| Virtual IP og Port
+Backend|| Bagende
+Interval|| Interval
+Cut connections|| Skær forbindelser
+Description|| Beskrivelse
+Copy rule|| Kopier regel
+Rule to copy|| Regel at kopiere
+seconds|| sekunder
+Log|| Log
+Address|| Adresse
+Virtual interface name|| Virtuelt interfacenavn
+Parent Interface|| Forældreinterface
+VLAN Name|| VLAN Navn
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| Load balancer Algoritme
+Health Checks for backend|| Sundhedschecks til backend
+Descriptive text, this name will be used to identify this certificate.|| Beskrivende tekst, dette navn bruges til at identificere dette certifikat.
+Only editable when the farm is down.|| Kun redigerbar, når gården er nede.
+City where your organization is located.|| By, hvor din organisation er placeret.
+Country (two characters) where your organization is located.|| Land (to tegn), hvor din organisation er placeret.
+State or province where your organization is located.|| Stat eller provins, hvor din organisation er placeret.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN af serveren. Eksempel: domain.com, mail.domain.com eller * .domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || Det fulde juridiske navn på din organisation / virksomhed (ex .: Zevenet Co.).
+Your department; such as 'IT','Web', 'Office', etc.|| Din afdeling f.eks. 'IT', 'Web', 'Office' osv.
+Your email address.|| Din e-mail-adresse.
+Name|| Navn
+Name|| Navn
+Profile|| profiler
+Virtual IP|| Virtual IP
+Virtual Port|| Virtual Port
+Status|| Status
+Actions|| handlinger
+ID||  ID
+IP||  IP
+Address|| Adresse
+Port|| port
+Timeout|| Timeout
+Weight|| Vægt
+Common Name|| Almindeligt navn
+Type|| Type
+File|| filet
+Issuer|| Udsteder
+Create on|| Opret på
+Expire on|| Udløber den
+Priority|| Prioritet
+Interface|| grænseflade
+Service|| Service
+Client|| Klient
+Sessions|| Sessions
+Session ID|| Sessions ID
+Backend ID|| Backend ID
+Command|| Kommando
+Description|| Beskrivelse
+Farms|| Gårde
+Farm|| Farm
+Gateway|| Gateway
+Netmask|| netmaske
+MAC|| MAC
+IP Address (IPv4 / IPv6)|| IP-adresse (IPv4 / IPv6)
+VLAN tag|| VLAN tag
+Date|| Dato
+Log|| Log
+Established Conns|| Etableret Conns
+Pending Conns|| Afventer Conns
+No|| Ingen
+found|| fundet
+ is required|| Der kræves
+ is not valid, it only is possible alphanumeric characters and dash (-).|| er ikke gyldig, det er kun muligt alfanumeriske tegn og bindestreg (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| ikke er gyldigt, er det muligt at definere en enkelt port, flere porte eller intervaller af porte (Ex: 80 eller 80,81 eller 80: 90)
+ has to be greater than 0|| skal være større end 0
+ can only has two characters.|| kan kun have to tegn.
+ has to be a valid email.|| skal være en gyldig email
+does not match.|| passer ikke sammen.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| Gården <strong>{{param}}</strong> er blevet slettet korrekt.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Gården <strong>{{param}}</strong> {{param2}} er blevet slettet korrekt.
+Are you sure you want to delete the {{param}} farmname ?|| Er du sikker på, at du vil slette {{param}} farmname?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Gården <strong>{{param}}</strong> har været {{param2}} ed med succes.
+The farm <strong>{{param}}</strong> has been created successfully.|| Gården <strong>{{param}}</strong> er blevet oprettet med succes.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| Gården <strong>{{param}}</strong> er blevet genstartet med succes.
+The backend has been created successfully.|| Baggrunden er oprettet med succes.
+The profile has been changed to {{param}} successfully.|| Profilen er blevet ændret til {{param}}.
+The farmguardian has been disabled sucessfully.|| Gården har været deaktiveret succesfuldt.
+The farmguardian has been changed to {{param}} successfully.|| Farmguardian er blevet ændret til {{param}} med succes.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| Den <strong>{{param}}</strong> farmguardian er blevet oprettet med succes.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| Den <strong>{{param}}</strong> Farmguardian er blevet opdateret med succes
+Are you sure you want to delete the {{param}} farmguardian?|| Er du sikker på, at du vil slette {{param}} farmguardian?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| Den <strong>{{param}}</strong> Farmguardian er blevet slettet med succes.
+The farm has been updated successfully.|| Gården er blevet opdateret med succes.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Er du sikker på, at du vil slette gården {{param}} {{param2}} af farmguardianen?
+Are you sure you want to delete the backend {{param}}?|| Er du sikker på, at du vil slette backend {{param}}?
+The backend <strong>{{param}}</strong> has been deleted successfully|| Baggrunden <strong>{{param}}</strong> er blevet slettet korrekt
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| Baggrunden <strong>{{param}}</strong> har været {{param2}} succesfuldt.
+The service <strong>{{param}}</strong> has been created successfully.|| Tjenesten <strong>{{param}}</strong> er blevet oprettet med succes.
+The service <strong>{{param}}</strong> has been deleted successfully.|| Tjenesten <strong>{{param}}</strong> er blevet slettet korrekt.
+The service <strong>{{param}}</strong> has been updated successfully.|| Tjenesten <strong>{{param}}</strong> er blevet opdateret med succes.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| Den <strong>{{param}}</strong> Gateway er blevet opdateret med succes.
+Are you sure you want to unset the current gateway?|| Er du sikker på, at du vil afbryde den aktuelle gateway?
+Are you sure you want to unset the {{param}} gateway?|| Er du sikker på, at du vil afbryde {{param}} gatewayen?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| Den <strong>{{param}}</strong> Gateway har været konfigureret med succes.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| Den <strong>{{param}}</strong> NIC er blevet opdateret med succes.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| Den <strong>{{param}}</strong> NIC har været konfigureret med succes.
+The <strong>{{param}}</strong> NIC is {{param2}}|| Den <strong>{{param}}</strong> NIC er {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| Den <strong>{{param}}</strong> Virtual interface er blevet oprettet med succes.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| Den <strong>{{param}}</strong> Virtuel grænseflade er blevet opdateret med succes.
+Are you sure you want to delete the {{param}} Virtual interface?|| Er du sikker på, at du vil slette {{param}} Virtual-grænsefladen?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| Den <strong>{{param}}</strong> Virtual interface er slettet korrekt.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| Den <strong>{{param}}</strong> VLAN er blevet oprettet med succes.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| Den <strong>{{param}}</strong> VLAN er blevet opdateret med succes.
+Are you sure you want to delete the {{param}} VLAN?|| Er du sikker på, at du vil slette {{param}} VLAN?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| Den <strong>{{param}}</strong> VLAN er blevet slettet.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| Den <strong>{{param}}</strong> VLAN er {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| Sikkerheden <strong>{{param}}</strong> er blevet oprettet med succes.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| Sikkerheden <strong>{{param}}</strong> er blevet uploadet korrekt.
+Are you sure you want to delete the backup {{param}}?|| Er du sikker på, at du vil slette backup {{param}}?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| Sikkerheden <strong>{{param}}</strong> er blevet slettet korrekt.
+The backup <strong>{{param}}</strong> has been applied successfully.|| Sikkerheden <strong>{{param}}</strong> er blevet anvendt succesfuldt.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| Sikkerheden <strong>{{backup}}</strong> er blevet downloadet med succes.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| Loggen <strong>{{param}}</strong> er blevet downloadet med succes.
+The <strong>{{param}}</strong> service has been updated successfully.|| Den <strong>{{param}}</strong> tjenesten er blevet opdateret med succes.
+The <strong> Support Save </strong> has been downloaded successfully|| Den <strong> Support Gem </strong> er blevet downloadet med succes
+The user has been updated successfully.|| Brugeren er blevet opdateret med succes.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR'en <strong>{{param}}</strong> er blevet genereret med succes.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| certifikatet <strong>{{param}}</strong> er blevet uploadet korrekt.
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| certifikatet <strong>{{param}}</strong> er blevet slettet korrekt.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| certifikatet <strong>{{param}}</strong> er blevet downloadet med succes.
+New Service|| Ny Service
+Create|| Opret
+Cancel|| Ophæve
+Submit|| Indsend
+Save|| Gem
+Generate|| Generer
+Update|| Opdatering
+Upload|| Upload
+Generate Random Key|| Generer tilfældig nøgle
+Generate Support Save|| Generer Support Save
+clear|| klar
+start|| starte
+Apply|| Benyt
+Add|| Tilføje
+Edit|| Redigere
+Go to Home|| Gå hjem
+404 Page not Found|| 404 side ikke fundet
+The page you were looking for doesn't exist|| Den side du ledte findes ikke
+No farms found|| Ingen gårde fundet
+Established Conns|| Etableret Conns
+Pending Conns|| Afventer Conns
+Select a graph|| Vælg en graf
+Select a profile|| Vælg en profil
+Select a Virtual IP|| Vælg en virtuel IP
+Select a parent interface|| Vælg en overordnet grænseflade
+Select an interface|| Vælg en grænseflade
+Logout|| Log på
+Sign in with your username and password|| Log ind med dit brugernavn og din adgangskode
+Username|| Brugernavn
+Password|| Adgangskode
+Sign In|| Log ind
+User is required!|| Bruger er påkrævet!
+User should be the real one|| Bruger skal være den rigtige
+Password is required|| adgangskode er påkrævet
+Password should contains {{param}} to {{param2}} characters|| Adgangskoden skal indeholde {{param}} til {{param2}} tegn
+Success!|| Succes!
+You have been successfully logged in.|| Du er blevet logget ind.

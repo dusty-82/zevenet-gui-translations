@@ -1,0 +1,344 @@
+Dashboard|| لوحة التحكم
+LSLB|| LSLB
+Farms|| المزارع
+SSL Certificates|| شهادة SSL
+DSLB|| DSLB
+Monitoring|| مراقبة
+Graphs|| الرسوم البيانية
+Farm Stats|| إحصائيات المزرعة
+Farmguardians|| Farmguardians
+Network|| شبكة
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| واجهات افتراضية
+Gateway|| بوابة
+System|| نظام
+Remote Services|| الخدمات عن بعد
+Backups|| النسخ الاحتياطي
+User|| المستخدم 
+Logs|| سجلات
+License|| رخصة الخصوصية
+Support Save|| دعم حفظ
+Create|| خلق
+Edit|| تعديل
+Configure|| ضبط
+Upload|| تحميل صورة
+View|| مشاهدة
+Generate CSR|| توليد المسؤولية الاجتماعية للشركات
+farm|| مزرعة
+certificate|| شهادة
+farmguardian|| farmguardian
+VLAN|| VLAN
+virtual interface|| واجهة افتراضية
+backup|| دعم
+backend|| الخلفية
+session|| الجلسة
+Professional Products|| المنتجات المهنية
+Professional Services|| خدمات مهنية
+News|| الأخبار
+Resources|| الموارد
+System Stats|| إحصائيات النظام
+CPU|| وحدة المعالجة المركزية‏:
+Memory|| مكبر الصوت : يدعم، مع دعم ميكروفون مدمج لمنع الضوضاء 
+Load|| حمل
+Cores|| الألوان
+System Information|| نظام المعلومات
+Zevenet Version|| نسخة Zevenet
+Appliance Version|| إصدار الأجهزة
+Kernel Version|| إصدار النواة
+Hostname|| اسم المضيف
+System Date|| تاريخ النظام
+NIC Interfaces|| واجهات NIC
+Megabytes (MB)|| ميغابايت (MB)
+Farm List|| قائمة المزرعة
+Name|| الاسم
+Profile|| الملف
+Status|| الحالة
+LSLB Farm List|| قائمة مزرعة LSLB
+Create LSLB Farm|| إنشاء مزرعة LSLB
+Listener|| مستمع
+Advanced settings|| الإعدادات المتقدمة
+Rewrite location headers|| أعد كتابة رؤوس الموقع
+HTTP verbs accepted|| الأفعال HTTP مقبولة
+Backend connection timeout|| الخلفية انقطاع الاتصال
+Backend response timeout|| مهلة استجابة الخلفية
+Frequency to check resurrected backends|| تردد للتحقق من الخلفيات التي أعيد إنشاؤها
+Client request timeout|| طلب العميل مهلة
+Message Error 414|| رسالة خطأ 414
+Message Error 500|| رسالة خطأ 500
+Message Error 501|| رسالة خطأ 501
+Message Error 503|| رسالة خطأ 503
+HTTPS Parameters|| معلمات HTTPS
+Disable SSLv2|| تعطيل SSLv2
+Disable SSLv3|| تعطيل SSLv3
+Disable TLSv1|| تعطيل TLSv1
+Disable TLSv1.1|| تعطيل TLSv1.1
+Disable TLSv1.2|| تعطيل TLSv1.2
+Ciphers|| الأصفار
+Custom Ciphers|| الأصفار المخصصة
+Certificate Enabled|| الشهادة ممكّنة
+Virtual Host|| استضافة افتراضية
+URL Pattern|| نمط عنوان URL
+Least Response|| استجابة أقل
+HTTPS Backends|| HTTPS الخلفية
+Redirect|| إعادة توجيه
+Redirect URL|| إعادة توجيه URL
+Redirect Type|| نوع إعادة التوجيه
+Load balancer Algorithm|| تحميل موازن الخوارزمية
+Persistence|| إصرار
+Persistence session identifier|| معرف جلسة المثابرة
+Persistence session time to live|| وقت الجلسة المثابرة للعيش
+No persistence|| لا استمرار
+IP: Client address|| IP: عنوان العميل
+BASIC: Basic authentication|| الأساسية: المصادقة الأساسية
+URL: A request parameter|| عنوان URL: معلمة طلب
+PARM: An URI parameter|| PARM: معلمة URI
+COOKIE: A certain cookie|| كوكي: ملف تعريف ارتباط معين
+HEADER: A certain request header|| العنوان: رأس طلب معين
+Protocol type|| نوع البروتوكول
+Nat type|| نوع نات
+Load balancer Algorithm|| تحميل موازن الخوارزمية
+Persistence|| إصرار
+Persistence session time to live|| وقت الجلسة المثابرة للعيش
+No persistence|| لا استمرار
+IP: Source IP|| IP: مصدر IP
+Port: Source|| ميناء: المصدر
+MAC: Source MAC|| MAC: مصدر MAC
+Source IP and Source Port|| مصدر IP ومصدر المنفذ
+Source IP and Destination Port|| مصدر IP ومنفذ الوجهة
+Weight: connection linear dispatching by weight|| الوزن: اتصال خطي الإرسال حسب الوزن
+Source Hash: Hash per Source IP and Source Port|| تجزئة المصدر: تجزئة لكل مصدر IP و منفذ مصدر
+Simple Source Hash: Hash per Source IP only|| تجزئة مصدر بسيط: تجزئة لكل مصدر IP فقط
+Symmetric Hash: Round trip hash per IP and Port|| هاش متماثل: تجول ذهابا وإيابا لكل IP والميناء
+Round Robin: Sequential backend selection|| جولة روبن: اختيار الخلفية المتسلسلة
+SSL Certificate List|| قائمة شهادات SSL
+Generate CSR|| توليد المسؤولية الاجتماعية للشركات
+Upload SSL Certificate|| تحميل شهادة SSL
+Choose one or more files|| اختر ملفًا واحدًا أو أكثر
+DSLB Farm List|| قائمة مزرعة DSLB
+Create DSLB Farm|| إنشاء مزرعة DSLB
+System Graphs|| الرسوم البيانية للنظام
+Interfaces Graphs || واجهات الرسوم البيانية
+Show Graphs|| عرض الرسوم البيانية
+Farms Graphs|| مزارع الرسوم البيانية
+Select Graphs|| حدد الرسوم البيانية
+Farms Stats|| إحصائيات المزارع
+Farms Graphs|| مزارع الرسوم البيانية
+Farmguardians|| Farmguardians
+Farms Settings|| إعدادات المزارع
+Create Farmguardian|| إنشاء Farmguardian
+NIC List|| قائمة NIC
+VLAN Interface List|| قائمة واجهة VLAN
+Create VLAN interface|| إنشاء واجهة VLAN
+Virtual Interface List|| قائمة واجهة افتراضية
+Create Virtual interface|| إنشاء واجهة افتراضية
+IPv4 Gateway|| بوابة IPv4
+IPv6 Gateway|| بوابة IPv6
+Gateway Settings|| إعدادات البوابة
+DNS Service|| خدمة DNS
+Default is 8.8.8.8|| الافتراضي هو 8.8.8.8
+Optional|| اختياري
+Default is pool.ntp.org|| الافتراضي هو pool.ntp.org
+Primary server|| الخادم الرئيسي
+Secondary server|| الخادم الثانوي
+NPT Service|| خدمة معاهدة عدم الانتشار
+NPT Server|| خادم معاهدة حظر الانتشار النووي
+SNMP Service|| خدمة SNMP
+Enable SNMP|| تمكين SNMP
+Physical interface where is running SNMP service|| الواجهة الفعلية حيث يتم تشغيل خدمة SNMP
+SNMP Port where is running SNMP service|| SNMP Port حيث يقوم بتشغيل خدمة SNMP
+Default is 161.|| الافتراضي هو 161.
+Community name|| اسم المجتمع
+IP or subnet with access (IP/bit)|| IP أو الشبكة الفرعية مع الوصول (IP / بت)
+Backup List|| قائمة النسخ الاحتياطي
+Upload Backup|| تحميل النسخ الاحتياطي
+Backup File|| ملف النسخ الاحتياطي
+Create Backup|| إنشاء نسخة احتياطية
+Choose one file|| اختيار ملف واحد
+Settings User|| إعدادات المستخدم
+User|| المستخدم 
+ZAPI Permissions|| أذونات ZAPI
+ZAPI Key|| مفتاح ZAPI
+Change Password|| تغيير كلمة المرور
+Current Password|| كلمة المرور الحالية
+New Password|| كلمة مرور جديدة
+Repeat new password|| كرر كلمة المرور الجديدة
+Log List|| قائمة السجل
+Log View|| عرض السجل
+Number of lines|| عدد الخطوط
+License|| رخصة الخصوصية
+Support Save|| دعم حفظ
+When this action is executed a file with system information will be downloaded.|| عند تنفيذ هذا الإجراء ، سيتم تنزيل ملف به معلومات النظام.
+This action may take several seconds, you can continue browsing the GUI.|| قد يستغرق هذا الإجراء عدة ثوان ، يمكنك متابعة تصفح واجهة المستخدم الرسومية.
+Name|| الاسم
+Locality|| مكان
+Country|| البلد
+State/Province|| الدولة / مقاطعة
+Common Name|| اسم شائع
+Organization|| منظمة
+Division|| تقسيم
+E-mail Address|| عنوان البريد الإلكتروني
+Services Settings|| إعدادات الخدمات
+Global Settings|| إعدادات العالمية
+Virtual IP and Port|| IP الظاهري والمنفذ
+Backend|| الخلفية
+Interval|| الفاصلة
+Cut connections|| قطع الاتصالات
+Description|| الوصف
+Copy rule|| نسخة القاعدة
+Rule to copy|| حكم للنسخ
+seconds|| ثواني
+Log|| سجل
+Address|| العنوان
+Virtual interface name|| اسم الواجهة الافتراضية
+Parent Interface|| واجهة الأم
+VLAN Name|| اسم شبكة محلية ظاهرية
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| تحميل موازن الخوارزمية
+Health Checks for backend|| الشيكات الصحية للوظيفه
+Descriptive text, this name will be used to identify this certificate.|| نص وصفي ، سيتم استخدام هذا الاسم لتحديد هذه الشهادة.
+Only editable when the farm is down.|| فقط للتحرير عندما تكون المزرعة معطلة.
+City where your organization is located.|| المدينة التي تقع فيها مؤسستك.
+Country (two characters) where your organization is located.|| البلد (حرفين) حيث توجد مؤسستك.
+State or province where your organization is located.|| الولاية أو المقاطعة التي تقع فيها منظمتك.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN للخادم. مثال: domain.com أو mail.domain.com أو * .domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || الاسم القانوني الكامل لمؤسستك / شركتك (على سبيل المثال: شركة Zevenet).
+Your department; such as 'IT','Web', 'Office', etc.|| قسمك؛ مثل &quot;تكنولوجيا المعلومات&quot; ، &quot;الويب&quot; ، &quot;المكتب&quot; ، إلخ.
+Your email address.|| عنوان البريد الإلكتروني الخاص بك.
+Name|| الاسم
+Name|| الاسم
+Profile|| الملف
+Virtual IP|| IP الظاهري
+Virtual Port|| ميناء الظاهري
+Status|| الحالة
+Actions|| الإجراءات
+ID||  ID
+IP||  IP
+Address|| العنوان
+Port|| ميناء
+Timeout|| مهلة
+Weight|| الوزن
+Common Name|| اسم شائع
+Type|| النوع
+File|| تقديم
+Issuer|| المصدر
+Create on|| خلق على
+Expire on|| تنتهي في
+Priority|| درجة الأهمية
+Interface|| السطح البيني
+Service|| اختار نوع الكشف اوالخدمه
+Client|| زبون
+Sessions|| دورات
+Session ID|| الدورة ID
+Backend ID|| معرف الخلفية
+Command|| أمر
+Description|| الوصف
+Farms|| المزارع
+Farm|| مزرعة
+Gateway|| بوابة
+Netmask|| قناع الشبكة
+MAC|| ماك
+IP Address (IPv4 / IPv6)|| عنوان IP (IPv4 / IPv6)
+VLAN tag|| علامة VLAN
+Date|| التاريخ
+Log|| سجل
+Established Conns|| أنشئت كونز
+Pending Conns|| معلقة كونز
+No|| لا
+found|| وجدت
+ is required|| مطلوب
+ is not valid, it only is possible alphanumeric characters and dash (-).|| غير صالح ، إنه ممكن فقط الأحرف الأبجدية الرقمية وشرطة (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| غير صالح ، فمن الممكن تحديد منفذ واحد أو عدة منافذ أو نطاقات من المنافذ (على سبيل المثال: 80 أو 80,81 أو 80: 90)
+ has to be greater than 0|| يجب أن يكون أكبر من 0
+ can only has two characters.|| لا يمكن إلا أن اثنين من الشخصيات.
+ has to be a valid email.|| يجب أن يكون بريدًا إلكترونيًا صالحًا.
+does not match.|| لا يطابق.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| المزرعة <strong>{{param}}</strong> تم حذفه بنجاح
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| المزرعة <strong>{{param}}</strong> تم حذف {{param2}} بنجاح.
+Are you sure you want to delete the {{param}} farmname ?|| هل تريد بالتأكيد حذف اسم المزرعة {{param}}؟
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| المزرعة <strong>{{param}}</strong> تم {{param2}} بنجاح.
+The farm <strong>{{param}}</strong> has been created successfully.|| المزرعة <strong>{{param}}</strong> تم إنشاؤه بنجاح.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| المزرعة <strong>{{param}}</strong> تم اعادة التشغيل بنجاح.
+The backend has been created successfully.|| تم إنشاء الواجهة الخلفية بنجاح.
+The profile has been changed to {{param}} successfully.|| تم تغيير ملف التعريف إلى {{param}} بنجاح.
+The farmguardian has been disabled sucessfully.|| تم تعطيل farmguardian بنجاح.
+The farmguardian has been changed to {{param}} successfully.|| تم تغيير farmguardian إلى {{param}} بنجاح.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| الـ <strong>{{param}}</strong> تم إنشاء farmguardian بنجاح.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| الـ <strong>{{param}}</strong> تم تحديث farmguardian بنجاح
+Are you sure you want to delete the {{param}} farmguardian?|| هل أنت متأكد من رغبتك في حذف {farm} {guardian}؟
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| الـ <strong>{{param}}</strong> تم حذف farmguardian بنجاح.
+The farm has been updated successfully.|| تم تحديث المزرعة بنجاح.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| هل أنت متأكد من أنك تريد حذف المزرعة {{param}} {{param2}} للمزارع؟
+Are you sure you want to delete the backend {{param}}?|| هل أنت متأكد من أنك تريد حذف الواجهة الخلفية {{param}}؟
+The backend <strong>{{param}}</strong> has been deleted successfully|| الخلفية <strong>{{param}}</strong> تم حذفه بنجاح
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| الخلفية <strong>{{param}}</strong> تم {{param2}} بنجاح.
+The service <strong>{{param}}</strong> has been created successfully.|| الخدمة <strong>{{param}}</strong> تم إنشاؤه بنجاح.
+The service <strong>{{param}}</strong> has been deleted successfully.|| الخدمة <strong>{{param}}</strong> تم حذفه بنجاح
+The service <strong>{{param}}</strong> has been updated successfully.|| الخدمة <strong>{{param}}</strong> تم تحديثه بنجاح.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث البوابة بنجاح.
+Are you sure you want to unset the current gateway?|| هل أنت متأكد من أنك تريد إلغاء تعيين العبارة الحالية؟
+Are you sure you want to unset the {{param}} gateway?|| هل أنت متأكد من أنك تريد إلغاء تعيين العبارة {{param}}؟
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| الـ <strong>{{param}}</strong> لقد تم تكوين العبّارة بنجاح.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث NIC بنجاح.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| الـ <strong>{{param}}</strong> لقد تم تكوين NIC بنجاح.
+The <strong>{{param}}</strong> NIC is {{param2}}|| الـ <strong>{{param}}</strong> NIC هو {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| الـ <strong>{{param}}</strong> تم إنشاء واجهة افتراضية بنجاح.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث الواجهة الافتراضية بنجاح.
+Are you sure you want to delete the {{param}} Virtual interface?|| هل تريد بالتأكيد حذف الواجهة الظاهرية {{param}}؟
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| الـ <strong>{{param}}</strong> تم حذف الواجهة الافتراضية بنجاح.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| الـ <strong>{{param}}</strong> تم إنشاء شبكة محلية ظاهرية بنجاح.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث VLAN بنجاح.
+Are you sure you want to delete the {{param}} VLAN?|| هل تريد بالتأكيد حذف شبكة محلية ظاهرية {{param}}؟
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| الـ <strong>{{param}}</strong> تم حذف VLAN بنجاح.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| الـ <strong>{{param}}</strong> VLAN هو {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| النسخ الاحتياطي <strong>{{param}}</strong> تم إنشاؤه بنجاح.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| النسخ الاحتياطي <strong>{{param}}</strong> تم الرفع بنجاح
+Are you sure you want to delete the backup {{param}}?|| هل أنت متأكد من أنك تريد حذف النسخة الاحتياطية {{param}}؟
+The backup <strong>{{param}}</strong> has been deleted successfully.|| النسخ الاحتياطي <strong>{{param}}</strong> تم حذفه بنجاح
+The backup <strong>{{param}}</strong> has been applied successfully.|| النسخ الاحتياطي <strong>{{param}}</strong> تم تطبيقه بنجاح.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| النسخ الاحتياطي <strong>{{backup}}</strong> وقد تم تحميلها بنجاح.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| السجل <strong>{{param}}</strong> وقد تم تحميلها بنجاح.
+The <strong>{{param}}</strong> service has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث الخدمة بنجاح.
+The <strong> Support Save </strong> has been downloaded successfully|| الـ <strong> دعم حفظ </strong> وقد تم تحميلها بنجاح
+The user has been updated successfully.|| تم تحديث المستخدم بنجاح.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| المسؤولية الاجتماعية للشركات <strong>{{param}}</strong> تم إنشاؤه بنجاح.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| الشهادة <strong>{{param}}</strong> تم الرفع بنجاح
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| الشهادة <strong>{{param}}</strong> تم حذفه بنجاح
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| الشهادة <strong>{{param}}</strong> وقد تم تحميلها بنجاح.
+New Service|| خدمة جديدة
+Create|| خلق
+Cancel|| إلغاء
+Submit|| تسليم
+Save|| حفظ
+Generate|| توليد
+Update|| تحديث
+Upload|| تحميل صورة
+Generate Random Key|| توليد مفتاح عشوائي
+Generate Support Save|| توليد الدعم انقاذ
+clear|| واضح
+start|| بداية
+Apply|| تطبيق
+Add|| إضافة: 
+Edit|| تعديل
+Go to Home|| الذهاب إلى المنزل
+404 Page not Found|| لم يتم العثور على صفحة 404
+The page you were looking for doesn't exist|| الصفحة التي تبحث عنها غير موجودة
+No farms found|| لم يتم العثور على مزارع
+Established Conns|| أنشئت كونز
+Pending Conns|| معلقة كونز
+Select a graph|| حدد الرسم البياني
+Select a profile|| اختر ملف تعريف
+Select a Virtual IP|| حدد IP الظاهري
+Select a parent interface|| حدد واجهة الأصل
+Select an interface|| اختر واجهة
+Logout|| تسجيل الخروج
+Sign in with your username and password|| تسجيل الدخول باستخدام اسم المستخدم وكلمة المرور الخاصة بك
+Username|| اسم المستخدم
+Password|| كلمة المرور
+Sign In|| تسجيل الدخول
+User is required!|| المستخدم مطلوب!
+User should be the real one|| يجب أن يكون المستخدم هو الحقيقي
+Password is required|| كلمة المرور مطلوبة
+Password should contains {{param}} to {{param2}} characters|| يجب أن تحتوي كلمة المرور على {{param}} على {{param2}} حرفًا
+Success!|| النجاح!
+You have been successfully logged in.|| قمت بتسجيل الدخول بنجاح.

@@ -1,0 +1,344 @@
+Dashboard
+LSLB
+Farms
+SSL Certificates
+DSLB
+Monitoring
+Graphs
+Farm Stats
+Farmguardians
+Network
+NIC
+VLAN
+Virtual interfaces
+Gateway
+System
+Remote Services
+Backups
+User
+Logs
+License
+Support Save
+Create
+Edit
+Configure
+Upload
+View
+Generate CSR
+farm
+certificate
+farmguardian
+VLAN
+virtual interface
+backup
+backend
+session
+Professional Products
+Professional Services
+News
+Resources
+System Stats
+CPU
+Memory
+Load
+Cores
+System Information
+Zevenet Version
+Appliance Version
+Kernel Version
+Hostname
+System Date
+NIC Interfaces
+Megabytes (MB)
+Farm List
+Name
+Profile
+Status
+LSLB Farm List
+Create LSLB Farm
+Listener
+Advanced settings
+Rewrite location headers
+HTTP verbs accepted
+Backend connection timeout
+Backend response timeout
+Frequency to check resurrected backends
+Client request timeout
+Message Error 414
+Message Error 500
+Message Error 501
+Message Error 503
+HTTPS Parameters
+Disable SSLv2
+Disable SSLv3
+Disable TLSv1
+Disable TLSv1.1
+Disable TLSv1.2
+Ciphers
+Custom Ciphers
+Certificate Enabled
+Virtual Host
+URL Pattern
+Least Response
+HTTPS Backends
+Redirect
+Redirect URL
+Redirect Type
+Load balancer Algorithm
+Persistence
+Persistence session identifier
+Persistence session time to live
+No persistence
+IP: Client address
+BASIC: Basic authentication
+URL: A request parameter
+PARM: An URI parameter
+COOKIE: A certain cookie
+HEADER: A certain request header
+Protocol type
+Nat type
+Load balancer Algorithm
+Persistence
+Persistence session time to live
+No persistence
+IP: Source IP
+Port: Source
+MAC: Source MAC
+Source IP and Source Port
+Source IP and Destination Port
+Weight: connection linear dispatching by weight
+Source Hash: Hash per Source IP and Source Port
+Simple Source Hash: Hash per Source IP only
+Symmetric Hash: Round trip hash per IP and Port
+Round Robin: Sequential backend selection
+SSL Certificate List
+Generate CSR
+Upload SSL Certificate
+Choose one or more files
+DSLB Farm List
+Create DSLB Farm
+System Graphs
+Interfaces Graphs 
+Show Graphs
+Farms Graphs
+Select Graphs
+Farms Stats
+Farms Graphs
+Farmguardians
+Farms Settings
+Create Farmguardian
+NIC List
+VLAN Interface List
+Create VLAN interface
+Virtual Interface List
+Create Virtual interface
+IPv4 Gateway
+IPv6 Gateway
+Gateway Settings
+DNS Service
+Default is 8.8.8.8
+Optional
+Default is pool.ntp.org
+Primary server
+Secondary server
+NPT Service
+NPT Server
+SNMP Service
+Enable SNMP
+Physical interface where is running SNMP service
+SNMP Port where is running SNMP service
+Default is 161.
+Community name
+IP or subnet with access (IP/bit)
+Backup List
+Upload Backup
+Backup File
+Create Backup
+Choose one file
+Settings User
+User
+ZAPI Permissions
+ZAPI Key
+Change Password
+Current Password
+New Password
+Repeat new password
+Log List
+Log View
+Number of lines
+License
+Support Save
+When this action is executed a file with system information will be downloaded.
+This action may take several seconds, you can continue browsing the GUI.
+Name
+Locality
+Country
+State/Province
+Common Name
+Organization
+Division
+E-mail Address
+Services Settings
+Global Settings
+Virtual IP and Port
+Backend
+Interval
+Cut connections
+Description
+Copy rule
+Rule to copy
+seconds
+Log
+Address
+Virtual interface name
+Parent Interface
+VLAN Name
+Farmguardian
+Load balancer Algorithm
+Health Checks for backend
+Descriptive text, this name will be used to identify this certificate.
+Only editable when the farm is down.
+City where your organization is located.
+Country (two characters) where your organization is located.
+State or province where your organization is located.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). 
+Your department; such as 'IT','Web', 'Office', etc.
+Your email address.
+Name
+Name
+Profile
+Virtual IP
+Virtual Port
+Status
+Actions
+ID
+IP
+Address
+Port
+Timeout
+Weight
+Common Name
+Type
+File
+Issuer
+Create on
+Expire on
+Priority
+Interface
+Service
+Client
+Sessions
+Session ID
+Backend ID
+Command
+Description
+Farms
+Farm
+Gateway
+Netmask
+MAC
+IP Address (IPv4 / IPv6)
+VLAN tag
+Date
+Log
+Established Conns
+Pending Conns
+No
+found
+ is required
+ is not valid, it only is possible alphanumeric characters and dash (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)
+ has to be greater than 0
+ can only has two characters.
+ has to be a valid email.
+does not match.
+The farm <strong>{{param}}</strong> has been deleted successfully.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.
+Are you sure you want to delete the {{param}} farmname ?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.
+The farm <strong>{{param}}</strong> has been created successfully.
+The farm <strong>{{param}}</strong> has been restarted successfully.
+The backend has been created successfully.
+The profile has been changed to {{param}} successfully.
+The farmguardian has been disabled sucessfully.
+The farmguardian has been changed to {{param}} successfully.
+The <strong>{{param}}</strong> farmguardian has been created successfully.
+The <strong>{{param}}</strong> farmguardian has been updated successfully
+Are you sure you want to delete the {{param}} farmguardian?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.
+The farm has been updated successfully.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?
+Are you sure you want to delete the backend {{param}}?
+The backend <strong>{{param}}</strong> has been deleted successfully
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.
+The service <strong>{{param}}</strong> has been created successfully.
+The service <strong>{{param}}</strong> has been deleted successfully.
+The service <strong>{{param}}</strong> has been updated successfully.
+The <strong>{{param}}</strong> Gateway has been updated successfully.
+Are you sure you want to unset the current gateway?
+Are you sure you want to unset the {{param}} gateway?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.
+The <strong>{{param}}</strong> NIC has been updated successfully.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.
+The <strong>{{param}}</strong> NIC is {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.
+Are you sure you want to delete the {{param}} Virtual interface?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.
+The <strong>{{param}}</strong> VLAN has been created successfully.
+The <strong>{{param}}</strong> VLAN has been updated successfully.
+Are you sure you want to delete the {{param}} VLAN?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.
+The <strong>{{param}}</strong> VLAN is {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.
+The backup <strong>{{param}}</strong> has been uploaded successfully.
+Are you sure you want to delete the backup {{param}}?
+The backup <strong>{{param}}</strong> has been deleted successfully.
+The backup <strong>{{param}}</strong> has been applied successfully.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.
+The log <strong>{{param}}</strong> has been downloaded successfully.
+The <strong>{{param}}</strong> service has been updated successfully.
+The <strong> Support Save </strong> has been downloaded successfully
+The user has been updated successfully.
+The CSR <strong>{{param}}</strong> has been generated successfully.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.
+The certificate <strong>{{param}}</strong> has been deleted successfully.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.
+New Service
+Create
+Cancel
+Submit
+Save
+Generate
+Update
+Upload
+Generate Random Key
+Generate Support Save
+clear
+start
+Apply
+Add
+Edit
+Go to Home
+404 Page not Found
+The page you were looking for doesn't exist
+No farms found
+Established Conns
+Pending Conns
+Select a graph
+Select a profile
+Select a Virtual IP
+Select a parent interface
+Select an interface
+Logout
+Sign in with your username and password
+Username
+Password
+Sign In
+User is required!
+User should be the real one
+Password is required
+Password should contains {{param}} to {{param2}} characters
+Success!
+You have been successfully logged in.

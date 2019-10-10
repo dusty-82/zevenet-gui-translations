@@ -1,0 +1,344 @@
+Dashboard|| לוח דשבורד
+LSLB|| LSLB
+Farms|| חוות
+SSL Certificates|| תעודות SSL
+DSLB|| DSLB
+Monitoring|| ניטור
+Graphs|| גרפים
+Farm Stats|| סטטיסטיקות משק חקלאי
+Farmguardians|| חקלאים
+Network|| רשת
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| ממשקים וירטואליים
+Gateway|| Gateway
+System|| מערכת
+Remote Services|| שירותים מרוחקים
+Backups|| גיבויים
+User|| משתמש
+Logs|| יומנים
+License|| רישיון
+Support Save|| שמור תמיכה
+Create|| צור
+Edit|| ערוך
+Configure|| גדר
+Upload|| העלה
+View|| נוף
+Generate CSR|| צור CSR
+farm|| משק
+certificate|| תעודה
+farmguardian|| חקלאי
+VLAN|| VLAN
+virtual interface|| ממשק וירטואלי
+backup|| גיבוי
+backend|| Backend
+session|| מושב
+Professional Products|| מוצרים מקצועיים
+Professional Services|| שירותים מקצועיים
+News|| חדשות 
+Resources|| מידע נוסף
+System Stats|| סטטיסטיקת מערכת
+CPU|| CPU
+Memory|| זכרון
+Load|| לִטעוֹן
+Cores|| ליבות
+System Information|| מערכת מידע
+Zevenet Version|| גרסה זאבנט
+Appliance Version|| גרסת מכשיר
+Kernel Version|| גרסת הליבה
+Hostname|| שם מארח
+System Date|| תאריך מערכת
+NIC Interfaces|| ממשקי NIC
+Megabytes (MB)|| מגה בייט (MB)
+Farm List|| רשימת החווה
+Name|| שם
+Profile|| פּרוֹפִיל
+Status|| מצב
+LSLB Farm List|| LSLB רשימת החווה
+Create LSLB Farm|| יצירת LSLB משק
+Listener|| מקשיב
+Advanced settings|| הגדרות מתקדמות
+Rewrite location headers|| שכתוב כותרות מיקום
+HTTP verbs accepted|| פעלים HTTP מקובלים
+Backend connection timeout|| זמן קצוב לחיבור
+Backend response timeout|| זמן קצוב לתגובה לאחור
+Frequency to check resurrected backends|| תדירות לבדיקת חזיתות backers
+Client request timeout|| זמן קצוב לבקשת הלקוח
+Message Error 414|| הודעת שגיאה 414
+Message Error 500|| הודעת שגיאה 500
+Message Error 501|| הודעת שגיאה 501
+Message Error 503|| הודעת שגיאה 503
+HTTPS Parameters|| HTTPS פרמטרים
+Disable SSLv2|| השבת SSLv2
+Disable SSLv3|| השבת SSLv3
+Disable TLSv1|| השבת TLSv1
+Disable TLSv1.1|| השבת TLSv1.1
+Disable TLSv1.2|| השבת TLSv1.2
+Ciphers|| צופן
+Custom Ciphers|| ציפויים מותאמים אישית
+Certificate Enabled|| אישור הופעל
+Virtual Host|| מארח וירטואלי
+URL Pattern|| תבנית כתובת אתר
+Least Response|| תגובה לפחות
+HTTPS Backends|| HTTPS Backends
+Redirect|| הפניה מחדש
+Redirect URL|| כתובת אתר להפניה מחדש
+Redirect Type|| סוג כתובת אתר להפניה מחדש
+Load balancer Algorithm|| אלגוריתם טען איזון
+Persistence|| התמדה
+Persistence session identifier|| זיהוי פעילות ההתמדה
+Persistence session time to live|| זמן ישיבה התמדה לחיות
+No persistence|| אין התמדה
+IP: Client address|| IP: כתובת לקוח
+BASIC: Basic authentication|| בסיסי: אימות בסיסי
+URL: A request parameter|| כתובת אתר: פרמטר בקשה
+PARM: An URI parameter|| PARM: פרמטר URI
+COOKIE: A certain cookie|| COOKIE: עוגיה מסוימת
+HEADER: A certain request header|| HEADER: כותרת בקשה מסוימת
+Protocol type|| סוג פרוטוקול
+Nat type|| סוג Nat
+Load balancer Algorithm|| אלגוריתם טען איזון
+Persistence|| התמדה
+Persistence session time to live|| זמן ישיבה התמדה לחיות
+No persistence|| אין התמדה
+IP: Source IP|| IP: מקור IP
+Port: Source|| נמל: מקור
+MAC: Source MAC|| MAC: מקור MAC
+Source IP and Source Port|| מקור IP ו יציאת מקור
+Source IP and Destination Port|| מקור IP ופורט יעד
+Weight: connection linear dispatching by weight|| משקל: חיבור לינארי המשגר ​​לפי משקל
+Source Hash: Hash per Source IP and Source Port|| מקור Hash: Hash לכל מקור IP ו יציאת מקור
+Simple Source Hash: Hash per Source IP only|| פשוט מקור Hash: Hash לכל מקור IP בלבד
+Symmetric Hash: Round trip hash per IP and Port|| סימטרי Hash: חשיש נסיעה הלוך ושוב לכל IP ופורט
+Round Robin: Sequential backend selection|| סיבוב רובין: בחירת backend עוקבת
+SSL Certificate List|| רשימת תעודות SSL
+Generate CSR|| צור CSR
+Upload SSL Certificate|| העלה תעודת SSL
+Choose one or more files|| בחר קובץ אחד או יותר
+DSLB Farm List|| רשימת החוות DSLB
+Create DSLB Farm|| יצירת חוות DSLB
+System Graphs|| גרפים של המערכת
+Interfaces Graphs || ממשקים גרפים
+Show Graphs|| הצג גרפים
+Farms Graphs|| חוות חקלאיות
+Select Graphs|| בחר גרפים
+Farms Stats|| סטטיסטיקה
+Farms Graphs|| חוות חקלאיות
+Farmguardians|| חקלאים
+Farms Settings|| הגדרות חוות
+Create Farmguardian|| צור Farmguardian
+NIC List|| רשימת NIC
+VLAN Interface List|| רשימת ממשק VLAN
+Create VLAN interface|| צור ממשק VLAN
+Virtual Interface List|| רשימת ממשק וירטואלי
+Create Virtual interface|| יצירת ממשק וירטואלי
+IPv4 Gateway|| שער IPv4
+IPv6 Gateway|| שער IPv6
+Gateway Settings|| הגדרות שער
+DNS Service|| שירות DNS
+Default is 8.8.8.8|| ברירת המחדל היא 8.8.8.8
+Optional|| אופציונלי
+Default is pool.ntp.org|| ברירת המחדל היא pool.ntp.org
+Primary server|| שרת ראשי
+Secondary server|| שרת משני
+NPT Service|| שירות NPT
+NPT Server|| שרת NPT
+SNMP Service|| שירות SNMP
+Enable SNMP|| הפעל SNMP
+Physical interface where is running SNMP service|| ממשק פיזי שבו פועל שירות SNMP
+SNMP Port where is running SNMP service|| נמל SNMP שבו פועל שירות SNMP
+Default is 161.|| ברירת המחדל היא 161.
+Community name|| שם קהילה
+IP or subnet with access (IP/bit)|| IP או רשת משנה עם גישה (IP / bit)
+Backup List|| רשימת גיבוי
+Upload Backup|| העלה גיבוי
+Backup File|| קובץ גיבוי
+Create Backup|| צור גיבוי
+Choose one file|| בחר קובץ אחד
+Settings User|| משתמש הגדרות
+User|| משתמש
+ZAPI Permissions|| הרשאות ZAPI
+ZAPI Key|| מפתח ZAPI
+Change Password|| שינוי סיסמא
+Current Password|| סיסמה נוכחית
+New Password|| סיסמא חדשה
+Repeat new password|| חזור על סיסמה חדשה
+Log List|| רשימת היומנים
+Log View|| תצוגת יומן
+Number of lines|| מספר השורות
+License|| רישיון
+Support Save|| שמור תמיכה
+When this action is executed a file with system information will be downloaded.|| כאשר פעולה זו מתבצעת קובץ עם מידע מערכת יורדו.
+This action may take several seconds, you can continue browsing the GUI.|| פעולה זו עשויה להימשך מספר שניות, תוכל להמשיך לגלוש בממשק הגרפי.
+Name|| שם
+Locality|| יישוב
+Country|| מדינה
+State/Province|| מדינה / מחוז
+Common Name|| שם נפוץ
+Organization|| ארגון
+Division|| חטיבה
+E-mail Address|| כתובת דוא&quot;ל
+Services Settings|| הגדרות שירות
+Global Settings|| הגדרות כלליות
+Virtual IP and Port|| IP וירטואלי ופורט
+Backend|| קצה אחורי
+Interval|| הפסקה
+Cut connections|| גזור קשרים
+Description|| תיאור
+Copy rule|| העתק כלל
+Rule to copy|| כלל להעתיק
+seconds|| שניות
+Log|| התחבר
+Address|| כתובת
+Virtual interface name|| שם ממשק וירטואלי
+Parent Interface|| ממשק האב
+VLAN Name|| שם VLAN
+Farmguardian|| חקלאי
+Load balancer Algorithm|| אלגוריתם טען איזון
+Health Checks for backend|| בדיקות בריאות עבור backend
+Descriptive text, this name will be used to identify this certificate.|| טקסט תיאורי, שם זה ישמש לזיהוי אישור זה.
+Only editable when the farm is down.|| רק לעריכה כאשר החווה היא למטה.
+City where your organization is located.|| עיר שבה נמצא הארגון שלך.
+Country (two characters) where your organization is located.|| ארץ (שני תווים) שבהם נמצא הארגון שלך.
+State or province where your organization is located.|| מדינה או מחוז שבהם נמצא הארגון שלך.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN של השרת. דוגמה: domain.com, mail.domain.com או * .domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || השם המשפטי המלא של הארגון / חברה (למשל: Zevenet Co.).
+Your department; such as 'IT','Web', 'Office', etc.|| המחלקה שלך; כגון 'IT', 'אינטרנט', 'משרד' וכו '.
+Your email address.|| כתובת הדוא&quot;ל שלך.
+Name|| שם
+Name|| שם
+Profile|| פּרוֹפִיל
+Virtual IP|| IP וירטואלי
+Virtual Port|| יציאה וירטואלית
+Status|| מצב
+Actions|| פעולות
+ID||  ID
+IP||  IP
+Address|| כתובת
+Port|| נָמָל
+Timeout|| פסק זמן
+Weight|| מִשׁקָל
+Common Name|| שם נפוץ
+Type|| סוּג
+File|| פילה
+Issuer|| מנפיק
+Create on|| צור ב
+Expire on|| פג בתאריך
+Priority|| עדיפות
+Interface|| מִמְשָׁק
+Service|| שֵׁרוּת
+Client|| לקוח
+Sessions|| מפגשים
+Session ID|| מזהה הפעלה
+Backend ID|| מזהה Backend
+Command|| פיקוד
+Description|| תיאור
+Farms|| חוות
+Farm|| משק
+Gateway|| Gateway
+Netmask|| מסכת רשת
+MAC|| מק
+IP Address (IPv4 / IPv6)|| כתובת IP (IPv4 / IPv6)
+VLAN tag|| תג VLAN
+Date|| תַאֲרִיך
+Log|| התחבר
+Established Conns|| הקים הקים
+Pending Conns|| ממתין
+No|| לא
+found|| מצא
+ is required|| נדרש
+ is not valid, it only is possible alphanumeric characters and dash (-).|| אינו חוקי, זה רק תווים אלפאנומריים מקף (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| לא תקף, הוא posible להגדיר יציאה אחת, יציאות או טווחים שונים של יציאות (לדוגמה: 80 או 80,81 או 80: 90)
+ has to be greater than 0|| צריך להיות גדול מ- 0
+ can only has two characters.|| יכול להכיל רק שתי תווים.
+ has to be a valid email.|| חייב להיות דוא&quot;ל חוקי.
+does not match.|| לא מתאים.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| החווה <strong>{{param}}</strong> נמחק בהצלחה.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| החווה <strong>{{param}}</strong> {{param2}} נמחק בהצלחה.
+Are you sure you want to delete the {{param}} farmname ?|| האם אתה בטוח שברצונך למחוק את שם החשבון {{param}}?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| החווה <strong>{{param}}</strong> {{param2}} בהצלחה.
+The farm <strong>{{param}}</strong> has been created successfully.|| החווה <strong>{{param}}</strong> נוצרה בהצלחה.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| החווה <strong>{{param}}</strong> הופעל מחדש בהצלחה.
+The backend has been created successfully.|| ה- backend נוצר בהצלחה.
+The profile has been changed to {{param}} successfully.|| הפרופיל השתנה ל- {{param}} בהצלחה.
+The farmguardian has been disabled sucessfully.|| החוואי הושבת בהצלחה.
+The farmguardian has been changed to {{param}} successfully.|| שומר החלב השתנה ל- {{param}} בהצלחה.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| קטגורית <strong>{{param}}</strong> Farmguardian נוצר בהצלחה.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| קטגורית <strong>{{param}}</strong> farmguardian עודכן בהצלחה
+Are you sure you want to delete the {{param}} farmguardian?|| האם אתה בטוח שברצונך למחוק את {{param}} farmguardian?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| קטגורית <strong>{{param}}</strong> Farmguardian נמחק בהצלחה.
+The farm has been updated successfully.|| החווה עודכנה בהצלחה.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| האם אתה בטוח שברצונך למחוק את החווה {{param}} {{param2}} של החוואי?
+Are you sure you want to delete the backend {{param}}?|| האם אתה בטוח שברצונך למחוק את ה- backend {{param}}?
+The backend <strong>{{param}}</strong> has been deleted successfully|| את backend <strong>{{param}}</strong> נמחק בהצלחה
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| את backend <strong>{{param}}</strong> {{param2}} בהצלחה.
+The service <strong>{{param}}</strong> has been created successfully.|| השירות <strong>{{param}}</strong> נוצרה בהצלחה.
+The service <strong>{{param}}</strong> has been deleted successfully.|| השירות <strong>{{param}}</strong> נמחק בהצלחה.
+The service <strong>{{param}}</strong> has been updated successfully.|| השירות <strong>{{param}}</strong> עודכן בהצלחה.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| קטגורית <strong>{{param}}</strong> שער עודכן בהצלחה.
+Are you sure you want to unset the current gateway?|| האם אתה בטוח שברצונך לבטל את הגדרת השער הנוכחי?
+Are you sure you want to unset the {{param}} gateway?|| האם אתה בטוח שברצונך לבטל את הגדרת השער {{param}}?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| קטגורית <strong>{{param}}</strong> Gateway לא הוגדר בהצלחה.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| קטגורית <strong>{{param}}</strong> NIC עודכן בהצלחה.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| קטגורית <strong>{{param}}</strong> NIC כבר unconfigured בהצלחה.
+The <strong>{{param}}</strong> NIC is {{param2}}|| קטגורית <strong>{{param}}</strong> NIC הוא {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי נוצר בהצלחה.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי עודכן בהצלחה.
+Are you sure you want to delete the {{param}} Virtual interface?|| האם אתה בטוח שברצונך למחוק את הממשק {{param}} הוירטואלי?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי נמחק בהצלחה.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| קטגורית <strong>{{param}}</strong> VLAN נוצר בהצלחה.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| קטגורית <strong>{{param}}</strong> VLAN עודכן בהצלחה.
+Are you sure you want to delete the {{param}} VLAN?|| האם אתה בטוח שברצונך למחוק את {{param}} VLAN?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| קטגורית <strong>{{param}}</strong> VLAN נמחק בהצלחה.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| קטגורית <strong>{{param}}</strong> VLAN הוא {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| הגיבוי <strong>{{param}}</strong> נוצרה בהצלחה.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| הגיבוי <strong>{{param}}</strong> הועלה בהצלחה.
+Are you sure you want to delete the backup {{param}}?|| האם אתה בטוח שברצונך למחוק את הגיבוי {{param}}?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| הגיבוי <strong>{{param}}</strong> נמחק בהצלחה.
+The backup <strong>{{param}}</strong> has been applied successfully.|| הגיבוי <strong>{{param}}</strong> הוחל בהצלחה.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| הגיבוי <strong>{{backup}}</strong> הורד בהצלחה.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| היומן <strong>{{param}}</strong> הורד בהצלחה.
+The <strong>{{param}}</strong> service has been updated successfully.|| קטגורית <strong>{{param}}</strong> השירות עודכן בהצלחה.
+The <strong> Support Save </strong> has been downloaded successfully|| קטגורית <strong> שמור תמיכה </strong> הורד בהצלחה
+The user has been updated successfully.|| המשתמש עודכן בהצלחה.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| אחריות חברתית <strong>{{param}}</strong> נוצרה בהצלחה.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| התעודה <strong>{{param}}</strong> הועלה בהצלחה.
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| התעודה <strong>{{param}}</strong> נמחק בהצלחה.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| התעודה <strong>{{param}}</strong> הורד בהצלחה.
+New Service|| שירות חדש
+Create|| צור
+Cancel|| ביטול
+Submit|| שלח
+Save|| שמור
+Generate|| ליצור
+Update|| עדכון
+Upload|| העלה
+Generate Random Key|| צור מפתח אקראי
+Generate Support Save|| יצירת תמיכה תמיכה
+clear|| ברור
+start|| התחלה
+Apply|| החל
+Add|| להוסיף
+Edit|| ערוך
+Go to Home|| לך הביתה
+404 Page not Found|| דף 404 לא נמצא
+The page you were looking for doesn't exist|| הדף שחיפשת אינו קיים
+No farms found|| לא נמצאו חוות
+Established Conns|| הקים הקים
+Pending Conns|| ממתין
+Select a graph|| בחר תרשים
+Select a profile|| בחר פרופיל
+Select a Virtual IP|| בחר כתובת IP וירטואלית
+Select a parent interface|| בחר ממשק אב
+Select an interface|| בחר ממשק
+Logout|| להתנתק
+Sign in with your username and password|| היכנס באמצעות שם המשתמש והסיסמה שלך
+Username|| שם משתמש
+Password|| סיסמה
+Sign In|| כניסה
+User is required!|| המשתמש נדרש!
+User should be the real one|| המשתמש צריך להיות אחד אמיתי
+Password is required|| דרושה סיסמא
+Password should contains {{param}} to {{param2}} characters|| הסיסמה צריכה להכיל {{param}} לתווים {{param2}}
+Success!|| הצלחה!
+You have been successfully logged in.|| התחברת בהצלחה.

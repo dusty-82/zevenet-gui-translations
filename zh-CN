@@ -1,0 +1,344 @@
+Dashboard|| 用户面板
+LSLB|| LSLB
+Farms|| 农场
+SSL Certificates|| SSL证书
+DSLB|| DSLB
+Monitoring|| 监控
+Graphs|| 图
+Farm Stats|| 农场统计
+Farmguardians|| Farmguardians
+Network|| 网络
+NIC|| 网卡
+VLAN|| VLAN
+Virtual interfaces|| 虚拟接口
+Gateway|| 网关
+System|| 系统
+Remote Services|| 远程服务
+Backups|| 备份
+User|| 用户
+Logs|| 日志
+License|| 执照
+Support Save|| 支持保存
+Create|| 创建
+Edit|| 编辑
+Configure|| 配置
+Upload|| 上传
+View|| 查看
+Generate CSR|| 生成CSR
+farm|| 农场
+certificate|| 证书
+farmguardian|| farmguardian
+VLAN|| VLAN
+virtual interface|| 虚拟接口
+backup|| 备份
+backend|| 后端
+session|| 会议
+Professional Products|| 专业产品
+Professional Services|| 专业的服务
+News|| 最新消息
+Resources|| 资源中心
+System Stats|| 系统统计
+CPU|| 中央处理器
+Memory|| 大小
+Load|| 加载
+Cores|| 颜色
+System Information|| 系统信息
+Zevenet Version|| Zevenet版本
+Appliance Version|| 设备版本
+Kernel Version|| 内核版本
+Hostname|| 主机名
+System Date|| 系统日期
+NIC Interfaces|| NIC接口
+Megabytes (MB)|| 兆字节（MB）
+Farm List|| 农场清单
+Name|| 名字
+Profile|| 个人信息
+Status|| 当前状态
+LSLB Farm List|| LSLB农场清单
+Create LSLB Farm|| 创建LSLB农场
+Listener|| 倾听者
+Advanced settings|| 高级设置
+Rewrite location headers|| 重写位置标题
+HTTP verbs accepted|| 接受HTTP动词
+Backend connection timeout|| 后端连接超时
+Backend response timeout|| 后端响应超时
+Frequency to check resurrected backends|| 检查复活后端的频率
+Client request timeout|| 客户端请求超时
+Message Error 414|| 消息错误414
+Message Error 500|| 消息错误500
+Message Error 501|| 消息错误501
+Message Error 503|| 消息错误503
+HTTPS Parameters|| HTTPS参数
+Disable SSLv2|| 禁用SSLv2
+Disable SSLv3|| 禁用SSLv3
+Disable TLSv1|| 禁用TLSv1
+Disable TLSv1.1|| 禁用TLSv1.1
+Disable TLSv1.2|| 禁用TLSv1.2
+Ciphers|| 密码
+Custom Ciphers|| 自定义密码
+Certificate Enabled|| 证书已启用
+Virtual Host|| 虚拟主机
+URL Pattern|| 网址格局
+Least Response|| 最不起的回应
+HTTPS Backends|| HTTPS后端
+Redirect|| 重定向
+Redirect URL|| 重定向网址
+Redirect Type|| 重定向类型
+Load balancer Algorithm|| 负载平衡器算法
+Persistence|| 坚持
+Persistence session identifier|| 持久性会话标识符
+Persistence session time to live|| 持久性会话时间
+No persistence|| 没有坚持
+IP: Client address|| IP：客户端地址
+BASIC: Basic authentication|| BASIC：基本身份验证
+URL: A request parameter|| URL：请求参数
+PARM: An URI parameter|| PARM：URI参数
+COOKIE: A certain cookie|| COOKIE：某个饼干
+HEADER: A certain request header|| HEADER：某个请求标头
+Protocol type|| 协议类型
+Nat type|| Nat型
+Load balancer Algorithm|| 负载平衡器算法
+Persistence|| 坚持
+Persistence session time to live|| 持久性会话时间
+No persistence|| 没有坚持
+IP: Source IP|| IP：源IP
+Port: Source|| 端口：来源
+MAC: Source MAC|| MAC：来源MAC
+Source IP and Source Port|| 源IP和源端口
+Source IP and Destination Port|| 源IP和目标端口
+Weight: connection linear dispatching by weight|| 重量：按重量连接线性调度
+Source Hash: Hash per Source IP and Source Port|| 源哈希：每个源IP和源端口的哈希值
+Simple Source Hash: Hash per Source IP only|| 简单源哈希：仅限源IP的哈希值
+Symmetric Hash: Round trip hash per IP and Port|| 对称哈希：每个IP和端口的往返哈希
+Round Robin: Sequential backend selection|| Round Robin：顺序后端选择
+SSL Certificate List|| SSL证书列表
+Generate CSR|| 生成CSR
+Upload SSL Certificate|| 上传SSL证书
+Choose one or more files|| 选择一个或多个文件
+DSLB Farm List|| DSLB农场清单
+Create DSLB Farm|| 创建DSLB农场
+System Graphs|| 系统图
+Interfaces Graphs || 接口图
+Show Graphs|| 显示图表
+Farms Graphs|| 农场图
+Select Graphs|| 选择图表
+Farms Stats|| 农场统计
+Farms Graphs|| 农场图
+Farmguardians|| Farmguardians
+Farms Settings|| 农场设置
+Create Farmguardian|| 创建Farmguardian
+NIC List|| 网卡列表
+VLAN Interface List|| VLAN接口列表
+Create VLAN interface|| 创建VLAN接口
+Virtual Interface List|| 虚拟接口列表
+Create Virtual interface|| 创建虚拟接口
+IPv4 Gateway|| IPv4网关
+IPv6 Gateway|| IPv6网关
+Gateway Settings|| 网关设置
+DNS Service|| DNS服务
+Default is 8.8.8.8|| 默认值为8.8.8.8
+Optional|| 可选
+Default is pool.ntp.org|| 默认为pool.ntp.org
+Primary server|| 主服务器
+Secondary server|| 辅助服务器
+NPT Service|| NPT服务
+NPT Server|| NPT服务器
+SNMP Service|| SNMP服务
+Enable SNMP|| 启用S​​NMP
+Physical interface where is running SNMP service|| 运行SNMP服务的物理接口
+SNMP Port where is running SNMP service|| SNMP端口运行SNMP服务的位置
+Default is 161.|| 默认值为161。
+Community name|| 社区名字
+IP or subnet with access (IP/bit)|| 具有访问权限的IP或子网（IP /位）
+Backup List|| 备份清单
+Upload Backup|| 上传备份
+Backup File|| 备份文件
+Create Backup|| 创建备份
+Choose one file|| 选择一个文件
+Settings User|| 设置用户
+User|| 用户
+ZAPI Permissions|| ZAPI权限
+ZAPI Key|| ZAPI密钥
+Change Password|| 更改密码
+Current Password|| 当前密码
+New Password|| 新密码
+Repeat new password|| 重复新密码
+Log List|| 日志列表
+Log View|| 日志视图
+Number of lines|| 行数
+License|| 执照
+Support Save|| 支持保存
+When this action is executed a file with system information will be downloaded.|| 执行此操作时，将下载包含系统信息的文件。
+This action may take several seconds, you can continue browsing the GUI.|| 此操作可能需要几秒钟，您可以继续浏览GUI。
+Name|| 名字
+Locality|| 局部性
+Country|| 国家
+State/Province|| 州/省
+Common Name|| 通用名称
+Organization|| 组织
+Division|| 司
+E-mail Address|| 电子邮件地址
+Services Settings|| 服务设置
+Global Settings|| 全局设置
+Virtual IP and Port|| 虚拟IP和端口
+Backend|| 后端
+Interval|| 间隔
+Cut connections|| 切断连接
+Description|| 产品详情
+Copy rule|| 复制规则
+Rule to copy|| 要复制的规则
+seconds|| 秒
+Log|| 历史记录
+Address|| 地址
+Virtual interface name|| 虚拟接口名称
+Parent Interface|| 父接口
+VLAN Name|| VLAN名称
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| 负载平衡器算法
+Health Checks for backend|| 健康检查后端
+Descriptive text, this name will be used to identify this certificate.|| 描述性文本，此名称将用于标识此证书。
+Only editable when the farm is down.|| 仅在服务器场关闭时才可编辑。
+City where your organization is located.|| 您所在组织所在的城市。
+Country (two characters) where your organization is located.|| 您的组织所在的国家/地区（两个字符）。
+State or province where your organization is located.|| 您所在组织所在的州或省。
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| 服务器的FQDN。 示例：domain.com，mail.domain.com或* .domain.com。
+The full legal name of your organization/company (ex.: Zevenet Co.). || 您组织/公司的完整法定名称（例如：Zevenet Co.）。
+Your department; such as 'IT','Web', 'Office', etc.|| 你的部门; 例如'IT'，'Web'，'Office'等。
+Your email address.|| 您的电子邮件地址。
+Name|| 名字
+Name|| 名字
+Profile|| 个人信息
+Virtual IP|| 虚拟IP
+Virtual Port|| 虚拟端口
+Status|| 当前状态
+Actions|| 行动
+ID||  ID
+IP||  IP
+Address|| 地址
+Port|| 港口
+Timeout|| 超时
+Weight|| 重量
+Common Name|| 通用名称
+Type|| 类型
+File|| 文件
+Issuer|| 发行者
+Create on|| 创建
+Expire on|| 过期
+Priority|| 优先
+Interface|| 接口
+Service|| 服务
+Client|| 客户
+Sessions|| 会议
+Session ID|| 会话ID
+Backend ID|| 后端ID
+Command|| 命令
+Description|| 产品详情
+Farms|| 农场
+Farm|| 农场
+Gateway|| 网关
+Netmask|| 子网掩码
+MAC|| 苹果电脑
+IP Address (IPv4 / IPv6)|| IP地址（IPv4 / IPv6）
+VLAN tag|| VLAN标记
+Date|| 日期
+Log|| 历史记录
+Established Conns|| 成立康恩斯
+Pending Conns|| 待定的Conns
+No|| 没有
+found|| 发现
+ is required|| 是必须的
+ is not valid, it only is possible alphanumeric characters and dash (-).|| 无效，只能使用字母数字字符和短划线（ - ）。
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 无效，可以定义单个端口，多个端口或端口范围（例如：80或80,81或80：90）
+ has to be greater than 0|| 必须大于0
+ can only has two characters.|| 只能有两个字符。
+ has to be a valid email.|| 必须是有效的电子邮件。
+does not match.|| 不匹配。
+The farm <strong>{{param}}</strong> has been deleted successfully.|| 农场 <strong>{{param}}</strong> 已成功删除。
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 农场 <strong>{{param}}</strong> {{param2}}已成功删除。
+Are you sure you want to delete the {{param}} farmname ?|| 您确定要删除{{param}}农场名吗？
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| 农场 <strong>{{param}}</strong> 已成功{{param2}}编辑。
+The farm <strong>{{param}}</strong> has been created successfully.|| 农场 <strong>{{param}}</strong> 已成功创建。
+The farm <strong>{{param}}</strong> has been restarted successfully.|| 农场 <strong>{{param}}</strong> 已成功重启。
+The backend has been created successfully.|| 后端已成功创建。
+The profile has been changed to {{param}} successfully.|| 该个人资料已成功更改为{{param}}。
+The farmguardian has been disabled sucessfully.|| 农场养老金成功残疾。
+The farmguardian has been changed to {{param}} successfully.|| farmguardian已成功更改为{{param}}。
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| 在此 <strong>{{param}}</strong> farmguardian已成功创建。
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| 在此 <strong>{{param}}</strong> farmguardian已成功更新
+Are you sure you want to delete the {{param}} farmguardian?|| 您确定要删除{{param}}农场主吗？
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| 在此 <strong>{{param}}</strong> farmguardian已成功删除。
+The farm has been updated successfully.|| 该服务器场已成功更新。
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| 您确定要删除农场主的农场{{param}} {{param2}}吗？
+Are you sure you want to delete the backend {{param}}?|| 您确定要删除后端{{param}}吗？
+The backend <strong>{{param}}</strong> has been deleted successfully|| 后端 <strong>{{param}}</strong> 已成功删除
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| 后端 <strong>{{param}}</strong> 已成功{{param2}}。
+The service <strong>{{param}}</strong> has been created successfully.|| 该服务 <strong>{{param}}</strong> 已成功创建。
+The service <strong>{{param}}</strong> has been deleted successfully.|| 该服务 <strong>{{param}}</strong> 已成功删除。
+The service <strong>{{param}}</strong> has been updated successfully.|| 该服务 <strong>{{param}}</strong> 已成功更新。
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| 在此 <strong>{{param}}</strong> 网关已成功更新。
+Are you sure you want to unset the current gateway?|| 您确定要取消设置当前网关吗？
+Are you sure you want to unset the {{param}} gateway?|| 您确定要取消设置{{param}}网关吗？
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| 在此 <strong>{{param}}</strong> Gateway已成功取消配置。
+The <strong>{{param}}</strong> NIC has been updated successfully.|| 在此 <strong>{{param}}</strong> NIC已成功更新。
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| 在此 <strong>{{param}}</strong> NIC已成功取消配置。
+The <strong>{{param}}</strong> NIC is {{param2}}|| 在此 <strong>{{param}}</strong> 网卡是{{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功创建。
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功更新。
+Are you sure you want to delete the {{param}} Virtual interface?|| 您确定要删除{{param}}虚拟界面吗？
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功删除。
+The <strong>{{param}}</strong> VLAN has been created successfully.|| 在此 <strong>{{param}}</strong> 已成功创建VLAN。
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| 在此 <strong>{{param}}</strong> VLAN已成功更新。
+Are you sure you want to delete the {{param}} VLAN?|| 您确定要删除{{param}} VLAN吗？
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| 在此 <strong>{{param}}</strong> VLAN已成功删除。
+The <strong>{{param}}</strong> VLAN is {{param2}}|| 在此 <strong>{{param}}</strong> VLAN是{{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| 备份 <strong>{{param}}</strong> 已成功创建。
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| 备份 <strong>{{param}}</strong> 已成功上传。
+Are you sure you want to delete the backup {{param}}?|| 您确定要删除备份{{param}}吗？
+The backup <strong>{{param}}</strong> has been deleted successfully.|| 备份 <strong>{{param}}</strong> 已成功删除。
+The backup <strong>{{param}}</strong> has been applied successfully.|| 备份 <strong>{{param}}</strong> 已成功应用。
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| 备份 <strong>{{backup}}</strong> 已成功下载。
+The log <strong>{{param}}</strong> has been downloaded successfully.|| 日志 <strong>{{param}}</strong> 已成功下载。
+The <strong>{{param}}</strong> service has been updated successfully.|| 在此 <strong>{{param}}</strong> 服务已成功更新。
+The <strong> Support Save </strong> has been downloaded successfully|| 在此 <strong> 支持保存 </strong> 已成功下载
+The user has been updated successfully.|| 用户已成功更新。
+The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> 已成功生成。
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| 证书 <strong>{{param}}</strong> 已成功上传。
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| 证书 <strong>{{param}}</strong> 已成功删除。
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| 证书 <strong>{{param}}</strong> 已成功下载。
+New Service|| 新服务
+Create|| 创建
+Cancel|| 取消
+Submit|| 提交
+Save|| 保存
+Generate|| 产生
+Update|| 提交
+Upload|| 上传
+Generate Random Key|| 生成随机密钥
+Generate Support Save|| 生成支持保存
+clear|| 明确
+start|| 开始
+Apply|| 申请
+Add|| 添加
+Edit|| 编辑
+Go to Home|| 回家
+404 Page not Found|| 找不到404页面
+The page you were looking for doesn't exist|| 您要查找的页面不存在
+No farms found|| 找不到农场
+Established Conns|| 成立康恩斯
+Pending Conns|| 待定的Conns
+Select a graph|| 选择一个图表
+Select a profile|| 选择个人资料
+Select a Virtual IP|| 选择虚拟IP
+Select a parent interface|| 选择父接口
+Select an interface|| 选择一个界面
+Logout|| 登出
+Sign in with your username and password|| 使用您的用户名和密码登录
+Username|| 用户名
+Password|| 密码
+Sign In|| 登录
+User is required!|| 用户是必需的！
+User should be the real one|| 用户应该是真实的
+Password is required|| 密码是必需的
+Password should contains {{param}} to {{param2}} characters|| 密码应包含{{param}}到{{param2}}个字符
+Success!|| 成功了！
+You have been successfully logged in.|| 您已成功登录。

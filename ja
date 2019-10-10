@@ -1,0 +1,344 @@
+Dashboard|| ダッシュボード
+LSLB|| LSLB
+Farms|| 農場
+SSL Certificates|| SSL証明書
+DSLB|| DSLB
+Monitoring|| 監視
+Graphs|| グラフ
+Farm Stats|| 農場統計
+Farmguardians|| 農場の人々
+Network|| ネットワーク
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| 仮想インタフェース
+Gateway|| ゲートウェイ
+System|| エントルピー
+Remote Services|| リモートサービス
+Backups|| バックアップ
+User|| ユーザー
+Logs|| ログ
+License|| ライセンス
+Support Save|| サポート保存
+Create|| 作ります
+Edit|| 編集
+Configure|| 設定する
+Upload|| アップロード
+View|| 詳細
+Generate CSR|| CSRを生み出す
+farm|| ファーム
+certificate|| 証明書
+farmguardian|| 農家
+VLAN|| VLAN
+virtual interface|| 仮想インタフェース
+backup|| バックアップ
+backend|| バックエンド
+session|| セッション
+Professional Products|| プロフェッショナル製品
+Professional Services|| プロフェッショナルサービス
+News|| ニュース
+Resources|| リソース
+System Stats|| システム統計
+CPU|| CPU
+Memory|| メモリ
+Load|| 負荷
+Cores|| コア
+System Information|| システム情報
+Zevenet Version|| Zevenetのバージョン
+Appliance Version|| アプライアンスのバージョン
+Kernel Version|| カーネルバージョン
+Hostname|| ホスト名
+System Date|| システム日付
+NIC Interfaces|| NICインタフェース
+Megabytes (MB)|| メガバイト（MB）
+Farm List|| 農場リスト
+Name|| 氏名
+Profile|| 会社
+Status|| 状態
+LSLB Farm List|| LSLB農場リスト
+Create LSLB Farm|| LSLBファームを作成する
+Listener|| リスナー
+Advanced settings|| 詳細設定
+Rewrite location headers|| ロケーションヘッダーを書き換える
+HTTP verbs accepted|| HTTP動詞が受け入れられました
+Backend connection timeout|| バックエンド接続タイムアウト
+Backend response timeout|| バックエンドの応答タイムアウト
+Frequency to check resurrected backends|| 復活したバックエンドをチェックする頻度
+Client request timeout|| クライアント要求タイムアウト
+Message Error 414|| メッセージエラー414
+Message Error 500|| メッセージエラー500
+Message Error 501|| メッセージエラー501
+Message Error 503|| メッセージエラー503
+HTTPS Parameters|| HTTPSパラメータ
+Disable SSLv2|| SSLv2を無効にする
+Disable SSLv3|| SSLv3を無効にする
+Disable TLSv1|| TLSv1を無効にする
+Disable TLSv1.1|| TLSv1.1を無効にする
+Disable TLSv1.2|| TLSv1.2を無効にする
+Ciphers|| 暗号
+Custom Ciphers|| カスタム暗号
+Certificate Enabled|| 証明書が有効
+Virtual Host|| 仮想ホスト
+URL Pattern|| URLパターン
+Least Response|| 最小の応答
+HTTPS Backends|| HTTPSバックエンド
+Redirect|| リダイレクト
+Redirect URL|| リダイレクトURL
+Redirect Type|| リダイレクトタイプ
+Load balancer Algorithm|| ロードバランサのアルゴリズム
+Persistence|| 固執
+Persistence session identifier|| 持続セッション識別子
+Persistence session time to live|| 持続セッションの存続時間
+No persistence|| 持続性なし
+IP: Client address|| IP：クライアントアドレス
+BASIC: Basic authentication|| 基本：基本認証
+URL: A request parameter|| URL：リクエストパラメータ
+PARM: An URI parameter|| PARM：URIパラメータ
+COOKIE: A certain cookie|| COOKIE：あるクッキー
+HEADER: A certain request header|| HEADER：あるリクエストヘッダ
+Protocol type|| プロトコルの種類
+Nat type|| ナットタイプ
+Load balancer Algorithm|| ロードバランサのアルゴリズム
+Persistence|| 固執
+Persistence session time to live|| 持続セッションの存続時間
+No persistence|| 持続性なし
+IP: Source IP|| IP：送信元IP
+Port: Source|| ポート：ソース
+MAC: Source MAC|| MAC：送信元MAC
+Source IP and Source Port|| 送信元IPと送信元ポート
+Source IP and Destination Port|| 送信元IPと宛先ポート
+Weight: connection linear dispatching by weight|| 重量：重量による接続線形発送
+Source Hash: Hash per Source IP and Source Port|| 送信元ハッシュ：送信元IPおよび送信元ポートごとのハッシュ
+Simple Source Hash: Hash per Source IP only|| シンプルソースハッシュ：ソースIPごとのハッシュのみ
+Symmetric Hash: Round trip hash per IP and Port|| 対称ハッシュ：IPおよびポートごとのラウンドトリップハッシュ
+Round Robin: Sequential backend selection|| ラウンドロビン：シーケンシャルバックエンド選択
+SSL Certificate List|| SSL証明書リスト
+Generate CSR|| CSRを生み出す
+Upload SSL Certificate|| SSL証明書をアップロードする
+Choose one or more files|| 1つ以上のファイルを選択
+DSLB Farm List|| DSLBファームリスト
+Create DSLB Farm|| DSLBファームを作成する
+System Graphs|| システムグラフ
+Interfaces Graphs || インタフェースグラフ
+Show Graphs|| グラフを表示
+Farms Graphs|| 農場グラフ
+Select Graphs|| グラフを選択
+Farms Stats|| 農場統計
+Farms Graphs|| 農場グラフ
+Farmguardians|| 農場の人々
+Farms Settings|| 農場の設定
+Create Farmguardian|| Farmguardianを作成する
+NIC List|| NICリスト
+VLAN Interface List|| VLANインタフェースリスト
+Create VLAN interface|| VLANインタフェースを作成する
+Virtual Interface List|| 仮想インタフェース一覧
+Create Virtual interface|| 仮想インターフェースを作成する
+IPv4 Gateway|| IPv64ゲートウェイ
+IPv6 Gateway|| IPv66ゲートウェイ
+Gateway Settings|| ゲートウェイ設定
+DNS Service|| DNSサービス
+Default is 8.8.8.8|| デフォルトは8.8.8.8です
+Optional|| 任意
+Default is pool.ntp.org|| デフォルトはpool.ntp.orgです。
+Primary server|| プライマリサーバ
+Secondary server|| 副サーバ
+NPT Service|| NPTサービス
+NPT Server|| NPTサーバー
+SNMP Service|| SNMPサービス
+Enable SNMP|| SNMPを有効にする
+Physical interface where is running SNMP service|| SNMPサービスを実行している物理インタフェース
+SNMP Port where is running SNMP service|| SNMPサービスを実行しているSNMPポート
+Default is 161.|| デフォルトは161です。
+Community name|| コミュニティ名
+IP or subnet with access (IP/bit)|| アクセス権を持つIPまたはサブネット（IP /ビット）
+Backup List|| バックアップリスト
+Upload Backup|| バックアップをアップロード
+Backup File|| バックアップファイル
+Create Backup|| バックアップを作成する
+Choose one file|| ファイルを1つ選択してください
+Settings User|| 設定ユーザー
+User|| ユーザー
+ZAPI Permissions|| ZAPIのアクセス許可
+ZAPI Key|| ZAPIキー
+Change Password|| パスワードの変更
+Current Password|| 現在のパスワード
+New Password|| 新しいパスワード
+Repeat new password|| 新しいパスワードを再入力
+Log List|| ログリスト
+Log View|| ログビュー
+Number of lines|| 行数
+License|| ライセンス
+Support Save|| サポート保存
+When this action is executed a file with system information will be downloaded.|| このアクションが実行されると、システム情報を含むファイルがダウンロードされます。
+This action may take several seconds, you can continue browsing the GUI.|| この操作には数秒かかることがあります。GUIを参照し続けることができます。
+Name|| 氏名
+Locality|| 地域
+Country|| 国
+State/Province|| 州/地方
+Common Name|| 一般名
+Organization|| 組織
+Division|| 除算
+E-mail Address|| 電子メールアドレス
+Services Settings|| サービス設定
+Global Settings|| グローバル設定
+Virtual IP and Port|| 仮想IPとポート
+Backend|| バックエンド
+Interval|| インターバル
+Cut connections|| 接続を切断する
+Description|| 説明
+Copy rule|| コピールール
+Rule to copy|| コピーする規則
+seconds|| 秒
+Log|| ログ
+Address|| 自宅住所
+Virtual interface name|| 仮想インタフェース名
+Parent Interface|| 親インターフェース
+VLAN Name|| VLAN名
+Farmguardian|| 農場の守護者
+Load balancer Algorithm|| ロードバランサのアルゴリズム
+Health Checks for backend|| バックエンドのヘルスチェック
+Descriptive text, this name will be used to identify this certificate.|| 説明テキスト、この名前はこの証明書を識別するために使用されます。
+Only editable when the farm is down.|| ファームが停止しているときにのみ編集可能です。
+City where your organization is located.|| あなたの組織が所在する市。
+Country (two characters) where your organization is located.|| 組織が所在する国（2文字）
+State or province where your organization is located.|| 組織が所在する州または県。
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| サーバーのFQDN。 例：domain.com、mail.domain.com、または* .domain.com。
+The full legal name of your organization/company (ex.: Zevenet Co.). || あなたの組織/会社の正式な正式名称（例：Zevenet Co.）。
+Your department; such as 'IT','Web', 'Office', etc.|| あなたの部署 「IT」、「Web」、「オフィス」など。
+Your email address.|| あなたのメールアドレス。
+Name|| 氏名
+Name|| 氏名
+Profile|| 会社
+Virtual IP|| 仮想IP
+Virtual Port|| 仮想ポート
+Status|| 状態
+Actions|| アクション
+ID||  ID
+IP||  IP
+Address|| 自宅住所
+Port|| ポート
+Timeout|| タイムアウト
+Weight|| 重要度
+Common Name|| 一般名
+Type|| タイプ
+File|| フィレット
+Issuer|| 発行者
+Create on|| に作成
+Expire on|| 期限切れ
+Priority|| 優先
+Interface|| インタフェース
+Service|| サービス
+Client|| クライアント
+Sessions|| セッションズ
+Session ID|| セッションID
+Backend ID|| バックエンドID
+Command|| コマンド
+Description|| 説明
+Farms|| 農場
+Farm|| 農場
+Gateway|| ゲートウェイ
+Netmask|| ネットマスク
+MAC|| マック
+IP Address (IPv4 / IPv6)|| IPアドレス（IPXアドレス/ IPX4）
+VLAN tag|| VLANタグ
+Date|| 日付
+Log|| ログ
+Established Conns|| 確立されたConns
+Pending Conns|| 保留中のコーン
+No|| いいえ
+found|| 発見
+ is required|| 必要とされる
+ is not valid, it only is possible alphanumeric characters and dash (-).|| 有効ではありません。使用できるのは英数字とダッシュ（ - ）だけです。
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 有効ではありません。単一のポート、複数のポート、またはポートの範囲（例：80または80,81または80：90）を定義することが可能です。
+ has to be greater than 0|| 0より大きくなければなりません
+ can only has two characters.|| 2文字までです。
+ has to be a valid email.|| 有効なメールアドレスである必要があります。
+does not match.|| 一致していません。
+The farm <strong>{{param}}</strong> has been deleted successfully.|| 農場 <strong>{{param}}</strong> 削除されました。
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 農場 <strong>{{param}}</strong> {{param2}}は正常に削除されました。
+Are you sure you want to delete the {{param}} farmname ?|| {{param}}ファーム名を削除してもよろしいですか？
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| 農場 <strong>{{param}}</strong> {{param2}}は正常に処理されました。
+The farm <strong>{{param}}</strong> has been created successfully.|| 農場 <strong>{{param}}</strong> 正常に作成されました。
+The farm <strong>{{param}}</strong> has been restarted successfully.|| 農場 <strong>{{param}}</strong> 正常に再起動されました。
+The backend has been created successfully.|| バックエンドは正常に作成されました。
+The profile has been changed to {{param}} successfully.|| プロファイルは{{param}}に正常に変更されました。
+The farmguardian has been disabled sucessfully.|| 農場の保護者は無事に無効にされました。
+The farmguardian has been changed to {{param}} successfully.|| 農場の守護者は{{param}}に変更されました。
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> farmguardianが正常に作成されました。
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| 滞在期間の長さによって発生する <strong>{{param}}</strong> farmguardianは正常に更新されました
+Are you sure you want to delete the {{param}} farmguardian?|| {{param}}ファームガードを削除してもよろしいですか？
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> farmguardianは正常に削除されました。
+The farm has been updated successfully.|| ファームは正常に更新されました。
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| 農場の農場の{{param}} {{param2}}ファームを削除してよろしいですか？
+Are you sure you want to delete the backend {{param}}?|| バックエンド{{param}}を削除してよろしいですか？
+The backend <strong>{{param}}</strong> has been deleted successfully|| バックエンド <strong>{{param}}</strong> 削除されました
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| バックエンド <strong>{{param}}</strong> {{param2}}は成功しました。
+The service <strong>{{param}}</strong> has been created successfully.|| サービス <strong>{{param}}</strong> 正常に作成されました。
+The service <strong>{{param}}</strong> has been deleted successfully.|| サービス <strong>{{param}}</strong> 削除されました。
+The service <strong>{{param}}</strong> has been updated successfully.|| サービス <strong>{{param}}</strong> 更新に成功しました。
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> ゲートウェイは正常に更新されました。
+Are you sure you want to unset the current gateway?|| 現在のゲートウェイを設定解除してよろしいですか？
+Are you sure you want to unset the {{param}} gateway?|| {{param}}ゲートウェイの設定を解除してもよろしいですか？
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> ゲートウェイは正常に構成解除されました。
+The <strong>{{param}}</strong> NIC has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> NICは正常に更新されました。
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> NICは正常に構成解除されました。
+The <strong>{{param}}</strong> NIC is {{param2}}|| 滞在期間の長さによって発生する <strong>{{param}}</strong> NICは{{param2}}です
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェースは正常に作成されました。
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェースは正常に更新されました。
+Are you sure you want to delete the {{param}} Virtual interface?|| {{param}}仮想インターフェースを削除してよろしいですか？
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェースは正常に削除されました。
+The <strong>{{param}}</strong> VLAN has been created successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは正常に作成されました。
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは正常に更新されました。
+Are you sure you want to delete the {{param}} VLAN?|| {{param}} VLANを削除してよろしいですか？
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは正常に削除されました。
+The <strong>{{param}}</strong> VLAN is {{param2}}|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは{{param2}}です
+The backup <strong>{{param}}</strong> has been created successfully.|| バックアップ <strong>{{param}}</strong> 正常に作成されました。
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| バックアップ <strong>{{param}}</strong> アップロードに成功しました。
+Are you sure you want to delete the backup {{param}}?|| バックアップ{{param}}を削除してよろしいですか？
+The backup <strong>{{param}}</strong> has been deleted successfully.|| バックアップ <strong>{{param}}</strong> 削除されました。
+The backup <strong>{{param}}</strong> has been applied successfully.|| バックアップ <strong>{{param}}</strong> 正常に適用されました。
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| バックアップ <strong>{{backup}}</strong> ダウンロードに成功しました。
+The log <strong>{{param}}</strong> has been downloaded successfully.|| ログ <strong>{{param}}</strong> ダウンロードに成功しました。
+The <strong>{{param}}</strong> service has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> サービスは正常に更新されました。
+The <strong> Support Save </strong> has been downloaded successfully|| 滞在期間の長さによって発生する <strong> サポート保存 </strong> ダウンロードに成功しました
+The user has been updated successfully.|| ユーザーは正常に更新されました。
+The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> 正常に生成されました。
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| 証明書 <strong>{{param}}</strong> アップロードに成功しました。
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| 証明書 <strong>{{param}}</strong> 削除されました。
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| 証明書 <strong>{{param}}</strong> ダウンロードに成功しました。
+New Service|| 新サービス
+Create|| 作ります
+Cancel|| キャンセル
+Submit|| 送信
+Save|| 保存
+Generate|| 生成する
+Update|| 更新版
+Upload|| アップロード
+Generate Random Key|| ランダムキーを生成する
+Generate Support Save|| サポートを生成保存
+clear|| クリア
+start|| start
+Apply|| 適用します
+Add|| Add をクリックします。
+Edit|| 編集
+Go to Home|| ホームに行く
+404 Page not Found|| 404ページが見つかりません
+The page you were looking for doesn't exist|| 探しているページは存在しません
+No farms found|| 農場が見つかりません
+Established Conns|| 確立されたConns
+Pending Conns|| 保留中のコーン
+Select a graph|| グラフを選択
+Select a profile|| プロフィールを選択
+Select a Virtual IP|| 仮想IPを選択
+Select a parent interface|| 親インターフェースを選択
+Select an interface|| インターフェースを選択
+Logout|| ログアウト
+Sign in with your username and password|| ユーザー名とパスワードを使ってサインインする
+Username|| ユーザー名
+Password|| パスワード
+Sign In|| サインイン
+User is required!|| ユーザーは必須です。
+User should be the real one|| ユーザーは本物のはずです
+Password is required|| パスワードが必要です
+Password should contains {{param}} to {{param2}} characters|| パスワードには{{param}}から{{param2}}文字を含める必要があります
+Success!|| 成功！
+You have been successfully logged in.|| あなたは正常にログインしました。

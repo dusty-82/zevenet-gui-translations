@@ -1,0 +1,344 @@
+Dashboard|| armatuurlaud
+LSLB|| LSLB
+Farms|| Põllumajandusettevõtted
+SSL Certificates|| SSL sertifikaadid
+DSLB|| DSLB
+Monitoring|| Järelevalve
+Graphs|| Graafikud
+Farm Stats|| Põllumajandusstatistika
+Farmguardians|| Talupidajad
+Network|| võrk
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| Virtuaalsed liidesed
+Gateway|| Värav
+System|| süsteem
+Remote Services|| Kaugteenused
+Backups|| Varukoopiad
+User|| Kasutaja
+Logs|| Logid
+License|| litsents
+Support Save|| Toetus Salvesta
+Create|| Looma
+Edit|| Edit
+Configure|| Seadistamine
+Upload|| Täiendava
+View|| vaade
+Generate CSR|| Loo CSR
+farm|| talu
+certificate|| sertifikaat
+farmguardian|| talupoeg
+VLAN|| VLAN
+virtual interface|| virtuaalne liides
+backup|| backup
+backend|| backend
+session|| istung
+Professional Products|| Professionaalsed tooted
+Professional Services|| Professional Services
+News|| Uudised
+Resources|| Vahendid
+System Stats|| Süsteemi statistika
+CPU|| Protsessor
+Memory|| Mälu
+Load|| Koormus
+Cores|| Südamikud
+System Information|| System Information
+Zevenet Version|| Zevenet versioon
+Appliance Version|| Seadme versioon
+Kernel Version|| Kerneli versioon
+Hostname|| hostname
+System Date|| Süsteemi kuupäev
+NIC Interfaces|| NIC liidesed
+Megabytes (MB)|| Megabaiti (MB)
+Farm List|| Põllumajandusloend
+Name|| nimi
+Profile|| profiil
+Status|| olek
+LSLB Farm List|| LSLB talu nimekiri
+Create LSLB Farm|| LSLB talu loomine
+Listener|| Kuulaja
+Advanced settings|| Lisaseaded
+Rewrite location headers|| Asukoha päiste ümberkirjutamine
+HTTP verbs accepted|| HTTP verbid aktsepteeritakse
+Backend connection timeout|| Backend-ühenduse ajalõpp
+Backend response timeout|| Tagajärgse vastuse aegumine
+Frequency to check resurrected backends|| Ülestõusnud taustaprogrammide kontrollimise sagedus
+Client request timeout|| Kliendi sooviaeg
+Message Error 414|| Sõnumi viga 414
+Message Error 500|| Sõnumi viga 500
+Message Error 501|| Sõnumi viga 501
+Message Error 503|| Sõnumi viga 503
+HTTPS Parameters|| HTTPS parameetrid
+Disable SSLv2|| Keela SSLv2
+Disable SSLv3|| Keela SSLv3
+Disable TLSv1|| Keela TLSv1
+Disable TLSv1.1|| Keela TLSv1.1
+Disable TLSv1.2|| Keela TLSv1.2
+Ciphers|| Ciphers
+Custom Ciphers|| Kohandatud klapid
+Certificate Enabled|| Sertifikaat lubatud
+Virtual Host|| Virtuaalne hostija
+URL Pattern|| URL-i muster
+Least Response|| Vähim vastus
+HTTPS Backends|| HTTPSi taustaprogrammid
+Redirect|| Ümbersuunamine
+Redirect URL|| Ümbersuunamise URL
+Redirect Type|| Ümbersuunamise tüüp
+Load balancer Algorithm|| Koormuse tasakaalustaja algoritm
+Persistence|| Püsivus
+Persistence session identifier|| Püsivuse seansi tunnus
+Persistence session time to live|| Püsivus seansi aeg elada
+No persistence|| Püsivus puudub
+IP: Client address|| IP: Kliendi aadress
+BASIC: Basic authentication|| BASIC: Põhiline autentimine
+URL: A request parameter|| URL: päringu parameeter
+PARM: An URI parameter|| PARM: URI parameeter
+COOKIE: A certain cookie|| COOKIE: teatud küpsis
+HEADER: A certain request header|| HEADER: teatud päringu päis
+Protocol type|| Protokolli tüüp
+Nat type|| Nat tüüp
+Load balancer Algorithm|| Koormuse tasakaalustaja algoritm
+Persistence|| Püsivus
+Persistence session time to live|| Püsivus seansi aeg elada
+No persistence|| Püsivus puudub
+IP: Source IP|| IP: Allikas IP
+Port: Source|| Sadam: Allikas
+MAC: Source MAC|| MAC: Allikas MAC
+Source IP and Source Port|| Allikas IP ja lähteport
+Source IP and Destination Port|| Allikas IP ja sihtkoha port
+Weight: connection linear dispatching by weight|| Kaal: ühendus lineaarselt
+Source Hash: Hash per Source IP and Source Port|| Allikas Hash: Hash ühe allika IP ja lähtepordi kohta
+Simple Source Hash: Hash per Source IP only|| Lihtne allikas Hash: Hash all Source IP ainult
+Symmetric Hash: Round trip hash per IP and Port|| Sümmeetriline Hash: Ümberlülitunud räsi IP ja Porti kohta
+Round Robin: Sequential backend selection|| Ümar Robin: järjestikune taustvalik
+SSL Certificate List|| SSL-sertifikaatide loend
+Generate CSR|| Loo CSR
+Upload SSL Certificate|| Laadi SSL-sertifikaat üles
+Choose one or more files|| Valige üks või mitu faili
+DSLB Farm List|| DSLB põllumajandusettevõtete loend
+Create DSLB Farm|| Looge DSLB Farm
+System Graphs|| Süsteemi graafikud
+Interfaces Graphs || Liidese graafikud
+Show Graphs|| Kuva graafikud
+Farms Graphs|| Põllumajandusettevõtete graafikud
+Select Graphs|| Valige graafikud
+Farms Stats|| Põllumajandusettevõtete statistika
+Farms Graphs|| Põllumajandusettevõtete graafikud
+Farmguardians|| Talupidajad
+Farms Settings|| Põllumajandusettevõtete seaded
+Create Farmguardian|| Loo Farmguardian
+NIC List|| NIC nimekiri
+VLAN Interface List|| VLAN-liidese loend
+Create VLAN interface|| Loo VLAN-i liides
+Virtual Interface List|| Virtuaalse liidese loend
+Create Virtual interface|| Loo virtuaalne liides
+IPv4 Gateway|| IPv4 Gateway
+IPv6 Gateway|| IPv6 Gateway
+Gateway Settings|| Gateway seaded
+DNS Service|| DNS-teenus
+Default is 8.8.8.8|| Vaikimisi on 8.8.8.8
+Optional|| vabatahtlik
+Default is pool.ntp.org|| Vaikimisi on pool.ntp.org
+Primary server|| Esmane server
+Secondary server|| Sekundaarne server
+NPT Service|| NPT teenus
+NPT Server|| NPT server
+SNMP Service|| SNMP teenus
+Enable SNMP|| Luba SNMP
+Physical interface where is running SNMP service|| Füüsiline liides, kus töötab SNMP teenus
+SNMP Port where is running SNMP service|| SNMP port, kus töötab SNMP teenus
+Default is 161.|| Vaikimisi on 161.
+Community name|| Kogukonna nimi
+IP or subnet with access (IP/bit)|| Juurdepääsuga IP või alamvõrk (IP / bit)
+Backup List|| Varundamise loend
+Upload Backup|| Laadige varukoopia üles
+Backup File|| Varundusfail
+Create Backup|| Loo varundamine
+Choose one file|| Valige üks fail
+Settings User|| Seadete kasutaja
+User|| Kasutaja
+ZAPI Permissions|| ZAPI load
+ZAPI Key|| ZAPI võti
+Change Password|| Muuda parool
+Current Password|| Praegune salasõna
+New Password|| New Password
+Repeat new password|| Korda uut parooli
+Log List|| Logi nimekiri
+Log View|| Logi vaade
+Number of lines|| Ridade arv
+License|| litsents
+Support Save|| Toetus Salvesta
+When this action is executed a file with system information will be downloaded.|| Kui see toiming käivitatakse, laaditakse alla süsteemiteabe fail.
+This action may take several seconds, you can continue browsing the GUI.|| See toiming võib võtta mitu sekundit, jätkata GUI sirvimist.
+Name|| nimi
+Locality|| Asukoht
+Country|| Riik
+State/Province|| Osariik / maakond
+Common Name|| Üldnimetus
+Organization|| Organisatsioon
+Division|| jaotus
+E-mail Address|| E-posti aadress
+Services Settings|| Teenuste seaded
+Global Settings|| Global Settings
+Virtual IP and Port|| Virtuaalne IP ja port
+Backend|| Taustaprogramm
+Interval|| Intervall
+Cut connections|| Lõika ühendused
+Description|| kirjeldus
+Copy rule|| Kopeeri reegel
+Rule to copy|| Reegel kopeerimiseks
+seconds|| sekundit
+Log|| Logi
+Address|| Aadress
+Virtual interface name|| Virtuaalse liidese nimi
+Parent Interface|| Vanemliides
+VLAN Name|| VLAN-i nimi
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| Koormuse tasakaalustaja algoritm
+Health Checks for backend|| Tervisekontrollid taustaprogrammi jaoks
+Descriptive text, this name will be used to identify this certificate.|| Kirjeldav tekst, seda nime kasutatakse selle sertifikaadi tuvastamiseks.
+Only editable when the farm is down.|| Redigeeritav ainult siis, kui talu on alla.
+City where your organization is located.|| Linn, kus asub teie organisatsioon.
+Country (two characters) where your organization is located.|| Riik (kaks märki), kus teie organisatsioon asub.
+State or province where your organization is located.|| Riik või provints, kus asub teie organisatsioon.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| Serveri FQDN. Näide: domain.com, mail.domain.com või * .domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || Teie organisatsiooni / ettevõtte täielik juriidiline nimi (nt. Zevenet Co.).
+Your department; such as 'IT','Web', 'Office', etc.|| Teie osakond; näiteks &quot;IT&quot;, &quot;Veeb&quot;, &quot;Kontor&quot; jne.
+Your email address.|| Sinu e-posti aadress.
+Name|| nimi
+Name|| nimi
+Profile|| profiil
+Virtual IP|| Virtuaalne IP
+Virtual Port|| Virtuaalne port
+Status|| olek
+Actions|| Meetmete
+ID||  ID
+IP||  IP
+Address|| Aadress
+Port|| port
+Timeout|| Aegumine
+Weight|| Kaal
+Common Name|| Üldnimetus
+Type|| tüüp
+File|| fail
+Issuer|| Emitent
+Create on|| Loo sisse
+Expire on|| Aegub
+Priority|| Prioriteet
+Interface|| Interface
+Service|| Teenus
+Client|| klient
+Sessions|| Seansid
+Session ID|| Seansi ID
+Backend ID|| Backend ID
+Command|| käsk
+Description|| kirjeldus
+Farms|| Põllumajandusettevõtted
+Farm|| Talu
+Gateway|| Värav
+Netmask|| Netmask
+MAC|| MAC
+IP Address (IPv4 / IPv6)|| IP-aadress (IPv4 / IPv6)
+VLAN tag|| VLAN-i silt
+Date|| kuupäev
+Log|| Logi
+Established Conns|| Kehtestatud ühendused
+Pending Conns|| Ootavad ühendused
+No|| Ei
+found|| avastatud
+ is required|| on vaja
+ is not valid, it only is possible alphanumeric characters and dash (-).|| ei ole kehtiv, see on ainult võimalik tähtnumbriline täht ja kriips (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| ei ole kehtiv, on võimalik määratleda üks sadam, mitu porti või portide vahemikku (nt 80 või 80,81 või 80: 90)
+ has to be greater than 0|| peab olema suurem kui 0
+ can only has two characters.|| võib olla ainult kaks märki.
+ has to be a valid email.|| peab olema kehtiv e-kiri.
+does not match.|| ei klapi.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| Talu <strong>{{param}}</strong> on edukalt kustutatud.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Talu <strong>{{param}}</strong> {{param2}} on edukalt kustutatud.
+Are you sure you want to delete the {{param}} farmname ?|| Kas soovite kindlasti {{param}} farmnimi kustutada?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Talu <strong>{{param}}</strong> on {{param2}} edukas.
+The farm <strong>{{param}}</strong> has been created successfully.|| Talu <strong>{{param}}</strong> on edukalt loodud.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| Talu <strong>{{param}}</strong> on edukalt käivitatud.
+The backend has been created successfully.|| Taustaprogramm on edukalt loodud.
+The profile has been changed to {{param}} successfully.|| Profiil on edukalt muudetud {{param}}.
+The farmguardian has been disabled sucessfully.|| Talupidaja on edukalt välja lülitatud.
+The farmguardian has been changed to {{param}} successfully.|| Farmguardian on edukalt muudetud {{param}}.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| The <strong>{{param}}</strong> farmguardian on edukalt loodud.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| The <strong>{{param}}</strong> farmguardian on edukalt uuendatud
+Are you sure you want to delete the {{param}} farmguardian?|| Kas soovite kindlasti {{param}} talupoegat kustutada?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| The <strong>{{param}}</strong> farmguardian on edukalt kustutatud.
+The farm has been updated successfully.|| Talu on edukalt uuendatud.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Kas olete kindel, et soovite talumajast talu {{param}} {{param2}} kustutada?
+Are you sure you want to delete the backend {{param}}?|| Kas olete kindel, et soovid backend {{param}} kustutada?
+The backend <strong>{{param}}</strong> has been deleted successfully|| Taust <strong>{{param}}</strong> on edukalt kustutatud
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| Taust <strong>{{param}}</strong> on edukalt {{param2}}.
+The service <strong>{{param}}</strong> has been created successfully.|| Teenus <strong>{{param}}</strong> on edukalt loodud.
+The service <strong>{{param}}</strong> has been deleted successfully.|| Teenus <strong>{{param}}</strong> on edukalt kustutatud.
+The service <strong>{{param}}</strong> has been updated successfully.|| Teenus <strong>{{param}}</strong> on edukalt uuendatud.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| The <strong>{{param}}</strong> Gateway on edukalt uuendatud.
+Are you sure you want to unset the current gateway?|| Kas olete kindel, et soovite praeguse lüüsi tühistada?
+Are you sure you want to unset the {{param}} gateway?|| Kas soovite kindlasti {{param}} lüüsi tühistada?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| The <strong>{{param}}</strong> Gateway on edukalt konfigureerimata.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| The <strong>{{param}}</strong> NIC on edukalt uuendatud.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| The <strong>{{param}}</strong> NIC on edukalt seadistamata.
+The <strong>{{param}}</strong> NIC is {{param2}}|| The <strong>{{param}}</strong> NIC on {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| The <strong>{{param}}</strong> Virtuaalne liides on edukalt loodud.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| The <strong>{{param}}</strong> Virtuaalne liides on edukalt uuendatud.
+Are you sure you want to delete the {{param}} Virtual interface?|| Kas soovite kindlasti {{param}} virtuaalse liidese kustutada?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| The <strong>{{param}}</strong> Virtuaalne liides on edukalt kustutatud.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| The <strong>{{param}}</strong> VLAN on edukalt loodud.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| The <strong>{{param}}</strong> VLAN on edukalt uuendatud.
+Are you sure you want to delete the {{param}} VLAN?|| Kas soovite kindlasti {{param}} VLAN-i kustutada?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| The <strong>{{param}}</strong> VLAN on edukalt kustutatud.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| The <strong>{{param}}</strong> VLAN on {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| Varukoopia <strong>{{param}}</strong> on edukalt loodud.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| Varukoopia <strong>{{param}}</strong> on edukalt üles laaditud.
+Are you sure you want to delete the backup {{param}}?|| Kas soovite kindlasti varukoopia {{param}} kustutada?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| Varukoopia <strong>{{param}}</strong> on edukalt kustutatud.
+The backup <strong>{{param}}</strong> has been applied successfully.|| Varukoopia <strong>{{param}}</strong> on edukalt rakendatud.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| Varukoopia <strong>{{backup}}</strong> on edukalt alla laaditud.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| Logi <strong>{{param}}</strong> on edukalt alla laaditud.
+The <strong>{{param}}</strong> service has been updated successfully.|| The <strong>{{param}}</strong> teenus on edukalt uuendatud.
+The <strong> Support Save </strong> has been downloaded successfully|| The <strong> Toetus Salvesta </strong> on edukalt alla laaditud
+The user has been updated successfully.|| Kasutaja on edukalt uuendatud.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> on loodud edukalt.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| Sertifikaat <strong>{{param}}</strong> on edukalt üles laaditud.
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| Sertifikaat <strong>{{param}}</strong> on edukalt kustutatud.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| Sertifikaat <strong>{{param}}</strong> on edukalt alla laaditud.
+New Service|| Uus teenus
+Create|| Looma
+Cancel|| tühistama
+Submit|| SAADA
+Save|| Salvesta
+Generate|| Tekitama
+Update|| ajakohastama
+Upload|| Täiendava
+Generate Random Key|| Loo juhuslik võti
+Generate Support Save|| Loo tugi Salvesta
+clear|| selge
+start|| algus
+Apply|| kehtima
+Add|| lisama
+Edit|| Edit
+Go to Home|| Mine koju
+404 Page not Found|| 404i lehte ei leitud
+The page you were looking for doesn't exist|| Lehte, mida otsisite, pole olemas
+No farms found|| Talusid ei leitud
+Established Conns|| Kehtestatud ühendused
+Pending Conns|| Ootavad ühendused
+Select a graph|| Valige graafik
+Select a profile|| Valige profiil
+Select a Virtual IP|| Valige virtuaalne IP
+Select a parent interface|| Valige vanemliides
+Select an interface|| Valige liides
+Logout|| Logi välja
+Sign in with your username and password|| Logige sisse oma kasutajanime ja parooliga
+Username|| kasutajanimi
+Password|| parool
+Sign In|| Logi sisse
+User is required!|| Kasutaja on kohustatud!
+User should be the real one|| Kasutaja peaks olema tõeline
+Password is required|| Parool on vajalik
+Password should contains {{param}} to {{param2}} characters|| Parool peaks sisaldama {{param}} {{param2}} tähemärki
+Success!|| Edu!
+You have been successfully logged in.|| Olete edukalt sisse logitud.

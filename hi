@@ -1,0 +1,344 @@
+Dashboard|| डैशबोर्ड
+LSLB|| LSLB
+Farms|| फार्म
+SSL Certificates|| SSL प्रमाणपत्र
+DSLB|| DSLB
+Monitoring|| निगरानी
+Graphs|| रेखाचित्र
+Farm Stats|| खेत के तने
+Farmguardians|| Farmguardians
+Network|| नेटवर्क
+NIC|| एनआईसी
+VLAN|| VLAN
+Virtual interfaces|| वर्चुअल इंटरफेस
+Gateway|| प्रवेश द्वार
+System|| प्रणाली
+Remote Services|| दूरस्थ सेवाएँ
+Backups|| बैकअप
+User|| उपयोगकर्ता
+Logs|| Logs
+License|| लाइसेंस
+Support Save|| समर्थन बचाओ
+Create|| बनाएं
+Edit|| संपादित करें
+Configure|| कॉन्फ़िगर
+Upload|| अपलोड
+View|| राय
+Generate CSR|| CSR उत्पन्न करें
+farm|| खेत
+certificate|| प्रमाण पत्र
+farmguardian|| farmguardian
+VLAN|| VLAN
+virtual interface|| आभासी इंटरफ़ेस
+backup|| बैकअप
+backend|| बैकेंड
+session|| सत्र
+Professional Products|| व्यावसायिक उत्पाद
+Professional Services|| व्यवसायी सेवाए
+News|| समाचार
+Resources|| साधन
+System Stats|| सिस्टम आँकड़े
+CPU|| सी पी यू
+Memory|| याद
+Load|| भार
+Cores|| कोर
+System Information|| सिस्टम जानकारी
+Zevenet Version|| Zevenet संस्करण
+Appliance Version|| उपकरण संस्करण
+Kernel Version|| कर्नेल संस्करण
+Hostname|| मेजबाननाम
+System Date|| सिस्टम का दिनांक
+NIC Interfaces|| एनआईसी इंटरफेस
+Megabytes (MB)|| मेगाबाइट्स (एमबी)
+Farm List|| फार्म सूची
+Name|| नाम
+Profile|| प्रोफाइल
+Status|| स्थिति
+LSLB Farm List|| एलएसएलबी फार्म लिस्ट
+Create LSLB Farm|| LSLB फार्म बनाएँ
+Listener|| श्रोता
+Advanced settings|| उन्नत सेटिंग
+Rewrite location headers|| स्थान हेडर को फिर से लिखें
+HTTP verbs accepted|| HTTP क्रियाओं को स्वीकार किया
+Backend connection timeout|| बैकएंड कनेक्शन टाइमआउट
+Backend response timeout|| बैकएंड रिस्पांस टाइमआउट
+Frequency to check resurrected backends|| पुनर्जीवित बैकेंड की जांच करने की आवृत्ति
+Client request timeout|| ग्राहक अनुरोध समयबाह्य
+Message Error 414|| संदेश त्रुटि 414
+Message Error 500|| संदेश त्रुटि 500
+Message Error 501|| संदेश त्रुटि 501
+Message Error 503|| संदेश त्रुटि 503
+HTTPS Parameters|| HTTPS पैरामीटर
+Disable SSLv2|| SSLv2 अक्षम करें
+Disable SSLv3|| SSLv3 अक्षम करें
+Disable TLSv1|| TLSv1 को अक्षम करें
+Disable TLSv1.1|| TLSv1.1 को अक्षम करें
+Disable TLSv1.2|| TLSv1.2 को अक्षम करें
+Ciphers|| सिफर
+Custom Ciphers|| कस्टम सिफर्स
+Certificate Enabled|| प्रमाण पत्र सक्षम
+Virtual Host|| वर्चुअल होस्ट
+URL Pattern|| URL पैटर्न
+Least Response|| कम से कम प्रतिक्रिया
+HTTPS Backends|| HTTPS बैकेंड
+Redirect|| पुन: निर्देशित
+Redirect URL|| रीडायरेक्ट URL
+Redirect Type|| पुनर्निर्देशित प्रकार
+Load balancer Algorithm|| लोड बैलेंसर एल्गोरिथम
+Persistence|| हठ
+Persistence session identifier|| दृढ़ता सत्र पहचानकर्ता
+Persistence session time to live|| जीवन निर्वाह का समय
+No persistence|| कोई दृढ़ता नहीं
+IP: Client address|| आईपी: क्लाइंट का पता
+BASIC: Basic authentication|| बुनियादी: मूल प्रमाणीकरण
+URL: A request parameter|| URL: एक अनुरोध पैरामीटर
+PARM: An URI parameter|| PARM: एक URI पैरामीटर
+COOKIE: A certain cookie|| कूकी: एक निश्चित कुकी
+HEADER: A certain request header|| हेडर: एक निश्चित अनुरोध हैडर
+Protocol type|| प्रोटोकॉल प्रकार
+Nat type|| नट प्रकार
+Load balancer Algorithm|| लोड बैलेंसर एल्गोरिथम
+Persistence|| हठ
+Persistence session time to live|| जीवन निर्वाह का समय
+No persistence|| कोई दृढ़ता नहीं
+IP: Source IP|| आईपी: स्रोत आईपी
+Port: Source|| पोर्ट: स्रोत
+MAC: Source MAC|| मैक: स्रोत मैक
+Source IP and Source Port|| स्रोत आईपी और स्रोत पोर्ट
+Source IP and Destination Port|| स्रोत आईपी और गंतव्य बंदरगाह
+Weight: connection linear dispatching by weight|| वजन: कनेक्शन रैखिक वजन द्वारा भेजना
+Source Hash: Hash per Source IP and Source Port|| सोर्स हैश: हैश प्रति सोर्स आईपी और सोर्स पोर्ट
+Simple Source Hash: Hash per Source IP only|| सरल स्रोत हैश: केवल स्रोत आईपी प्रति हैश
+Symmetric Hash: Round trip hash per IP and Port|| सममित हैश: गोल यात्रा हैश प्रति आईपी और पोर्ट
+Round Robin: Sequential backend selection|| राउंड रॉबिन: अनुक्रमिक बैकएंड चयन
+SSL Certificate List|| एसएसएल प्रमाणपत्र सूची
+Generate CSR|| CSR उत्पन्न करें
+Upload SSL Certificate|| SSL प्रमाणपत्र अपलोड करें
+Choose one or more files|| एक या अधिक फाइलें चुनें
+DSLB Farm List|| डीएसएलबी फार्म लिस्ट
+Create DSLB Farm|| डीएसएलबी फार्म बनाएं
+System Graphs|| सिस्टम रेखांकन
+Interfaces Graphs || रेखांकन रेखांकन
+Show Graphs|| रेखांकन दिखाएं
+Farms Graphs|| खेतों के रेखांकन
+Select Graphs|| ग्राफ़ का चयन करें
+Farms Stats|| खेतों के आँकड़े
+Farms Graphs|| खेतों के रेखांकन
+Farmguardians|| Farmguardians
+Farms Settings|| फार्म सेटिंग्स
+Create Farmguardian|| फार्मगार्डियन बनाएं
+NIC List|| एनआईसी सूची
+VLAN Interface List|| VLAN इंटरफ़ेस सूची
+Create VLAN interface|| VLAN इंटरफ़ेस बनाएँ
+Virtual Interface List|| वर्चुअल इंटरफ़ेस सूची
+Create Virtual interface|| वर्चुअल इंटरफ़ेस बनाएँ
+IPv4 Gateway|| IPv4 गेटवे
+IPv6 Gateway|| IPv6 गेटवे
+Gateway Settings|| गेटवे सेटिंग्स
+DNS Service|| डीएनएस सेवा
+Default is 8.8.8.8|| डिफ़ॉल्ट 8.8.8.8 है
+Optional|| ऐच्छिक
+Default is pool.ntp.org|| डिफ़ॉल्ट है pool.ntp.org
+Primary server|| प्राथमिक सर्वर
+Secondary server|| द्वितीयक सर्वर
+NPT Service|| एनपीटी सेवा
+NPT Server|| एनपीटी सर्वर
+SNMP Service|| SNMP सेवा
+Enable SNMP|| SNMP सक्षम करें
+Physical interface where is running SNMP service|| भौतिक इंटरफ़ेस जहाँ SNMP सेवा चल रही है
+SNMP Port where is running SNMP service|| SNMP पोर्ट जहाँ SNMP सेवा चल रही है
+Default is 161.|| डिफ़ॉल्ट 161 है।
+Community name|| समुदाय का नाम
+IP or subnet with access (IP/bit)|| उपयोग के साथ आईपी या सबनेट (आईपी / बिट)
+Backup List|| बैकअप सूची
+Upload Backup|| बैकअप अपलोड करें
+Backup File|| बैकअपफ़ाइल
+Create Backup|| बैकअप बनाएं
+Choose one file|| एक फ़ाइल चुनें
+Settings User|| सेटिंग्स उपयोगकर्ता
+User|| उपयोगकर्ता
+ZAPI Permissions|| ZAPI अनुमतियाँ
+ZAPI Key|| ZAPI कुंजी
+Change Password|| पासवर्ड बदलें
+Current Password|| वर्तमान पासवर्ड
+New Password|| नया पासवर्ड
+Repeat new password|| नया पासवर्ड दोहराएँ
+Log List|| लॉग लिस्ट
+Log View|| लॉग देखें
+Number of lines|| लाइनों की संख्या
+License|| लाइसेंस
+Support Save|| समर्थन बचाओ
+When this action is executed a file with system information will be downloaded.|| जब इस क्रिया को निष्पादित किया जाता है, तो सिस्टम जानकारी के साथ एक फ़ाइल डाउनलोड की जाएगी।
+This action may take several seconds, you can continue browsing the GUI.|| इस क्रिया में कई सेकंड लग सकते हैं, आप GUI ब्राउज़ करना जारी रख सकते हैं।
+Name|| नाम
+Locality|| लोकैलिटी
+Country|| देश
+State/Province|| राज्य / प्रांत
+Common Name|| साधारण नाम
+Organization|| संगठन
+Division|| विभाजन
+E-mail Address|| ईमेल पता
+Services Settings|| सेवाएँ सेटिंग्स
+Global Settings|| वैश्विक व्यवस्था
+Virtual IP and Port|| वर्चुअल आईपी और पोर्ट
+Backend|| बैकएण्ड
+Interval|| अंतराल
+Cut connections|| कनेक्शन काटें
+Description|| विवरण
+Copy rule|| नियम की प्रति
+Rule to copy|| नकल करने का नियम
+seconds|| सेकंड
+Log|| लॉग इन
+Address|| पता
+Virtual interface name|| वर्चुअल इंटरफ़ेस नाम
+Parent Interface|| जनक इंटरफ़ेस
+VLAN Name|| VLAN का नाम
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| लोड बैलेंसर एल्गोरिथम
+Health Checks for backend|| बैकएंड के लिए स्वास्थ्य जांच
+Descriptive text, this name will be used to identify this certificate.|| वर्णनात्मक पाठ, इस नाम का उपयोग इस प्रमाण पत्र की पहचान करने के लिए किया जाएगा।
+Only editable when the farm is down.|| खेत नीचे होने पर ही संपादन योग्य।
+City where your organization is located.|| शहर जहां आपका संगठन स्थित है।
+Country (two characters) where your organization is located.|| देश (दो अक्षर) जहां आपका संगठन स्थित है।
+State or province where your organization is located.|| राज्य या प्रांत जहां आपका संगठन स्थित है।
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| सर्वर का FQDN। उदाहरण: domain.com, mail.domain.com, या * .domain.com।
+The full legal name of your organization/company (ex.: Zevenet Co.). || आपके संगठन / कंपनी का पूर्ण कानूनी नाम (उदा .: Zevenet Co.)।
+Your department; such as 'IT','Web', 'Office', etc.|| आपका विभाग; जैसे 'आईटी', 'वेब', 'ऑफिस', आदि।
+Your email address.|| आपका ईमेल पता.
+Name|| नाम
+Name|| नाम
+Profile|| प्रोफाइल
+Virtual IP|| वर्चुअल आईपी
+Virtual Port|| वर्चुअल पोर्ट
+Status|| स्थिति
+Actions|| क्रियाएँ
+ID||  ID
+IP||  IP
+Address|| पता
+Port|| बंदरगाह
+Timeout|| मध्यांतर
+Weight|| वजन
+Common Name|| साधारण नाम
+Type|| प्रकार
+File|| पट्टिका
+Issuer|| जारीकर्ता
+Create on|| पर बनाएं
+Expire on|| पर समाप्त होना
+Priority|| प्राथमिकता
+Interface|| इंटरफेस
+Service|| सर्विस
+Client|| ग्राहक
+Sessions|| सत्र
+Session ID|| सत्र आईडी
+Backend ID|| बैकएंड आईडी
+Command|| आदेश
+Description|| विवरण
+Farms|| फार्म
+Farm|| खेत
+Gateway|| प्रवेश द्वार
+Netmask|| netmask
+MAC|| मैक
+IP Address (IPv4 / IPv6)|| IP पता (IPv4 / IPv6)
+VLAN tag|| वीएलएएन टैग
+Date|| तारीख
+Log|| लॉग इन
+Established Conns|| स्थापित शंकु
+Pending Conns|| लंबित शंकु
+No|| नहीं
+found|| पाया
+ is required|| आवश्यकता है
+ is not valid, it only is possible alphanumeric characters and dash (-).|| मान्य नहीं है, यह केवल अल्फ़ान्यूमेरिक वर्ण और डैश (-) संभव है।
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| मान्य नहीं है, यह एकल पोर्ट, कई पोर्ट या पोर्ट की श्रेणी को परिभाषित करने के लिए पॉसिबल है (उदा: 80 या 80,81 या 80: 90)
+ has to be greater than 0|| 0 से अधिक होना चाहिए
+ can only has two characters.|| केवल दो वर्ण हो सकते हैं।
+ has to be a valid email.|| एक वैध ईमेल होना चाहिए।
+does not match.|| मिलता जुलता नहीं है।
+The farm <strong>{{param}}</strong> has been deleted successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है।
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| खेत <strong>{{param}}</strong> {{param2}} को सफलतापूर्वक हटा दिया गया है।
+Are you sure you want to delete the {{param}} farmname ?|| क्या आप वाकई {{param}} farmname हटाना चाहते हैं?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक {{param2}} एड किया गया है।
+The farm <strong>{{param}}</strong> has been created successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक बनाया गया है।
+The farm <strong>{{param}}</strong> has been restarted successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक पुनः आरंभ किया गया है।
+The backend has been created successfully.|| बैकएंड को सफलतापूर्वक बनाया गया है।
+The profile has been changed to {{param}} successfully.|| प्रोफ़ाइल को सफलतापूर्वक {{param}} में बदल दिया गया है।
+The farmguardian has been disabled sucessfully.|| फ़ार्मगार्डियन को पर्याप्त रूप से अक्षम कर दिया गया है।
+The farmguardian has been changed to {{param}} successfully.|| फार्मगार्डियन को सफलतापूर्वक {{param}} में बदल दिया गया है।
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| यह  <strong>{{param}}</strong> फार्मगार्डियन सफलतापूर्वक बनाया गया है।
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| यह  <strong>{{param}}</strong> फार्मगार्डियन को सफलतापूर्वक अपडेट किया गया है
+Are you sure you want to delete the {{param}} farmguardian?|| क्या आप वाकई {{param}} फार्मगार्डियन को हटाना चाहते हैं?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| यह  <strong>{{param}}</strong> फार्मगार्डियन को सफलतापूर्वक हटा दिया गया है।
+The farm has been updated successfully.|| खेत को सफलतापूर्वक अपडेट किया गया है।
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| क्या आप वाकई फार्मगार्डियन के {{param}} {{param2}} खेत को हटाना चाहते हैं?
+Are you sure you want to delete the backend {{param}}?|| क्या आप वाकई {{param}} बैकएंड को हटाना चाहते हैं?
+The backend <strong>{{param}}</strong> has been deleted successfully|| बैकेंड <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| बैकेंड <strong>{{param}}</strong> सफलतापूर्वक {{param2}} किया गया है।
+The service <strong>{{param}}</strong> has been created successfully.|| सेवा <strong>{{param}}</strong> सफलतापूर्वक बनाया गया है।
+The service <strong>{{param}}</strong> has been deleted successfully.|| सेवा <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है।
+The service <strong>{{param}}</strong> has been updated successfully.|| सेवा <strong>{{param}}</strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| यह  <strong>{{param}}</strong> गेटवे को सफलतापूर्वक अपडेट किया गया है।
+Are you sure you want to unset the current gateway?|| क्या आप वाकई वर्तमान प्रवेश द्वार को खोलना चाहते हैं?
+Are you sure you want to unset the {{param}} gateway?|| क्या आप वाकई {{परम}} गेटवे को खोलना चाहते हैं?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| यह  <strong>{{param}}</strong> गेटवे को सफलतापूर्वक अपुष्ट कर दिया गया है।
+The <strong>{{param}}</strong> NIC has been updated successfully.|| यह  <strong>{{param}}</strong> एनआईसी को सफलतापूर्वक अपडेट किया गया है।
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| यह  <strong>{{param}}</strong> एनआईसी सफलतापूर्वक अपुष्ट किया गया है।
+The <strong>{{param}}</strong> NIC is {{param2}}|| यह  <strong>{{param}}</strong> NIC {{param2}} है
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक बनाया गया है।
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक अपडेट किया गया है।
+Are you sure you want to delete the {{param}} Virtual interface?|| क्या आप वाकई {{param}} वर्चुअल इंटरफ़ेस हटाना चाहते हैं?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक हटा दिया गया है।
+The <strong>{{param}}</strong> VLAN has been created successfully.|| यह  <strong>{{param}}</strong> VLAN को सफलतापूर्वक बनाया गया है।
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| यह  <strong>{{param}}</strong> VLAN को सफलतापूर्वक अपडेट कर दिया गया है।
+Are you sure you want to delete the {{param}} VLAN?|| क्या आप वाकई {{param}} VLAN को हटाना चाहते हैं?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| यह  <strong>{{param}}</strong> VLAN को सफलतापूर्वक हटा दिया गया है।
+The <strong>{{param}}</strong> VLAN is {{param2}}|| यह  <strong>{{param}}</strong> VLAN {{param2}} है
+The backup <strong>{{param}}</strong> has been created successfully.|| बैकअप <strong>{{param}}</strong> सफलतापूर्वक बनाया गया है।
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| बैकअप <strong>{{param}}</strong> सफलतापूर्वक अपलोड किया गया है।
+Are you sure you want to delete the backup {{param}}?|| क्या आप वाकई {{param}} बैकअप हटाना चाहते हैं?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| बैकअप <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है।
+The backup <strong>{{param}}</strong> has been applied successfully.|| बैकअप <strong>{{param}}</strong> सफलतापूर्वक लागू किया गया है।
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| बैकअप <strong>{{backup}}</strong> सफलतापूर्वक डाउनलोड किया गया है।
+The log <strong>{{param}}</strong> has been downloaded successfully.|| लकड़ी का लठा <strong>{{param}}</strong> सफलतापूर्वक डाउनलोड किया गया है।
+The <strong>{{param}}</strong> service has been updated successfully.|| यह  <strong>{{param}}</strong> सेवा को सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> Support Save </strong> has been downloaded successfully|| यह  <strong> समर्थन बचाओ </strong> सफलतापूर्वक डाउनलोड किया गया है
+The user has been updated successfully.|| उपयोगकर्ता को सफलतापूर्वक अपडेट किया गया है।
+The CSR <strong>{{param}}</strong> has been generated successfully.|| सीएसआर <strong>{{param}}</strong> सफलतापूर्वक उत्पन्न किया गया है।
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| प्रमाणपत्र <strong>{{param}}</strong> सफलतापूर्वक अपलोड किया गया है।
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| प्रमाणपत्र <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है।
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| प्रमाणपत्र <strong>{{param}}</strong> सफलतापूर्वक डाउनलोड किया गया है।
+New Service|| नई सेवा
+Create|| बनाएं
+Cancel|| रद्द करना
+Submit|| जमा करें
+Save|| सहेजें
+Generate|| उत्पन्न
+Update|| अपडेट
+Upload|| अपलोड
+Generate Random Key|| रैंडम कुंजी उत्पन्न करें
+Generate Support Save|| समर्थन सहेजें उत्पन्न करें
+clear|| स्पष्ट
+start|| प्रारंभ
+Apply|| लागू करें
+Add|| जोड़ना
+Edit|| संपादित करें
+Go to Home|| घर जाओ
+404 Page not Found|| 404 पृष्ठ नहीं मिला
+The page you were looking for doesn't exist|| आप जिस पृष्ठ की तलाश कर रहे थे वह मौजूद नहीं है
+No farms found|| कोई खेत नहीं मिला
+Established Conns|| स्थापित शंकु
+Pending Conns|| लंबित शंकु
+Select a graph|| एक ग्राफ का चयन करें
+Select a profile|| एक प्रोफ़ाइल का चयन करें
+Select a Virtual IP|| एक वर्चुअल आईपी चुनें
+Select a parent interface|| एक मूल इंटरफ़ेस चुनें
+Select an interface|| एक इंटरफ़ेस चुनें
+Logout|| लोग आउट
+Sign in with your username and password|| अपने उपयोगकर्ता नाम और पासवर्ड के साथ साइन इन करें
+Username|| उपयोगकर्ता नाम
+Password|| पासवर्ड
+Sign In|| साइन इन करें
+User is required!|| उपयोगकर्ता की आवश्यकता है!
+User should be the real one|| उपयोगकर्ता वास्तविक होना चाहिए
+Password is required|| पासवर्ड की आवश्यकता है
+Password should contains {{param}} to {{param2}} characters|| पासवर्ड में {{param}} से {{param2}} अक्षर होने चाहिए
+Success!|| सफलता!
+You have been successfully logged in.|| आपने सफ़लतापूर्वक लॉग इन कर लिया है।

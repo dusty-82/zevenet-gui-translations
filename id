@@ -1,0 +1,344 @@
+Dashboard|| Menu Utama
+LSLB|| LSLB
+Farms|| Pertanian
+SSL Certificates|| SSL Sertifikat
+DSLB|| DSLB
+Monitoring|| Pemantauan
+Graphs|| Grafik
+Farm Stats|| Statistik Pertanian
+Farmguardians|| Petani
+Network|| jaringan
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| Antarmuka virtual
+Gateway|| Pintu gerbang
+System|| sistem
+Remote Services|| Layanan Jarak Jauh
+Backups|| backup
+User|| pemakai
+Logs|| Log
+License|| Lisensi
+Support Save|| Mendukung Hemat
+Create|| membuat
+Edit|| Ubah
+Configure|| Konfigurasi
+Upload|| Unggah
+View|| Melihat
+Generate CSR|| Hasilkan CSR
+farm|| kebun
+certificate|| sertifikat
+farmguardian|| penjaga pertanian
+VLAN|| VLAN
+virtual interface|| antarmuka virtual
+backup|| backup
+backend|| backend
+session|| Sidang
+Professional Products|| Produk Profesional
+Professional Services|| Layanan profesional
+News|| Berita
+Resources|| sumber
+System Stats|| Statistik Sistem
+CPU|| CPU
+Memory|| Ingatan
+Load|| Beban
+Cores|| Warna
+System Information|| Sistem Informasi
+Zevenet Version|| Versi Zevenet
+Appliance Version|| Versi Alat
+Kernel Version|| Versi Kernel
+Hostname|| hostname
+System Date|| Tanggal Sistem
+NIC Interfaces|| Antarmuka NIC
+Megabytes (MB)|| Megabita (MB)
+Farm List|| Daftar Pertanian
+Name|| Nama
+Profile|| profil
+Status|| Status
+LSLB Farm List|| Daftar Pertanian LSLB
+Create LSLB Farm|| Buat Pertanian LSLB
+Listener|| Pendengar
+Advanced settings|| pengaturan lanjutan
+Rewrite location headers|| Tulis ulang header lokasi
+HTTP verbs accepted|| Kata kerja HTTP diterima
+Backend connection timeout|| Batas waktu koneksi backend
+Backend response timeout|| Batas waktu respons backend
+Frequency to check resurrected backends|| Frekuensi untuk memeriksa backend yang dibangkitkan
+Client request timeout|| Batas waktu permintaan klien
+Message Error 414|| Pesan Kesalahan 414
+Message Error 500|| Pesan Kesalahan 500
+Message Error 501|| Pesan Kesalahan 501
+Message Error 503|| Pesan Kesalahan 503
+HTTPS Parameters|| Parameter HTTPS
+Disable SSLv2|| Nonaktifkan SSLv2
+Disable SSLv3|| Nonaktifkan SSLv3
+Disable TLSv1|| Nonaktifkan TLSv1
+Disable TLSv1.1|| Nonaktifkan TLSv1.1
+Disable TLSv1.2|| Nonaktifkan TLSv1.2
+Ciphers|| Cipher
+Custom Ciphers|| Cipher Kustom
+Certificate Enabled|| Sertifikat Diaktifkan
+Virtual Host|| Host Virtual
+URL Pattern|| Pola URL
+Least Response|| Respon Terendah
+HTTPS Backends|| Backends HTTPS
+Redirect|| redirect
+Redirect URL|| URL pengalihan
+Redirect Type|| Jenis Pengalihan
+Load balancer Algorithm|| Algoritma Load balancer
+Persistence|| Ketekunan
+Persistence session identifier|| Pengidentifikasi sesi kegigihan
+Persistence session time to live|| Sesi ketekunan waktu untuk hidup
+No persistence|| Tidak ada kegigihan
+IP: Client address|| IP: Alamat klien
+BASIC: Basic authentication|| BASIC: Otentikasi dasar
+URL: A request parameter|| URL: Parameter permintaan
+PARM: An URI parameter|| PARM: Parameter URI
+COOKIE: A certain cookie|| COOKIE: Cookie tertentu
+HEADER: A certain request header|| HEADER: Header permintaan tertentu
+Protocol type|| Jenis protokol
+Nat type|| Tipe Nat
+Load balancer Algorithm|| Algoritma Load balancer
+Persistence|| Ketekunan
+Persistence session time to live|| Sesi ketekunan waktu untuk hidup
+No persistence|| Tidak ada kegigihan
+IP: Source IP|| IP: Sumber IP
+Port: Source|| Port: Sumber
+MAC: Source MAC|| MAC: Sumber MAC
+Source IP and Source Port|| Sumber IP dan Port Sumber
+Source IP and Destination Port|| Sumber IP dan Port Tujuan
+Weight: connection linear dispatching by weight|| Berat: koneksi linear, pengiriman berdasarkan berat
+Source Hash: Hash per Source IP and Source Port|| Source Hash: Hash per IP Sumber dan Port Sumber
+Simple Source Hash: Hash per Source IP only|| Simple Source Hash: Hash per IP Sumber saja
+Symmetric Hash: Round trip hash per IP and Port|| Simetris Hash: Bolak-balik hash per IP dan Port
+Round Robin: Sequential backend selection|| Round Robin: Pilihan backend berurutan
+SSL Certificate List|| Daftar Sertifikat SSL
+Generate CSR|| Hasilkan CSR
+Upload SSL Certificate|| Unggah Sertifikat SSL
+Choose one or more files|| Pilih satu atau lebih file
+DSLB Farm List|| Daftar Pertanian DSLB
+Create DSLB Farm|| Buat DSLB Farm
+System Graphs|| Grafik Sistem
+Interfaces Graphs || Grafik Antarmuka
+Show Graphs|| Tampilkan Grafik
+Farms Graphs|| Grafik Pertanian
+Select Graphs|| Pilih Grafik
+Farms Stats|| Statistik Peternakan
+Farms Graphs|| Grafik Pertanian
+Farmguardians|| Petani
+Farms Settings|| Pengaturan Peternakan
+Create Farmguardian|| Buat Farmguardian
+NIC List|| Daftar NIC
+VLAN Interface List|| Daftar Antarmuka VLAN
+Create VLAN interface|| Buat antarmuka VLAN
+Virtual Interface List|| Daftar Antarmuka Virtual
+Create Virtual interface|| Buat antarmuka virtual
+IPv4 Gateway|| Gateway IPv4
+IPv6 Gateway|| Gateway IPv6
+Gateway Settings|| Pengaturan Gateway
+DNS Service|| Layanan DNS
+Default is 8.8.8.8|| Defaultnya adalah 8.8.8.8
+Optional|| Opsional
+Default is pool.ntp.org|| Defaultnya adalah pool.ntp.org
+Primary server|| Server primer
+Secondary server|| Server sekunder
+NPT Service|| Layanan NPT
+NPT Server|| Server NPT
+SNMP Service|| Layanan SNMP
+Enable SNMP|| Aktifkan SNMP
+Physical interface where is running SNMP service|| Antarmuka fisik tempat menjalankan layanan SNMP
+SNMP Port where is running SNMP service|| Port SNMP tempat menjalankan layanan SNMP
+Default is 161.|| Defaultnya adalah 161.
+Community name|| Nama komunitas
+IP or subnet with access (IP/bit)|| IP atau subnet dengan akses (IP / bit)
+Backup List|| Daftar Cadangan
+Upload Backup|| Unggah Cadangan
+Backup File|| File Cadangan
+Create Backup|| Buat Cadangan
+Choose one file|| Pilih satu file
+Settings User|| Pengaturan Pengguna
+User|| pemakai
+ZAPI Permissions|| Izin ZAPI
+ZAPI Key|| Kunci ZAPI
+Change Password|| Ubah Password
+Current Password|| kata sandi saat ini
+New Password|| Password Baru
+Repeat new password|| Ulangi kata sandi baru
+Log List|| Daftar Log
+Log View|| Lihat Log
+Number of lines|| Jumlah garis
+License|| Lisensi
+Support Save|| Mendukung Hemat
+When this action is executed a file with system information will be downloaded.|| Ketika tindakan ini dijalankan, sebuah file dengan informasi sistem akan diunduh.
+This action may take several seconds, you can continue browsing the GUI.|| Tindakan ini mungkin memakan waktu beberapa detik, Anda dapat melanjutkan menelusuri GUI.
+Name|| Nama
+Locality|| Lokalitas
+Country|| Negara
+State/Province|| Negara Bagian / Provinsi
+Common Name|| Nama yang umum
+Organization|| Organisasi
+Division|| Divisi
+E-mail Address|| Alamat E-mail
+Services Settings|| Pengaturan Layanan
+Global Settings|| Pengaturan global
+Virtual IP and Port|| IP dan Port Virtual
+Backend|| Backend
+Interval|| Selang
+Cut connections|| Potong koneksi
+Description|| Deskripsi
+Copy rule|| Salin aturan
+Rule to copy|| Aturan untuk menyalin
+seconds|| detik
+Log|| Log
+Address|| Alamat
+Virtual interface name|| Nama antarmuka virtual
+Parent Interface|| Antarmuka Induk
+VLAN Name|| Nama VLAN
+Farmguardian|| Penjaga pertanian
+Load balancer Algorithm|| Algoritma Load balancer
+Health Checks for backend|| Pemeriksaan Kesehatan untuk backend
+Descriptive text, this name will be used to identify this certificate.|| Teks deskriptif, nama ini akan digunakan untuk mengidentifikasi sertifikat ini.
+Only editable when the farm is down.|| Hanya dapat diedit saat pertanian turun.
+City where your organization is located.|| Kota tempat organisasi Anda berada.
+Country (two characters) where your organization is located.|| Negara (dua karakter) tempat organisasi Anda berada.
+State or province where your organization is located.|| Negara bagian atau provinsi tempat organisasi Anda berada.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN dari server. Contoh: domain.com, mail.domain.com, atau * .domain.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || Nama lengkap resmi organisasi / perusahaan Anda (mis .: Zevenet Co.).
+Your department; such as 'IT','Web', 'Office', etc.|| Departemen Anda; seperti 'IT', 'Web', 'Office', dll.
+Your email address.|| Alamat email Anda.
+Name|| Nama
+Name|| Nama
+Profile|| profil
+Virtual IP|| IP virtual
+Virtual Port|| Port Virtual
+Status|| Status
+Actions|| tindakan
+ID||  ID
+IP||  IP
+Address|| Alamat
+Port|| pelabuhan
+Timeout|| batas waktu
+Weight|| Berat
+Common Name|| Nama yang umum
+Type|| Tipe
+File|| fillet
+Issuer|| Penerbit
+Create on|| Buat di
+Expire on|| Kedaluwarsa pada
+Priority|| Prioritas
+Interface|| Antarmuka
+Service|| Jasa
+Client|| Pelanggan
+Sessions|| Sesi
+Session ID|| ID sesi
+Backend ID|| ID Backend
+Command|| perintah
+Description|| Deskripsi
+Farms|| Pertanian
+Farm|| Tanah pertanian
+Gateway|| Pintu gerbang
+Netmask|| Netmask
+MAC|| MAC
+IP Address (IPv4 / IPv6)|| Alamat IP (IPv4 / IPv6)
+VLAN tag|| Tag VLAN
+Date|| Tanggal
+Log|| Log
+Established Conns|| Perusahaan yang didirikan
+Pending Conns|| Conns yang tertunda
+No|| Tidak
+found|| ditemukan
+ is required|| diperlukan
+ is not valid, it only is possible alphanumeric characters and dash (-).|| tidak valid, hanya dimungkinkan karakter alfanumerik dan tanda hubung (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| tidak valid, ada kemungkinan untuk menentukan satu port, beberapa port atau rentang port (Contoh: 80 atau 80,81 atau 80: 90)
+ has to be greater than 0|| harus lebih besar dari 0
+ can only has two characters.|| hanya dapat memiliki dua karakter.
+ has to be a valid email.|| harus berupa email yang valid.
+does not match.|| tidak cocok.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dihapus.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Ladang <strong>{{param}}</strong> {{param2}} telah berhasil dihapus.
+Are you sure you want to delete the {{param}} farmname ?|| Anda yakin ingin menghapus {{param}} nama pertanian?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Ladang <strong>{{param}}</strong> telah {{param2}} berhasil disunting.
+The farm <strong>{{param}}</strong> has been created successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dibuat.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dimulai kembali.
+The backend has been created successfully.|| Backend telah berhasil dibuat.
+The profile has been changed to {{param}} successfully.|| Profil telah berhasil diubah menjadi {{param}}.
+The farmguardian has been disabled sucessfully.|| Penjaga pertanian telah berhasil dinonaktifkan.
+The farmguardian has been changed to {{param}} successfully.|| Penjaga pertanian telah berhasil diubah menjadi {{param}}.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> penjaga pertanian telah berhasil dibuat.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> farmguardian telah berhasil diperbarui
+Are you sure you want to delete the {{param}} farmguardian?|| Anda yakin ingin menghapus {{param}} farmguardian?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> penjaga pertanian telah berhasil dihapus.
+The farm has been updated successfully.|| Peternakan telah berhasil diperbarui.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Anda yakin ingin menghapus farm {{param}} {{param2}} farmguardian?
+Are you sure you want to delete the backend {{param}}?|| Anda yakin ingin menghapus backend {{param}}?
+The backend <strong>{{param}}</strong> has been deleted successfully|| Backend <strong>{{param}}</strong> telah berhasil dihapus
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| Backend <strong>{{param}}</strong> telah {{param2}} berhasil.
+The service <strong>{{param}}</strong> has been created successfully.|| Layanan <strong>{{param}}</strong> telah berhasil dibuat.
+The service <strong>{{param}}</strong> has been deleted successfully.|| Layanan <strong>{{param}}</strong> telah berhasil dihapus.
+The service <strong>{{param}}</strong> has been updated successfully.|| Layanan <strong>{{param}}</strong> telah berhasil diperbarui.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Gateway telah berhasil diperbarui.
+Are you sure you want to unset the current gateway?|| Apakah Anda yakin ingin membatalkan pengaturan gateway saat ini?
+Are you sure you want to unset the {{param}} gateway?|| Anda yakin ingin membatalkan gerbang {{param}}?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Gateway telah berhasil dikonfigurasi.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC telah berhasil diperbarui.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC telah berhasil dikonfigurasi.
+The <strong>{{param}}</strong> NIC is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC adalah {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil dibuat.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil diperbarui.
+Are you sure you want to delete the {{param}} Virtual interface?|| Yakin ingin menghapus {{param}} antarmuka virtual?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil dihapus.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil dibuat.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil diperbarui.
+Are you sure you want to delete the {{param}} VLAN?|| Yakin ingin menghapus VLAN {{param}}?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil dihapus.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN adalah {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil dibuat.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil diunggah.
+Are you sure you want to delete the backup {{param}}?|| Anda yakin ingin menghapus cadangan {{param}}?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil dihapus.
+The backup <strong>{{param}}</strong> has been applied successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil diterapkan.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| Cadangan <strong>{{backup}}</strong> telah berhasil diunduh.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| Log <strong>{{param}}</strong> telah berhasil diunduh.
+The <strong>{{param}}</strong> service has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> layanan telah berhasil diperbarui.
+The <strong> Support Save </strong> has been downloaded successfully|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong> Mendukung Hemat </strong> telah berhasil diunduh
+The user has been updated successfully.|| Pengguna telah berhasil diperbarui.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> telah berhasil dibuat.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil diunggah.
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil dihapus.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil diunduh.
+New Service|| Layanan Baru
+Create|| membuat
+Cancel|| Batal
+Submit|| Kirim
+Save|| Hemat
+Generate|| Menghasilkan
+Update|| memperbarui
+Upload|| Unggah
+Generate Random Key|| Hasilkan Kunci Acak
+Generate Support Save|| Hasilkan Dukungan, Simpan
+clear|| jelas
+start|| awal
+Apply|| Berlaku
+Add|| menambahkan
+Edit|| Ubah
+Go to Home|| Pergi ke rumah
+404 Page not Found|| Halaman 404 tidak Ditemukan
+The page you were looking for doesn't exist|| Halaman yang Anda cari tidak ada
+No farms found|| Tidak ada peternakan yang ditemukan
+Established Conns|| Perusahaan yang didirikan
+Pending Conns|| Conns yang tertunda
+Select a graph|| Pilih grafik
+Select a profile|| Pilih profil
+Select a Virtual IP|| Pilih IP Virtual
+Select a parent interface|| Pilih antarmuka induk
+Select an interface|| Pilih sebuah antarmuka
+Logout|| Keluar
+Sign in with your username and password|| Masuk dengan nama pengguna dan kata sandi Anda
+Username|| Nama Pengguna
+Password|| Kata Sandi
+Sign In|| Masuk
+User is required!|| Pengguna wajib!
+User should be the real one|| Pengguna harus menjadi yang asli
+Password is required|| katakunci dibutuhkan
+Password should contains {{param}} to {{param2}} characters|| Kata sandi harus berisi {{param}} hingga {{param2}} karakter
+Success!|| Sukses!
+You have been successfully logged in.|| Anda telah berhasil masuk.

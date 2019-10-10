@@ -1,0 +1,344 @@
+Dashboard|| Dashboard
+LSLB|| LSLB
+Farms|| Farms
+SSL Certificates|| Certificati SSL
+DSLB|| DSLB
+Monitoring|| Monitoraggio
+Graphs|| Grafici
+Farm Stats|| Statistiche di fattoria
+Farmguardians|| Farmguardians
+Network|| rete
+NIC|| NIC
+VLAN|| VLAN
+Virtual interfaces|| Interfacce virtuali
+Gateway|| porta
+System|| sistema
+Remote Services|| Servizi remoti
+Backups|| I backup
+User|| Utente
+Logs|| Registri
+License|| Licenza
+Support Save|| Supporto Salva
+Create|| Creare
+Edit|| Modifica
+Configure|| Configurazione
+Upload|| Caricare
+View|| Vedi
+Generate CSR|| Genera CSR
+farm|| fattoria
+certificate|| certificato
+farmguardian|| farmguardian
+VLAN|| VLAN
+virtual interface|| interfaccia virtuale
+backup|| di riserva
+backend|| backend
+session|| Sessione
+Professional Products|| Prodotti professionali
+Professional Services|| Servizi professionali
+News|| Notizie
+Resources|| Risorse
+System Stats|| Statistiche del sistema
+CPU|| processore
+Memory|| Memoria
+Load|| Caricare
+Cores|| Colori
+System Information|| Informazioni di sistema
+Zevenet Version|| Versione Zevenet
+Appliance Version|| Versione dell'appliance
+Kernel Version|| Versione del kernel
+Hostname|| Nome host
+System Date|| Data del sistema
+NIC Interfaces|| Interfacce NIC
+Megabytes (MB)|| Megabyte (MB)
+Farm List|| Elenco di aziende agricole
+Name|| Nome
+Profile|| Profilo
+Status|| Stato
+LSLB Farm List|| Elenco delle aziende agricole LSLB
+Create LSLB Farm|| Crea farm LSLB
+Listener|| Ascoltatore
+Advanced settings|| impostazioni avanzate
+Rewrite location headers|| Riscrivi intestazioni di posizione
+HTTP verbs accepted|| Verbi HTTP accettati
+Backend connection timeout|| Timeout della connessione back-end
+Backend response timeout|| Timeout della risposta backend
+Frequency to check resurrected backends|| Frequenza per controllare i backend risorti
+Client request timeout|| Timeout della richiesta del client
+Message Error 414|| Messaggio Errore 414
+Message Error 500|| Messaggio Errore 500
+Message Error 501|| Messaggio Errore 501
+Message Error 503|| Messaggio Errore 503
+HTTPS Parameters|| Parametri HTTPS
+Disable SSLv2|| Disabilita SSLv2
+Disable SSLv3|| Disabilita SSLv3
+Disable TLSv1|| Disabilita TLSv1
+Disable TLSv1.1|| Disabilita TLSv1.1
+Disable TLSv1.2|| Disabilita TLSv1.2
+Ciphers|| Ciphers
+Custom Ciphers|| Crittografie personalizzate
+Certificate Enabled|| Certificato abilitato
+Virtual Host|| Host virtuale
+URL Pattern|| Pattern URL
+Least Response|| Minima risposta
+HTTPS Backends|| Backend HTTPS
+Redirect|| Reindirizzare
+Redirect URL|| URL di reindirizzamento
+Redirect Type|| Tipo di reindirizzamento
+Load balancer Algorithm|| Algoritmo di bilanciamento del carico
+Persistence|| Persistenza
+Persistence session identifier|| Identificatore della sessione di persistenza
+Persistence session time to live|| Tempo di permanenza per vivere
+No persistence|| Nessuna persistenza
+IP: Client address|| IP: indirizzo del cliente
+BASIC: Basic authentication|| BASIC: autenticazione di base
+URL: A request parameter|| URL: un parametro di richiesta
+PARM: An URI parameter|| PARM: un parametro URI
+COOKIE: A certain cookie|| COOKIE: un determinato cookie
+HEADER: A certain request header|| HEADER: una determinata intestazione di richiesta
+Protocol type|| Tipo di protocollo
+Nat type|| Tipo nat
+Load balancer Algorithm|| Algoritmo di bilanciamento del carico
+Persistence|| Persistenza
+Persistence session time to live|| Tempo di permanenza per vivere
+No persistence|| Nessuna persistenza
+IP: Source IP|| IP: IP di origine
+Port: Source|| Porta: sorgente
+MAC: Source MAC|| MAC: Source MAC
+Source IP and Source Port|| Source IP e Source Port
+Source IP and Destination Port|| Source IP e Destination Port
+Weight: connection linear dispatching by weight|| Peso: collegamento lineare per spedizione lineare
+Source Hash: Hash per Source IP and Source Port|| Hash origine: Hash per origine IP e porta di origine
+Simple Source Hash: Hash per Source IP only|| Hash origine semplice: solo Hash per IP sorgente
+Symmetric Hash: Round trip hash per IP and Port|| Hash simmetrico: hash trip round per IP e porta
+Round Robin: Sequential backend selection|| Round Robin: selezione backend sequenziale
+SSL Certificate List|| Elenco di certificati SSL
+Generate CSR|| Genera CSR
+Upload SSL Certificate|| Carica certificato SSL
+Choose one or more files|| Scegli uno o più file
+DSLB Farm List|| Elenco delle farm DSLB
+Create DSLB Farm|| Crea farm DSLB
+System Graphs|| Grafici di sistema
+Interfaces Graphs || Grafici delle interfacce
+Show Graphs|| Mostra grafici
+Farms Graphs|| Farms Graphs
+Select Graphs|| Seleziona grafici
+Farms Stats|| Statistiche delle fattorie
+Farms Graphs|| Farms Graphs
+Farmguardians|| Farmguardians
+Farms Settings|| Impostazioni delle fattorie
+Create Farmguardian|| Crea Farmguardian
+NIC List|| Elenco NIC
+VLAN Interface List|| Elenco delle interfacce VLAN
+Create VLAN interface|| Crea un'interfaccia VLAN
+Virtual Interface List|| Elenco di interfaccia virtuale
+Create Virtual interface|| Crea un'interfaccia virtuale
+IPv4 Gateway|| Gateway IPv4
+IPv6 Gateway|| Gateway IPv6
+Gateway Settings|| Impostazioni del gateway
+DNS Service|| Servizio DNS
+Default is 8.8.8.8|| L'impostazione predefinita è 8.8.8.8
+Optional|| Facoltativo
+Default is pool.ntp.org|| L'impostazione predefinita è pool.ntp.org
+Primary server|| Server primario
+Secondary server|| Server secondario
+NPT Service|| Servizio NPT
+NPT Server|| Server NPT
+SNMP Service|| Servizio SNMP
+Enable SNMP|| Abilita SNMP
+Physical interface where is running SNMP service|| Interfaccia fisica su cui è in esecuzione il servizio SNMP
+SNMP Port where is running SNMP service|| Porta SNMP su cui è in esecuzione il servizio SNMP
+Default is 161.|| L'impostazione predefinita è 161.
+Community name|| Nome della comunità
+IP or subnet with access (IP/bit)|| IP o subnet con accesso (IP / bit)
+Backup List|| Elenco di backup
+Upload Backup|| Carica il backup
+Backup File|| File di backup
+Create Backup|| Creare il backup
+Choose one file|| Scegli un file
+Settings User|| Impostazioni utente
+User|| Utente
+ZAPI Permissions|| Autorizzazioni ZAPI
+ZAPI Key|| Chiave ZAPI
+Change Password|| Cambia la password
+Current Password|| Password attuale
+New Password|| Nuova password
+Repeat new password|| ripetere la nuova password
+Log List|| Lista dei registri
+Log View|| Entra Visualizza
+Number of lines|| Numero di linee
+License|| Licenza
+Support Save|| Supporto Salva
+When this action is executed a file with system information will be downloaded.|| Quando viene eseguita questa azione, verrà scaricato un file con informazioni di sistema.
+This action may take several seconds, you can continue browsing the GUI.|| Questa azione potrebbe richiedere alcuni secondi, è possibile continuare a sfogliare la GUI.
+Name|| Nome
+Locality|| Località
+Country|| Nazione
+State/Province|| Provincia
+Common Name|| Nome comune
+Organization|| Organizzazione
+Division|| Divisione
+E-mail Address|| Indirizzo email
+Services Settings|| Impostazioni servizi
+Global Settings|| Impostazioni globali
+Virtual IP and Port|| IP virtuale e porta
+Backend|| Backend
+Interval|| Intervallo
+Cut connections|| Tagliare le connessioni
+Description|| Descrizione 
+Copy rule|| Regola di copia
+Rule to copy|| Regola da copiare
+seconds|| secondo
+Log|| Log
+Address|| Indirizzo
+Virtual interface name|| Nome dell'interfaccia virtuale
+Parent Interface|| Interfaccia genitore
+VLAN Name|| Nome VLAN
+Farmguardian|| Farmguardian
+Load balancer Algorithm|| Algoritmo di bilanciamento del carico
+Health Checks for backend|| Controlli sanitari per il back-end
+Descriptive text, this name will be used to identify this certificate.|| Testo descrittivo, questo nome verrà utilizzato per identificare questo certificato.
+Only editable when the farm is down.|| Modificabile solo quando la farm è inattivo.
+City where your organization is located.|| Città in cui si trova la tua organizzazione.
+Country (two characters) where your organization is located.|| Paese (due caratteri) in cui si trova la tua organizzazione.
+State or province where your organization is located.|| Stato o provincia in cui si trova la tua organizzazione.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN del server. Esempio: dominio.com, mail.dominio.com o * dominio.com.
+The full legal name of your organization/company (ex.: Zevenet Co.). || Il nome legale completo della vostra organizzazione / società (es .: Zevenet Co.).
+Your department; such as 'IT','Web', 'Office', etc.|| Il tuo dipartimento; come &quot;IT&quot;, &quot;Web&quot;, &quot;Office&quot;, ecc.
+Your email address.|| Il tuo indirizzo e-mail.
+Name|| Nome
+Name|| Nome
+Profile|| Profilo
+Virtual IP|| IP virtuale
+Virtual Port|| Porta virtuale
+Status|| Stato
+Actions|| Azioni
+ID||  ID
+IP||  IP
+Address|| Indirizzo
+Port|| Porto
+Timeout|| timeout
+Weight|| Peso
+Common Name|| Nome comune
+Type|| Tipologia
+File|| Compila il 
+Issuer|| Emittente
+Create on|| Crea su
+Expire on|| Scadenza
+Priority|| Priorità
+Interface|| Interfaccia
+Service|| Assistenza
+Client|| Cliente
+Sessions|| Sessioni
+Session ID|| Session ID
+Backend ID|| ID back-end
+Command|| Comando
+Description|| Descrizione 
+Farms|| Farms
+Farm|| Fattoria
+Gateway|| porta
+Netmask|| maschera di rete
+MAC|| MAC
+IP Address (IPv4 / IPv6)|| Indirizzo IP (IPv4 / IPv6)
+VLAN tag|| Tag VLAN
+Date|| Data
+Log|| Log
+Established Conns|| Conns stabilito
+Pending Conns|| Connes in sospeso
+No|| non
+found|| trovato
+ is required|| è necessario
+ is not valid, it only is possible alphanumeric characters and dash (-).|| non è valido, è possibile solo caratteri alfanumerici e trattino (-).
+ not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| non è valido, è possibile definire una singola porta, più porte o intervalli di porte (Es: 80 o 80,81 o 80: 90)
+ has to be greater than 0|| deve essere maggiore di 0
+ can only has two characters.|| può avere solo due caratteri.
+ has to be a valid email.|| deve essere un'e-mail valida
+does not match.|| non corrisponde.
+The farm <strong>{{param}}</strong> has been deleted successfully.|| La Fattoria <strong>{{param}}</strong> è stato cancellato con successo.
+The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| La Fattoria <strong>{{param}}</strong> {{param2}} è stato cancellato con successo.
+Are you sure you want to delete the {{param}} farmname ?|| Sei sicuro di voler eliminare il {{param}} nome di campagna?
+The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| La Fattoria <strong>{{param}}</strong> è stato {{param2}} ed è riuscito.
+The farm <strong>{{param}}</strong> has been created successfully.|| La Fattoria <strong>{{param}}</strong> è stato creato con successo.
+The farm <strong>{{param}}</strong> has been restarted successfully.|| La Fattoria <strong>{{param}}</strong> è stato riavviato correttamente.
+The backend has been created successfully.|| Il back-end è stato creato con successo.
+The profile has been changed to {{param}} successfully.|| Il profilo è stato cambiato con {{param}} con successo.
+The farmguardian has been disabled sucessfully.|| Il guardiano della fattoria è stato disabilitato con successo.
+The farmguardian has been changed to {{param}} successfully.|| Il farmguardian è stato cambiato con {{param}} con successo.
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| Il sito <strong>{{param}}</strong> farmguardian è stato creato con successo.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| Il sito <strong>{{param}}</strong> farmguardian è stato aggiornato con successo
+Are you sure you want to delete the {{param}} farmguardian?|| Sei sicuro di voler eliminare il {{param}} farmguardian?
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| Il sito <strong>{{param}}</strong> farmguardian è stato cancellato con successo.
+The farm has been updated successfully.|| La fattoria è stata aggiornata con successo.
+Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Sei sicuro di voler eliminare la farm {{param}} {{param2}} del farmguardian?
+Are you sure you want to delete the backend {{param}}?|| Sei sicuro di voler eliminare il back-end {{param}}?
+The backend <strong>{{param}}</strong> has been deleted successfully|| Il back-end <strong>{{param}}</strong> è stato cancellato con successo
+The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| Il back-end <strong>{{param}}</strong> è stato {{param2}} con successo.
+The service <strong>{{param}}</strong> has been created successfully.|| Il servizio <strong>{{param}}</strong> è stato creato con successo.
+The service <strong>{{param}}</strong> has been deleted successfully.|| Il servizio <strong>{{param}}</strong> è stato cancellato con successo.
+The service <strong>{{param}}</strong> has been updated successfully.|| Il servizio <strong>{{param}}</strong> è stato aggiornato con successo.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| Il sito <strong>{{param}}</strong> Il gateway è stato aggiornato correttamente.
+Are you sure you want to unset the current gateway?|| Sei sicuro di voler disinserire il gateway corrente?
+Are you sure you want to unset the {{param}} gateway?|| Sei sicuro di voler disinserire il gateway {{param}}?
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| Il sito <strong>{{param}}</strong> Il gateway è stato non configurato correttamente.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| Il sito <strong>{{param}}</strong> La NIC è stata aggiornata con successo.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| Il sito <strong>{{param}}</strong> La NIC è stata deconfigurata con successo.
+The <strong>{{param}}</strong> NIC is {{param2}}|| Il sito <strong>{{param}}</strong> La NIC è {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| Il sito <strong>{{param}}</strong> L'interfaccia virtuale è stata creata con successo.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| Il sito <strong>{{param}}</strong> L'interfaccia virtuale è stata aggiornata con successo.
+Are you sure you want to delete the {{param}} Virtual interface?|| Sei sicuro di voler eliminare l'interfaccia virtuale {{param}}?
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| Il sito <strong>{{param}}</strong> L'interfaccia virtuale è stata cancellata con successo.
+The <strong>{{param}}</strong> VLAN has been created successfully.|| Il sito <strong>{{param}}</strong> La VLAN è stata creata con successo.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| Il sito <strong>{{param}}</strong> La VLAN è stata aggiornata correttamente.
+Are you sure you want to delete the {{param}} VLAN?|| Sei sicuro di voler eliminare la {{param}} VLAN?
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| Il sito <strong>{{param}}</strong> La VLAN è stata cancellata con successo.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| Il sito <strong>{{param}}</strong> La VLAN è {{param2}}
+The backup <strong>{{param}}</strong> has been created successfully.|| Il backup <strong>{{param}}</strong> è stato creato con successo.
+The backup <strong>{{param}}</strong> has been uploaded successfully.|| Il backup <strong>{{param}}</strong> è stato caricato con successo.
+Are you sure you want to delete the backup {{param}}?|| Sei sicuro di voler eliminare il backup {{param}}?
+The backup <strong>{{param}}</strong> has been deleted successfully.|| Il backup <strong>{{param}}</strong> è stato cancellato con successo.
+The backup <strong>{{param}}</strong> has been applied successfully.|| Il backup <strong>{{param}}</strong> è stato applicato con successo.
+The backup <strong>{{backup}}</strong> has been downloaded successfully.|| Il backup <strong>{{backup}}</strong> è stato scaricato con successo.
+The log <strong>{{param}}</strong> has been downloaded successfully.|| Il ceppo <strong>{{param}}</strong> è stato scaricato con successo.
+The <strong>{{param}}</strong> service has been updated successfully.|| Il sito <strong>{{param}}</strong> il servizio è stato aggiornato correttamente.
+The <strong> Support Save </strong> has been downloaded successfully|| Il sito <strong> Supporto Salva </strong> è stato scaricato con successo
+The user has been updated successfully.|| L'utente è stato aggiornato correttamente.
+The CSR <strong>{{param}}</strong> has been generated successfully.|| La CSR <strong>{{param}}</strong> è stato generato con successo.
+The certificate <strong>{{param}}</strong> has been uploaded successfully.|| Il certificato <strong>{{param}}</strong> è stato caricato con successo.
+The certificate <strong>{{param}}</strong> has been deleted successfully.|| Il certificato <strong>{{param}}</strong> è stato cancellato con successo.
+The certificate <strong>{{param}}</strong> has been downloaded successfully.|| Il certificato <strong>{{param}}</strong> è stato scaricato con successo.
+New Service|| Nuovo servizio
+Create|| Creare
+Cancel|| Annullare
+Submit|| Invio
+Save|| Risparmiare
+Generate|| Generare
+Update|| aggiornare
+Upload|| Caricare
+Generate Random Key|| Genera una chiave casuale
+Generate Support Save|| Genera supporto Salva
+clear|| pulire campo
+start|| start
+Apply|| Applicare
+Add|| aggiungere
+Edit|| Modifica
+Go to Home|| Vai a casa
+404 Page not Found|| Pagina 404 non trovata
+The page you were looking for doesn't exist|| La pagina che stavi cercando non esiste
+No farms found|| Nessuna fattoria trovata
+Established Conns|| Conns stabilito
+Pending Conns|| Connes in sospeso
+Select a graph|| Seleziona un grafico
+Select a profile|| Seleziona un profilo
+Select a Virtual IP|| Seleziona un IP virtuale
+Select a parent interface|| Seleziona un'interfaccia genitore
+Select an interface|| Seleziona un'interfaccia
+Logout|| Disconnetti
+Sign in with your username and password|| Accedi con il tuo nome utente e password
+Username|| Nome utente
+Password|| Parola d'ordine
+Sign In|| Accedi
+User is required!|| L'utente è richiesto!
+User should be the real one|| L'utente dovrebbe essere quello vero
+Password is required|| E 'richiesta la password
+Password should contains {{param}} to {{param2}} characters|| La password dovrebbe contenere caratteri da {{param}} a {{param2}}
+Success!|| Successo!
+You have been successfully logged in.|| Hai effettuato l'accesso con successo.
