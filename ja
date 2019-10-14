@@ -256,7 +256,7 @@ does not match.|| 一致していません。
 The farm <strong>{{param}}</strong> has been deleted successfully.|| 農場 <strong>{{param}}</strong> 削除されました。
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 農場 <strong>{{param}}</strong> {{param2}}は正常に削除されました。
 Are you sure you want to delete the {{param}} farmname ?|| {{param}}ファーム名を削除してもよろしいですか？
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| 農場 <strong>{{param}}</strong> {{param2}}は正常に処理されました。
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| 農場 <strong>{{param}}</strong> {{param2}}は成功しました。
 The farm <strong>{{param}}</strong> has been created successfully.|| 農場 <strong>{{param}}</strong> 正常に作成されました。
 The farm <strong>{{param}}</strong> has been restarted successfully.|| 農場 <strong>{{param}}</strong> 正常に再起動されました。
 The backend has been created successfully.|| バックエンドは正常に作成されました。
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェースは正常に更新されました。
 Are you sure you want to delete the {{param}} Virtual interface?|| {{param}}仮想インターフェースを削除してよろしいですか？
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェースは正常に削除されました。
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| 滞在期間の長さによって発生する <strong>{{param}}</strong> 仮想インターフェイスは{{param2}}です
 The <strong>{{param}}</strong> VLAN has been created successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは正常に作成されました。
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| 滞在期間の長さによって発生する <strong>{{param}}</strong> VLANは正常に更新されました。
 Are you sure you want to delete the {{param}} VLAN?|| {{param}} VLANを削除してよろしいですか？
@@ -342,3 +343,10 @@ Password is required|| パスワードが必要です
 Password should contains {{param}} to {{param2}} characters|| パスワードには{{param}}から{{param2}}文字を含める必要があります
 Success!|| 成功！
 You have been successfully logged in.|| あなたは正常にログインしました。
+put in maintenance|| メンテナンスする
+upped|| 上がった
+stopped|| 停止
+started|| 開始
+restarted|| 再起動した
+down|| ダウン
+up||  up

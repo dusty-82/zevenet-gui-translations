@@ -220,7 +220,7 @@ Timeout|| مهلة
 Weight|| الوزن
 Common Name|| اسم شائع
 Type|| النوع
-File|| تقديم
+File|| قم بتقديم
 Issuer|| المصدر
 Create on|| خلق على
 Expire on|| تنتهي في
@@ -256,7 +256,7 @@ does not match.|| لا يطابق.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| المزرعة <strong>{{param}}</strong> تم حذفه بنجاح
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| المزرعة <strong>{{param}}</strong> تم حذف {{param2}} بنجاح.
 Are you sure you want to delete the {{param}} farmname ?|| هل تريد بالتأكيد حذف اسم المزرعة {{param}}؟
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| المزرعة <strong>{{param}}</strong> تم {{param2}} بنجاح.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| المزرعة <strong>{{param}}</strong> تم {{param2}} بنجاح.
 The farm <strong>{{param}}</strong> has been created successfully.|| المزرعة <strong>{{param}}</strong> تم إنشاؤه بنجاح.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| المزرعة <strong>{{param}}</strong> تم اعادة التشغيل بنجاح.
 The backend has been created successfully.|| تم إنشاء الواجهة الخلفية بنجاح.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث الواجهة الافتراضية بنجاح.
 Are you sure you want to delete the {{param}} Virtual interface?|| هل تريد بالتأكيد حذف الواجهة الظاهرية {{param}}؟
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| الـ <strong>{{param}}</strong> تم حذف الواجهة الافتراضية بنجاح.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| الـ <strong>{{param}}</strong> الواجهة الافتراضية هي {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| الـ <strong>{{param}}</strong> تم إنشاء شبكة محلية ظاهرية بنجاح.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| الـ <strong>{{param}}</strong> تم تحديث VLAN بنجاح.
 Are you sure you want to delete the {{param}} VLAN?|| هل تريد بالتأكيد حذف شبكة محلية ظاهرية {{param}}؟
@@ -308,7 +309,7 @@ The certificate <strong>{{param}}</strong> has been downloaded successfully.|| �
 New Service|| خدمة جديدة
 Create|| خلق
 Cancel|| إلغاء
-Submit|| تسليم
+Submit|| تقديم
 Save|| حفظ
 Generate|| توليد
 Update|| تحديث
@@ -342,3 +343,10 @@ Password is required|| كلمة المرور مطلوبة
 Password should contains {{param}} to {{param2}} characters|| يجب أن تحتوي كلمة المرور على {{param}} على {{param2}} حرفًا
 Success!|| النجاح!
 You have been successfully logged in.|| قمت بتسجيل الدخول بنجاح.
+put in maintenance|| وضعت في الصيانة
+upped|| مرفوع
+stopped|| توقف
+started|| بدأت
+restarted|| إعادة تشغيل
+down|| إلى أسفل
+up||  up

@@ -256,7 +256,7 @@ does not match.|| मिलता जुलता नहीं है।
 The farm <strong>{{param}}</strong> has been deleted successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक हटा दिया गया है।
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| खेत <strong>{{param}}</strong> {{param2}} को सफलतापूर्वक हटा दिया गया है।
 Are you sure you want to delete the {{param}} farmname ?|| क्या आप वाकई {{param}} farmname हटाना चाहते हैं?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक {{param2}} एड किया गया है।
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक {{param2}} किया गया है।
 The farm <strong>{{param}}</strong> has been created successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक बनाया गया है।
 The farm <strong>{{param}}</strong> has been restarted successfully.|| खेत <strong>{{param}}</strong> सफलतापूर्वक पुनः आरंभ किया गया है।
 The backend has been created successfully.|| बैकएंड को सफलतापूर्वक बनाया गया है।
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक अपडेट किया गया है।
 Are you sure you want to delete the {{param}} Virtual interface?|| क्या आप वाकई {{param}} वर्चुअल इंटरफ़ेस हटाना चाहते हैं?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक हटा दिया गया है।
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| यह  <strong>{{param}}</strong> वर्चुअल इंटरफ़ेस {{param2}} है
 The <strong>{{param}}</strong> VLAN has been created successfully.|| यह  <strong>{{param}}</strong> VLAN को सफलतापूर्वक बनाया गया है।
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| यह  <strong>{{param}}</strong> VLAN को सफलतापूर्वक अपडेट कर दिया गया है।
 Are you sure you want to delete the {{param}} VLAN?|| क्या आप वाकई {{param}} VLAN को हटाना चाहते हैं?
@@ -342,3 +343,10 @@ Password is required|| पासवर्ड की आवश्यकता ह
 Password should contains {{param}} to {{param2}} characters|| पासवर्ड में {{param}} से {{param2}} अक्षर होने चाहिए
 Success!|| सफलता!
 You have been successfully logged in.|| आपने सफ़लतापूर्वक लॉग इन कर लिया है।
+put in maintenance|| रखरखाव में डाल दिया
+upped|| बढ़ा
+stopped|| रोक
+started|| शुरू
+restarted|| पुन: प्रारंभ
+down|| नीचे
+up||  up

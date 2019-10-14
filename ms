@@ -256,7 +256,7 @@ does not match.|| tidak sepadan.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Ladang <strong>{{param}}</strong> telah dipadam dengan jayanya.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Ladang <strong>{{param}}</strong> {{param2}} telah berjaya dipadam.
 Are you sure you want to delete the {{param}} farmname ?|| Adakah anda pasti mahu memadamkan nama ladang {{param}}?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Ladang <strong>{{param}}</strong> telah berjaya {{param2}} ed berjaya.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Ladang <strong>{{param}}</strong> telah berjaya {{param2}} berjaya.
 The farm <strong>{{param}}</strong> has been created successfully.|| Ladang <strong>{{param}}</strong> telah berjaya diwujudkan.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Ladang <strong>{{param}}</strong> telah berjaya dimulakan semula.
 The backend has been created successfully.|| Backend telah berjaya dibuat.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| Platform <strong>{{param}}</strong> Antara muka maya telah berjaya dikemas kini.
 Are you sure you want to delete the {{param}} Virtual interface?|| Adakah anda pasti mahu memadamkan {{param}} antara muka Maya?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| Platform <strong>{{param}}</strong> Antara muka maya telah berjaya dihapuskan.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| Platform <strong>{{param}}</strong> Interface Maya adalah {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| Platform <strong>{{param}}</strong> VLAN telah berjaya dicipta.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| Platform <strong>{{param}}</strong> VLAN telah berjaya dikemas kini.
 Are you sure you want to delete the {{param}} VLAN?|| Adakah anda pasti mahu memadamkan VLAN {{param}}?
@@ -342,3 +343,10 @@ Password is required|| Kata laluan diperlukan
 Password should contains {{param}} to {{param2}} characters|| Kata laluan harus mengandungi {{param}} kepada aksara {{param2}}
 Success!|| Kejayaan!
 You have been successfully logged in.|| Anda berjaya dilog masuk.
+put in maintenance|| diletakkan dalam penyelenggaraan
+upped|| naik
+stopped|| berhenti
+started|| bermula
+restarted|| dimulakan semula
+down|| turun
+up||  up

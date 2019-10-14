@@ -256,7 +256,7 @@ does not match.|| 일치하지 않습니다.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| 농장 <strong>{{param}}</strong> 삭제되었습니다.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 농장 <strong>{{param}}</strong> {{param2}}이 (가) 성공적으로 삭제되었습니다.
 Are you sure you want to delete the {{param}} farmname ?|| {{param}} 팜 이름을 삭제 하시겠습니까?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| 농장 <strong>{{param}}</strong> {{param2}}이 (가) 성공적으로 처리되었습니다.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| 농장 <strong>{{param}}</strong> {{param2}}되었습니다.
 The farm <strong>{{param}}</strong> has been created successfully.|| 농장 <strong>{{param}}</strong> 이 (가) 성공적으로 생성되었습니다.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| 농장 <strong>{{param}}</strong> 다시 시작되었습니다.
 The backend has been created successfully.|| 백엔드가 성공적으로 생성되었습니다.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.||   <strong>{{param}}</strong> 가상 인터페이스가 성공적으로 업데이트되었습니다.
 Are you sure you want to delete the {{param}} Virtual interface?|| {{param}} 가상 인터페이스를 삭제 하시겠습니까?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.||   <strong>{{param}}</strong> 가상 인터페이스가 성공적으로 삭제되었습니다.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}||   <strong>{{param}}</strong> 가상 인터페이스는 {{param2}}입니다.
 The <strong>{{param}}</strong> VLAN has been created successfully.||   <strong>{{param}}</strong> VLAN이 성공적으로 생성되었습니다.
 The <strong>{{param}}</strong> VLAN has been updated successfully.||   <strong>{{param}}</strong> VLAN이 성공적으로 업데이트되었습니다.
 Are you sure you want to delete the {{param}} VLAN?|| {{param}} VLAN을 삭제 하시겠습니까?
@@ -342,3 +343,10 @@ Password is required|| 비밀번호가 필요합니다.
 Password should contains {{param}} to {{param2}} characters|| 비밀번호에는 {{param}} ~ {{param2}}자를 포함해야합니다.
 Success!|| 성공!
 You have been successfully logged in.|| 귀하는 성공적으로 로그인되었습니다.
+put in maintenance|| 정비하다
+upped|| 올랐다
+stopped|| 정지
+started|| 시작
+restarted|| 다시 시작
+down|| 아래 (down)
+up||  up

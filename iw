@@ -256,17 +256,17 @@ does not match.|| לא מתאים.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| החווה <strong>{{param}}</strong> נמחק בהצלחה.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| החווה <strong>{{param}}</strong> {{param2}} נמחק בהצלחה.
 Are you sure you want to delete the {{param}} farmname ?|| האם אתה בטוח שברצונך למחוק את שם החשבון {{param}}?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| החווה <strong>{{param}}</strong> {{param2}} בהצלחה.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| החווה <strong>{{param}}</strong> {{param2}} בהצלחה.
 The farm <strong>{{param}}</strong> has been created successfully.|| החווה <strong>{{param}}</strong> נוצרה בהצלחה.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| החווה <strong>{{param}}</strong> הופעל מחדש בהצלחה.
 The backend has been created successfully.|| ה- backend נוצר בהצלחה.
 The profile has been changed to {{param}} successfully.|| הפרופיל השתנה ל- {{param}} בהצלחה.
 The farmguardian has been disabled sucessfully.|| החוואי הושבת בהצלחה.
 The farmguardian has been changed to {{param}} successfully.|| שומר החלב השתנה ל- {{param}} בהצלחה.
-The <strong>{{param}}</strong> farmguardian has been created successfully.|| קטגורית <strong>{{param}}</strong> Farmguardian נוצר בהצלחה.
-The <strong>{{param}}</strong> farmguardian has been updated successfully|| קטגורית <strong>{{param}}</strong> farmguardian עודכן בהצלחה
+The <strong>{{param}}</strong> farmguardian has been created successfully.|| ה <strong>{{param}}</strong> Farmguardian נוצר בהצלחה.
+The <strong>{{param}}</strong> farmguardian has been updated successfully|| ה <strong>{{param}}</strong> farmguardian עודכן בהצלחה
 Are you sure you want to delete the {{param}} farmguardian?|| האם אתה בטוח שברצונך למחוק את {{param}} farmguardian?
-The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| קטגורית <strong>{{param}}</strong> Farmguardian נמחק בהצלחה.
+The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| ה <strong>{{param}}</strong> Farmguardian נמחק בהצלחה.
 The farm has been updated successfully.|| החווה עודכנה בהצלחה.
 Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| האם אתה בטוח שברצונך למחוק את החווה {{param}} {{param2}} של החוואי?
 Are you sure you want to delete the backend {{param}}?|| האם אתה בטוח שברצונך למחוק את ה- backend {{param}}?
@@ -275,22 +275,23 @@ The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| את 
 The service <strong>{{param}}</strong> has been created successfully.|| השירות <strong>{{param}}</strong> נוצרה בהצלחה.
 The service <strong>{{param}}</strong> has been deleted successfully.|| השירות <strong>{{param}}</strong> נמחק בהצלחה.
 The service <strong>{{param}}</strong> has been updated successfully.|| השירות <strong>{{param}}</strong> עודכן בהצלחה.
-The <strong>{{param}}</strong> Gateway has been updated successfully.|| קטגורית <strong>{{param}}</strong> שער עודכן בהצלחה.
+The <strong>{{param}}</strong> Gateway has been updated successfully.|| ה <strong>{{param}}</strong> שער עודכן בהצלחה.
 Are you sure you want to unset the current gateway?|| האם אתה בטוח שברצונך לבטל את הגדרת השער הנוכחי?
 Are you sure you want to unset the {{param}} gateway?|| האם אתה בטוח שברצונך לבטל את הגדרת השער {{param}}?
-The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| קטגורית <strong>{{param}}</strong> Gateway לא הוגדר בהצלחה.
-The <strong>{{param}}</strong> NIC has been updated successfully.|| קטגורית <strong>{{param}}</strong> NIC עודכן בהצלחה.
-The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| קטגורית <strong>{{param}}</strong> NIC כבר unconfigured בהצלחה.
-The <strong>{{param}}</strong> NIC is {{param2}}|| קטגורית <strong>{{param}}</strong> NIC הוא {{param2}}
-The <strong>{{param}}</strong> Virtual interface has been created successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי נוצר בהצלחה.
-The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי עודכן בהצלחה.
+The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| ה <strong>{{param}}</strong> Gateway לא הוגדר בהצלחה.
+The <strong>{{param}}</strong> NIC has been updated successfully.|| ה <strong>{{param}}</strong> NIC עודכן בהצלחה.
+The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| ה <strong>{{param}}</strong> NIC כבר unconfigured בהצלחה.
+The <strong>{{param}}</strong> NIC is {{param2}}|| ה <strong>{{param}}</strong> NIC הוא {{param2}}
+The <strong>{{param}}</strong> Virtual interface has been created successfully.|| ה <strong>{{param}}</strong> ממשק וירטואלי נוצר בהצלחה.
+The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| ה <strong>{{param}}</strong> ממשק וירטואלי עודכן בהצלחה.
 Are you sure you want to delete the {{param}} Virtual interface?|| האם אתה בטוח שברצונך למחוק את הממשק {{param}} הוירטואלי?
-The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| קטגורית <strong>{{param}}</strong> ממשק וירטואלי נמחק בהצלחה.
-The <strong>{{param}}</strong> VLAN has been created successfully.|| קטגורית <strong>{{param}}</strong> VLAN נוצר בהצלחה.
-The <strong>{{param}}</strong> VLAN has been updated successfully.|| קטגורית <strong>{{param}}</strong> VLAN עודכן בהצלחה.
+The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| ה <strong>{{param}}</strong> ממשק וירטואלי נמחק בהצלחה.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| ה <strong>{{param}}</strong> הממשק הווירטואלי הוא {{param2}}
+The <strong>{{param}}</strong> VLAN has been created successfully.|| ה <strong>{{param}}</strong> VLAN נוצר בהצלחה.
+The <strong>{{param}}</strong> VLAN has been updated successfully.|| ה <strong>{{param}}</strong> VLAN עודכן בהצלחה.
 Are you sure you want to delete the {{param}} VLAN?|| האם אתה בטוח שברצונך למחוק את {{param}} VLAN?
-The <strong>{{param}}</strong> VLAN has been deleted successfully.|| קטגורית <strong>{{param}}</strong> VLAN נמחק בהצלחה.
-The <strong>{{param}}</strong> VLAN is {{param2}}|| קטגורית <strong>{{param}}</strong> VLAN הוא {{param2}}
+The <strong>{{param}}</strong> VLAN has been deleted successfully.|| ה <strong>{{param}}</strong> VLAN נמחק בהצלחה.
+The <strong>{{param}}</strong> VLAN is {{param2}}|| ה <strong>{{param}}</strong> VLAN הוא {{param2}}
 The backup <strong>{{param}}</strong> has been created successfully.|| הגיבוי <strong>{{param}}</strong> נוצרה בהצלחה.
 The backup <strong>{{param}}</strong> has been uploaded successfully.|| הגיבוי <strong>{{param}}</strong> הועלה בהצלחה.
 Are you sure you want to delete the backup {{param}}?|| האם אתה בטוח שברצונך למחוק את הגיבוי {{param}}?
@@ -298,8 +299,8 @@ The backup <strong>{{param}}</strong> has been deleted successfully.|| הגיב�
 The backup <strong>{{param}}</strong> has been applied successfully.|| הגיבוי <strong>{{param}}</strong> הוחל בהצלחה.
 The backup <strong>{{backup}}</strong> has been downloaded successfully.|| הגיבוי <strong>{{backup}}</strong> הורד בהצלחה.
 The log <strong>{{param}}</strong> has been downloaded successfully.|| היומן <strong>{{param}}</strong> הורד בהצלחה.
-The <strong>{{param}}</strong> service has been updated successfully.|| קטגורית <strong>{{param}}</strong> השירות עודכן בהצלחה.
-The <strong> Support Save </strong> has been downloaded successfully|| קטגורית <strong> שמור תמיכה </strong> הורד בהצלחה
+The <strong>{{param}}</strong> service has been updated successfully.|| ה <strong>{{param}}</strong> השירות עודכן בהצלחה.
+The <strong> Support Save </strong> has been downloaded successfully|| ה <strong> שמור תמיכה </strong> הורד בהצלחה
 The user has been updated successfully.|| המשתמש עודכן בהצלחה.
 The CSR <strong>{{param}}</strong> has been generated successfully.|| אחריות חברתית <strong>{{param}}</strong> נוצרה בהצלחה.
 The certificate <strong>{{param}}</strong> has been uploaded successfully.|| התעודה <strong>{{param}}</strong> הועלה בהצלחה.
@@ -342,3 +343,10 @@ Password is required|| דרושה סיסמא
 Password should contains {{param}} to {{param2}} characters|| הסיסמה צריכה להכיל {{param}} לתווים {{param2}}
 Success!|| הצלחה!
 You have been successfully logged in.|| התחברת בהצלחה.
+put in maintenance|| להכניס תחזוקה
+upped|| למעלה
+stopped|| נעצר
+started|| החל
+restarted|| הופעל מחדש
+down|| מטה
+up||  up

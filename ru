@@ -256,7 +256,7 @@ does not match.|| не совпадает.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Ферма <strong>{{param}}</strong> был успешно удален.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Ферма <strong>{{param}}</strong> {{param2}} был успешно удален.
 Are you sure you want to delete the {{param}} farmname ?|| Вы уверены, что хотите удалить имя фермы {{param}}?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Ферма <strong>{{param}}</strong> {{param2}} успешно отредактирован.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Ферма <strong>{{param}}</strong> успешно прошел {{param2}}.
 The farm <strong>{{param}}</strong> has been created successfully.|| Ферма <strong>{{param}}</strong> был успешно создан.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Ферма <strong>{{param}}</strong> был перезапущен успешно.
 The backend has been created successfully.|| Бэкэнд был успешно создан.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.||   <strong>{{param}}</strong> Виртуальный интерфейс был успешно обновлен.
 Are you sure you want to delete the {{param}} Virtual interface?|| Вы уверены, что хотите удалить виртуальный интерфейс {{param}}?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.||   <strong>{{param}}</strong> Виртуальный интерфейс был успешно удален.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}||   <strong>{{param}}</strong> Виртуальный интерфейс - {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.||   <strong>{{param}}</strong> VLAN был успешно создан.
 The <strong>{{param}}</strong> VLAN has been updated successfully.||   <strong>{{param}}</strong> VLAN успешно обновлен.
 Are you sure you want to delete the {{param}} VLAN?|| Вы уверены, что хотите удалить VLAN {{param}}?
@@ -342,3 +343,10 @@ Password is required|| необходим пароль
 Password should contains {{param}} to {{param2}} characters|| Пароль должен содержать символы от {{param}} до {{param2}}
 Success!|| Успех!
 You have been successfully logged in.|| Вы успешно вошли в систему.
+put in maintenance|| вводить в эксплуатацию
+upped|| увеличил
+stopped|| остановившийся
+started|| началась
+restarted|| перезапущен
+down|| вниз
+up||  up

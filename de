@@ -219,8 +219,8 @@ Port|| Hafen
 Timeout|| Timeout
 Weight|| Gewicht
 Common Name|| Gemeinsamen Namen
-Type|| Type
-File|| Datei
+Type|| Art
+File|| Reichen Sie das
 Issuer|| Aussteller
 Create on|| Erstellen Sie am
 Expire on|| Verfällt am
@@ -256,7 +256,7 @@ does not match.|| stimmt nicht überein.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Der Bauernhof <strong>{{param}}</strong> wurde erfolgreich gelöscht.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Der Bauernhof <strong>{{param}}</strong> {{param2}} wurde erfolgreich gelöscht.
 Are you sure you want to delete the {{param}} farmname ?|| Möchten Sie den Farmnamen {{param}} wirklich löschen?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Der Bauernhof <strong>{{param}}</strong> wurde {{param2}} erfolgreich bearbeitet.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Der Bauernhof <strong>{{param}}</strong> war {{param2}} erfolgreich
 The farm <strong>{{param}}</strong> has been created successfully.|| Der Bauernhof <strong>{{param}}</strong> wurde erfolgreich erstellt.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Der Bauernhof <strong>{{param}}</strong> wurde erfolgreich neu gestartet.
 The backend has been created successfully.|| Das Backend wurde erfolgreich erstellt.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| Die <strong>{{param}}</strong> Die virtuelle Schnittstelle wurde erfolgreich aktualisiert.
 Are you sure you want to delete the {{param}} Virtual interface?|| Möchten Sie die virtuelle Schnittstelle {{param}} wirklich löschen?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| Die <strong>{{param}}</strong> Virtuelle Schnittstelle wurde erfolgreich gelöscht.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| Die <strong>{{param}}</strong> Virtuelle Schnittstelle ist {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| Die <strong>{{param}}</strong> VLAN wurde erfolgreich erstellt.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| Die <strong>{{param}}</strong> VLAN wurde erfolgreich aktualisiert.
 Are you sure you want to delete the {{param}} VLAN?|| Möchten Sie das {{param}} VLAN wirklich löschen?
@@ -342,3 +343,10 @@ Password is required|| Passwort wird benötigt
 Password should contains {{param}} to {{param2}} characters|| Das Passwort sollte {{param}} bis {{param2}} Zeichen enthalten
 Success!|| Success!
 You have been successfully logged in.|| Sie haben sich erfolgreich eingeloggt.
+put in maintenance|| Wartung einsetzen
+upped|| erhöht
+stopped|| gestoppt
+started|| begonnen
+restarted|| neu gestartet
+down|| nach unten
+up||  up

@@ -256,7 +256,7 @@ does not match.|| ei klapi.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Talu <strong>{{param}}</strong> on edukalt kustutatud.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Talu <strong>{{param}}</strong> {{param2}} on edukalt kustutatud.
 Are you sure you want to delete the {{param}} farmname ?|| Kas soovite kindlasti {{param}} farmnimi kustutada?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Talu <strong>{{param}}</strong> on {{param2}} edukas.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Talu <strong>{{param}}</strong> on edukalt {{param2}}.
 The farm <strong>{{param}}</strong> has been created successfully.|| Talu <strong>{{param}}</strong> on edukalt loodud.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Talu <strong>{{param}}</strong> on edukalt käivitatud.
 The backend has been created successfully.|| Taustaprogramm on edukalt loodud.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| The <strong>{{param}}</strong> Virtuaalne liides on edukalt uuendatud.
 Are you sure you want to delete the {{param}} Virtual interface?|| Kas soovite kindlasti {{param}} virtuaalse liidese kustutada?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| The <strong>{{param}}</strong> Virtuaalne liides on edukalt kustutatud.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| The <strong>{{param}}</strong> Virtuaalne liides on {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| The <strong>{{param}}</strong> VLAN on edukalt loodud.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| The <strong>{{param}}</strong> VLAN on edukalt uuendatud.
 Are you sure you want to delete the {{param}} VLAN?|| Kas soovite kindlasti {{param}} VLAN-i kustutada?
@@ -342,3 +343,10 @@ Password is required|| Parool on vajalik
 Password should contains {{param}} to {{param2}} characters|| Parool peaks sisaldama {{param}} {{param2}} tähemärki
 Success!|| Edu!
 You have been successfully logged in.|| Olete edukalt sisse logitud.
+put in maintenance|| hooldusesse panema
+upped|| üleval
+stopped|| peatatud
+started|| alustatud
+restarted|| taaskäivitatud
+down|| alla
+up||  up

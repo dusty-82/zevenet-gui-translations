@@ -256,7 +256,7 @@ does not match.|| passer ikke sammen.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Gården <strong>{{param}}</strong> er blevet slettet korrekt.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Gården <strong>{{param}}</strong> {{param2}} er blevet slettet korrekt.
 Are you sure you want to delete the {{param}} farmname ?|| Er du sikker på, at du vil slette {{param}} farmname?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Gården <strong>{{param}}</strong> har været {{param2}} ed med succes.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Gården <strong>{{param}}</strong> har været {{param2}} succesfuldt.
 The farm <strong>{{param}}</strong> has been created successfully.|| Gården <strong>{{param}}</strong> er blevet oprettet med succes.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Gården <strong>{{param}}</strong> er blevet genstartet med succes.
 The backend has been created successfully.|| Baggrunden er oprettet med succes.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| Den <strong>{{param}}</strong> Virtuel grænseflade er blevet opdateret med succes.
 Are you sure you want to delete the {{param}} Virtual interface?|| Er du sikker på, at du vil slette {{param}} Virtual-grænsefladen?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| Den <strong>{{param}}</strong> Virtual interface er slettet korrekt.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| Den <strong>{{param}}</strong> Virtuel interface er {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| Den <strong>{{param}}</strong> VLAN er blevet oprettet med succes.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| Den <strong>{{param}}</strong> VLAN er blevet opdateret med succes.
 Are you sure you want to delete the {{param}} VLAN?|| Er du sikker på, at du vil slette {{param}} VLAN?
@@ -342,3 +343,10 @@ Password is required|| adgangskode er påkrævet
 Password should contains {{param}} to {{param2}} characters|| Adgangskoden skal indeholde {{param}} til {{param2}} tegn
 Success!|| Succes!
 You have been successfully logged in.|| Du er blevet logget ind.
+put in maintenance|| læg i vedligeholdelse
+upped|| forøgede
+stopped|| stoppet
+started|| påbegyndt
+restarted|| genstartes
+down|| ned
+up||  up

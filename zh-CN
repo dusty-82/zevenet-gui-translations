@@ -256,7 +256,7 @@ does not match.|| 不匹配。
 The farm <strong>{{param}}</strong> has been deleted successfully.|| 农场 <strong>{{param}}</strong> 已成功删除。
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 农场 <strong>{{param}}</strong> {{param2}}已成功删除。
 Are you sure you want to delete the {{param}} farmname ?|| 您确定要删除{{param}}农场名吗？
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| 农场 <strong>{{param}}</strong> 已成功{{param2}}编辑。
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| 农场 <strong>{{param}}</strong> 已成功{{param2}}。
 The farm <strong>{{param}}</strong> has been created successfully.|| 农场 <strong>{{param}}</strong> 已成功创建。
 The farm <strong>{{param}}</strong> has been restarted successfully.|| 农场 <strong>{{param}}</strong> 已成功重启。
 The backend has been created successfully.|| 后端已成功创建。
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功更新。
 Are you sure you want to delete the {{param}} Virtual interface?|| 您确定要删除{{param}}虚拟界面吗？
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功删除。
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| 在此 <strong>{{param}}</strong> 虚拟接口为{{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| 在此 <strong>{{param}}</strong> 已成功创建VLAN。
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| 在此 <strong>{{param}}</strong> VLAN已成功更新。
 Are you sure you want to delete the {{param}} VLAN?|| 您确定要删除{{param}} VLAN吗？
@@ -342,3 +343,10 @@ Password is required|| 密码是必需的
 Password should contains {{param}} to {{param2}} characters|| 密码应包含{{param}}到{{param2}}个字符
 Success!|| 成功了！
 You have been successfully logged in.|| 您已成功登录。
+put in maintenance|| 进行维护
+upped|| 提升
+stopped|| 停止
+started|| 开始
+restarted|| 重新启动
+down|| 向下
+up||  up

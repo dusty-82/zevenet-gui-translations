@@ -256,7 +256,7 @@ does not match.|| komt niet overeen.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| De boerderij <strong>{{param}}</strong> is succesvol verwijderd.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| De boerderij <strong>{{param}}</strong> {{param2}} is met succes verwijderd.
 Are you sure you want to delete the {{param}} farmname ?|| Weet je zeker dat je de farmnaam van {{param} wilt verwijderen?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| De boerderij <strong>{{param}}</strong> is {{param2}} ed succesvol geweest.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| De boerderij <strong>{{param}}</strong> is {{param2}} succesvol geweest.
 The farm <strong>{{param}}</strong> has been created successfully.|| De boerderij <strong>{{param}}</strong> is met succes gemaakt.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| De boerderij <strong>{{param}}</strong> is succesvol opnieuw gestart.
 The backend has been created successfully.|| De backend is met succes gemaakt.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| De <strong>{{param}}</strong> Virtuele interface is succesvol bijgewerkt.
 Are you sure you want to delete the {{param}} Virtual interface?|| Weet u zeker dat u de virtuele interface {{param}} wilt verwijderen?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| De <strong>{{param}}</strong> Virtuele interface is succesvol verwijderd.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| De <strong>{{param}}</strong> Virtuele interface is {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| De <strong>{{param}}</strong> VLAN is met succes gemaakt.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| De <strong>{{param}}</strong> VLAN is succesvol bijgewerkt.
 Are you sure you want to delete the {{param}} VLAN?|| Weet u zeker dat u het {{param}} VLAN wilt verwijderen?
@@ -342,3 +343,10 @@ Password is required|| Een wachtwoord is verplicht
 Password should contains {{param}} to {{param2}} characters|| Wachtwoord moet {{param}} to {{param2}} tekens bevatten
 Success!|| Succes!
 You have been successfully logged in.|| U bent succesvol ingelogd.
+put in maintenance|| in onderhoud zetten
+upped|| upped
+stopped|| gestopt
+started|| gestart
+restarted|| hernieuwd
+down|| beneden
+up||  up

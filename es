@@ -256,7 +256,7 @@ does not match.|| no coincide.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| La granja <strong>{{param}}</strong> ha sido eliminado exitosamente
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| La granja <strong>{{param}}</strong> {{param2}} se ha eliminado correctamente.
 Are you sure you want to delete the {{param}} farmname ?|| ¿Estás seguro de que deseas eliminar el nombre de la granja {{param}}?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| La granja <strong>{{param}}</strong> ha sido {{param2}}da correctamente.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| La granja <strong>{{param}}</strong> ha sido {{param2}} correctamente.
 The farm <strong>{{param}}</strong> has been created successfully.|| La granja <strong>{{param}}</strong> ha sido creada exitosamente
 The farm <strong>{{param}}</strong> has been restarted successfully.|| La granja <strong>{{param}}</strong> ha sido reiniciada con éxito.
 The backend has been created successfully.|| El backend ha sido creado con éxito.
@@ -286,11 +286,12 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| La interfaz virtual<strong>{{param}}</strong> se ha actualizado con éxito.
 Are you sure you want to delete the {{param}} Virtual interface?|| ¿Está seguro de que desea eliminar la interfaz virtual {{param}}?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| La interfaz virtual <strong>{{param}}</strong> se ha eliminado con éxito.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| La Interfaz virtual <strong>{{param}}</strong> esta {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| La VLAN <strong>{{param}}</strong> se ha creado con éxito.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| La VLAN <strong>{{param}}</strong> se ha actualizado con éxito.
 Are you sure you want to delete the {{param}} VLAN?|| ¿Está seguro de que desea eliminar la VLAN {{param}}?
 The <strong>{{param}}</strong> VLAN has been deleted successfully.|| La VLAN <strong>{{param}}</strong> se ha eliminado con éxito.
-The <strong>{{param}}</strong> VLAN is {{param2}}|| La VLAN <strong>{{param}}</strong> es {{param2}}
+The <strong>{{param}}</strong> VLAN is {{param2}}|| La VLAN <strong>{{param}}</strong> esta {{param2}}
 The backup <strong>{{param}}</strong> has been created successfully.|| La copia de seguridad <strong>{{param}}</strong> ha sido creada exitosamente
 The backup <strong>{{param}}</strong> has been uploaded successfully.|| La copia de seguridad <strong>{{param}}</strong> se ha subido con éxito.
 Are you sure you want to delete the backup {{param}}?|| ¿Está seguro de que desea eliminar la copia de seguridad {{param}}?
@@ -342,3 +343,10 @@ Password is required|| se requiere contraseña
 Password should contains {{param}} to {{param2}} characters|| La contraseña debe contener de {{param}} a {{param2}} caracteres
 Success!|| Éxito!
 You have been successfully logged in.|| Has ingresado exitosamente.
+put in maintenance|| puesto en mantenimiento
+upped|| levantado
+stopped|| parada
+started|| iniciada
+restarted|| reiniciada
+down|| deshabilitada
+up|| habilitada

@@ -256,7 +256,7 @@ does not match.|| tidak cocok.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dihapus.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Ladang <strong>{{param}}</strong> {{param2}} telah berhasil dihapus.
 Are you sure you want to delete the {{param}} farmname ?|| Anda yakin ingin menghapus {{param}} nama pertanian?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| Ladang <strong>{{param}}</strong> telah {{param2}} berhasil disunting.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Ladang <strong>{{param}}</strong> telah {{param2}} berhasil.
 The farm <strong>{{param}}</strong> has been created successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dibuat.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dimulai kembali.
 The backend has been created successfully.|| Backend telah berhasil dibuat.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil diperbarui.
 Are you sure you want to delete the {{param}} Virtual interface?|| Yakin ingin menghapus {{param}} antarmuka virtual?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil dihapus.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka Virtual adalah {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil dibuat.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil diperbarui.
 Are you sure you want to delete the {{param}} VLAN?|| Yakin ingin menghapus VLAN {{param}}?
@@ -342,3 +343,10 @@ Password is required|| katakunci dibutuhkan
 Password should contains {{param}} to {{param2}} characters|| Kata sandi harus berisi {{param}} hingga {{param2}} karakter
 Success!|| Sukses!
 You have been successfully logged in.|| Anda telah berhasil masuk.
+put in maintenance|| dimasukkan ke dalam pemeliharaan
+upped|| terangkat
+stopped|| terhenti
+started|| mulai
+restarted|| restart
+down|| turun
+up||  up

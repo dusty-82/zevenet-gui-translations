@@ -256,7 +256,7 @@ does not match.|| não corresponde.
 The farm <strong>{{param}}</strong> has been deleted successfully.|| A Fazenda <strong>{{param}}</strong> foi eliminado com sucesso.
 The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| A Fazenda <strong>{{param}}</strong> {{param2}} foi excluído com sucesso.
 Are you sure you want to delete the {{param}} farmname ?|| Tem certeza de que deseja excluir o {{param}} farmname?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.|| A Fazenda <strong>{{param}}</strong> foi {{param2}} ed com sucesso.
+The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| A Fazenda <strong>{{param}}</strong> foi {{param2}} com sucesso.
 The farm <strong>{{param}}</strong> has been created successfully.|| A Fazenda <strong>{{param}}</strong> foi criado com sucesso.
 The farm <strong>{{param}}</strong> has been restarted successfully.|| A Fazenda <strong>{{param}}</strong> foi reiniciado com sucesso.
 The backend has been created successfully.|| O back-end foi criado com sucesso.
@@ -286,6 +286,7 @@ The <strong>{{param}}</strong> Virtual interface has been created successfully.|
 The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| O <strong>{{param}}</strong> A interface virtual foi atualizada com sucesso.
 Are you sure you want to delete the {{param}} Virtual interface?|| Tem certeza de que deseja excluir a interface virtual do {{param}}?
 The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| O <strong>{{param}}</strong> A interface virtual foi excluída com sucesso.
+The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| O <strong>{{param}}</strong> A interface virtual é {{param2}}
 The <strong>{{param}}</strong> VLAN has been created successfully.|| O <strong>{{param}}</strong> A VLAN foi criada com sucesso.
 The <strong>{{param}}</strong> VLAN has been updated successfully.|| O <strong>{{param}}</strong> A VLAN foi atualizada com sucesso.
 Are you sure you want to delete the {{param}} VLAN?|| Tem certeza de que deseja excluir a VLAN {{param}}?
@@ -342,3 +343,10 @@ Password is required|| Senha é obrigatório
 Password should contains {{param}} to {{param2}} characters|| A senha deve conter {{param}} para {{param2}} caracteres
 Success!|| Sucesso!
 You have been successfully logged in.|| Você foi logado com sucesso.
+put in maintenance|| colocar em manutenção
+upped|| levantado
+stopped|| parou
+started|| começado
+restarted|| reiniciado
+down|| baixa
+up||  up
