@@ -1,93 +1,526 @@
-Dashboard|| 대시보드
-LSLB|| LSLB
-Farms|| 농장
-SSL Certificates|| SSL 인증서
-DSLB|| DSLB
-Monitoring|| 모니터링
-Graphs|| 그래프
-Farm Stats|| 농장 통계
-Farmguardians|| 농장 가디언
-Network|| 네트워크
-NIC|| NIC
-VLAN|| VLAN
-Virtual interfaces|| 가상 인터페이스
-Gateway|| 게이트웨이
-System|| 체계
-Remote Services|| 원격 서비스
-Backups|| 백업
-User|| 사용자
-Logs|| 로그
-License|| 특허
-Support Save|| 지원 저장
-Create|| 만들기
+Sign in with your username and password|| 사용자 이름과 비밀번호로 로그인하십시오.
+Success!|| 성공!
+Username|| 사용자 이름
+User should be the real one!|| 사용자는 실제 사람이어야합니다!
+Password should contains from {{min}} to {{max}} characters|| 비밀번호는 {{min}} ~ {{max}}자를 포함해야합니다.
+Sign In|| 로그인
+Logging out, please wait...|| 로그 아웃 중입니다. 잠시만 기다려주세요…
+Package list to upgrade|| 업그레이드 할 패키지 목록
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| 시스템을 업그레이드하려면 쉘에서 다음 명령을 실행하십시오 : 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * 체크를 강제로 실행하려는 경우이 정보는 매일 업데이트됩니다 <code>checkupgrades</code> 명령 줄에서.
+No activation certificate|| 활성화 인증서가 없습니다
+There isn't a valid ZEVENET certificate file, please request a new one|| 유효한 ZEVENET 인증서 파일이 없습니다. 새 인증서를 요청하십시오.
+Certificate Key|| 인증서 키
+Activation Certificate file|| 활성화 인증서 파일
+Activation Data|| 활성화 데이터
+Copy data to the clipboard|| 클립 보드에 데이터 복사
+Activation Certificate|| 활성화 인증서
+Select an activation certificate|| 활성화 인증서를 선택하십시오
+Upload Activation Certificate|| 활성화 인증서 업로드
+No Support|| 지원 없음
+Certificate expired|| 인증서 만료
+Support expired|| 지원 만료
+Certificate expires in {{param}} {{param2}}|| 인증서는 {{param}} {{param2}}에서 만료됩니다
+Support expires in {{param}} {{param2}}|| {{param}} {{param2}}에서 지원이 만료 됨
+The activation certificate has been uploaded successfully.|| 활성화 인증서가 성공적으로 업로드되었습니다.
+The Activation Certificate has been deleted successfully.|| 활성화 인증서가 성공적으로 삭제되었습니다.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| 활성화 인증서를 삭제 하시겠습니까? \\n 삭제하면 다른 인증서를 업로드 할 때까지 GUI에 액세스 할 수 없게됩니다.
+Upload|| 업로드 (Upload)
+Uploading|| 업로드
+Add|| 추가
+Disable maintenance|| 유지 관리 사용 중지
+Enable maintenance|| 유지 관리 사용
+Drain mode|| 배수 모드
+Cut mode|| 컷 모드
 Edit|| 편집
 Configure|| 구성
-Upload|| 업로드 (Upload)
+Save|| 찜하기
+Add Variable|| 변수 추가
+Bring|| 가져
+Export|| 수출
+All data|| 모든 데이터
+Only selected|| 선택한 항목 만
+Apply|| 신청
+Create|| 만들기
+Cancel|| 취소
+Submit|| 보내기
+New Service|| 새로운 서비스
+New Zone|| 뉴존
+New Route|| 새로운 노선
+Basic|| 기본
+Advanced|| 고급
+Generate|| 생성
+Generating|| 생성
+Delete|| 지우다
+Bring Up|| 가져
+Bring down|| 내려와
+Restart|| 다시 시작
+Restarting|| 다시 시작
+Start|| 스타트
+Stop|| 중지
+Unset|| 설정 해제
+Enable|| 사용
+Disable|| 사용 안 함
+Remove|| 제거
+Download|| 다운로드
+Downloading|| 다운로드
+Update|| 업데이트
+New Rule|| 새로운 규칙
+Next|| 다음
+Back|| 뒤로
+Generate Random MAC|| 랜덤 MAC 생성
+Destroy|| 파괴
+Test Email|| 전자 메일 테스트
+Generate Random Key|| 무작위 키 생성
+Upload Certificate|| 인증서 업로드
+Delete Certificate|| 인증서 삭제
+List|| 명부
+Menu|| 메뉴
+Modify|| 수정
+Show|| 쇼
+Action|| 동작
+Test|| 테스트
+Schedule|| 시간표
+Upgrade|| 업그레이드
 View|| 보기
-Generate CSR|| CSR 생성
-farm|| 농장
-certificate|| 증명서
-farmguardian|| 농장 가디언
-VLAN|| VLAN
-virtual interface|| 가상 인터페이스
-backup|| 백업
-backend|| 백엔드
-session|| 세션
-Professional Products|| 전문 제품
-Professional Services|| 전문적인 서비스
-News|| 최근 소식
-Resources|| 자원
+Info|| 정보
+Test Connectivity|| 연결 테스트
+Show certificate|| 인증서 표시
+Force Changes|| 강제 변경
+Page Not Found|| 페이지를 찾을 수 없음
+The page you were looking for doesn't exist|| 찾고 있던 페이지가 존재하지 않습니다.
+Take me home|| 집에 데려다 줘
+Status|| 개설 상황
+Actions|| 행위
+Name|| 이름
+ID||  ID
+Alias|| 별명
+IP||  IP
+Interface|| 인터페이스
+Priority|| 우선
+Port|| 포트
+Weight|| 무게
+Max. Conns|| 맥스. ㅁㅁ
+Name|| 이름
+Virtual IP|| 가상 IP
+Vitual Port|| 가상 포트
+Virtual IP and Port|| 가상 IP 및 포트
+Default TCP port health check|| 기본 TCP 포트 상태 확인
+Health Checks for backend|| 백엔드의 상태 검사
+Default Name Server|| 기본 이름 서버
+Type|| 거래증명방식
+Data|| 데이터
+Profile|| 프로필
+HTTPS Parameters|| HTTPS 매개 변수
+Ciphers|| 암호문
+Custom ciphers|| 사용자 지정 암호
+Protocol type|| 프로토콜 유형
+NAT type|| NAT 유형
+Rewrite location headers|| 위치 헤더 재 작성
+HTTP verbs accepted|| 허용 된 HTTP 동사
+Ignore 100 continue|| 100 무시 계속
+Backend connection timeout|| 백엔드 연결 시간 초과
+Backend response timeout|| 백엔드 응답 시간 초과
+Frequency to check resurrected backends|| 부활 한 백엔드를 확인하는 빈도
+Client request timeout|| 클라이언트 요청 시간 초과
+Message Error|| 메시지 오류
+Request Headers|| 요청 헤더
+Response Headers|| 응답 헤더
+Persistence|| 고집
+Persistence session time to live|| 지속 세션 세션 시간
+TTL|| TTL
+Persistence session identifier|| 지속 세션 식별자
+Virtual IP|| 가상 IP
+Load balancing Scheduler|| 로드 밸런싱 스케줄러
+Algorithm|| 암호알고리즘
+Round Robin|| 원형으로 서명한 청원서
+Virtual Host|| 가상 호스트
+URL Pattern|| URL 패턴
+Least Response|| 최소 응답
+HTTPS Backends|| HTTPS 백엔드
+STS Header|| STS 헤더
+Timeout|| 시간 초과
+Redirect|| 리디렉션
+Redirect URL|| 리디렉션 URL
+Redirect Type|| 리디렉션 유형
+Redirect Code|| 리디렉션 코드
+Cookie Insert|| 쿠키 삽입
+Cookie Name|| 쿠키 이름
+Cookie Domain|| 쿠키 도메인
+Cookie Path|| 쿠키 경로
+Cookie TTL|| 쿠키 TTL
+Locality|| 소재지
+Country|| 국가
+State/Province|| 주 /도
+Common Name|| 공통 이름
+Organization|| 조직
+Division|| 분할
+E-mail Address|| 이메일 주소
+File|| 입양 부모로서의 귀하의 적합성을 결정하기 위해 미국 이민국에
+Issuer|| 발급자
+Creation|| 창조
+Expiration|| 만료
+Certificate|| 자질
+Established Conns|| Conns 설립
+Pending Conns|| 대기중인 전화
+Service|| 서비스
+Session ID|| 세션 ID
+Backend ID|| 백엔드 ID
+Requests|| 요청
+Failed REQ|| 실패한 REQ
+Failed RES|| 실패한 RES
+Truncated Resp TC|| 잘린 Resp TC
+Extended DNS Big|| 큰 DNS 확장
+Extended DNS TC|| 확장 된 DNS TC
+No Error|| 오류 없음
+Refused|| 거절 한
+Non-existent Domain|| 존재하지 않는 도메인
+Notimp|| 노프
+Bad Version|| 잘못된 버전
+Format Error|| 형식 오류
+Dropped|| 자격 정지
+V6||  V6
+Extended DNS|| 확장 DNS
+Extended DNS-ClientSub|| 확장 DNS-ClientSub
+Client|| 고객
+Listerner|| 리스 터너
+Value|| 가치관
+Custom IP|| 맞춤 IP
+Policy|| 정책
+Remote URL|| 원격 URL
+Frequency|| 회수
+Rule|| 통치
+Limit RST request per source IP|| 소스 IP 당 RST 요청 제한
+Total connections per source IP|| 소스 IP 당 총 연결 수
+Limit Burst|| 버스트 제한
+Total connections limit per source IP|| 소스 IP 당 총 연결 제한
+Hits|| 조회수
+Time|| 시각
+Log level|| 로그 레벨
+Only logging|| 로깅 만
+Local traffic|| 로컬 트래픽
+Queue size|| 대기열 크기
+Max. Threads|| 맥스. 실
+Cache size|| 캐시 크기
+Cache time|| 캐시 시간
+Check Request Body|| 요청 본문 확인
+Check Response Body|| 응답 본문 확인
+Request Body Limit|| 요청 본문 한도
+Default Phase|| 기본 단계
+Default Log|| 기본 로그
+Rules|| 규칙
+Rule Type|| 규칙 유형
+Mark|| 표시
+Phase|| 상
+Resolution|| 해상도
+Rule ID|| 규칙 ID
+Skip|| 건너뛰기
+Skip after|| 후 건너 뛰기
+Execute|| 실행하다
+Description|| 강의 개요
+Interval|| 간격
+Cut connections|| 연결 끊기
+Command|| 명령
+MAC|| 맥
+Netmask|| 넷 마스크
+Farms|| 농장
+Gateway|| 게이트웨이
+IP Address|| IP 주소
+CIDR|| CIDR
+Mode|| 모드
+Slaves|| 노예
+Parent Interface|| 부모 인터페이스
+Address|| 주소
+Host|| 주인
+Date|| 방문 예정일
+Alert|| 경보
+Password|| 비밀번호
+Log|| 로그
+ZAPI Permissions|| ZAPI 권한
+GUI Permissions|| GUI 권한
+Role|| 역할
+Rules Date|| 규칙 날짜
+Scheduled|| 예약
+Variable|| 변하기 쉬운
+Variable's argument|| 변수의 인수
+Ignore this <i>variable</i> for the match|| 이것을 무시하십시오 <i>변수</i> 경기를 위해
+Count elements of <i>variables</i>|| 의 개수 요소 <i>변수</i>
+Variables|| 변수
+Transformations|| 변환
+Operating|| 운영
+Multi Match|| 멀티 매치
+Not Match|| 일치하지 않습니다
+Operator|| 운영자
+Module|| 모듈
+Floating IP|| 플로팅 IP
+Interfaces|| 인터페이스
+Group|| 그룹
+Virtual Interface|| 가상 인터페이스
+URL|| URL
+From|| ~
+Table|| 작업대
+To|| 에
+Route|| 길
+Via|| 통하다
+Backend Alias|| 백엔드 별칭
+Version|| 번역
+System|| 체계
+Failback|| 장애 복구
+Check Interval|| 간격 확인
+Node|| 노드
+Message|| 메시지
+Hostname|| 호스트 이름
+No {{param}} found|| {{param}}이 없습니다
+Edit|| 편집
+Global|| 글로벌
+Services|| 서비스
+Select a {{param}}|| {{param}}을 선택하십시오
+Resources|| 기술자료
+Backends|| 백엔드
+Strict Transport Security|| 엄격한 전송 보안
+Farms Stats|| 농장 통계
+Copy to clipboard|| 클립 보드에 복사
+Hide nodes|| 노드 숨기기
+Show nodes|| 노드 표시
+Hide backends|| 백엔드 숨기기
+Show backends|| 백엔드 표시
+Hide graphs|| 그래프 숨기기
+Show graphs|| 그래프 표시
+Sessions|| 세션
+Clients|| 고객사
+Servers|| 서버
+Extended|| 확장
+Nodes|| 노드
+Number of lines|| 라인 수
+View All|| 모두 보기
+View Less|| 덜보기
+Valid|| 유효한
+Expired|| 만료
+Near to expire|| 만료 예정
+True|| 참된
+False|| 거짓
+No configured|| 구성되지 않음
+In use by bonding interface|| 본딩 인터페이스로 사용 중
+The cluster service interface has to be changed or disabled before to be able to modify this interface|| 이 인터페이스를 수정하려면 클러스터 서비스 인터페이스를 변경하거나 비활성화해야합니다
+Enabled|| 사용
+Disabled|| 장애인
+Needed restart|| 다시 시작해야 함
+Critical|| 결정적인
+Problem|| 문제
+Maintenance|| 유지
+Master|| 석사
+Backup|| 백업
+Not configured|| 구성되지 않음
+Undefined|| 정의되지 않음
+Daily Graph|| 일일 그래프
+Weekly Graph|| 주간 그래프
+Monthly Graph|| 월간 그래프
+Yearly Graph|| 연간 그래프
+Documentation|| 문서
+Reload farmguardian list|| 팜 가디언 목록 새로 고침
+Cookie|| 쿠키
+Zones|| 영역
 System Stats|| 시스템 통계
 CPU|| CPU
 Memory|| 기억
 Load|| 하중
 Cores|| 코어
+Traffic In|| 교통
+Traffic Out|| 트래픽 아웃
+Nothing|| 아무것도
+Custom|| 관습
+All interfaces|| 모든 인터페이스
+All farms|| 모든 농장
+Default State|| 기본 상태
+Up||  Up
+Down|| 아래로
+Installed and updated|| 설치 및 업데이트
+Not installed|| 설치되지 않음
+Updates available|| 사용 가능한 업데이트
+Interface|| 인터페이스
+Type|| 거래증명방식
+Zone|| 지역
+Transformation|| 변환
+Backend|| 백엔드
+Condition|| 상태
+Domain|| 도메인
+Resource|| 자원
+Graph|| 그래프
+Session|| 세션
+IP alias|| IP 별명
+Interface alias|| 인터페이스 별명
+Backup|| 백업
+Farm|| 농장
+Header|| 헤더
+Pattern|| 무늬
+Source|| 소스코드
+Blacklist|| 블랙리스트
+Farmguardian|| 농장 가디언
+Package|| 묶음
+DoS rule|| DoS 규칙
+RBL rule|| RBL 규칙
+WAF ruleset|| WAF 규칙 세트
+VLAN|| VLAN
+Routing Rule|| 라우팅 규칙
+Routing Table|| 라우팅 테이블
+Needed restart|| 다시 시작해야 함
+There're changes that need to be applied, restart the farm to apply them!|| 적용해야 할 변경 사항이 있습니다. 팜을 다시 시작하여 적용하십시오!
+Close|| 닫기
+The <strong> factory reset </strong> has been completed successfully.|| 그리고, <strong> 공장 초기화 </strong> 성공적으로 완료되었습니다.
+The interface <strong> {{name}} </strong> has been updated successfully.|| 인터페이스 <strong> {{name}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong>HTTP Service</strong> has been updated successfully.|| 그리고, <strong>HTTP 서비스</strong> 이 (가) 성공적으로 업데이트되었습니다.
+An error has occurred on the server, try again later|| 서버에서 오류가 발생했습니다. 나중에 다시 시도하십시오
+Connection to web server failed|| 웹 서버에 연결하지 못했습니다
+An unexpected error has occurred|| 예기치 않은 오류가 발생했습니다.
 System Information|| 시스템 정보
-Zevenet Version|| Zevenet 버전
+ZEVENET Version|| ZEVENET 버전
 Appliance Version|| 어플라이언스 버전
 Kernel Version|| 커널 버전
-Hostname|| 호스트 이름
 System Date|| 시스템 날짜
-NIC Interfaces|| NIC 인터페이스
-Megabytes (MB)|| 메가 바이트 (MB)
-Farm List|| 농장 목록
-Name|| 이름
-Profile|| 프로필
-Status|| 진행 현황
-LSLB Farm List|| LSLB 농장 목록
+NIC Traffic|| NIC 트래픽
+Total number of connections in realtime.|| 실시간 총 연결 수입니다.
+Connections|| 연결
+Professional Products|| 전문 제품
+Professional Services|| 전문적인 서비스
+No Virtual Interfaces|| 가상 인터페이스가 없음
+No VLANs|| VLAN 없음
+Create DSLB Farm|| DSLB Farm 만들기
+Create Virtual interface|| 가상 인터페이스 생성
+Create GSLB Farm|| GSLB 팜 생성
+Generate CSR|| CSR 생성
 Create LSLB Farm|| LSLB Farm 만들기
-Listener|| 경청자
-Advanced settings|| 고급 설정
-Rewrite location headers|| 위치 헤더 재 작성
-HTTP verbs accepted|| 허용 된 HTTP 동사
-Backend connection timeout|| 백엔드 연결 시간 초과
-Backend response timeout|| 백엔드 응답 시간 초과
-Frequency to check resurrected backends|| 부활 한 백엔드를 확인하는 빈도
-Client request timeout|| 클라이언트 요청 시간 초과
-Message Error 414|| 메시지 오류 414
-Message Error 500|| 메시지 오류 500
-Message Error 501|| 메시지 오류 501
-Message Error 503|| 메시지 오류 503
-HTTPS Parameters|| HTTPS 매개 변수
-Disable SSLv2|| SSLv2 사용 중지
-Disable SSLv3|| SSLv3 사용 중지
-Disable TLSv1|| TLSv1 사용 안 함
-Disable TLSv1.1|| TLSv1.1 사용 안 함
-Disable TLSv1.2|| TLSv1.2 사용 안 함
-Ciphers|| 암호문
-Custom Ciphers|| 사용자 지정 암호
-Certificate Enabled|| 인증서 사용
-Virtual Host|| 가상 호스트
-URL Pattern|| URL 패턴
-Least Response|| 최소 응답
-HTTPS Backends|| HTTPS 백엔드
-Redirect|| 리디렉션
-Redirect URL|| 리디렉션 URL
-Redirect Type|| 리디렉션 유형
-Load balancer Algorithm|| 로드 밸런서 알고리즘
-Persistence|| 고집
-Persistence session identifier|| 지속 세션 식별자
-Persistence session time to live|| 지속 세션 세션 시간
+Upload SSL Certificate|| SSL 인증서 업로드
+Create Blacklist|| 블랙리스트 만들기
+Create DoS rule|| DoS 규칙 만들기
+Create RBL rule|| RBL 규칙 생성
+Create WAF ruleset|| WAF 규칙 세트 작성
+Create Rule|| 규칙 만들기
+Create Farmguardian|| Farmguardian 만들기
+Create Bonding interface|| 본딩 인터페이스 생성
+Create VLAN interface|| VLAN 인터페이스 생성
+Upload Backup|| 백업 업로드
+Create Backup|| 백업 만들기
+Create User|| 사용자 만들기
+Create Group|| 그룹 만들기
+Create Role|| 역할 생성
+Create Route|| 경로 만들기
+is required|| 필요
+is not valid, it only is possible alphanumeric characters and dash (-).|| 유효하지 않으면 영숫자와 대시 (-) 만 가능합니다.
+Only editable when the farm is down.|| 팜이 다운되었을 때만 편집 가능.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 가상 포트가 유효하지 않으므로 단일 포트, 여러 포트 또는 포트 범위를 정의 할 수 있습니다 (예 : 80 또는 80,81 또는 80 : 90)
+has to be greater than 0|| 0보다 커야합니다
+Redirect should be a URL (http(s)://...)|| 리디렉션은 URL이어야합니다 (http (s) : //…)
+Country can only have two characters.|| 국가는 두 문자 만 가질 수 있습니다.
+E-mail has to be a valid email|| 이메일은 유효한 이메일이어야합니다
+The password does not match|| 비밀번호가 일치하지 않습니다
+has to be a value between {{min}} and {{max}}|| {{min}}에서 {{max}} 사이의 값이어야합니다.
+Global Settings|| 전역 설정
+IPDS Settings|| IPDS 설정
+Advanced Settings|| 고급 설정
+Domains Settings|| 도메인 설정
+Rules Settings|| 규칙 설정
+Blacklists rules|| 블랙리스트 규칙
+DoS rules|| DoS 규칙
+RBL rules|| RBL 규칙
+WAF rulesets|| WAF 규칙 세트
+Services Settings|| 서비스 설정
+Zones Settings|| 영역 설정
+Global Filter|| 글로벌 필터
+Refresh|| 새로 고침
+Seconds|| 초
+per second|| 초당
+Refresh status every|| 매번 새로 고침 상태
+Refresh stats every|| 통계 새로 고침마다
+Not refresh|| 새로 고침하지 않음
+Farms Settings|| 농장 설정
+Minutes|| 분
+Hours|| 시간
+Monday|| 월요일
+Tuesday|| 화요일
+Wednesday|| 수요일
+Thursday|| 목요일
+Friday|| 금요일
+Saturday|| 토요일
+Sunday|| 일요일
+Deny|| 거부
+Allow|| 허용
+Daily|| 매일
+Weekly|| 주간
+Monthly|| 월
+entries|| 항목
+threads|| 스레드
+Sort|| 종류
+SORT MODE: Drag and drop the service to the desired position.|| 정렬 모드 : 서비스를 원하는 위치로 끌어서 놓습니다.
+The farm will be restarted automatically.|| 팜이 자동으로 다시 시작됩니다.
+bytes|| 바이트
+Default is|| 기본값은
+Optional|| Optional
+days|| 일
+Go to|| 이 링크를 방문하십시오. 
+Edit in form mode|| 양식 모드에서 편집
+Edit in raw mode|| 원시 모드로 편집
+Create in form mode|| 양식 모드에서 작성
+Create in raw mode|| 원시 모드로 작성
+Available certificates|| 사용 가능한 인증서
+Enabled certificates|| 인증서 사용
+Search certificate|| 검색 인증서
+Available blacklists|| 사용 가능한 블랙리스트
+Enabled blacklists|| 활성화 된 블랙리스트
+Search blacklist|| 블랙리스트 검색
+Available DoS rules|| 사용 가능한 DoS 규칙
+Enabled DoS rules|| 활성화 된 DoS 규칙
+Search DoS rule|| DoS 규칙 검색
+Available RBL rules|| 사용 가능한 RBL 규칙
+Enabled RBL rules|| 활성화 된 RBL 규칙
+Search RBL rule|| RBL 규칙 검색
+Available WAF rulesets|| 사용 가능한 WAF 규칙 세트
+Enabled WAF rulesets|| 활성화 된 WAF 규칙 세트
+Search WAF ruleset|| WAF 규칙 세트 검색
+Available farms|| 사용 가능한 농장
+Enabled farms|| 활성화 된 팜
+Search farm|| 검색 팜
+Available domains|| 사용 가능한 도메인
+Enabled domains|| 사용 가능한 도메인
+Search domain|| 검색 도메인
+Enabled rules|| 활성화 된 규칙
+Disabled rules|| 비활성화 된 규칙
+Search rule|| 검색 규칙
+Available NICs|| 사용 가능한 NIC
+Enabled NICs|| 활성화 된 NIC
+Search NIC|| NIC 검색
+Search slaves|| 노예 검색
+Slaves NICs|| 슬레이브 NIC
+Available users|| 사용 가능한 사용자
+Enabled users|| 활성화 된 사용자
+Search user|| 사용자 검색
+Available interfaces|| 사용 가능한 인터페이스
+Enabled interfaces|| 사용 가능한 인터페이스
+Search interface|| 검색 인터페이스
+Managed interfaces|| 관리 인터페이스
+Unmanaged interfaces|| 관리되지 않는 인터페이스
+Search interface|| 검색 인터페이스
+LSLB Farm List|| LSLB 농장 목록
+GSLB Farm List|| GSLB 농장 목록
+DSLB Farm List|| DSLB 팜 목록
+Copy farm|| 농장 복사
+Farm to copy|| 복사 할 농장
+Select the farm to copy|| 복사 할 팜을 선택하십시오
+Weight: connection linear dispatching by weight|| 무게 : 중량으로 연결 선형 파견
+Priority: connections always to the most prio available|| 우선 순위 : 항상 가장 가능성있는 연결로 연결
+Source Hash: Hash per Source IP and Source Port|| Source Hash : 소스 IP 및 소스 포트마다 해시
+Simple Source Hash: Hash per Source IP only|| 간단한 소스 해시 : 소스 IP 당 해시 만
+Symmetric Hash: Round trip hash per IP and Port|| 대칭 해시 : IP 및 포트 별 왕복 해시
+Round Robin: Sequential backend selection|| 라운드 로빈 : 순차적 백엔드 선택
+Least Connections: connections to the least open conns available|| 최소 연결 : 사용 가능한 최소 개방형 연결에 연결
+Disabled|| 장애인
+Enabled|| 사용
+Enabled and compare backends|| 백엔드 활성화 및 비교
+No persistence|| 지속성 없음
+IP: Source IP|| IP : 소스 IP
+Port: Source Por|| 포트 : 소스 포
+MAC: Source MAC|| MAC : 원본 MAC
+Source IP and Source Port|| 소스 IP 및 소스 포트
+Source IP and Destination Port|| 원본 IP 및 대상 포트
 No persistence|| 지속성 없음
 IP: Client address|| IP : 고객 주소
 BASIC: Basic authentication|| 기본 : 기본 인증
@@ -95,258 +528,633 @@ URL: A request parameter|| URL : 요청 매개 변수
 PARM: An URI parameter|| PARM : URI 매개 변수
 COOKIE: A certain cookie|| 쿠킹 : 특정 쿠키
 HEADER: A certain request header|| HEADER : 특정 요청 헤더
-Protocol type|| 프로토콜 유형
-Nat type|| 낫 타입
-Load balancer Algorithm|| 로드 밸런서 알고리즘
-Persistence|| 고집
-Persistence session time to live|| 지속 세션 세션 시간
-No persistence|| 지속성 없음
-IP: Source IP|| IP : 소스 IP
-Port: Source|| 포트 : 소스
-MAC: Source MAC|| MAC : 원본 MAC
-Source IP and Source Port|| 소스 IP 및 소스 포트
-Source IP and Destination Port|| 원본 IP 및 대상 포트
-Weight: connection linear dispatching by weight|| 무게 : 중량으로 연결 선형 파견
-Source Hash: Hash per Source IP and Source Port|| Source Hash : 소스 IP 및 소스 포트마다 해시
-Simple Source Hash: Hash per Source IP only|| 간단한 소스 해시 : 소스 IP 당 해시 만
-Symmetric Hash: Round trip hash per IP and Port|| 대칭 해시 : IP 및 포트 별 왕복 해시
-Round Robin: Sequential backend selection|| 라운드 로빈 : 순차적 백엔드 선택
-SSL Certificate List|| SSL 인증서 목록
-Generate CSR|| CSR 생성
-Upload SSL Certificate|| SSL 인증서 업로드
+The farm has been updated successfully|| 팜이 성공적으로 업데이트되었습니다
+The farm <strong> {{param}} </strong> has been deleted successfully.|| 농장 <strong> {{param}} </strong> 삭제되었습니다.
+The farm <strong> {{param}} </strong> has been started successfully.|| 농장 <strong> {{param}} </strong> 시작되었습니다.
+The farm <strong> {{param}} </strong> has been restarted successfully.|| 농장 <strong> {{param}} </strong> 다시 시작되었습니다.
+The farm <strong> {{param}} </strong> has been stopped successfully.|| 농장 <strong> {{param}} </strong> 성공적으로 중지되었습니다.
+The farm <strong> {{param}} </strong> has been created successfully.|| 농장 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The backend has been created successfully.|| 백엔드가 성공적으로 생성되었습니다.
+The backend has been updated successfully.|| 백엔드가 성공적으로 업데이트되었습니다.
+The backend <strong> {{param}} </strong> has been deleted successfully.|| 백엔드 <strong> {{param}} </strong> 삭제되었습니다.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| 백엔드 <strong> {{param}} </strong> 유지 보수가 완료되었습니다.
+The backend <strong> {{param}} </strong> has been upped successfully.|| 백엔드 <strong> {{param}} </strong> 성공적으로 업데이트되었습니다.
+Backends with high priority value <strong> {{param}} </strong> will not be used.|| 우선 순위가 높은 백엔드 <strong> {{param}} </strong> 사용되지 않습니다.
+The resource has been created successfully.|| 자원이 작성되었습니다.
+The resource has been updated successfully.|| 리소스가 성공적으로 업데이트되었습니다.
+The backend <strong> {{param}} </strong> has been deleted successfully.|| 백엔드 <strong> {{param}} </strong> 삭제되었습니다.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| SSL 인증서 <strong> {{param}} </strong> 팜에 성공적으로 추가되었습니다.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| SSL 인증서 <strong> {{param}} </strong> 팜이 성공적으로 제거되었습니다.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| SSL 인증서 <strong> {{param}} </strong> 성공적으로 정렬되었습니다.
+The service <strong> {{param}} </strong> has been created successfully.|| 서비스 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The service <strong> {{param}} </strong> has been updated successfully.|| 서비스 <strong> {{param}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The service <strong> {{param}} </strong> has been deleted successfully.|| 서비스 <strong> {{param}} </strong> 삭제되었습니다.
+The service <strong> {{param}} </strong> has been moved successfully.|| 서비스 <strong> {{param}} </strong> 성공적으로 이동되었습니다.
+The farmguardians list has been reloaded successfully.|| 농장 보호자 목록이 다시로드되었습니다.
+The farmguardian has been disabled successfully.|| 농장 가디언이 성공적으로 사용 중지되었습니다.
+The farmguardian has been changed to {{param}} successfully.|| Farmguardian이 {{param}}으로 변경되었습니다.
+The zone <strong> {{param}} </strong> has been created successfully.|| 존 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The zone <strong> {{param}} </strong> has been updated successfully.|| 존 <strong> {{param}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The zone <strong> {{param}} </strong> has been deleted successfully.|| 존 <strong> {{param}} </strong> 삭제되었습니다.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| 블랙리스트 <strong> {{param}} </strong> 팜에 성공적으로 추가되었습니다.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| 블랙리스트 <strong> {{param}} </strong> 팜이 성공적으로 제거되었습니다.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| DoS 규칙 <strong> {{param}} </strong> 팜에 성공적으로 추가되었습니다.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| DoS 규칙 <strong> {{param}} </strong> 팜이 성공적으로 제거되었습니다.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| RBL 규칙 <strong> {{param}} </strong> 팜에 성공적으로 추가되었습니다.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| RBL 규칙 <strong> {{param}} </strong> 팜이 성공적으로 제거되었습니다.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| WAF 규칙 세트 <strong> {{param}} </strong> 성공적으로 정렬되었습니다.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| WAF 규칙 세트 <strong> {{param}} </strong> 팜에 성공적으로 추가되었습니다.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| WAF 규칙 세트 <strong> {{param}} </strong> 팜이 성공적으로 제거되었습니다.
+The profile has been changed to {{param}} successfully.|| 프로필이 {{param}} (으)로 변경되었습니다.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| 선택한 NAT 유형에는 최소 연결 알고리즘이 허용되지 않기 때문에 알고리즘이 가중치 알고리즘으로 변경되었습니다. 서비스 탭에서 다른 알고리즘을 선택할 수 있습니다.
+The request header has been saved successfully.|| 요청 헤더가 성공적으로 저장되었습니다.
+The request header has been deleted successfully.|| 요청 헤더가 성공적으로 삭제되었습니다.
+The request header pattern has been saved successfully.|| 요청 헤더 패턴이 성공적으로 저장되었습니다.
+The request header pattern has been deleted successfully.|| 요청 헤더 패턴이 삭제되었습니다.
+The response header has been saved successfully.|| 응답 헤더가 성공적으로 저장되었습니다.
+The response header has been deleted successfully.|| 응답 헤더가 성공적으로 삭제되었습니다.
+The response header pattern has been saved successfully.|| 응답 헤더 패턴이 저장되었습니다.
+The response header pattern has been deleted successfully.|| 응답 헤더 패턴이 삭제되었습니다.
+The service has to have one backend at least.|| 서비스에는 최소한 하나의 백엔드가 있어야합니다.
+Are you sure you want to delete the farm {{param}}?|| 팜 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected farms?|| 선택한 팜을 삭제 하시겠습니까?
+Are you sure you want to delete the service {{param}}?|| {{param}} 서비스를 삭제 하시겠습니까?
+Are you sure you want to delete the zone {{param}}?|| 영역 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected resources?|| 선택한 리소스를 삭제 하시겠습니까?
+Are you sure you want to delete the resource {{param}}?|| {{param}} 자원을 삭제 하시겠습니까?
+Are you sure you want to delete the backend {{param}}?|| 백엔드 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected backends?|| 선택한 백엔드를 삭제 하시겠습니까?
+Are you sure you want to delete the request header with ID {{id}}?|| ID가 {{id}} 인 요청 헤더를 삭제 하시겠습니까?
+Are you sure you want to delete the request header pattern with ID {{id}}?|| ID가 {{id}} 인 요청 헤더 패턴을 삭제 하시겠습니까?
+Are you sure you want to delete the selected request headers?|| 선택한 요청 헤더를 삭제 하시겠습니까?
+Are you sure you want to delete the selected request headers patterns?|| 선택한 요청 헤더 패턴을 삭제 하시겠습니까?
+Are you sure you want to delete the response header with ID {{id}}?|| ID가 {{id}} 인 응답 헤더를 삭제 하시겠습니까?
+Are you sure you want to delete the response header pattern with ID {{id}}?|| ID가 {{id}} 인 응답 헤더 패턴을 삭제 하시겠습니까?
+Are you sure you want to delete the selected response headers?|| 선택한 응답 헤더를 삭제 하시겠습니까?
+Are you sure you want to delete the selected response headers patterns?|| 선택한 응답 헤더 패턴을 삭제 하시겠습니까?
+Are you sure you want to delete the {{param}} blacklist?|| {{param}} 블랙리스트를 삭제 하시겠습니까?
+Are you sure you want to delete the selected blacklists?|| 선택한 블랙리스트를 삭제 하시겠습니까?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| {{param}} 인터페이스의 게이트웨이가 삭제되고이 팜에 대해 교체됩니다. 계속 하시겠습니까?
+SSL Certificate list|| SSL 인증서 목록
+Choose one certificate|| 하나의 인증서를 선택하십시오
 Choose one or more files|| 하나 이상의 파일 선택
-DSLB Farm List|| DSLB 팜 목록
-Create DSLB Farm|| DSLB Farm 만들기
-System Graphs|| 시스템 그래프
-Interfaces Graphs || 인터페이스 그래프
-Show Graphs|| 그래프 표시
-Farms Graphs|| 농장 그래프
-Select Graphs|| 그래프 선택
-Farms Stats|| 농장 통계
-Farms Graphs|| 농장 그래프
-Farmguardians|| 농장 가디언
-Farms Settings|| 농장 설정
-Create Farmguardian|| Farmguardian 만들기
-NIC List|| NIC 목록
-VLAN Interface List|| VLAN 인터페이스 목록
-Create VLAN interface|| VLAN 인터페이스 생성
-Virtual Interface List|| 가상 인터페이스 목록
-Create Virtual interface|| 가상 인터페이스 생성
-IPv4 Gateway|| IPv4 게이트웨이
-IPv6 Gateway|| IPv6 게이트웨이
-Gateway Settings|| 게이트웨이 설정
-DNS Service|| DNS 서비스
-Default is 8.8.8.8|| 기본값은 8.8.8.8입니다.
-Optional|| Optional
-Default is pool.ntp.org|| 기본값은 pool.ntp.org입니다.
-Primary server|| 주 서버
-Secondary server|| 보조 서버
-NPT Service|| NPT 서비스
-NPT Server|| NPT 서버
-SNMP Service|| SNMP 서비스
-Enable SNMP|| SNMP 사용
-Physical interface where is running SNMP service|| SNMP 서비스를 실행중인 실제 인터페이스
-SNMP Port where is running SNMP service|| SNMP 포트 SNMP 서비스를 실행중인 포트
-Default is 161.|| 기본값은 161입니다.
-Community name|| 커뮤니티 이름
-IP or subnet with access (IP/bit)|| 액세스 할 수있는 IP 또는 서브넷 (IP / 비트)
-Backup List|| 백업 목록
-Upload Backup|| 백업 업로드
-Backup File|| 백업 파일
-Create Backup|| 백업 만들기
-Choose one file|| 하나의 파일 선택
-Settings User|| 설정 사용자
-User|| 사용자
-ZAPI Permissions|| ZAPI 권한
-ZAPI Key|| ZAPI 키
-Change Password|| 비밀번호를 변경
-Current Password|| 현재 비밀번호
-New Password|| 새 암호
-Repeat new password|| 새로운 비밀번호를 재 입력하세요
-Log List|| 로그 목록
-Log View|| 로그보기
-Number of lines|| 라인 수
-License|| 특허
-Support Save|| 지원 저장
-When this action is executed a file with system information will be downloaded.|| 이 작업이 실행되면 시스템 정보가있는 파일이 다운로드됩니다.
-This action may take several seconds, you can continue browsing the GUI.|| 이 작업은 몇 초가 걸릴 수 있습니다. GUI를 계속 탐색 할 수 있습니다.
-Name|| 이름
-Locality|| 소재지
-Country|| 서비스 국가
-State/Province|| 주 /도
-Common Name|| 공통 이름
-Organization|| 조직
-Division|| 분할
-E-mail Address|| 이메일 주소
-Services Settings|| 서비스 설정
-Global Settings|| 전역 설정
-Virtual IP and Port|| 가상 IP 및 포트
-Backend|| 백엔드
-Interval|| 간격
-Cut connections|| 연결 끊기
-Description|| 설명
-Copy rule|| 규칙 복사
-Rule to copy|| 복사 규칙
-seconds|| 초
-Log|| 로그
-Address|| 주소
-Virtual interface name|| 가상 인터페이스 이름
-Parent Interface|| 부모 인터페이스
-VLAN Name|| VLAN 이름
-Farmguardian|| 농장 가디언
-Load balancer Algorithm|| 로드 밸런서 알고리즘
-Health Checks for backend|| 백엔드의 상태 검사
+Selected files|| 선택된 파일
 Descriptive text, this name will be used to identify this certificate.|| 설명 텍스트,이 이름은이 인증서를 식별하는 데 사용됩니다.
-Only editable when the farm is down.|| 팜이 다운되었을 때만 편집 가능.
 City where your organization is located.|| 조직이 위치한 도시.
 Country (two characters) where your organization is located.|| 조직이 위치한 국가 (2 자).
 State or province where your organization is located.|| 조직이있는 주 또는도.
 FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| 서버의 FQDN. 예 : domain.com, mail.domain.com 또는 * .domain.com.
-The full legal name of your organization/company (ex.: Zevenet Co.). || 귀사의 전체 법인 명 (예 : Zevenet Co.).
+The full legal name of your organization/company (ex.: ZEVENET Co.)|| 조직 / 회사의 정식 명칭 (예 : ZEVENET Co.)
 Your department; such as 'IT','Web', 'Office', etc.|| 당신 부서; 'IT', 'Web', 'Office'등
-Your email address.|| 귀하의 전자 메일 주소입니다.
-Name|| 이름
-Name|| 이름
-Profile|| 프로필
-Virtual IP|| 가상 IP
-Virtual Port|| 가상 포트
-Status|| 진행 현황
-Actions|| 행위
-ID||  ID
-IP||  IP
-Address|| 주소
-Port|| 포트
-Timeout|| 시간 초과
-Weight|| 무게
-Common Name|| 공통 이름
-Type|| 거래증명방식
-File|| 필렛
-Issuer|| 발급자
-Create on|| 만들기
-Expire on|| 만료일
-Priority|| 우선
-Interface|| 인터페이스
-Service|| 서비스
-Client|| 고객
-Sessions|| 세션
-Session ID|| 세션 ID
-Backend ID|| 백엔드 ID
-Command|| 명령
-Description|| 설명
-Farms|| 농장
-Farm|| 농장
-Gateway|| 게이트웨이
-Netmask|| 넷 마스크
-MAC|| 맥
-IP Address (IPv4 / IPv6)|| IP 주소 (IPv4 / IPv6)
-VLAN tag|| VLAN 태그
-Date|| 등록일
-Log|| 로그
-Established Conns|| Conns 설립
-Pending Conns|| 대기중인 전화
-No|| 아니
-found|| 발견
- is required|| 필요
- is not valid, it only is possible alphanumeric characters and dash (-).|| 유효하지 않으면 영숫자와 대시 (-) 만 가능합니다.
- not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 유효하지 않음, 단일 포트, 여러 포트 또는 포트 범위 (예 : 80 또는 80,81 또는 80 : 90)를 정의 할 수 있습니다.
- has to be greater than 0|| 0보다 커야합니다
- can only has two characters.|| 두 자만 가능합니다.
- has to be a valid email.|| 유효한 이메일이어야합니다.
-does not match.|| 일치하지 않습니다.
-The farm <strong>{{param}}</strong> has been deleted successfully.|| 농장 <strong>{{param}}</strong> 삭제되었습니다.
-The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 농장 <strong>{{param}}</strong> {{param2}}이 (가) 성공적으로 삭제되었습니다.
-Are you sure you want to delete the {{param}} farmname ?|| {{param}} 팜 이름을 삭제 하시겠습니까?
-The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| 농장 <strong>{{param}}</strong> {{param2}}되었습니다.
-The farm <strong>{{param}}</strong> has been created successfully.|| 농장 <strong>{{param}}</strong> 이 (가) 성공적으로 생성되었습니다.
-The farm <strong>{{param}}</strong> has been restarted successfully.|| 농장 <strong>{{param}}</strong> 다시 시작되었습니다.
-The backend has been created successfully.|| 백엔드가 성공적으로 생성되었습니다.
-The profile has been changed to {{param}} successfully.|| 프로필이 {{param}} (으)로 변경되었습니다.
-The farmguardian has been disabled sucessfully.|| 농장 가디언은 성공적으로 무능력 해졌습니다.
-The farmguardian has been changed to {{param}} successfully.|| Farmguardian이 {{param}}으로 변경되었습니다.
-The <strong>{{param}}</strong> farmguardian has been created successfully.||   <strong>{{param}}</strong> 농장 가드가 성공적으로 만들어졌습니다.
-The <strong>{{param}}</strong> farmguardian has been updated successfully||   <strong>{{param}}</strong> farmguardian이 성공적으로 업데이트되었습니다.
+Your email address|| 당신의 이메일 주소
+The CSR <strong> {{param}} </strong> has been generated successfully.|| CSR <strong> {{param}} </strong> 생성되었습니다.
+The certificate <strong> {{param}} </strong> has been uploaded successfully.|| 인증서 <strong> {{param}} </strong> 업로드되었습니다.
+The certificate <strong> {{param}} </strong> has been deleted successfully.|| 인증서 <strong> {{param}} </strong> 삭제되었습니다.
+The certificate <strong> {{param}} </strong> has been downloaded successfully.|| 인증서 <strong> {{param}} </strong> 다운로드가 완료되었습니다.
+Are you sure you want to delete the certificate {{param}}?|| 인증서 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected certificates?|| 선택한 인증서를 삭제 하시겠습니까?
+Updates|| 업데이트
+Update list|| 업데이트 목록
+Period time|| 기간 시간
+Exact time|| 정확한 시간
+Daily every|| 매일마다
+Day of the week|| 요일
+Day of the month|| 일
+Sources|| 소스
+DoS rules IPDS|| DoS 규칙 IPDS
+RBL rules IPDS|| RBL 규칙 IPDS
+Copy rule|| 규칙 복사
+Rule to copy|| 복사 규칙
+Ruleset to copy|| 복사 할 룰셋
+Select the rule to copy|| 복사 할 규칙을 선택하십시오.
+Select the ruleset to copy|| 복사 할 규칙 세트를 선택하십시오.
+Custom Domain List|| 맞춤 도메인 목록
+Preloaded Domain List|| 사전로드 된 도메인 목록
+WAF rulesets IPDS|| WAF 규칙 세트 IPDS
+Default Action|| 기본 조치
+Disable Rules|| 규칙 사용 안 함
+IPDS Package Updates|| IPDS 패키지 업데이트
+Conditions|| 상태
+Flow|| 흐름
+WAF File List|| WAF 파일 목록
+WAF file|| WAF 파일
+Content File|| 컨텐츠 파일
+Select files|| 파일 선택
+Select a file|| 파일 선택
+Select transformations|| 변환 선택
+Connection limit per second.|| 초당 연결 제한
+Total connections limit per source IP.|| 소스 IP 당 총 연결 제한
+Check bogus TCP flags.|| 가짜 TCP 플래그를 확인하십시오.
+Limit RST request per second.|| 초당 RST 요청을 제한합니다.
+Allow: Finish the WAF processing and complete the HTTP transaction|| 허용 : WAF 처리를 완료하고 HTTP 트랜잭션을 완료하십시오.
+Pass: Continue executing the rules|| 통과 : 규칙을 계속 실행
+Deny: Cut the request and not execute rules left|| 거부 : 요청을 잘라 내고 남은 규칙을 실행하지 않습니다.
+Redirect: The client received a URL to redirect|| 리디렉션 : 클라이언트가 리디렉션 할 URL을 받았습니다
+Default action: The default action of this ruleset|| 기본 조치 :이 규칙 세트의 기본 조치
+Request headers are received|| 요청 헤더가 수신 됨
+Request body is received|| 요청 본문이 수신되었습니다.
+Response headers are received|| 응답 헤더가 수신됩니다
+Response body is received|| 응답 본문이 수신되었습니다.
+Before than logging|| 로깅하기 전에
+LUA Script|| LUA 스크립트
+Data file|| 데이터 파일
+It is a collection with the values of arguments in a request.|| 요청에 인수 값이있는 콜렉션입니다.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| JSON 요청에 인수 값이 포함 된 모음입니다. 이 변수는 WAF가 JSON 인수를 구문 분석하는 경우에 사용할 수 있습니다.이 경우 규칙 집합 REQUEST-901-INITIALIZATION이 활성화되어야합니다.
+The total size of the request parameters. The files are excluded.|| 요청 매개 변수의 총 크기 파일이 제외됩니다.
+It is a collection with the names of the arguments in a request.|| 요청에 인수 이름이있는 콜렉션입니다.
+It contains the file names in the user filesys. Only when the data is multipart/form-data.|| 여기에는 사용자 filesys의 파일 이름이 들어 있습니다. 데이터가 multipart / form-data 인 경우에만.
+It is the total size of the files in a request. Only when the data is multipart/form-data.|| 요청에 포함 된 파일의 총 크기입니다. 데이터가 multipart / form-data 인 경우에만.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| 파일을 업로드하는 데 사용되는 파일 이름 목록입니다. 데이터가 multipart / form-data 인 경우에만 해당됩니다.
+It contains a list of individual file sizes. Only when the data is multipart/form-data.|| 개별 파일 크기 목록이 포함되어 있습니다. 데이터가 multipart / form-data 인 경우에만.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| 요청 본문 형식이 JSON 또는 XML에 대해 올바르지 않은 경우이 변수는 1이고, 그렇지 않으면 0 값을가집니다.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| 원시 신체 요청입니다. 요청에 &quot;application / x-www-form-urlencoded&quot;헤더가 없으면 REQUEST_HEADER 단계에서 &quot;ctl : forceRequestBodyVariable&quot;을 사용해야합니다.
+It is the number of bytes of the request body.|| 요청 본문의 바이트 수입니다.
+It is a list with all request cookies values.|| 모든 요청 쿠키 값이있는 목록입니다.
+It is a list with all request cookies names.|| 요청 쿠키 이름이 모두있는 목록입니다.
+This variable has all the request headers.|| 이 변수에는 모든 요청 헤더가 있습니다.
+This variable has a list with the request headers names.|| 이 변수에는 요청 헤더 이름이있는 목록이 있습니다.
+It is the request method.|| 요청 방법입니다.
+This variable holds the request HTTP version protocol.|| 이 변수는 요청 HTTP 버전 프로토콜을 보유합니다.
+It is the URI request path. The virtual host is excluded.|| URI 요청 경로입니다. 가상 호스트는 제외됩니다.
+It is the information before than the URI path.|| URI 경로 이전의 정보입니다.
+It is the full request.|| 전체 요청입니다.
+It is the number of bytes that full request can have.|| 전체 요청에 포함될 수있는 바이트 수입니다.
+It is the raw body response.|| 그것은 원시 신체 반응입니다.
+It is the number of bytes of the response body.|| 응답 본문의 바이트 수입니다.
+This variable has all response headers.|| 이 변수에는 모든 응답 헤더가 있습니다.
+This variable has a list with the response headers names.|| 이 변수에는 응답 헤더 이름이있는 목록이 있습니다.
+This variable holds the response HTTP version protocol.|| 이 변수는 응답 HTTP 버전 프로토콜을 보유합니다.
+It is the response HTTP code.|| 응답 HTTP 코드입니다.
+It is the IP address of the client.|| 클라이언트의 IP 주소입니다.
+It is the port where the client initializes the connection.|| 클라이언트가 연결을 초기화하는 포트입니다.
+It is the name of the authenticated user.|| 인증 된 사용자의 이름입니다.
+It is the server time. The format is hours:minutes:seconds.|| 서버 시간입니다. 형식은시 : 분 : 초입니다.
+It is the number of milliseconds since the beginning of the current transaction.|| 현재 트랜잭션이 시작된 이후의 시간 (밀리 초)입니다.
+It is the field filename in a multipart request.|| 멀티 파트 요청의 필드 파일 이름입니다.
+It is the field name in a multipart request.|| 멀티 파트 요청의 필드 이름입니다.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| 마지막 일치 작업에서 일치하는 값입니다. 이 값에는 캡처 옵션이 필요 없지만 각 일치 작업에서 바뀝니다.
+It is a list of all matched values.|| 일치하는 모든 값의 목록입니다.
+It is the IP address of the server.|| 서버의 IP 주소입니다.
+It is the virtual host, it gets from the request URI.|| 가상 호스트이며 요청 URI에서 가져옵니다.
+It is the environment variables of the WAF.|| WAF의 환경 변수입니다.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| 현재 트랜잭션에 대한 변수 모음입니다. 이 변수는 트랜잭션이 끝나면 제거됩니다. TX : 0-TX : 9 변수는 strRegex 또는 strPhrases 연산자로 캡처 한 값을 저장합니다.
+Decodes a Base64-encoded string.|| Base64로 인코딩 된 문자열을 디코딩합니다.
+Decodes a Base64-encoded string ignoring invalid characters.|| 잘못된 문자를 무시하고 Base64 인코딩 문자열을 디코딩합니다.
+Decodes SQL hex data.|| SQL 16 진수 데이터를 디코딩합니다.
+Encodes using Base64 encoding.|| Base64 인코딩을 사용하여 인코딩합니다.
+Avoids the problem related with the escaped command line.|| 이스케이프 된 명령 줄과 관련된 문제를 피하십시오.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| 공백 문자 (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0)를 공백 (ASCII 0x20)으로 변환하여 연속 된 여러 공백 문자를 하나로 압축합니다.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| CSS 2.x 이스케이프 규칙을 사용하여 인코딩 된 문자를 디코딩합니다. 이 함수는 디코딩 프로세스에서 최대 2 바이트 만 사용하므로 CSS 인코딩 (일반적으로 인코딩되지는 않음)을 사용하여 인코딩 된 ASCII 문자를 발견하거나 백 슬래시와 비 반복의 조합 인 회피를 카운터하는 데 유용합니다. -16 진 문자 (예 : ja \\vascript는 javascript와 동일).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| ANSI C 이스케이프 시퀀스를 디코딩합니다 : \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (16 진수), \\0OOO ​​(8 진수). 출력에 유효하지 않은 인코딩이 남아 있습니다.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| hexEncode에서 사용 된 알고리즘과 동일한 알고리즘을 사용하여 인코딩 된 문자열을 디코딩합니다 (다음 항목 참조).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| 각 입력 바이트를 두 개의 16 진수로 바꾸어 문자열 (2 진 문자 포함 가능)을 인코딩합니다. 예를 들어 xyz는 78797a로 인코딩됩니다.
+Decodes the characters encoded as HTML entities.|| HTML 엔터티로 인코딩 된 문자를 디코딩합니다.
+Decodes JavaScript escape sequences.|| 자바 스크립트 이스케이프 시퀀스를 디코딩합니다.
+Looks up the length of the input string in bytes, placing it (as string) in output.|| 입력 문자열의 길이를 바이트 단위로 조회하여 문자열로 출력 형식으로 배치합니다.
+Converts all characters to lowercase using the current C locale.|| 현재 C 로케일을 사용하여 모든 문자를 소문자로 변환합니다.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 입력 데이터에서 MD5 해시를 계산합니다. 계산 된 해시는 원시 이진 형식이므로 인쇄하거나 기록 할 텍스트로 인코딩해야합니다. 해시 함수는 일반적으로 hexEncode와 함께 사용됩니다.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| 실제 변환 함수가 아니라 현재 규칙과 관련된 이전 변환 함수를 제거하는 명령입니다.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| 입력 문자열에서 여러 슬래시, 디렉토리 자체 참조 및 디렉토리 역 참조 (입력 시작시 제외)를 제거합니다.
+Same as normalizePath, but first converts backslash characters to forward slashes.|| normalizePath와 같지만, 먼저 백 슬래시 문자를 슬래시로 변환합니다.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 각 대상 바이트의 7th 비트를 계산 된 패리티 비트로 바꾸는 8 비트 데이터의 짝수 패리티를 계산합니다.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 각 대상 바이트의 7th 비트를 계산 된 패리티 비트로 바꾸는 8 비트 데이터의 홀수 패리티를 계산합니다.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| 7 비트 데이터의 제로 패리티를 계산하여 각 대상 바이트의 8th 비트를 ASCII7 데이터로서 짝수 / 홀수 패리티 7 비트 데이터를 검사 할 수있는 제로 패리티 비트로 대체합니다.
+Removes all NUL bytes from input.|| 모든 NUL 바이트를 입력에서 제거합니다.
+Removes all whitespace characters from the input.|| 입력에서 모든 공백 문자를 제거합니다.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| C 스타일 주석 (/ *… * /)의 각 항목을 단일 공백 ​​(다중 연속 발생은 압축되지 않음)으로 바꿉니다. 종료되지 않은 주석은 공백 (ASCII 0x20)으로 대체됩니다. 그러나 주석 (* /)의 독립형 종료는 수행되지 않습니다.
+Removes common comments chars (/*, */, –, #).|| 공통 주석 문자 (/ *, * /, –, #)를 제거합니다.
+Replaces NUL bytes in input with space characters (ASCII 0x20).|| 입력 된 NUL 바이트를 공백 문자 (ASCII 0x20)로 바꿉니다.
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| URL로 인코딩 된 입력 문자열을 디코딩합니다. 유효하지 않은 인코딩 (즉, 16 진수가 아닌 문자를 사용하는 문자 또는 문자열의 끝에 있고 1 바이트 또는 2 바이트가 누락 된 문자)은 변환되지 않지만 오류는 발생하지 않습니다.
+Converts all characters to uppercase using the current C locale.|| 현재 C 로케일을 사용하여 모든 문자를 대문자로 변환합니다.
+Like urlDecode, but with support for the Microsoft-specific %u encoding.|| urlDecode와 같지만 Microsoft 관련 % u 인코딩을 지원합니다.
+Encodes input string using URL encoding.|| URL 인코딩을 사용하여 입력 문자열을 인코딩합니다.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| 모든 UTF-8 문자 시퀀스를 유니 코드로 변환합니다. 이는 특히 영어 이외의 언어에서 오탐과 오음을 최소화하는 입력 정규화에 도움이됩니다.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 입력 문자열에서 SHA1 해시를 계산합니다. 계산 된 해시는 원시 이진 형식이므로 인쇄 할 (또는 기록 된) 텍스트로 인코딩해야 할 수 있습니다. 해시 함수는 일반적으로 hexEncode와 함께 사용됩니다.
+Removes whitespace from the left side of the input string.|| 입력 문자열의 왼쪽에서 공백을 제거합니다.
+Removes whitespace from the right side of the input string.|| 입력 문자열의 오른쪽에서 공백을 제거합니다.
+Removes whitespace from both the left and right sides of the input string.|| 입력 문자열의 왼쪽과 오른쪽에서 공백을 제거합니다.
+The rule will match if any of the variables begin with the value of operating.|| 규칙 중 하나라도 작동 값으로 시작하면 규칙이 일치합니다.
+The rule will match if any of the variables contain the value of operating.|| 변수 중 하나에 조작 값이 포함되어 있으면 규칙이 일치합니다.
+The rule will match if any of the variables contain a word as the string one.|| 변수 중 하나에 단어를 문자열로 포함하는 경우 규칙이 일치합니다.
+The rule will match if any of the variables end with the value of operating.|| 변수 중 하나라도 조작 값으로 끝나면 규칙이 일치합니다.
+The rule will match if any of the variables match with the value of operating.|| 변수 중 하나가 작동 값과 일치하면 규칙이 일치합니다.
+The rule will match if any of the variables match with the value of operating.|| 변수 중 하나가 작동 값과 일치하면 규칙이 일치합니다.
+The rule will match if any of the variables is identical to the value of operating.|| 변수 중 하나가 조작 값과 동일한 경우 j이 일치합니다.
+The rule will match if any of the variables match in the regular expression used in operating.|| 운영에 사용 된 정규식에서 변수가 일치하면 규칙이 일치합니다.
+The rule will match if any of the variables match in any of the values of the list operating.|| 이 규칙은 작동하는 목록의 값 중 하나라도 일치하는 변수가 있으면 일치합니다.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| 연산자 strPhrases와 동일하지만 조작은 구문 목록으로 정의 된 파일입니다.
+The rule will match if any of the variables is equal to the number used in operating.|| 변수 중 하나가 조작에 사용 된 수와 같으면 j이 일치합니다.
+The rule will match if any of the variables is greater or equal to the number used in operating.|| 어떤 변수가 작동에 사용 된 수보다 크거나 같으면 규칙이 일치합니다.
+The rule will match if any of the variables is greater than the number used in operating.|| 어떤 변수가 작동에 사용 된 수보다 큰 경우 규칙이 일치합니다.
+The rule will match if any of the variables is lower or equal to the number used in operating.|| 어떤 변수가 작동에 사용 된 숫자보다 낮거나 같은 경우 규칙이 일치합니다.
+The rule will match if any of the variables is lower than the number used in operating.|| 변수 중 하나라도 조작에 사용 된 수보다 낮 으면 규칙이 일치합니다.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| SQL 인젝션 탐지를 변수 목록에 적용합니다. 이 연산자는 어떤 연산도 기대하지 않습니다.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| 변수 목록에 XSS 주입 검출을 적용합니다. 이 연산자는 어떤 연산도 기대하지 않습니다.
+Try to match the IP or network segments of operating with the list of variables.|| 운영중인 IP 또는 네트워크 세그먼트를 변수 목록과 일치 시키십시오.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| 연산자 ipMatch와 동일하지만 IP 및 네트워크 세그먼트 목록이있는 파일과 변수를 일치시킵니다.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| 변수의 바이트 수가 조작 값 중 하나에 있는지 점검합니다. 조작의 예는 &quot;10, 13, 32-126&quot;입니다.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| 인코딩 된 데이터의 유효성을 검사합니다. 이 연산자는 데이터를 일반적으로 인코딩하지 않는 데이터에만 사용해야하며, 데이터는 여러 번 인코딩해야합니다.
+It validates that variables are UTF-8. This operator does not expect any operating.|| 변수가 UTF-8인지 확인합니다. 이 운영자는 작동을 기대하지 않습니다.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| 변수가 신용 카드 번호인지 확인합니다. 이 매개 변수는 정규 표현식을 작동으로 허용하고 일치하는 경우 확인 된 신용 카드를 적용합니다.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| 변수가 미국 사회 보장 번호인지 확인합니다. 이 매개 변수는 정규식이 작동하는 것으로 승인합니다. 일치하는 경우 SSN 검증이 적용됩니다.
+It returns true always, forcing a match.|| 항상 true를 반환하고 일치를 강제 실행합니다.
+It returns false always, forcing a non-match.|| false를 항상 반환하여 일치하지 않는 항목을 강제로 반환합니다.
+A word is delimited by characters different to (a-z, 0-9 and '_')|| 단어는 (az, 0-9 및 '_')과 다른 문자로 구분됩니다.
+Can be a list of strings split by the character ,|| 문자로 구분 된 문자열 목록 일 수 있습니다.
+Can be a list of strings split by the character |,|| 문자 |,로 구분 된 문자열 목록 일 수 있습니다.
+Can be a list of strings split by a blank space|| 공백으로 나눈 문자열 목록 일 수 있습니다.
+Can be a list of IPs or network segments split by the character ,|| 문자로 분할 된 IP 또는 네트워크 세그먼트 목록 일 수 있습니다.
+Can be a list of IPs ranges split by the character ,|| 문자로 구분 된 IP 범위 목록이 될 수 있습니다.
+Can be selected more than one file.|| 둘 이상의 파일을 선택할 수 있습니다.
+It uses the PCRE engine, optional field.|| 선택적 필드 인 PCRE 엔진을 사용합니다.
+It uses the PCRE engine, optional field.|| 선택적 필드 인 PCRE 엔진을 사용합니다.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| PCRE 엔진을 사용합니다. 식 (? i)은 대소 문자를 구분하지 않고 일치시키는 데 사용됩니다.
+This operator does not expect any operating.|| 이 운영자는 작동을 기대하지 않습니다.
+String.|| 끈
+Number.|| 수.
+The <strong> {{param}} </strong> blacklist has been created successfully.|| 그리고, <strong> {{param}} </strong> 블랙리스트가 성공적으로 생성되었습니다.
+The <strong> {{param}} </strong> blacklist has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 블랙리스트가 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> blacklist has been stopped successfully.|| 그리고, <strong> {{param}} </strong> 블랙리스트가 성공적으로 중지되었습니다.
+The <strong> {{param}} </strong> blacklist has been started successfully.|| 그리고, <strong> {{param}} </strong> 블랙리스트가 성공적으로 시작되었습니다.
+The <strong> {{param}} </strong> blacklist has been updated successfully.|| 그리고, <strong> {{param}} </strong> 블랙리스트가 성공적으로 업데이트되었습니다.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| 농장 <strong> {{param}} </strong> 블랙리스트에 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| 농장 <strong> {{param}} </strong> 블랙리스트가 성공적으로 제거되었습니다.
+The <strong> {{param}} </strong> DoS rule has been created successfully.|| 그리고, <strong> {{param}} </strong> DoS 규칙이 작성되었습니다.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| 그리고, <strong> {{param}} </strong> DoS 규칙이 삭제되었습니다.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| 그리고, <strong> {{param}} </strong> DoS 규칙이 중지되었습니다.
+The <strong> {{param}} </strong> DoS rule has been started successfully.|| 그리고, <strong> {{param}} </strong> DoS 규칙이 시작되었습니다.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| 농장 <strong> {{param}} </strong> DoS 규칙에 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| 농장 <strong> {{param}} </strong> DoS 규칙이 성공적으로 제거되었습니다.
+The source has been created successfully|| 소스가 성공적으로 생성되었습니다
+The source has been updated successfully|| 소스가 성공적으로 업데이트되었습니다
+The source <strong> {{param}} </strong> has been deleted successfully.|| 출처 <strong> {{param}} </strong> 삭제되었습니다.
+The <strong> {{param}} </strong> RBL rule has been created successfully.|| 그리고, <strong> {{param}} </strong> RBL 규칙이 작성되었습니다.
+The <strong> {{param}} </strong> RBL rule has been updated successfully.|| 그리고, <strong> {{param}} </strong> RBL 규칙이 업데이트되었습니다.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| 그리고, <strong> {{param}} </strong> RBL 규칙이 삭제되었습니다.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| 그리고, <strong> {{param}} </strong> RBL 규칙이 중지되었습니다.
+The <strong> {{param}} </strong> RBL rule has been started successfully.|| 그리고, <strong> {{param}} </strong> RBL 규칙이 시작되었습니다.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| 농장 <strong> {{param}} </strong> RBL 규칙에 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| 농장 <strong> {{param}} </strong> RBL 규칙이 성공적으로 제거되었습니다.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| 도메인 <strong> {{param}} </strong> RBL 규칙에 추가되었습니다.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| 도메인 <strong> {{param}} </strong> RBL 규칙이 성공적으로 제거되었습니다.
+The domain <strong> {{param}} </strong> has been created successfully|| 도메인 <strong> {{param}} </strong> 성공적으로 만들어졌습니다
+The domain has been updated successfully|| 도메인이 성공적으로 업데이트되었습니다
+The domain <strong> {{param}} </strong> has been deleted successfully.|| 도메인 <strong> {{param}} </strong> 삭제되었습니다.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| 그리고, <strong> {{param}} </strong> WAF 규칙 세트가 작성되었습니다.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| 그리고, <strong> {{param}} </strong> WAF 규칙 세트가 삭제되었습니다.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| 그리고, <strong> {{param}} </strong> WAF 규칙 세트가 중지되었습니다.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| 그리고, <strong> {{param}} </strong> WAF 규칙 세트가 시작되었습니다.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| 그리고, <strong> {{param}} </strong> WAF 규칙 세트가 성공적으로 업데이트되었습니다.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| 농장 <strong> {{param}} </strong> WAF 규칙 세트에 성공적으로 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| 농장 <strong> {{param}} </strong> WAF 규칙 세트가 성공적으로 제거되었습니다.
+The rule <strong> {{param}} </strong> has been created successfully.|| 규칙 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The rule <strong> {{param}} </strong> has been moved successfully.|| 규칙 <strong> {{param}} </strong> 성공적으로 이동되었습니다.
+The rule <strong> {{param}} </strong> has been deleted successfully.|| 규칙 <strong> {{param}} </strong> 삭제되었습니다.
+The rule <strong> {{param}} </strong> has been updated successfully|| 규칙 <strong> {{param}} </strong> 성공적으로 업데이트되었습니다
+The match has been created successfully|| 경기가 성공적으로 만들어졌습니다
+The match <strong> {{param}} </strong> has been deleted successfully.|| 경기 <strong> {{param}} </strong> 삭제되었습니다.
+The WAF file <strong> {{param}} </strong> has been created successfully.|| WAF 파일 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The WAF file <strong> {{param}} </strong> has been deleted successfully.|| WAF 파일 <strong> {{param}} </strong> 삭제되었습니다.
+The WAF file <strong> {{param}} </strong> has been updated successfully.|| WAF 파일 <strong> {{param}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> IPDS package </strong> has been scheduled successfully.|| 그리고, <strong> IPDS 패키지 </strong> 성공적으로 예약되었습니다.
+The <strong> IPDS package </strong> has been upgraded successfully.|| 그리고, <strong> IPDS 패키지 </strong> 성공적으로 업그레이드되었습니다.
+Are you sure you want to delete the {{param}} blacklist?|| {{param}} 블랙리스트를 삭제 하시겠습니까?
+Are you sure you want to delete the selected blacklists?|| 선택한 블랙리스트를 삭제 하시겠습니까?
+Are you sure you want to delete the {{param}} DoS rule?|| {{param}} DoS 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the selected DoS rules?|| 선택한 DoS 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the source {{param}}?|| 소스 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected sources?|| 선택한 소스를 삭제 하시겠습니까?
+Are you sure you want to delete the {{param}} RBL rule?|| {{param}} RBL 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the selected RBL rules?|| 선택한 RBL 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the domain {{param}}?|| 도메인 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected domains?|| 선택한 도메인을 삭제 하시겠습니까?
+Are you sure you want to delete the {{param}} WAF ruleset?|| {{param}} WAF 규칙 세트를 삭제 하시겠습니까?
+Are you sure you want to delete the selected rulesets?|| 선택한 규칙 세트를 삭제 하시겠습니까?
+'Are you sure you want to delete the rule {{param}}?|| '{{param}} 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the match {{param}}?|| 일치하는 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected matches?|| 선택한 일치 항목을 삭제 하시겠습니까?
+Are you sure you want to delete the file {{param}}?|| {{param}} 파일을 삭제 하시겠습니까?
+Are you sure you want to delete the selected files?|| 선택한 파일을 삭제 하시겠습니까?
+System Graphs|| 시스템 그래프
+Interfaces Graphs|| 인터페이스 그래프
+Farms Graph|| 농장 그래프
+Farms Stats|| 농장 통계
+System Stats|| 시스템 통계
+Network Stats|| 네트워크 통계
+Copy farmguardian|| 농장 가디언 복사
+Farmguardian to copy|| 복사 할 보호자
+Select the farmguardian to copy|| 복사 할 보호자를 선택하십시오
+Total Memory|| 총 메모리
+Free Memory|| 여유 메모리
+Used Memory|| 사용 된 메모리
+Buffers|| 버퍼
+Cached|| 캐시 된
+Total Swap|| 총 스왑
+Free Swap|| 무료 스왑
+Used Swap|| 중고 스왑
+Cached Swap|| 캐시 된 스왑
+Idle|| 유휴
+Usage|| 용법
+Iowait|| 아이오와 주
+Irq|| Irq
+Nice|| 니스
+Softirq|| Softirq
+Sys|| 시스
+User|| 사용자
+Last minute|| 마지막 순간
+Last 5 minutes|| 지난 5 분
+Last 15 minutes|| 지난 15 분
 Are you sure you want to delete the {{param}} farmguardian?|| {{param}} farmguardian을 삭제 하시겠습니까?
-The <strong>{{param}}</strong> farmguardian has been deleted successfully.||   <strong>{{param}}</strong> farmguardian이 삭제되었습니다.
-The farm has been updated successfully.|| 팜이 성공적으로 업데이트되었습니다.
-Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Farmguardian의 {{param}} {{param2}} 농장을 삭제 하시겠습니까?
-Are you sure you want to delete the backend {{param}}?|| 백엔드 {{param}}을 (를) 삭제 하시겠습니까?
-The backend <strong>{{param}}</strong> has been deleted successfully|| 백엔드 <strong>{{param}}</strong> 삭제되었습니다.
-The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| 백엔드 <strong>{{param}}</strong> {{param2}}되었습니다.
-The service <strong>{{param}}</strong> has been created successfully.|| 서비스 <strong>{{param}}</strong> 이 (가) 성공적으로 생성되었습니다.
-The service <strong>{{param}}</strong> has been deleted successfully.|| 서비스 <strong>{{param}}</strong> 삭제되었습니다.
-The service <strong>{{param}}</strong> has been updated successfully.|| 서비스 <strong>{{param}}</strong> 이 (가) 성공적으로 업데이트되었습니다.
-The <strong>{{param}}</strong> Gateway has been updated successfully.||   <strong>{{param}}</strong> 게이트웨이가 성공적으로 업데이트되었습니다.
-Are you sure you want to unset the current gateway?|| 현재 게이트웨이의 설정을 해제 하시겠습니까?
-Are you sure you want to unset the {{param}} gateway?|| {{param}} 게이트웨이를 설정 해제 하시겠습니까?
-The <strong>{{param}}</strong> Gateway has been unconfigured successfully.||   <strong>{{param}}</strong> 게이트웨이가 성공적으로 구성 해제되었습니다.
-The <strong>{{param}}</strong> NIC has been updated successfully.||   <strong>{{param}}</strong> NIC가 성공적으로 업데이트되었습니다.
-The <strong>{{param}}</strong> NIC has been unconfigured successfully.||   <strong>{{param}}</strong> NIC가 성공적으로 구성 해제되었습니다.
-The <strong>{{param}}</strong> NIC is {{param2}}||   <strong>{{param}}</strong> NIC는 {{param2}}입니다.
-The <strong>{{param}}</strong> Virtual interface has been created successfully.||   <strong>{{param}}</strong> 가상 인터페이스가 성공적으로 생성되었습니다.
-The <strong>{{param}}</strong> Virtual interface has been updated successfully.||   <strong>{{param}}</strong> 가상 인터페이스가 성공적으로 업데이트되었습니다.
-Are you sure you want to delete the {{param}} Virtual interface?|| {{param}} 가상 인터페이스를 삭제 하시겠습니까?
-The <strong>{{param}}</strong> Virtual interface has been deleted successfully.||   <strong>{{param}}</strong> 가상 인터페이스가 성공적으로 삭제되었습니다.
-The <strong>{{param}}</strong> Virtual Interface is {{param2}}||   <strong>{{param}}</strong> 가상 인터페이스는 {{param2}}입니다.
-The <strong>{{param}}</strong> VLAN has been created successfully.||   <strong>{{param}}</strong> VLAN이 성공적으로 생성되었습니다.
-The <strong>{{param}}</strong> VLAN has been updated successfully.||   <strong>{{param}}</strong> VLAN이 성공적으로 업데이트되었습니다.
-Are you sure you want to delete the {{param}} VLAN?|| {{param}} VLAN을 삭제 하시겠습니까?
-The <strong>{{param}}</strong> VLAN has been deleted successfully.||   <strong>{{param}}</strong> VLAN이 성공적으로 삭제되었습니다.
-The <strong>{{param}}</strong> VLAN is {{param2}}||   <strong>{{param}}</strong> VLAN은 {{param2}}입니다.
-The backup <strong>{{param}}</strong> has been created successfully.|| 백업 <strong>{{param}}</strong> 이 (가) 성공적으로 생성되었습니다.
-The backup <strong>{{param}}</strong> has been uploaded successfully.|| 백업 <strong>{{param}}</strong> 업로드되었습니다.
-Are you sure you want to delete the backup {{param}}?|| {{param}} 백업을 삭제 하시겠습니까?
-The backup <strong>{{param}}</strong> has been deleted successfully.|| 백업 <strong>{{param}}</strong> 삭제되었습니다.
-The backup <strong>{{param}}</strong> has been applied successfully.|| 백업 <strong>{{param}}</strong> 이 (가) 성공적으로 적용되었습니다.
-The backup <strong>{{backup}}</strong> has been downloaded successfully.|| 백업 <strong>{{backup}}</strong> 다운로드가 완료되었습니다.
-The log <strong>{{param}}</strong> has been downloaded successfully.|| 일지 <strong>{{param}}</strong> 다운로드가 완료되었습니다.
-The <strong>{{param}}</strong> service has been updated successfully.||   <strong>{{param}}</strong> 서비스가 성공적으로 업데이트되었습니다.
-The <strong> Support Save </strong> has been downloaded successfully||   <strong> 지원 저장 </strong> 다운로드 완료
+Are you sure you want to delete the selected farmguardians?|| 선택한 팜 가디언을 삭제 하시겠습니까?
+The <strong> {{param}} </strong> farmguardian has been created successfully.|| 그리고, <strong> {{param}} </strong> 농장 가드가 성공적으로 만들어졌습니다.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| 그리고, <strong> {{param}} </strong> farmguardian이 삭제되었습니다.
+The <strong> {{param}} </strong> farmguardian has been updated successfully.|| 그리고, <strong> {{param}} </strong> farmguardian이 성공적으로 업데이트되었습니다.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| 농장 <strong> {{param}} </strong> 팜 가디언에 성공적으로 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| 농장 <strong> {{param}} </strong> 팜 가디언에 성공적으로 제거되었습니다.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| 농장 <strong> {{param}} with the service {{param2}} </strong> 팜 가디언에 성공적으로 추가되었습니다.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| 농장 <strong> {{param}} with the service {{param2}} </strong> 팜 가디언에 성공적으로 제거되었습니다.
+NIC List|| NIC 목록
+Bonding Interface List|| 본딩 인터페이스 목록
+Select the slaves|| 노예 선택
+VLAN Interface List|| VLAN 인터페이스 목록
+VLAN ID|| VLAN ID
+VLAN tag|| VLAN 태그
+Virtual Interface List|| 가상 인터페이스 목록
+Virtual interface name|| 가상 인터페이스 이름
+Virtual interface tag|| 가상 인터페이스 태그
+Floating IP List|| 유동 IP 목록
+IPv4 Gateway|| IPv4 게이트웨이
+IPv6 Gateway|| IPv6 게이트웨이
+IPv4 Gateway Settings|| IPv4 게이트웨이 설정
+IPv6 Gateway Settings|| IPv6 게이트웨이 설정
+Backends Aliases|| 백엔드 별칭
+Interfaces Aliases|| 인터페이스 별명
+Routing Rule List|| 라우팅 규칙 목록
+Routing Table List|| 라우팅 테이블 목록
+Priority should be a value between {{min}} and {{max}}|| 우선 순위는 {{min}}과 {{max}} 사이의 값이어야합니다
+Configure table {{param}}|| 테이블 {{param}} 구성
+Available Routes|| 이용 가능한 노선
+Routing table for the outputs of the interface {{param}}.|| 인터페이스 {{param}}의 출력을위한 라우팅 테이블.
+Should be a IP address or CIDR|| IP 주소 또는 CIDR이어야합니다
+Should be a IP address (IPv4/IPv6)|| IP 주소 여야합니다 (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}?|| NIC {{param}}을 (를) 설정 해제 하시겠습니까?
+Are you sure you want to unset the selected NIC?|| 선택한 NIC를 설정 해제 하시겠습니까?
+Are you sure you want to unset the Bonding {{param}}?|| 본딩 {{param}}을 (를) 설정 해제 하시겠습니까?
+Are you sure you want to unset the selected Bondings?|| 선택한 본딩을 설정 해제 하시겠습니까?
+Are you sure you want to delete the Bonding {{param}}?|| 본딩 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected Bondings?|| 선택한 본딩을 삭제 하시겠습니까?
+Are you sure you want to delete the VLAN {{param}}?|| VLAN {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected VLANs?|| 선택한 VLAN을 삭제 하시겠습니까?
+Are you sure you want to delete the Virtual interface {{param}}?|| 가상 인터페이스 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected Virtual interfaces?|| 선택한 가상 인터페이스를 삭제 하시겠습니까?
+Are you sure you want to unset the Floating IP of {{param}}?|| {{param}}의 유동 IP를 설정 해제 하시겠습니까?
+Are you sure you want to unset the selected Floating IPs?|| 선택한 유동 IP를 설정 해제 하시겠습니까?
+Are you sure you want to unset the gateway for {{param}}?|| {{param}}에 대한 게이트웨이를 설정 해제 하시겠습니까?
+Are you sure you want to delete the alias {{param}}?|| 별칭 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected aliases?|| 선택한 별칭을 삭제 하시겠습니까?
+Are you sure you want to delete the routing rule {{param}}?|| 라우팅 규칙 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected routing rules?|| 선택한 라우팅 규칙을 삭제 하시겠습니까?
+Are you sure you want to delete the route {{param}}?|| 경로 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected routes?|| 선택한 경로를 삭제 하시겠습니까?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| 그리고, <strong> {{param}} </strong> NIC가 성공적으로 구성 해제되었습니다.
+The <strong> {{param}} </strong> NIC is up.|| 그리고, <strong> {{param}} </strong> NIC가 작동 중입니다.
+The <strong> {{param}} </strong> NIC is down.|| 그리고, <strong> {{param}} </strong> NIC가 다운되었습니다.
+The <strong> {{param}} </strong> NIC has been updated successfully.|| 그리고, <strong> {{param}} </strong> NIC가 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> NIC has updated the alias successfully.|| 그리고, <strong> {{param}} </strong> NIC가 별칭을 성공적으로 업데이트했습니다.
+The <strong> {{param}} </strong> Bonding has been created successfully.|| 그리고, <strong> {{param}} </strong> 본딩이 성공적으로 생성되었습니다.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| 그리고, <strong> {{param}} </strong> 본딩이 성공적으로 구성 해제되었습니다.
+The <strong> {{param}} </strong> Bonding is up.|| 그리고, <strong> {{param}} </strong> 본딩이 완료되었습니다.
+The <strong> {{param}} </strong> Bonding is down.|| 그리고, <strong> {{param}} </strong> 본딩이 다운되었습니다.
+The <strong> {{param}} </strong> Bonding has been updated successfully.|| 그리고, <strong> {{param}} </strong> 본딩이 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| 그리고, <strong> {{param}} </strong> 본딩이 별칭을 성공적으로 업데이트했습니다.
+The <strong> {{param}} </strong> Bonding has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 본딩이 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| 그리고, <strong> {{param}} </strong> 슬레이브가 본딩에 성공적으로 추가되었습니다.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| 그리고, <strong> {{param}} </strong> 슬레이브가 본딩에서 성공적으로 제거되었습니다.
+The <strong> {{param}} </strong> VLAN has been created successfully.|| 그리고, <strong> {{param}} </strong> VLAN이 성공적으로 생성되었습니다.
+The <strong> {{param}} </strong> VLAN is up.|| 그리고, <strong> {{param}} </strong> VLAN이 작동 중입니다.
+The <strong> {{param}} </strong> VLAN is down.|| 그리고, <strong> {{param}} </strong> VLAN이 다운되었습니다.
+The <strong> {{param}} </strong> VLAN has been updated successfully.|| 그리고, <strong> {{param}} </strong> VLAN이 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| 그리고, <strong> {{param}} </strong> VLAN이 별칭을 성공적으로 업데이트했습니다.
+The <strong> {{param}} </strong> VLAN has been deleted successfully.|| 그리고, <strong> {{param}} </strong> VLAN이 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> Virtual interface has been created successfully.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 성공적으로 생성되었습니다.
+The <strong> {{param}} </strong> Virtual interface is up.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 작동 중입니다.
+The <strong> {{param}} </strong> Virtual interface is down.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 다운되었습니다.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 별명을 업데이트했습니다.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 가상 인터페이스가 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| 그리고, <strong> {{param}} </strong> 유동 IP가 구성 해제되었습니다.
+The <strong> {{param}} </strong> Floating IP is up.|| 그리고, <strong> {{param}} </strong> 유동 IP가 작동 중입니다.
+The <strong> {{param}} </strong> Floating IP is down.|| 그리고, <strong> {{param}} </strong> 유동 IP가 다운되었습니다.
+The <strong> {{param}} </strong> Floating IP has been updated successfully.|| 그리고, <strong> {{param}} </strong> 유동 IP가 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| 그리고, <strong> {{param}} </strong> 유동 IP가 별칭을 성공적으로 업데이트했습니다.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 유동 IP가 성공적으로 삭제되었습니다.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| 게이트웨이 <strong> {{param}} </strong> 구성 해제되었습니다.
+The Gateway for <strong> {{param}} </strong> has been updated successfully.|| 게이트웨이 <strong> {{param}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> Alias has been created successfully.|| 그리고, <strong> {{param}} </strong> 별명이 작성되었습니다.
+The <strong> {{param}} </strong> Alias has been updated successfully.|| 그리고, <strong> {{param}} </strong> 별칭이 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> Alias has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 별칭이 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> routing rule has been deleted successfully.|| 그리고, <strong> {{param}} </strong> 라우팅 규칙이 성공적으로 삭제되었습니다.
+The <strong> {{param}} </strong> routing rule has been updated successfully.|| 그리고, <strong> {{param}} </strong> 라우팅 규칙이 성공적으로 업데이트되었습니다.
+The <strong> {{param}} </strong> routing rule has been created successfully.|| 그리고, <strong> {{param}} </strong> 라우팅 규칙이 작성되었습니다.
+The route <strong> {{param}} </strong> has been deleted successfully.|| 경로 <strong> {{param}} </strong> 삭제되었습니다.
+The route <strong> {{param}} </strong> has been updated successfully.|| 경로 <strong> {{param}} </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The route <strong> {{param}} </strong> has been created successfully.|| 경로 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+To remove a route you must select it first.|| 경로를 제거하려면 먼저 경로를 선택해야합니다.
+The route {{param}} cannot be removed because it is a system route.|| {{param}} 경로는 시스템 경로이므로 제거 할 수 없습니다.
+The interface <strong> {{param}} </strong> has been disabled.|| 인터페이스 <strong> {{param}} </strong> 비활성화되었습니다.
+The interface <strong> {{param}} </strong> has been enabled.|| 인터페이스 <strong> {{param}} </strong> 활성화되었습니다.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| 그리고, <strong> {{param}} </strong> 슬레이브는 제거 할 수 없습니다. 본딩에는 하나 이상의 슬레이브가 있어야합니다.
+HTTP Service|| HTTP 서비스
+SSH Service|| SSH 서비스
+SNMP Service|| SNMP 서비스
+The physical interface where is running GUI service|| GUI 서비스를 실행하는 물리적 인터페이스
+If the cluster is up you only can select the cluster interface or all|| 클러스터가 작동하면 클러스터 인터페이스 만 또는 모두를 선택할 수 있습니다
+HTTPS Port where is running GUI service|| GUI 서비스를 실행중인 HTTPS 포트
+The physical interface where is running SSH service|| SSH 서비스를 실행하는 물리적 인터페이스
+SSH Port where is running SSH service|| SSH 서비스를 실행중인 포트
+Enable SNMP|| SNMP 사용
+The physical interface where is running SNMP service|| SNMP 서비스를 실행중인 물리적 인터페이스
+SNMP Port where is running SNMP service|| SNMP 포트 SNMP 서비스를 실행중인 포트
+Community name|| 커뮤니티 이름
+IP or subnet with access|| 액세스 권한이있는 IP 또는 서브넷
+Primary server|| 주 서버
+Secondary Server|| 보조 서버
+NTP server|| NTP 서버
+NTP Service|| NTP 서비스
+Proxy Service|| 프록시 서비스
+DNS Service|| DNS 서비스
+Configure cluster|| 클러스터 구성
+Local IP|| 로컬 IP
+Remote IP|| 원격 IP
+Remote Node Password|| 원격 노드 비밀번호
+Confirm Password|| 비밀번호 확인
+Backup List|| 백업 목록
+Backup file|| 백업 파일
+Choose one file|| 하나의 파일 선택
+Alerts Service|| 경보 서비스
+Alerts|| 알림
+Email Notifications|| 이메일 알림
+Mail Server|| 메일 서버
+Mail User|| 메일 사용자
+TLS|| TLS
+Backends Alert|| 백엔드 경고
+Cluster Alert|| 클러스터 경고
+Prefix Subject|| 접두사 제목
+Avoid flapping time|| 퍼덕 거리는 시간을 피하십시오
+The time that alerts wait when backend is flapping|| 백엔드가 플 래핑 될 때 경고가 기다리는 시간
+User Settings|| 사용자 설정
+ZAPI Key|| ZAPI 키
+Change Password|| 비밀번호를 변경
+Current password|| 현재 비밀번호
+New password|| 새 비밀번호
+Repeat new password|| 새로운 비밀번호를 재 입력하세요
+Log List|| 로그 목록
+Log view|| 로그보기
+When this action is executed a file with system information will be downloaded.|| 이 작업이 실행되면 시스템 정보가있는 파일이 다운로드됩니다.
+This action may take several seconds, you can continue browsing the GUI.|| 이 작업은 몇 초가 걸릴 수 있습니다. GUI를 계속 탐색 할 수 있습니다.
+Select an interface which won't be deleted|| 삭제되지 않는 인터페이스를 선택하십시오
+This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| 이 작업은 선택한 인터페이스, 백업 및 활성화 인증서를 제외한 모든 구성을 삭제합니다.
+The current credentials for user root will not be modified.|| 사용자 루트의 현재 자격 증명은 수정되지 않습니다.
+User List|| 사용자 목록
+Group List|| 그룹리스트
+Role List|| 역할 목록
+Role Settings|| 역할 설정
+Show all permissions|| 모든 권한 표시
+Hide all permissions|| 모든 권한 숨기기
+Show permissions|| 권한 표시
+Hide permissions|| 권한 숨기기
+LDAP Server|| LDAP 서버
+Base DN|| 기본 DN
+Bind DN|| 바인드 DN
+Scope|| 범위
+Bind Password|| 비밀번호 바인드
+Filter|| FILTER
+Global Services|| 글로벌 서비스
+Enable session replication|| 세션 복제 활성화
+Enable Duplicated network|| 중복 네트워크 사용
+Enable ARP announce|| ARP 알림 사용
+Custom Routes|| 맞춤 경로
+System Routes|| 시스템 경로
+Use proxy of new generation|| 새로운 세대의 프록시 사용
+Validation Systems|| 검증 시스템
+AWS Credentials|| AWS 자격 증명
+Access Key|| 액세스 키
+Secret Key|| 비밀 키
+Region|| 지역
+SSL Certificate|| SSL 인증서
+RBAC User|| RBAC 사용자
+RBAC Group|| RBAC 그룹
+RBAC Role|| RBAC 역할
+Network Virtual Interface|| 네트워크 가상 인터페이스
+System Service|| 시스템 서비스
+Notification|| XNUMX
+Host or URL allowed|| 호스트 또는 URL 허용
+It will not be used if the HOST/URL field contains a URL|| HOST / URL 필드에 URL이 포함되어 있으면 사용되지 않습니다
+Filter used to get the LDAP field that contains the user ID to log in|| 로그인 할 사용자 ID가 포함 된 LDAP 필드를 가져 오는 데 사용되는 필터
+The Search Request will be performed against the entry specified as the search base DN.|| 검색 기반 DN으로 지정된 항목에 대해 검색 요청이 수행됩니다.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| 검색 요청은 검색 기준 DN으로 지정된 항목의 바로 하위 항목에 대해 수행됩니다.
+The Search Request will be performed against the search base and all entries below|| 검색 요청은 검색 기반과 아래의 모든 항목에 대해 수행됩니다.
+The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| 새 관리 GUI 주소는 {{param}}입니다. 새 URL에서 GUI에 다시 연결하십시오.
+The <strong> HTTP service </strong> has been updated successfully.|| 그리고, <strong> HTTP 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> SSH service </strong> has been updated successfully.|| 그리고, <strong> SSH 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> SNMP service </strong> has been updated successfully.|| 그리고, <strong> SNMP 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> global services </strong> have been updated successfully|| 그리고, <strong> 글로벌 서비스 </strong> 성공적으로 업데이트되었습니다
+The <strong> DNS service </strong> has been updated successfully.|| 그리고, <strong> DNS 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> NTP service </strong> has been updated successfully.|| 그리고, <strong> NTP 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The <strong> Proxy service </strong> has been updated successfully.|| 그리고, <strong> 프록시 서비스 </strong> 이 (가) 성공적으로 업데이트되었습니다.
+The backup <strong> {{param}} </strong> has been deleted successfully.|| 백업 <strong> {{param}} </strong> 삭제되었습니다.
+The backup <strong> {{param}} </strong> has been applied successfully.|| 백업 <strong> {{param}} </strong> 이 (가) 성공적으로 적용되었습니다.
+The backup <strong> {{param}} </strong> has been downloaded successfully.|| 백업 <strong> {{param}} </strong> 다운로드가 완료되었습니다.
+The backup <strong> {{param}} </strong> has been uploaded successfully.|| 백업 <strong> {{param}} </strong> 업로드되었습니다.
+The backup <strong> {{param}} </strong> has been created successfully.|| 백업 <strong> {{param}} </strong> 이 (가) 성공적으로 생성되었습니다.
+The <strong> backends alert </strong> has been applied successfully.|| 그리고, <strong> 백엔드 경고 </strong> 이 (가) 성공적으로 적용되었습니다.
+The <strong> cluster alert </strong> has been applied successfully.|| 그리고, <strong> 클러스터 경고 </strong> 이 (가) 성공적으로 적용되었습니다.
+The configuration of email has been updated successfully.|| 이메일 구성이 업데이트되었습니다.
+The alert has been updated successfully.|| 경고가 성공적으로 업데이트되었습니다.
+The test email has been sent successfully.|| 테스트 이메일이 성공적으로 전송되었습니다.
 The user has been updated successfully.|| 사용자가 성공적으로 업데이트되었습니다.
-The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> 생성되었습니다.
-The certificate <strong>{{param}}</strong> has been uploaded successfully.|| 인증서 <strong>{{param}}</strong> 업로드되었습니다.
-The certificate <strong>{{param}}</strong> has been deleted successfully.|| 인증서 <strong>{{param}}</strong> 삭제되었습니다.
-The certificate <strong>{{param}}</strong> has been downloaded successfully.|| 인증서 <strong>{{param}}</strong> 다운로드가 완료되었습니다.
-New Service|| 새로운 서비스
-Create|| 만들기
-Cancel|| 취소하다
-Submit|| 보내기
-Save|| 저장
-Generate|| 생성
-Update|| 업데이트
-Upload|| 업로드 (Upload)
-Generate Random Key|| 무작위 키 생성
-Generate Support Save|| 지원 저장 생성
-clear|| 맑은
-start|| 스타트
-Apply|| 적용
-Add|| 추가
-Edit|| 편집
-Go to Home|| 집으로 이동
-404 Page not Found|| 404 페이지를 찾을 수 없음
-The page you were looking for doesn't exist|| 찾고 있던 페이지가 존재하지 않습니다.
-No farms found|| 농장을 찾을 수 없음
-Established Conns|| Conns 설립
-Pending Conns|| 대기중인 전화
-Select a graph|| 그래프 선택
-Select a profile|| 프로필 선택
-Select a Virtual IP|| 가상 IP 선택
-Select a parent interface|| 상위 인터페이스 선택
-Select an interface|| 인터페이스 선택
-Logout|| 로그아웃
-Sign in with your username and password|| 사용자 이름과 비밀번호로 로그인하십시오.
-Username|| 사용자 이름
-Password|| 비밀번호
-Sign In|| 로그인
-User is required!|| 사용자는 필수입니다!
-User should be the real one|| 사용자는 진짜이어야합니다.
-Password is required|| 비밀번호가 필요합니다.
-Password should contains {{param}} to {{param2}} characters|| 비밀번호에는 {{param}} ~ {{param2}}자를 포함해야합니다.
-Success!|| 성공!
-You have been successfully logged in.|| 귀하는 성공적으로 로그인되었습니다.
-put in maintenance|| 정비하다
-upped|| 올랐다
-stopped|| 정지
-started|| 시작
-restarted|| 다시 시작
-down|| 아래 (down)
-up||  up
+The log <strong> {{param}} </strong> has been downloaded successfully.|| 일지 <strong> {{param}} </strong> 다운로드가 완료되었습니다.
+The <strong> Support Save </strong> has been downloaded successfully.|| 그리고, <strong> 지원 저장 </strong> 다운로드가 완료되었습니다.
+The user <strong> {{param}} </strong> has been deleted successfully.|| 사용자 <strong> {{param}} </strong> 삭제되었습니다.
+The user {{param}} has been created successfully.|| {{param}} 사용자가 작성되었습니다.
+The user {{param}} has been updated successfully.|| 사용자 {{param}}이 (가) 업데이트되었습니다.
+The group <strong> {{param}} </strong> has been deleted successfully.|| 그룹 <strong> {{param}} </strong> 삭제되었습니다.
+The group {{param}} has been created successfully.|| {{param}} 그룹이 작성되었습니다.
+The group {{param}} has been updated successfully.|| {{param}} 그룹이 성공적으로 업데이트되었습니다.
+The user <strong> {{param}} </strong> has been added to the group successfully.|| 사용자 <strong> {{param}} </strong> 그룹에 성공적으로 추가되었습니다.
+The user <strong> {{param}} </strong> has been removed to the group successfully.|| 사용자 <strong> {{param}} </strong> 그룹에 성공적으로 제거되었습니다.
+The farm <strong> {{param}} </strong> has been added to the group successfully.|| 농장 <strong> {{param}} </strong> 그룹에 성공적으로 추가되었습니다.
+The farm <strong> {{param}} </strong> has been removed to the group successfully.|| 농장 <strong> {{param}} </strong> 그룹에 성공적으로 제거되었습니다.
+The interface <strong> {{param}} </strong> has been added to the group successfully.|| 인터페이스 <strong> {{param}} </strong> 그룹에 성공적으로 추가되었습니다.
+The interface <strong> {{param}} </strong> has been removed to the group successfully.|| 인터페이스 <strong> {{param}} </strong> 그룹에 성공적으로 제거되었습니다.
+The role <strong> {{param}} </strong> has been deleted successfully.|| 역할 <strong> {{param}} </strong> 삭제되었습니다.
+The role {{param}} has been created successfully.|| {{param}} 역할이 작성되었습니다.
+The role {{param}} has been updated successfully.|| {{param}} 역할이 업데이트되었습니다.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| LDAP 서버가 구성되었습니다. 연결을 테스트하여 구성이 올바른지 확인하십시오.
+The connectivity test has been done successfully.|| 연결 테스트가 성공적으로 완료되었습니다.
+The validation system <strong> {{param}} </strong> has been enabled successfully.|| 검증 시스템 <strong> {{param}} </strong> 활성화되었습니다.
+The validation system <strong> {{param}} </strong> has been disabled successfully.|| 검증 시스템 <strong> {{param}} </strong> 사용 중지되었습니다.
+The cluster has been created successfully.|| 클러스터가 작성되었습니다.
+The cluster has been updated successfully.|| 클러스터가 성공적으로 업데이트되었습니다.
+The cluster has been destroyed successfully.|| 클러스터가 성공적으로 삭제되었습니다.
+The <strong>local node</strong> has been put in maintenance successfully.|| 그리고, <strong>로컬 노드</strong> 유지 보수가 완료되었습니다.
+The <strong>local node</strong> has been enabled successfully.|| 그리고, <strong>로컬 노드</strong> 활성화되었습니다.
+The AWS credentials have been configured successfully.|| AWS 자격 증명이 성공적으로 구성되었습니다.
+The Azure credentials have been configured successfully.|| Azure 자격 증명이 성공적으로 구성되었습니다.
+Are you sure you want to delete the backup {{param}}?|| {{param}} 백업을 삭제 하시겠습니까?
+Are you sure you want to delete the selected backups?|| 선택한 백업을 삭제 하시겠습니까?
+Are you sure you want to delete the user {{param}}?|| 사용자 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected users?|| 선택한 사용자를 삭제 하시겠습니까?
+Are you sure you want to delete the group {{param}}?|| 그룹 {{param}}을 (를) 삭제 하시겠습니까?
+Are you sure you want to delete the selected groups?|| 선택한 그룹을 삭제 하시겠습니까?
+Are you sure you want to delete the role {{param}}?|| {{param}} 역할을 삭제 하시겠습니까?
+Are you sure you want to delete the selected roles?|| 선택한 역할을 삭제 하시겠습니까?
+Are you sure you want to destroy the cluster?|| 클러스터를 삭제 하시겠습니까?
+Dashboard|| 대시보드
+News|| 새로운 소식
+LSLB|| LSLB
+Farms|| 농장
+SSL Certificates|| SSL 인증서
+Generate csr|| CSR 생성
+Stats|| 통계
+GSLB|| GSLB
+DSLB|| DSLB
+IPDS|| IPDS
+Settings|| 설정
+Blacklists|| 블랙리스트
+DoS|| 서비스 거부
+RBL|| RBL
+Rules|| 규칙
+Domains|| 도메인
+WAF|| WAF
+Rulesets|| 규칙 세트
+Files|| 파일
+Monitoring|| 모니터링
+Graphs|| 그래프
+Farmguardians|| 농장 가디언
+Network|| 네트워크
+NIC|| NIC
+Bonding|| 접합
+VLAN|| VLAN
+Virtual Interfaces|| 가상 인터페이스
+Floating IPs|| 플로팅 IP
+Gateway|| 게이트웨이
+Aliases|| 별칭
+Routing|| 라우팅
+Tables|| 테이블
+System|| 체계
+RBAC|| RBAC
+Users|| 사용자
+Groups|| 여러 떼
+Roles|| 역할
+Local Services|| 현지 서비스
+Remote Services|| 원격 서비스
+Cluster|| 클러스터
+Backups|| 백업
+Notifications|| 알림
+User|| 사용자
+Logs|| 로그
+Activation Certificate|| 활성화 인증서
+License|| 특허
+SupportSave|| 지원 저장
+Factory Reset|| 초기화

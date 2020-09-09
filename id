@@ -1,176 +1,154 @@
-Dashboard|| Menu Utama
-LSLB|| LSLB
-Farms|| Pertanian
-SSL Certificates|| SSL Sertifikat
-DSLB|| DSLB
-Monitoring|| Pemantauan
-Graphs|| Grafik
-Farm Stats|| Statistik Pertanian
-Farmguardians|| Petani
-Network|| jaringan
-NIC|| NIC
-VLAN|| VLAN
-Virtual interfaces|| Antarmuka virtual
-Gateway|| Pintu gerbang
-System|| sistem
-Remote Services|| Layanan Jarak Jauh
-Backups|| backup
-User|| pemakai
-Logs|| Log
-License|| Lisensi
-Support Save|| Mendukung Hemat
-Create|| membuat
+Sign in with your username and password|| Masuk dengan nama pengguna dan kata sandi Anda
+Success!|| Sukses!
+Username|| Nama Pengguna
+User should be the real one!|| Pengguna harus menjadi yang asli!
+Password should contains from {{min}} to {{max}} characters|| Kata sandi harus mengandung karakter {{min}} hingga {{max}}
+Sign In|| Masuk
+Logging out, please wait...|| Keluar, harap tunggu ...
+Package list to upgrade|| Daftar paket untuk ditingkatkan
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| Untuk memutakhirkan sistem, silakan jalankan di shell perintah berikut: 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * Informasi ini diperbarui setiap hari, jika Anda ingin memaksa menjalankan pemeriksaan <code>checkupgrades</code> dari baris perintah.
+No activation certificate|| Tidak ada sertifikat aktivasi
+There isn't a valid ZEVENET certificate file, please request a new one|| Tidak ada file sertifikat ZEVENET yang valid, harap minta yang baru
+Certificate Key|| Kunci Sertifikat
+Activation Certificate file|| File Sertifikat aktivasi
+Activation Data|| Data Aktivasi
+Copy data to the clipboard|| Salin data ke clipboard
+Activation Certificate|| Sertifikat Aktivasi
+Select an activation certificate|| Pilih sertifikat aktivasi
+Upload Activation Certificate|| Unggah Sertifikat Aktivasi
+No Support|| Tidak ada dukungan
+Certificate expired|| Sertifikat kedaluwarsa
+Support expired|| Dukungan telah kedaluwarsa
+Certificate expires in {{param}} {{param2}}|| Sertifikat kedaluwarsa dalam {{param}} {{param2}}
+Support expires in {{param}} {{param2}}|| Dukungan kedaluwarsa dalam {{param}} {{param2}}
+The activation certificate has been uploaded successfully.|| Sertifikat aktivasi telah berhasil diunggah.
+The Activation Certificate has been deleted successfully.|| Sertifikat Aktivasi telah berhasil dihapus.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| Apakah Anda yakin untuk menghapus sertifikat aktivasi \\n Jika Anda menghapusnya, Anda akan kehilangan akses ke GUI, sampai pengunggahan sertifikat lain
+Upload|| Unggah
+Uploading|| Mengunggah
+Add|| menambahkan
+Disable maintenance|| Nonaktifkan perawatan
+Enable maintenance|| Aktifkan pemeliharaan
+Drain mode|| Mode pengeringan
+Cut mode|| Mode potong
 Edit|| Ubah
 Configure|| Konfigurasi
-Upload|| Unggah
+Save|| Hemat
+Add Variable|| Tambahkan Variabel
+Bring|| Membawa
+Export|| Ekspor
+All data|| Semua data
+Only selected|| Hanya dipilih
+Apply|| Berlaku
+Create|| membuat
+Cancel|| Batal
+Submit|| Kirim
+New Service|| Layanan Baru
+New Zone|| Zona Baru
+New Route|| Rute Baru
+Basic|| dasar
+Advanced|| Advanced
+Generate|| Menghasilkan
+Generating|| Membangkitkan
+Delete|| Menghapus
+Bring Up|| Bawakan
+Bring down|| Menurunkan
+Restart|| Restart
+Restarting|| Mulai ulang
+Start|| awal
+Stop|| berhenti
+Unset|| Tidak disetel
+Enable|| memungkinkan
+Disable|| melumpuhkan
+Remove|| Hapus
+Download|| Download
+Downloading|| download
+Update|| memperbarui
+New Rule|| Aturan baru
+Next|| Berikutnya
+Back|| Kembali
+Generate Random MAC|| Hasilkan MAC Acak
+Destroy|| Menghancurkan
+Test Email|| Uji Email
+Generate Random Key|| Hasilkan Kunci Acak
+Upload Certificate|| Unggah Sertifikat
+Delete Certificate|| Hapus Sertifikat
+List|| Daftar
+Menu|| menu
+Modify|| memodifikasi
+Show|| Menunjukkan
+Action|| Tindakan
+Test|| uji
+Schedule|| Susunan acara
+Upgrade|| Meningkatkan
 View|| Melihat
-Generate CSR|| Hasilkan CSR
-farm|| kebun
-certificate|| sertifikat
-farmguardian|| penjaga pertanian
-VLAN|| VLAN
-virtual interface|| antarmuka virtual
-backup|| backup
-backend|| backend
-session|| Sidang
-Professional Products|| Produk Profesional
-Professional Services|| Layanan profesional
-News|| Berita
-Resources|| sumber
-System Stats|| Statistik Sistem
-CPU|| CPU
-Memory|| Ingatan
-Load|| Beban
-Cores|| Warna
-System Information|| Sistem Informasi
-Zevenet Version|| Versi Zevenet
-Appliance Version|| Versi Alat
-Kernel Version|| Versi Kernel
-Hostname|| hostname
-System Date|| Tanggal Sistem
-NIC Interfaces|| Antarmuka NIC
-Megabytes (MB)|| Megabita (MB)
-Farm List|| Daftar Pertanian
-Name|| Nama
-Profile|| profil
+Info|| Info
+Test Connectivity|| Uji Konektivitas
+Show certificate|| Tampilkan sertifikat
+Force Changes|| Paksa Perubahan
+Page Not Found|| Halaman Tidak Ditemukan
+The page you were looking for doesn't exist|| Halaman yang Anda cari tidak ada
+Take me home|| Bawa saya pulang
 Status|| Status
-LSLB Farm List|| Daftar Pertanian LSLB
-Create LSLB Farm|| Buat Pertanian LSLB
-Listener|| Pendengar
-Advanced settings|| pengaturan lanjutan
+Actions|| tindakan
+Name|| Nama
+ID||  ID
+Alias|| Alias
+IP||  IP
+Interface|| Antarmuka
+Priority|| Prioritas
+Port|| pelabuhan
+Weight|| Berat
+Max. Conns|| Maks. Kon
+Name|| Nama
+Virtual IP|| IP virtual
+Vitual Port|| Pelabuhan Vitual
+Virtual IP and Port|| IP dan Port Virtual
+Default TCP port health check|| Pemeriksaan kesehatan port TCP default
+Health Checks for backend|| Pemeriksaan Kesehatan untuk backend
+Default Name Server|| Server Nama Default
+Type|| Tipe
+Data|| Data
+Profile|| profil
+HTTPS Parameters|| Parameter HTTPS
+Ciphers|| Cipher
+Custom ciphers|| Cipher kustom
+Protocol type|| Jenis protokol
+NAT type|| Jenis NAT
 Rewrite location headers|| Tulis ulang header lokasi
 HTTP verbs accepted|| Kata kerja HTTP diterima
+Ignore 100 continue|| Abaikan 100 melanjutkan
 Backend connection timeout|| Batas waktu koneksi backend
 Backend response timeout|| Batas waktu respons backend
 Frequency to check resurrected backends|| Frekuensi untuk memeriksa backend yang dibangkitkan
 Client request timeout|| Batas waktu permintaan klien
-Message Error 414|| Pesan Kesalahan 414
-Message Error 500|| Pesan Kesalahan 500
-Message Error 501|| Pesan Kesalahan 501
-Message Error 503|| Pesan Kesalahan 503
-HTTPS Parameters|| Parameter HTTPS
-Disable SSLv2|| Nonaktifkan SSLv2
-Disable SSLv3|| Nonaktifkan SSLv3
-Disable TLSv1|| Nonaktifkan TLSv1
-Disable TLSv1.1|| Nonaktifkan TLSv1.1
-Disable TLSv1.2|| Nonaktifkan TLSv1.2
-Ciphers|| Cipher
-Custom Ciphers|| Cipher Kustom
-Certificate Enabled|| Sertifikat Diaktifkan
+Message Error|| Kesalahan Pesan
+Request Headers|| Tajuk Permintaan
+Response Headers|| Header Respons
+Persistence|| Ketekunan
+Persistence session time to live|| Sesi ketekunan waktu untuk hidup
+TTL|| TTL
+Persistence session identifier|| Pengidentifikasi sesi kegigihan
+Virtual IP|| IP virtual
+Load balancing Scheduler|| Penjadwal Load balancing
+Algorithm|| Algoritma
+Round Robin|| Round Robin
 Virtual Host|| Host Virtual
 URL Pattern|| Pola URL
 Least Response|| Respon Terendah
 HTTPS Backends|| Backends HTTPS
+STS Header|| STS Header
+Timeout|| batas waktu
 Redirect|| redirect
 Redirect URL|| URL pengalihan
 Redirect Type|| Jenis Pengalihan
-Load balancer Algorithm|| Algoritma Load balancer
-Persistence|| Ketekunan
-Persistence session identifier|| Pengidentifikasi sesi kegigihan
-Persistence session time to live|| Sesi ketekunan waktu untuk hidup
-No persistence|| Tidak ada kegigihan
-IP: Client address|| IP: Alamat klien
-BASIC: Basic authentication|| BASIC: Otentikasi dasar
-URL: A request parameter|| URL: Parameter permintaan
-PARM: An URI parameter|| PARM: Parameter URI
-COOKIE: A certain cookie|| COOKIE: Cookie tertentu
-HEADER: A certain request header|| HEADER: Header permintaan tertentu
-Protocol type|| Jenis protokol
-Nat type|| Tipe Nat
-Load balancer Algorithm|| Algoritma Load balancer
-Persistence|| Ketekunan
-Persistence session time to live|| Sesi ketekunan waktu untuk hidup
-No persistence|| Tidak ada kegigihan
-IP: Source IP|| IP: Sumber IP
-Port: Source|| Port: Sumber
-MAC: Source MAC|| MAC: Sumber MAC
-Source IP and Source Port|| Sumber IP dan Port Sumber
-Source IP and Destination Port|| Sumber IP dan Port Tujuan
-Weight: connection linear dispatching by weight|| Berat: koneksi linear, pengiriman berdasarkan berat
-Source Hash: Hash per Source IP and Source Port|| Source Hash: Hash per IP Sumber dan Port Sumber
-Simple Source Hash: Hash per Source IP only|| Simple Source Hash: Hash per IP Sumber saja
-Symmetric Hash: Round trip hash per IP and Port|| Simetris Hash: Bolak-balik hash per IP dan Port
-Round Robin: Sequential backend selection|| Round Robin: Pilihan backend berurutan
-SSL Certificate List|| Daftar Sertifikat SSL
-Generate CSR|| Hasilkan CSR
-Upload SSL Certificate|| Unggah Sertifikat SSL
-Choose one or more files|| Pilih satu atau lebih file
-DSLB Farm List|| Daftar Pertanian DSLB
-Create DSLB Farm|| Buat DSLB Farm
-System Graphs|| Grafik Sistem
-Interfaces Graphs || Grafik Antarmuka
-Show Graphs|| Tampilkan Grafik
-Farms Graphs|| Grafik Pertanian
-Select Graphs|| Pilih Grafik
-Farms Stats|| Statistik Peternakan
-Farms Graphs|| Grafik Pertanian
-Farmguardians|| Petani
-Farms Settings|| Pengaturan Peternakan
-Create Farmguardian|| Buat Farmguardian
-NIC List|| Daftar NIC
-VLAN Interface List|| Daftar Antarmuka VLAN
-Create VLAN interface|| Buat antarmuka VLAN
-Virtual Interface List|| Daftar Antarmuka Virtual
-Create Virtual interface|| Buat antarmuka virtual
-IPv4 Gateway|| Gateway IPv4
-IPv6 Gateway|| Gateway IPv6
-Gateway Settings|| Pengaturan Gateway
-DNS Service|| Layanan DNS
-Default is 8.8.8.8|| Defaultnya adalah 8.8.8.8
-Optional|| Opsional
-Default is pool.ntp.org|| Defaultnya adalah pool.ntp.org
-Primary server|| Server primer
-Secondary server|| Server sekunder
-NPT Service|| Layanan NPT
-NPT Server|| Server NPT
-SNMP Service|| Layanan SNMP
-Enable SNMP|| Aktifkan SNMP
-Physical interface where is running SNMP service|| Antarmuka fisik tempat menjalankan layanan SNMP
-SNMP Port where is running SNMP service|| Port SNMP tempat menjalankan layanan SNMP
-Default is 161.|| Defaultnya adalah 161.
-Community name|| Nama komunitas
-IP or subnet with access (IP/bit)|| IP atau subnet dengan akses (IP / bit)
-Backup List|| Daftar Cadangan
-Upload Backup|| Unggah Cadangan
-Backup File|| File Cadangan
-Create Backup|| Buat Cadangan
-Choose one file|| Pilih satu file
-Settings User|| Pengaturan Pengguna
-User|| pemakai
-ZAPI Permissions|| Izin ZAPI
-ZAPI Key|| Kunci ZAPI
-Change Password|| Ubah Password
-Current Password|| kata sandi saat ini
-New Password|| Password Baru
-Repeat new password|| Ulangi kata sandi baru
-Log List|| Daftar Log
-Log View|| Lihat Log
-Number of lines|| Jumlah garis
-License|| Lisensi
-Support Save|| Mendukung Hemat
-When this action is executed a file with system information will be downloaded.|| Ketika tindakan ini dijalankan, sebuah file dengan informasi sistem akan diunduh.
-This action may take several seconds, you can continue browsing the GUI.|| Tindakan ini mungkin memakan waktu beberapa detik, Anda dapat melanjutkan menelusuri GUI.
-Name|| Nama
+Redirect Code|| Kode Redirect
+Cookie Insert|| Masukkan Cookie
+Cookie Name|| Nama Cookie
+Cookie Domain|| Domain Cookie
+Cookie Path|| Jalur Cookie
+Cookie TTL|| Cookie TTL
 Locality|| Lokalitas
 Country|| Negara
 State/Province|| Negara Bagian / Provinsi
@@ -178,175 +156,1005 @@ Common Name|| Nama yang umum
 Organization|| Organisasi
 Division|| Divisi
 E-mail Address|| Alamat E-mail
-Services Settings|| Pengaturan Layanan
-Global Settings|| Pengaturan global
-Virtual IP and Port|| IP dan Port Virtual
-Backend|| Backend
+File|| fillet
+Issuer|| Penerbit
+Creation|| Penciptaan
+Expiration|| Kedaluwarsa
+Certificate|| sertifikat
+Established Conns|| Perusahaan yang didirikan
+Pending Conns|| Conns yang tertunda
+Service|| Jasa
+Session ID|| ID sesi
+Backend ID|| ID Backend
+Requests|| Permintaan
+Failed REQ|| REQ gagal
+Failed RES|| RES gagal
+Truncated Resp TC|| TC Resp terpotong
+Extended DNS Big|| Extended DNS Big
+Extended DNS TC|| DNS DNS yang diperluas
+No Error|| Tidak ada kesalahan
+Refused|| Menolak
+Non-existent Domain|| Domain tidak ada
+Notimp|| Notimp
+Bad Version|| Versi Buruk
+Format Error|| Kesalahan Format
+Dropped|| Turun
+V6||  V6
+Extended DNS|| DNS yang diperluas
+Extended DNS-ClientSub|| Extended DNS-ClientSub
+Client|| Pelanggan
+Listerner|| Listerner
+Value|| Nilai
+Custom IP|| IP khusus
+Policy|| Kebijakan
+Remote URL|| URL jarak jauh
+Frequency|| Frekuensi
+Rule|| Aturan
+Limit RST request per source IP|| Batasi permintaan RST per IP sumber
+Total connections per source IP|| Total koneksi per IP sumber
+Limit Burst|| Batasi Burst
+Total connections limit per source IP|| Batas koneksi total per IP sumber
+Hits|| Hits
+Time|| Waktu
+Log level|| Tingkat log
+Only logging|| Hanya logging
+Local traffic|| Lalu lintas lokal
+Queue size|| Ukuran antrian
+Max. Threads|| Maks. Utas
+Cache size|| Ukuran cache
+Cache time|| Waktu cache
+Check Request Body|| Periksa Badan Permintaan
+Check Response Body|| Periksa Tubuh Respons
+Request Body Limit|| Batas Permintaan Tubuh
+Default Phase|| Fase Default
+Default Log|| Log Default
+Rules|| aturan
+Rule Type|| Jenis Aturan
+Mark|| Mark
+Phase|| Tahap
+Resolution|| Resolusi
+Rule ID|| ID aturan
+Skip|| Melewatkan
+Skip after|| Lewati setelah
+Execute|| Melaksanakan
+Description|| Deskripsi
 Interval|| Selang
 Cut connections|| Potong koneksi
-Description|| Deskripsi
-Copy rule|| Salin aturan
-Rule to copy|| Aturan untuk menyalin
-seconds|| detik
-Log|| Log
-Address|| Alamat
-Virtual interface name|| Nama antarmuka virtual
+Command|| perintah
+MAC|| MAC
+Netmask|| Netmask
+Farms|| Pertanian
+Gateway|| Pintu gerbang
+IP Address|| Alamat IP
+CIDR|| CIDR
+Mode|| mode
+Slaves|| Budak
 Parent Interface|| Antarmuka Induk
-VLAN Name|| Nama VLAN
+Address|| Alamat
+Host|| tuan rumah
+Date|| Tanggal
+Alert|| Waspada
+Password|| Kata Sandi
+Log|| Log
+ZAPI Permissions|| Izin ZAPI
+GUI Permissions|| Izin GUI
+Role|| Peran
+Rules Date|| Tanggal Aturan
+Scheduled|| Dijadwalkan
+Variable|| Variabel
+Variable's argument|| Argumen variabel
+Ignore this <i>variable</i> for the match|| Abaikan ini <i>variabel</i> untuk pertandingan
+Count elements of <i>variables</i>|| Hitung elemen <i>variabel</i>
+Variables|| Variabel
+Transformations|| Transformasi
+Operating|| Operasi
+Multi Match|| Multi Match
+Not Match|| Tidak cocok
+Operator|| Operator
+Module|| Modul
+Floating IP|| IP mengambang
+Interfaces|| Antarmuka
+Group|| kelompok
+Virtual Interface|| Antarmuka Virtual
+URL|| URL
+From|| Dari
+Table|| tabel
+To|| Untuk
+Route|| Rute
+Via|| melalui
+Backend Alias|| Backend Alias
+Version|| Versi
+System|| sistem
+Failback|| Gagal
+Check Interval|| Periksa Interval
+Node|| Node
+Message|| Pesan
+Hostname|| hostname
+No {{param}} found|| {{Param}} tidak ditemukan
+Edit|| Ubah
+Global|| Global
+Services|| Layanan
+Select a {{param}}|| Pilih {{param}}
+Resources|| Materi
+Backends|| Backends
+Strict Transport Security|| Keamanan Transportasi yang Ketat
+Farms Stats|| Statistik Peternakan
+Copy to clipboard|| Menyalin ke clipboard
+Hide nodes|| Sembunyikan simpul
+Show nodes|| Tampilkan node
+Hide backends|| Sembunyikan backend
+Show backends|| Tampilkan backend
+Hide graphs|| Sembunyikan grafik
+Show graphs|| Tampilkan grafik
+Sessions|| Sesi
+Clients|| Klien
+Servers|| Server
+Extended|| luas
+Nodes|| Nodes
+Number of lines|| Jumlah garis
+View All|| Lihat semua
+View Less|| Lihat Lebih Sedikit
+Valid|| Sah
+Expired|| Expired
+Near to expire|| Hampir kedaluwarsa
+True|| Benar
+False|| Palsu
+No configured|| Tidak dikonfigurasi
+In use by bonding interface|| Digunakan oleh antarmuka ikatan
+The cluster service interface has to be changed or disabled before to be able to modify this interface|| Antarmuka layanan cluster harus diubah atau dinonaktifkan sebelum dapat memodifikasi antarmuka ini
+Enabled|| diaktifkan
+Disabled|| cacat
+Needed restart|| Diperlukan restart
+Critical|| Kritis
+Problem|| Masalah
+Maintenance|| pemeliharaan
+Master|| Menguasai
+Backup|| backup
+Not configured|| Tidak dikonfigurasi
+Undefined|| Undefined
+Daily Graph|| Grafik Harian
+Weekly Graph|| Grafik Mingguan
+Monthly Graph|| Grafik Bulanan
+Yearly Graph|| Grafik Tahunan
+Documentation|| Dokumentasi
+Reload farmguardian list|| Muat ulang daftar penjaga pertanian
+Cookie|| Kue
+Zones|| zona
+System Stats|| Statistik Sistem
+CPU|| CPU
+Memory|| Ingatan
+Load|| Beban
+Cores|| Warna
+Traffic In|| Lalu Lintas Masuk
+Traffic Out|| Lalu Lintas Keluar
+Nothing|| Tidak ada
+Custom|| Kustom
+All interfaces|| Semua antarmuka
+All farms|| Semua peternakan
+Default State|| Status Bawaan
+Up||  Up
+Down|| Turun
+Installed and updated|| Dipasang dan diperbarui
+Not installed|| Tidak terpasang
+Updates available|| Pembaruan tersedia
+Interface|| Antarmuka
+Type|| Tipe
+Zone|| Daerah
+Transformation|| Transformasi
+Backend|| Backend
+Condition|| Kondisi
+Domain|| Domain
+Resource|| Sumber
+Graph|| Grafik
+Session|| Sidang
+IP alias|| Alias ​​IP
+Interface alias|| Alias ​​antarmuka
+Backup|| backup
+Farm|| Tanah pertanian
+Header|| Header
+Pattern|| pola
+Source|| sumber
+Blacklist|| Blacklist
 Farmguardian|| Penjaga pertanian
-Load balancer Algorithm|| Algoritma Load balancer
-Health Checks for backend|| Pemeriksaan Kesehatan untuk backend
-Descriptive text, this name will be used to identify this certificate.|| Teks deskriptif, nama ini akan digunakan untuk mengidentifikasi sertifikat ini.
+Package|| Paket
+DoS rule|| Aturan DoS
+RBL rule|| Aturan RBL
+WAF ruleset|| Aturan WAF
+VLAN|| VLAN
+Routing Rule|| Aturan Routing
+Routing Table|| Tabel Perutean
+Needed restart|| Diperlukan restart
+There're changes that need to be applied, restart the farm to apply them!|| Ada perubahan yang perlu diterapkan, mulai ulang pertanian untuk menerapkannya!
+Close|| Tutup
+The <strong> factory reset </strong> has been completed successfully.|| The <strong> Reset pabrik </strong> telah berhasil diselesaikan.
+The interface <strong> {{name}} </strong> has been updated successfully.|| Antarmuka <strong> {{name}} </strong> telah berhasil diperbarui.
+The <strong>HTTP Service</strong> has been updated successfully.|| The <strong>Layanan HTTP</strong> telah berhasil diperbarui.
+An error has occurred on the server, try again later|| Terjadi kesalahan pada server, coba lagi nanti
+Connection to web server failed|| Koneksi ke server web gagal
+An unexpected error has occurred|| kesalahan tak terduga telah muncul
+System Information|| Sistem Informasi
+ZEVENET Version|| Versi ZEVENET
+Appliance Version|| Versi Alat
+Kernel Version|| Versi Kernel
+System Date|| Tanggal Sistem
+NIC Traffic|| Lalu Lintas NIC
+Total number of connections in realtime.|| Total jumlah koneksi secara realtime.
+Connections|| koneksi
+Professional Products|| Produk Profesional
+Professional Services|| Layanan profesional
+No Virtual Interfaces|| Tidak Ada Antarmuka Virtual
+No VLANs|| Tidak ada VLAN
+Create DSLB Farm|| Buat DSLB Farm
+Create Virtual interface|| Buat antarmuka virtual
+Create GSLB Farm|| Buat Lahan GSLB
+Generate CSR|| Hasilkan CSR
+Create LSLB Farm|| Buat Pertanian LSLB
+Upload SSL Certificate|| Unggah Sertifikat SSL
+Create Blacklist|| Buat Daftar Hitam
+Create DoS rule|| Buat aturan DoS
+Create RBL rule|| Buat aturan RBL
+Create WAF ruleset|| Buat aturan WAF
+Create Rule|| Buat Aturan
+Create Farmguardian|| Buat Farmguardian
+Create Bonding interface|| Buat antarmuka Bonding
+Create VLAN interface|| Buat antarmuka VLAN
+Upload Backup|| Unggah Cadangan
+Create Backup|| Buat Cadangan
+Create User|| Buat Pengguna
+Create Group|| Buat Grup
+Create Role|| Buat Peran
+Create Route|| Buat Rute
+is required|| diperlukan
+is not valid, it only is possible alphanumeric characters and dash (-).|| tidak valid, hanya dimungkinkan karakter alfanumerik dan tanda hubung (-).
 Only editable when the farm is down.|| Hanya dapat diedit saat pertanian turun.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| Virtual Port tidak valid, dimungkinkan untuk menentukan satu port, beberapa port atau rentang port (Contoh: 80 atau 80,81 atau 80: 90)
+has to be greater than 0|| harus lebih besar dari 0
+Redirect should be a URL (http(s)://...)|| Arahan ulang harus berupa URL: //…)
+Country can only have two characters.|| Negara hanya dapat memiliki dua karakter.
+E-mail has to be a valid email|| Email harus berupa email yang valid
+The password does not match|| Kata sandi tidak cocok
+has to be a value between {{min}} and {{max}}|| harus berupa nilai antara {{min}} dan {{max}}
+Global Settings|| Pengaturan global
+IPDS Settings|| Pengaturan IPDS
+Advanced Settings|| Pengaturan Lanjutan
+Domains Settings|| Pengaturan Domain
+Rules Settings|| Pengaturan Aturan
+Blacklists rules|| Aturan daftar hitam
+DoS rules|| Aturan DoS
+RBL rules|| Aturan RBL
+WAF rulesets|| Aturan WAF
+Services Settings|| Pengaturan Layanan
+Zones Settings|| Pengaturan Zona
+Global Filter|| Filter Global
+Refresh|| menyegarkan
+Seconds|| Detik
+per second|| per detik
+Refresh status every|| Segarkan status setiap
+Refresh stats every|| Segarkan statistik setiap
+Not refresh|| Tidak menyegarkan
+Farms Settings|| Pengaturan Peternakan
+Minutes|| menit
+Hours|| Jam
+Monday|| Senin
+Tuesday|| Selasa
+Wednesday|| Rabu
+Thursday|| Kamis
+Friday|| Jumat
+Saturday|| Sabtu
+Sunday|| Minggu
+Deny|| menyangkal
+Allow|| mengizinkan
+Daily|| Harian
+Weekly|| Mingguan
+Monthly|| Bulanan
+entries|| entri
+threads|| benang
+Sort|| Jenis
+SORT MODE: Drag and drop the service to the desired position.|| SORT MODE: Seret dan jatuhkan layanan ke posisi yang diinginkan.
+The farm will be restarted automatically.|| Peternakan akan dimulai kembali secara otomatis.
+bytes|| byte
+Default is|| Defaultnya adalah
+Optional|| Opsional
+days|| hari-hari
+Go to|| Pergi ke
+Edit in form mode|| Edit dalam mode formulir
+Edit in raw mode|| Edit dalam mode mentah
+Create in form mode|| Buat dalam mode formulir
+Create in raw mode|| Buat dalam mode mentah
+Available certificates|| Sertifikat yang tersedia
+Enabled certificates|| Sertifikat yang diaktifkan
+Search certificate|| Cari sertifikat
+Available blacklists|| Daftar hitam yang tersedia
+Enabled blacklists|| Daftar hitam diaktifkan
+Search blacklist|| Cari daftar hitam
+Available DoS rules|| Aturan DoS yang tersedia
+Enabled DoS rules|| Diaktifkan aturan DoS
+Search DoS rule|| Cari aturan DoS
+Available RBL rules|| Aturan RBL yang tersedia
+Enabled RBL rules|| Aturan RBL yang diaktifkan
+Search RBL rule|| Cari aturan RBL
+Available WAF rulesets|| Aturan WAF yang tersedia
+Enabled WAF rulesets|| Diaktifkan aturan WAF
+Search WAF ruleset|| Cari aturan WAF
+Available farms|| Peternakan yang tersedia
+Enabled farms|| Peternakan yang diaktifkan
+Search farm|| Pertanian pencarian
+Available domains|| Domain yang tersedia
+Enabled domains|| Domain yang diaktifkan
+Search domain|| Cari domain
+Enabled rules|| Aturan yang diaktifkan
+Disabled rules|| Aturan yang dinonaktifkan
+Search rule|| Aturan pencarian
+Available NICs|| NIC yang tersedia
+Enabled NICs|| NIC yang diaktifkan
+Search NIC|| Cari NIC
+Search slaves|| Cari budak
+Slaves NICs|| Budak NIC
+Available users|| Pengguna yang tersedia
+Enabled users|| Pengguna yang diaktifkan
+Search user|| Cari pengguna
+Available interfaces|| Antarmuka yang tersedia
+Enabled interfaces|| Antarmuka yang diaktifkan
+Search interface|| Antarmuka pencarian
+Managed interfaces|| Antarmuka terkelola
+Unmanaged interfaces|| Antarmuka yang tidak dikelola
+Search interface|| Antarmuka pencarian
+LSLB Farm List|| Daftar Pertanian LSLB
+GSLB Farm List|| Daftar Pertanian GSLB
+DSLB Farm List|| Daftar Pertanian DSLB
+Copy farm|| Salin pertanian
+Farm to copy|| Pertanian untuk disalin
+Select the farm to copy|| Pilih peternakan yang akan disalin
+Weight: connection linear dispatching by weight|| Berat: koneksi linear, pengiriman berdasarkan berat
+Priority: connections always to the most prio available|| Prioritas: koneksi selalu ke yang paling prio tersedia
+Source Hash: Hash per Source IP and Source Port|| Source Hash: Hash per IP Sumber dan Port Sumber
+Simple Source Hash: Hash per Source IP only|| Simple Source Hash: Hash per IP Sumber saja
+Symmetric Hash: Round trip hash per IP and Port|| Simetris Hash: Bolak-balik hash per IP dan Port
+Round Robin: Sequential backend selection|| Round Robin: Pilihan backend berurutan
+Least Connections: connections to the least open conns available|| Least Connections: koneksi ke koneksi terbuka paling tidak tersedia
+Disabled|| cacat
+Enabled|| diaktifkan
+Enabled and compare backends|| Diaktifkan dan bandingkan backend
+No persistence|| Tidak ada kegigihan
+IP: Source IP|| IP: Sumber IP
+Port: Source Por|| Port: Sumber Por
+MAC: Source MAC|| MAC: Sumber MAC
+Source IP and Source Port|| Sumber IP dan Port Sumber
+Source IP and Destination Port|| Sumber IP dan Port Tujuan
+No persistence|| Tidak ada kegigihan
+IP: Client address|| IP: Alamat klien
+BASIC: Basic authentication|| BASIC: Otentikasi dasar
+URL: A request parameter|| URL: Parameter permintaan
+PARM: An URI parameter|| PARM: Parameter URI
+COOKIE: A certain cookie|| COOKIE: Cookie tertentu
+HEADER: A certain request header|| HEADER: Header permintaan tertentu
+The farm has been updated successfully|| Peternakan telah berhasil diperbarui
+The farm <strong> {{param}} </strong> has been deleted successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dihapus.
+The farm <strong> {{param}} </strong> has been started successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dimulai.
+The farm <strong> {{param}} </strong> has been restarted successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dimulai kembali.
+The farm <strong> {{param}} </strong> has been stopped successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dihentikan.
+The farm <strong> {{param}} </strong> has been created successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dibuat.
+The backend has been created successfully.|| Backend telah berhasil dibuat.
+The backend has been updated successfully.|| Backend telah berhasil diperbarui.
+The backend <strong> {{param}} </strong> has been deleted successfully.|| Backend <strong> {{param}} </strong> telah berhasil dihapus.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| Backend <strong> {{param}} </strong> telah berhasil dirawat.
+The backend <strong> {{param}} </strong> has been upped successfully.|| Backend <strong> {{param}} </strong> telah berhasil ditingkatkan.
+Backends with high priority value <strong> {{param}} </strong> will not be used.|| Backends dengan nilai prioritas tinggi <strong> {{param}} </strong> tidak akan digunakan.
+The resource has been created successfully.|| Sumber daya telah berhasil dibuat.
+The resource has been updated successfully.|| Sumber daya telah berhasil diperbarui.
+The backend <strong> {{param}} </strong> has been deleted successfully.|| Backend <strong> {{param}} </strong> telah berhasil dihapus.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| Sertifikat SSL <strong> {{param}} </strong> telah berhasil ditambahkan ke tambak.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| Sertifikat SSL <strong> {{param}} </strong> telah berhasil menghapus pertanian.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| Sertifikat SSL <strong> {{param}} </strong> telah berhasil disortir.
+The service <strong> {{param}} </strong> has been created successfully.|| Layanan <strong> {{param}} </strong> telah berhasil dibuat.
+The service <strong> {{param}} </strong> has been updated successfully.|| Layanan <strong> {{param}} </strong> telah berhasil diperbarui.
+The service <strong> {{param}} </strong> has been deleted successfully.|| Layanan <strong> {{param}} </strong> telah berhasil dihapus.
+The service <strong> {{param}} </strong> has been moved successfully.|| Layanan <strong> {{param}} </strong> telah berhasil dipindahkan.
+The farmguardians list has been reloaded successfully.|| Daftar penjaga pertanian telah berhasil dimuat ulang.
+The farmguardian has been disabled successfully.|| Penjaga pertanian telah berhasil dinonaktifkan.
+The farmguardian has been changed to {{param}} successfully.|| Penjaga pertanian telah berhasil diubah menjadi {{param}}.
+The zone <strong> {{param}} </strong> has been created successfully.|| Zona <strong> {{param}} </strong> telah berhasil dibuat.
+The zone <strong> {{param}} </strong> has been updated successfully.|| Zona <strong> {{param}} </strong> telah berhasil diperbarui.
+The zone <strong> {{param}} </strong> has been deleted successfully.|| Zona <strong> {{param}} </strong> telah berhasil dihapus.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| Daftar hitam <strong> {{param}} </strong> telah berhasil ditambahkan ke tambak.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| Daftar hitam <strong> {{param}} </strong> telah berhasil menghapus pertanian.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| Aturan DoS <strong> {{param}} </strong> telah berhasil ditambahkan ke tambak.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| Aturan DoS <strong> {{param}} </strong> telah berhasil menghapus pertanian.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| Aturan RBL <strong> {{param}} </strong> telah berhasil ditambahkan ke tambak.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| Aturan RBL <strong> {{param}} </strong> telah berhasil menghapus pertanian.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| Aturan WAF <strong> {{param}} </strong> telah berhasil disortir.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| Aturan WAF <strong> {{param}} </strong> telah berhasil ditambahkan ke tambak.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| Aturan WAF <strong> {{param}} </strong> telah berhasil menghapus pertanian.
+The profile has been changed to {{param}} successfully.|| Profil telah berhasil diubah menjadi {{param}}.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| Algoritme telah diubah menjadi algoritma bobot, karena paling sedikit algoritma Connections tidak diperbolehkan dengan tipe NAT yang dipilih. Anda dapat memilih algoritma lain dari tab layanan.
+The request header has been saved successfully.|| Header permintaan telah berhasil disimpan.
+The request header has been deleted successfully.|| Header permintaan telah berhasil dihapus.
+The request header pattern has been saved successfully.|| Pola tajuk permintaan telah berhasil disimpan.
+The request header pattern has been deleted successfully.|| Pola tajuk permintaan telah berhasil dihapus.
+The response header has been saved successfully.|| Header respons telah berhasil disimpan.
+The response header has been deleted successfully.|| Header respons telah berhasil dihapus.
+The response header pattern has been saved successfully.|| Pola tajuk respons telah berhasil disimpan.
+The response header pattern has been deleted successfully.|| Pola tajuk respons telah berhasil dihapus.
+The service has to have one backend at least.|| Layanan harus memiliki setidaknya satu backend.
+Are you sure you want to delete the farm {{param}}?|| Apakah Anda yakin ingin menghapus farm {{param}}?
+Are you sure you want to delete the selected farms?|| Anda yakin ingin menghapus peternakan yang dipilih?
+Are you sure you want to delete the service {{param}}?|| Anda yakin ingin menghapus layanan {{param}}?
+Are you sure you want to delete the zone {{param}}?|| Anda yakin ingin menghapus zona {{param}}?
+Are you sure you want to delete the selected resources?|| Apakah Anda yakin ingin menghapus sumber daya yang dipilih?
+Are you sure you want to delete the resource {{param}}?|| Anda yakin ingin menghapus resource {{param}}?
+Are you sure you want to delete the backend {{param}}?|| Anda yakin ingin menghapus backend {{param}}?
+Are you sure you want to delete the selected backends?|| Anda yakin ingin menghapus backend yang dipilih?
+Are you sure you want to delete the request header with ID {{id}}?|| Yakin ingin menghapus tajuk permintaan dengan ID {{id}}?
+Are you sure you want to delete the request header pattern with ID {{id}}?|| Yakin ingin menghapus pola tajuk permintaan dengan ID {{id}}?
+Are you sure you want to delete the selected request headers?|| Yakin ingin menghapus tajuk permintaan yang dipilih?
+Are you sure you want to delete the selected request headers patterns?|| Yakin ingin menghapus pola tajuk permintaan yang dipilih?
+Are you sure you want to delete the response header with ID {{id}}?|| Anda yakin ingin menghapus tajuk respons dengan ID {{id}}?
+Are you sure you want to delete the response header pattern with ID {{id}}?|| Yakin ingin menghapus pola tajuk respons dengan ID {{id}}?
+Are you sure you want to delete the selected response headers?|| Yakin ingin menghapus tajuk respons yang dipilih?
+Are you sure you want to delete the selected response headers patterns?|| Apakah Anda yakin ingin menghapus pola tajuk respons yang dipilih?
+Are you sure you want to delete the {{param}} blacklist?|| Apakah Anda yakin ingin menghapus daftar hitam {{param}}?
+Are you sure you want to delete the selected blacklists?|| Anda yakin ingin menghapus daftar hitam yang dipilih?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| Gerbang dari antarmuka {{param}} akan dihapus dan diganti untuk tambak ini. Apakah Anda ingin melanjutkan?
+SSL Certificate list|| Daftar Sertifikat SSL
+Choose one certificate|| Pilih satu sertifikat
+Choose one or more files|| Pilih satu atau lebih file
+Selected files|| File yang dipilih
+Descriptive text, this name will be used to identify this certificate.|| Teks deskriptif, nama ini akan digunakan untuk mengidentifikasi sertifikat ini.
 City where your organization is located.|| Kota tempat organisasi Anda berada.
 Country (two characters) where your organization is located.|| Negara (dua karakter) tempat organisasi Anda berada.
 State or province where your organization is located.|| Negara bagian atau provinsi tempat organisasi Anda berada.
 FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN dari server. Contoh: domain.com, mail.domain.com, atau * .domain.com.
-The full legal name of your organization/company (ex.: Zevenet Co.). || Nama lengkap resmi organisasi / perusahaan Anda (mis .: Zevenet Co.).
+The full legal name of your organization/company (ex.: ZEVENET Co.)|| Nama resmi lengkap organisasi / perusahaan Anda (mis .: ZEVENET Co.)
 Your department; such as 'IT','Web', 'Office', etc.|| Departemen Anda; seperti 'IT', 'Web', 'Office', dll.
-Your email address.|| Alamat email Anda.
-Name|| Nama
-Name|| Nama
-Profile|| profil
-Virtual IP|| IP virtual
-Virtual Port|| Port Virtual
-Status|| Status
-Actions|| tindakan
-ID||  ID
-IP||  IP
-Address|| Alamat
-Port|| pelabuhan
-Timeout|| batas waktu
-Weight|| Berat
-Common Name|| Nama yang umum
-Type|| Tipe
-File|| fillet
-Issuer|| Penerbit
-Create on|| Buat di
-Expire on|| Kedaluwarsa pada
-Priority|| Prioritas
-Interface|| Antarmuka
-Service|| Jasa
-Client|| Pelanggan
-Sessions|| Sesi
-Session ID|| ID sesi
-Backend ID|| ID Backend
-Command|| perintah
-Description|| Deskripsi
-Farms|| Pertanian
-Farm|| Tanah pertanian
-Gateway|| Pintu gerbang
-Netmask|| Netmask
-MAC|| MAC
-IP Address (IPv4 / IPv6)|| Alamat IP (IPv4 / IPv6)
-VLAN tag|| Tag VLAN
-Date|| Tanggal
-Log|| Log
-Established Conns|| Perusahaan yang didirikan
-Pending Conns|| Conns yang tertunda
-No|| Tidak
-found|| ditemukan
- is required|| diperlukan
- is not valid, it only is possible alphanumeric characters and dash (-).|| tidak valid, hanya dimungkinkan karakter alfanumerik dan tanda hubung (-).
- not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| tidak valid, ada kemungkinan untuk menentukan satu port, beberapa port atau rentang port (Contoh: 80 atau 80,81 atau 80: 90)
- has to be greater than 0|| harus lebih besar dari 0
- can only has two characters.|| hanya dapat memiliki dua karakter.
- has to be a valid email.|| harus berupa email yang valid.
-does not match.|| tidak cocok.
-The farm <strong>{{param}}</strong> has been deleted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dihapus.
-The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| Ladang <strong>{{param}}</strong> {{param2}} telah berhasil dihapus.
-Are you sure you want to delete the {{param}} farmname ?|| Anda yakin ingin menghapus {{param}} nama pertanian?
-The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| Ladang <strong>{{param}}</strong> telah {{param2}} berhasil.
-The farm <strong>{{param}}</strong> has been created successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dibuat.
-The farm <strong>{{param}}</strong> has been restarted successfully.|| Ladang <strong>{{param}}</strong> telah berhasil dimulai kembali.
-The backend has been created successfully.|| Backend telah berhasil dibuat.
-The profile has been changed to {{param}} successfully.|| Profil telah berhasil diubah menjadi {{param}}.
-The farmguardian has been disabled sucessfully.|| Penjaga pertanian telah berhasil dinonaktifkan.
-The farmguardian has been changed to {{param}} successfully.|| Penjaga pertanian telah berhasil diubah menjadi {{param}}.
-The <strong>{{param}}</strong> farmguardian has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> penjaga pertanian telah berhasil dibuat.
-The <strong>{{param}}</strong> farmguardian has been updated successfully|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> farmguardian telah berhasil diperbarui
+Your email address|| Alamat email anda
+The CSR <strong> {{param}} </strong> has been generated successfully.|| CSR <strong> {{param}} </strong> telah berhasil dibuat.
+The certificate <strong> {{param}} </strong> has been uploaded successfully.|| Sertifikat <strong> {{param}} </strong> telah berhasil diunggah.
+The certificate <strong> {{param}} </strong> has been deleted successfully.|| Sertifikat <strong> {{param}} </strong> telah berhasil dihapus.
+The certificate <strong> {{param}} </strong> has been downloaded successfully.|| Sertifikat <strong> {{param}} </strong> telah berhasil diunduh.
+Are you sure you want to delete the certificate {{param}}?|| Anda yakin ingin menghapus sertifikat {{param}}?
+Are you sure you want to delete the selected certificates?|| Anda yakin ingin menghapus sertifikat yang dipilih?
+Updates|| Update
+Update list|| Perbarui daftar
+Period time|| Periode waktu
+Exact time|| Waktu tepatnya
+Daily every|| Setiap hari
+Day of the week|| Hari di minggu ini
+Day of the month|| Hari dalam sebulan
+Sources|| sumber
+DoS rules IPDS|| Aturan DoS IPDS
+RBL rules IPDS|| Aturan RBL IPDS
+Copy rule|| Salin aturan
+Rule to copy|| Aturan untuk menyalin
+Ruleset to copy|| Aturan untuk disalin
+Select the rule to copy|| Pilih aturan yang akan disalin
+Select the ruleset to copy|| Pilih aturan untuk disalin
+Custom Domain List|| Daftar Domain Khusus
+Preloaded Domain List|| Daftar Domain yang Dimuat sebelumnya
+WAF rulesets IPDS|| WAF mengatur IPDS
+Default Action|| Aksi Bawaan
+Disable Rules|| Nonaktifkan Aturan
+IPDS Package Updates|| Pembaruan Paket IPDS
+Conditions|| Kondisi
+Flow|| Aliran
+WAF File List|| Daftar File WAF
+WAF file|| File WAF
+Content File|| File Konten
+Select files|| Pilih file
+Select a file|| Pilih sebuah file
+Select transformations|| Pilih transformasi
+Connection limit per second.|| Batas koneksi per detik.
+Total connections limit per source IP.|| Batas koneksi total per IP sumber.
+Check bogus TCP flags.|| Periksa flag TCP palsu.
+Limit RST request per second.|| Batasi permintaan RST per detik.
+Allow: Finish the WAF processing and complete the HTTP transaction|| Izinkan: Selesaikan pemrosesan WAF dan selesaikan transaksi HTTP
+Pass: Continue executing the rules|| Lulus: Lanjutkan menjalankan aturan
+Deny: Cut the request and not execute rules left|| Tolak: Potong permintaan dan jangan jalankan aturan yang tersisa
+Redirect: The client received a URL to redirect|| Redirect: Klien menerima URL untuk redirect
+Default action: The default action of this ruleset|| Aksi default: Tindakan default dari ruleset ini
+Request headers are received|| Header permintaan diterima
+Request body is received|| Badan permintaan diterima
+Response headers are received|| Header respons diterima
+Response body is received|| Badan respons diterima
+Before than logging|| Sebelum dari logging
+LUA Script|| LUA Script
+Data file|| File data
+It is a collection with the values of arguments in a request.|| Ini adalah koleksi dengan nilai argumen dalam permintaan.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| Ini adalah koleksi dengan nilai argumen dalam permintaan JSON. Variabel ini akan tersedia dalam kasus WAF mem-parsing argumen JSON, untuk itu, aturan yang ditetapkan REQUEST-901-INITIALISASI harus diaktifkan.
+The total size of the request parameters. The files are excluded.|| Ukuran total parameter permintaan. File-file tersebut dikecualikan.
+It is a collection with the names of the arguments in a request.|| Ini adalah koleksi dengan nama-nama argumen dalam permintaan.
+It contains the file names in the user filesys. Only when the data is multipart/form-data.|| Ini berisi nama file di filesys pengguna. Hanya ketika data multipart / form-data.
+It is the total size of the files in a request. Only when the data is multipart/form-data.|| Ini adalah ukuran total file dalam permintaan. Hanya ketika data multipart / form-data.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| Ini adalah daftar nama file yang digunakan untuk mengunggah file. Hanya ketika data multipart / form-data.
+It contains a list of individual file sizes. Only when the data is multipart/form-data.|| Ini berisi daftar ukuran file individual. Hanya ketika data multipart / form-data.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| Variabel ini adalah 1 jika format isi permintaan tidak benar untuk JSON atau XML, jika tidak maka memiliki nilai 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| Itu adalah permintaan tubuh mentah. Jika permintaan belum memiliki header &quot;application / x-www-form-urlencoded&quot;, perlu menggunakan &quot;ctl: forceRequestBodyVariable&quot; di fase REQUEST_HEADER.
+It is the number of bytes of the request body.|| Ini adalah jumlah byte dari badan permintaan.
+It is a list with all request cookies values.|| Ini adalah daftar dengan semua nilai cookie permintaan.
+It is a list with all request cookies names.|| Ini adalah daftar dengan semua nama cookie permintaan.
+This variable has all the request headers.|| Variabel ini memiliki semua header permintaan.
+This variable has a list with the request headers names.|| Variabel ini memiliki daftar dengan nama header permintaan.
+It is the request method.|| Ini adalah metode permintaan.
+This variable holds the request HTTP version protocol.|| Variabel ini menampung protokol versi permintaan HTTP.
+It is the URI request path. The virtual host is excluded.|| Ini adalah jalur permintaan URI. Tuan rumah virtual dikecualikan.
+It is the information before than the URI path.|| Ini adalah informasi sebelumnya daripada jalur URI.
+It is the full request.|| Itu adalah permintaan penuh.
+It is the number of bytes that full request can have.|| Ini adalah jumlah byte yang dapat dimiliki permintaan penuh.
+It is the raw body response.|| Ini adalah respons tubuh mentah.
+It is the number of bytes of the response body.|| Ini adalah jumlah byte dari badan respons.
+This variable has all response headers.|| Variabel ini memiliki semua header respons.
+This variable has a list with the response headers names.|| Variabel ini memiliki daftar dengan nama tajuk respons.
+This variable holds the response HTTP version protocol.|| Variabel ini menampung respons protokol versi HTTP.
+It is the response HTTP code.|| Ini adalah kode respon HTTP.
+It is the IP address of the client.|| Ini adalah alamat IP klien.
+It is the port where the client initializes the connection.|| Ini adalah port tempat klien menginisialisasi koneksi.
+It is the name of the authenticated user.|| Ini adalah nama pengguna yang diautentikasi.
+It is the server time. The format is hours:minutes:seconds.|| Ini adalah waktu server. Formatnya adalah jam: menit: detik.
+It is the number of milliseconds since the beginning of the current transaction.|| Ini adalah jumlah milidetik sejak awal transaksi saat ini.
+It is the field filename in a multipart request.|| Ini adalah nama file bidang dalam permintaan multi bagian.
+It is the field name in a multipart request.|| Ini adalah nama bidang dalam permintaan multi bagian.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| Ini adalah nilai yang cocok dalam operasi pertandingan terakhir. Nilai ini tidak memerlukan opsi tangkap tetapi diganti di setiap operasi pertandingan.
+It is a list of all matched values.|| Ini adalah daftar semua nilai yang cocok.
+It is the IP address of the server.|| Ini adalah alamat IP server.
+It is the virtual host, it gets from the request URI.|| Ini adalah host virtual, didapat dari permintaan URI.
+It is the environment variables of the WAF.|| Ini adalah variabel lingkungan dari WAF.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| Ini adalah kumpulan variabel untuk transaksi saat ini. Variabel-variabel ini akan dihapus ketika transaksi berakhir. Variabel TX: 0-TX: 9 menyimpan nilai yang diambil dengan operator strRegex atau strPhrases.
+Decodes a Base64-encoded string.|| Mendekode string yang disandikan Base64.
+Decodes a Base64-encoded string ignoring invalid characters.|| Mendekode string yang disandikan Base64 yang mengabaikan karakter yang tidak valid.
+Decodes SQL hex data.|| Mendekode data hex SQL.
+Encodes using Base64 encoding.|| Pengkodean menggunakan pengodean Base64.
+Avoids the problem related with the escaped command line.|| Menghindari masalah yang terkait dengan baris perintah yang lolos.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| Mengonversi salah satu karakter spasi putih (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) ke spasi (ASCII 0x20), mengompresi beberapa karakter ruang berurutan menjadi satu.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| Mendekode karakter yang disandikan menggunakan aturan pelarian CSS 2.x. Fungsi ini hanya menggunakan hingga dua byte dalam proses decoding, artinya berguna untuk mengungkap karakter ASCII yang dikodekan menggunakan pengkodean CSS (yang biasanya tidak akan dikodekan), atau untuk melawan penghindaran, yang merupakan kombinasi dari backslash dan non karakter -hexadecimal (misalnya, ja \\vascript setara dengan javascript).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| Mendekodekan urutan pelarian ANSI C: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\', \\”, \\xHH (heksadesimal), \\0OOO ​​(oktal). Pengkodean tidak valid dibiarkan dalam output.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| Mendekode string yang telah dikodekan menggunakan algoritma yang sama seperti yang digunakan dalam hexEncode (lihat entri berikut).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| Mengkodekan string (mungkin mengandung karakter biner) dengan mengganti setiap byte input dengan dua karakter heksadesimal. Misalnya, xyz dikodekan sebagai 78797a.
+Decodes the characters encoded as HTML entities.|| Mendekode karakter yang dikodekan sebagai entitas HTML.
+Decodes JavaScript escape sequences.|| Mendekode urutan pelarian JavaScript.
+Looks up the length of the input string in bytes, placing it (as string) in output.|| Mencari panjang string input dalam byte, menempatkannya (sebagai string) dalam output.
+Converts all characters to lowercase using the current C locale.|| Mengonversi semua karakter menjadi huruf kecil menggunakan lokal C saat ini.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Menghitung hash MD5 dari data dalam input. Hash yang dihitung adalah dalam bentuk biner mentah dan mungkin perlu disandikan ke dalam teks yang akan dicetak (atau dicatat). Fungsi hash umumnya digunakan dalam kombinasi dengan hexEncode.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| Bukan fungsi transformasi yang sebenarnya, tetapi instruksi untuk menghapus fungsi transformasi sebelumnya yang terkait dengan aturan saat ini.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| Menghapus banyak garis miring, referensi-sendiri direktori, dan referensi-kembali direktori (kecuali ketika di awal input) dari string input.
+Same as normalizePath, but first converts backslash characters to forward slashes.|| Sama seperti normalizePath, tetapi pertama-tama mengkonversi karakter garis miring terbalik untuk meneruskan garis miring.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Menghitung paritas data 7-bit yang menggantikan bit 8th dari setiap byte target dengan bit paritas yang dihitung.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Menghitung paritas ganjil dari data 7-bit menggantikan bit 8th setiap byte target dengan bit paritas yang dihitung.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| Menghitung paritas nol data 7-bit menggantikan bit 8th dari setiap byte target dengan bit paritas nol, yang memungkinkan pemeriksaan data gen 7 bit / genap genap / ganjil sebagai data ASCII7.
+Removes all NUL bytes from input.|| Menghapus semua byte NUL dari input.
+Removes all whitespace characters from the input.|| Menghapus semua karakter spasi putih dari input.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| Ganti setiap kemunculan komentar gaya-C (/ * ... * /) dengan spasi tunggal (beberapa kejadian berurutan yang tidak akan dikompres). Komentar yang dikurangi juga akan diganti dengan spasi (ASCII 0x20). Namun, pengakhiran mandiri komentar (* /) tidak akan ditindaklanjuti.
+Removes common comments chars (/*, */, –, #).|| Menghapus karakter komentar umum (/ *, * /, -, #).
+Replaces NUL bytes in input with space characters (ASCII 0x20).|| Mengganti byte NUL dalam input dengan karakter spasi (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| Mendekode string input yang disandikan URL. Penyandian yang tidak valid (yaitu, yang menggunakan karakter non-heksadesimal, atau yang ada di akhir string dan memiliki satu atau dua byte yang hilang) tidak dikonversi, tetapi tidak ada kesalahan yang muncul.
+Converts all characters to uppercase using the current C locale.|| Ubah semua karakter menjadi huruf besar menggunakan lokal C saat ini.
+Like urlDecode, but with support for the Microsoft-specific %u encoding.|| Seperti urlDecode, tetapi dengan dukungan untuk enkode% u khusus Microsoft.
+Encodes input string using URL encoding.|| Mengkodekan string input menggunakan pengodean URL.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| Mengubah semua urutan karakter UTF-8 ke Unicode. Ini membantu normalisasi input terutama untuk bahasa non-Inggris meminimalkan false-positive dan false-negative.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Menghitung hash SHA1 dari string input. Hash yang dihitung adalah dalam bentuk biner mentah dan mungkin perlu disandikan ke dalam teks yang akan dicetak (atau dicatat). Fungsi hash umumnya digunakan dalam kombinasi dengan hexEncode.
+Removes whitespace from the left side of the input string.|| Menghapus spasi putih dari sisi kiri string input.
+Removes whitespace from the right side of the input string.|| Menghapus spasi putih dari sisi kanan string input.
+Removes whitespace from both the left and right sides of the input string.|| Menghapus spasi putih dari sisi kiri dan kanan string input.
+The rule will match if any of the variables begin with the value of operating.|| Aturan akan cocok jika salah satu variabel dimulai dengan nilai operasi.
+The rule will match if any of the variables contain the value of operating.|| Aturan akan cocok jika ada variabel yang berisi nilai operasi.
+The rule will match if any of the variables contain a word as the string one.|| Aturan akan cocok jika ada variabel yang mengandung kata sebagai string.
+The rule will match if any of the variables end with the value of operating.|| Aturan akan cocok jika salah satu variabel berakhir dengan nilai operasi.
+The rule will match if any of the variables match with the value of operating.|| Aturan akan cocok jika ada variabel yang cocok dengan nilai operasi.
+The rule will match if any of the variables match with the value of operating.|| Aturan akan cocok jika ada variabel yang cocok dengan nilai operasi.
+The rule will match if any of the variables is identical to the value of operating.|| Aturan akan cocok jika salah satu variabel identik dengan nilai operasi.
+The rule will match if any of the variables match in the regular expression used in operating.|| Aturan akan cocok jika salah satu variabel cocok dengan ekspresi reguler yang digunakan dalam operasi.
+The rule will match if any of the variables match in any of the values of the list operating.|| Aturan akan cocok jika salah satu variabel cocok dengan salah satu nilai dari daftar yang beroperasi.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| Itu sama bahwa operator strPhrases tetapi operasi adalah file di mana ia didefinisikan sebagai daftar frasa.
+The rule will match if any of the variables is equal to the number used in operating.|| Aturan akan cocok jika salah satu variabel sama dengan angka yang digunakan dalam operasi.
+The rule will match if any of the variables is greater or equal to the number used in operating.|| Aturan akan cocok jika salah satu variabel lebih besar atau sama dengan jumlah yang digunakan dalam operasi.
+The rule will match if any of the variables is greater than the number used in operating.|| Aturan akan cocok jika salah satu variabel lebih besar dari jumlah yang digunakan dalam operasi.
+The rule will match if any of the variables is lower or equal to the number used in operating.|| Aturan akan cocok jika salah satu variabel lebih rendah atau sama dengan jumlah yang digunakan dalam operasi.
+The rule will match if any of the variables is lower than the number used in operating.|| Aturan akan cocok jika salah satu variabel lebih rendah dari jumlah yang digunakan dalam operasi.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| Ini menerapkan deteksi injeksi SQL ke daftar variabel. Operator ini tidak mengharapkan operasi apa pun.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| Ini menerapkan deteksi injeksi XSS ke daftar variabel. Operator ini tidak mengharapkan operasi apa pun.
+Try to match the IP or network segments of operating with the list of variables.|| Cobalah untuk mencocokkan IP atau segmen jaringan yang beroperasi dengan daftar variabel.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| Ini sama dengan operator ipMatch, tetapi ini mencoba mencocokkan variabel terhadap file dengan daftar IP dan segmen jaringan.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| Ia memeriksa bahwa jumlah byte variabel berada di salah satu nilai operasi. Contoh operasi adalah &quot;10, 13, 32-126&quot;.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| Ini memvalidasi data yang disandikan. Operator ini harus digunakan hanya untuk data yang tidak menyandikan data secara umum atau untuk data yang disandikan beberapa kali.
+It validates that variables are UTF-8. This operator does not expect any operating.|| Ini memvalidasi bahwa variabel adalah UTF-8. Operator ini tidak mengharapkan operasi apa pun.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| Ini memverifikasi apakah variabel adalah nomor kartu kredit. Parameter ini menerima ekspresi reguler sebagai operasi, jika cocok maka berlaku kartu kredit yang diverifikasi.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| Ini memverifikasi apakah variabel adalah Nomor Jaminan Sosial AS. Parameter ini menerima ekspresi reguler sebagai operasi, jika cocok maka berlaku verifikasi SSN.
+It returns true always, forcing a match.|| Itu selalu benar, memaksa pertandingan.
+It returns false always, forcing a non-match.|| Mengembalikan false selalu, memaksa non-cocok.
+A word is delimited by characters different to (a-z, 0-9 and '_')|| Sebuah kata dibatasi oleh karakter yang berbeda dengan (az, 0-9 dan '_')
+Can be a list of strings split by the character ,|| Dapat berupa daftar string yang dipisahkan oleh karakter,
+Can be a list of strings split by the character |,|| Dapat berupa daftar string yang dipisahkan oleh karakter |,
+Can be a list of strings split by a blank space|| Dapat berupa daftar string yang dipisahkan oleh ruang kosong
+Can be a list of IPs or network segments split by the character ,|| Dapat berupa daftar IP atau segmen jaringan yang dibagi berdasarkan karakter,
+Can be a list of IPs ranges split by the character ,|| Dapat berupa daftar rentang IP yang dipisah berdasarkan karakter,
+Can be selected more than one file.|| Dapat dipilih lebih dari satu file.
+It uses the PCRE engine, optional field.|| Ia menggunakan mesin PCRE, bidang opsional.
+It uses the PCRE engine, optional field.|| Ia menggunakan mesin PCRE, bidang opsional.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| Ia menggunakan mesin PCRE. Ekspresi (? I) digunakan untuk mencocokkan menggunakan case-insensitive.
+This operator does not expect any operating.|| Operator ini tidak mengharapkan operasi apa pun.
+String.|| Tali.
+Number.|| Nomor.
+The <strong> {{param}} </strong> blacklist has been created successfully.|| The <strong> {{param}} </strong> daftar hitam telah berhasil dibuat.
+The <strong> {{param}} </strong> blacklist has been deleted successfully.|| The <strong> {{param}} </strong> daftar hitam telah berhasil dihapus.
+The <strong> {{param}} </strong> blacklist has been stopped successfully.|| The <strong> {{param}} </strong> daftar hitam telah berhasil dihentikan.
+The <strong> {{param}} </strong> blacklist has been started successfully.|| The <strong> {{param}} </strong> daftar hitam sudah berhasil dimulai.
+The <strong> {{param}} </strong> blacklist has been updated successfully.|| The <strong> {{param}} </strong> daftar hitam telah berhasil diperbarui.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke daftar hitam.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| Ladang <strong> {{param}} </strong> telah berhasil menghapus daftar hitam.
+The <strong> {{param}} </strong> DoS rule has been created successfully.|| The <strong> {{param}} </strong> Aturan DoS telah berhasil dibuat.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| The <strong> {{param}} </strong> Aturan DoS telah berhasil dihapus.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| The <strong> {{param}} </strong> Aturan DoS telah berhasil dihentikan.
+The <strong> {{param}} </strong> DoS rule has been started successfully.|| The <strong> {{param}} </strong> Aturan DoS telah dimulai dengan sukses.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke aturan DoS.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| Ladang <strong> {{param}} </strong> telah berhasil menghapus aturan DoS.
+The source has been created successfully|| Sumber telah berhasil dibuat
+The source has been updated successfully|| Sumber telah berhasil diperbarui
+The source <strong> {{param}} </strong> has been deleted successfully.|| Sumber <strong> {{param}} </strong> telah berhasil dihapus.
+The <strong> {{param}} </strong> RBL rule has been created successfully.|| The <strong> {{param}} </strong> Aturan RBL telah berhasil dibuat.
+The <strong> {{param}} </strong> RBL rule has been updated successfully.|| The <strong> {{param}} </strong> Aturan RBL telah berhasil diperbarui.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| The <strong> {{param}} </strong> Aturan RBL telah berhasil dihapus.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| The <strong> {{param}} </strong> Aturan RBL telah berhasil dihentikan.
+The <strong> {{param}} </strong> RBL rule has been started successfully.|| The <strong> {{param}} </strong> Aturan RBL telah berhasil dimulai.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke aturan RBL.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| Ladang <strong> {{param}} </strong> telah berhasil menghapus aturan RBL.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| Domain <strong> {{param}} </strong> telah berhasil ditambahkan ke aturan RBL.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| Domain <strong> {{param}} </strong> telah berhasil menghapus aturan RBL.
+The domain <strong> {{param}} </strong> has been created successfully|| Domain <strong> {{param}} </strong> telah berhasil dibuat
+The domain has been updated successfully|| Domain telah berhasil diperbarui
+The domain <strong> {{param}} </strong> has been deleted successfully.|| Domain <strong> {{param}} </strong> telah berhasil dihapus.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| The <strong> {{param}} </strong> Aturan WAF telah berhasil dibuat.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| The <strong> {{param}} </strong> Aturan WAF telah berhasil dihapus.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| The <strong> {{param}} </strong> Aturan WAF telah berhasil dihentikan.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| The <strong> {{param}} </strong> Aturan WAF telah dimulai dengan sukses.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| The <strong> {{param}} </strong> Aturan WAF telah berhasil diperbarui.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke WAF ruleset.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| Ladang <strong> {{param}} </strong> telah berhasil menghapus aturan WAF.
+The rule <strong> {{param}} </strong> has been created successfully.|| Peraturan <strong> {{param}} </strong> telah berhasil dibuat.
+The rule <strong> {{param}} </strong> has been moved successfully.|| Peraturan <strong> {{param}} </strong> telah berhasil dipindahkan.
+The rule <strong> {{param}} </strong> has been deleted successfully.|| Peraturan <strong> {{param}} </strong> telah berhasil dihapus.
+The rule <strong> {{param}} </strong> has been updated successfully|| Peraturan <strong> {{param}} </strong> telah berhasil diperbarui
+The match has been created successfully|| Pertandingan telah berhasil dibuat
+The match <strong> {{param}} </strong> has been deleted successfully.|| Pertandingan <strong> {{param}} </strong> telah berhasil dihapus.
+The WAF file <strong> {{param}} </strong> has been created successfully.|| File WAF <strong> {{param}} </strong> telah berhasil dibuat.
+The WAF file <strong> {{param}} </strong> has been deleted successfully.|| File WAF <strong> {{param}} </strong> telah berhasil dihapus.
+The WAF file <strong> {{param}} </strong> has been updated successfully.|| File WAF <strong> {{param}} </strong> telah berhasil diperbarui.
+The <strong> IPDS package </strong> has been scheduled successfully.|| The <strong> Paket IPDS </strong> telah berhasil dijadwalkan.
+The <strong> IPDS package </strong> has been upgraded successfully.|| The <strong> Paket IPDS </strong> telah berhasil ditingkatkan.
+Are you sure you want to delete the {{param}} blacklist?|| Apakah Anda yakin ingin menghapus daftar hitam {{param}}?
+Are you sure you want to delete the selected blacklists?|| Anda yakin ingin menghapus daftar hitam yang dipilih?
+Are you sure you want to delete the {{param}} DoS rule?|| Apakah Anda yakin ingin menghapus aturan DoS {{param}}?
+Are you sure you want to delete the selected DoS rules?|| Anda yakin ingin menghapus aturan DoS yang dipilih?
+Are you sure you want to delete the source {{param}}?|| Anda yakin ingin menghapus sumber {{param}}?
+Are you sure you want to delete the selected sources?|| Anda yakin ingin menghapus sumber yang dipilih?
+Are you sure you want to delete the {{param}} RBL rule?|| Yakin ingin menghapus aturan {{param}} RBL?
+Are you sure you want to delete the selected RBL rules?|| Apakah Anda yakin ingin menghapus aturan RBL yang dipilih?
+Are you sure you want to delete the domain {{param}}?|| Anda yakin ingin menghapus domain {{param}}?
+Are you sure you want to delete the selected domains?|| Anda yakin ingin menghapus domain yang dipilih?
+Are you sure you want to delete the {{param}} WAF ruleset?|| Anda yakin ingin menghapus WAF {{param}} ruleset?
+Are you sure you want to delete the selected rulesets?|| Yakin ingin menghapus pengaturan yang dipilih?
+'Are you sure you want to delete the rule {{param}}?|| 'Apakah Anda yakin ingin menghapus aturan {{param}}?
+Are you sure you want to delete the match {{param}}?|| Yakin ingin menghapus kecocokan {{param}}?
+Are you sure you want to delete the selected matches?|| Yakin ingin menghapus kecocokan yang dipilih?
+Are you sure you want to delete the file {{param}}?|| Anda yakin ingin menghapus file {{param}}?
+Are you sure you want to delete the selected files?|| Anda yakin ingin menghapus file yang dipilih?
+System Graphs|| Grafik Sistem
+Interfaces Graphs|| Grafik Antarmuka
+Farms Graph|| Grafik Peternakan
+Farms Stats|| Statistik Peternakan
+System Stats|| Statistik Sistem
+Network Stats|| Statistik Jaringan
+Copy farmguardian|| Salin penjaga pertanian
+Farmguardian to copy|| Farmguardian untuk menyalin
+Select the farmguardian to copy|| Pilih penjaga pertanian untuk menyalin
+Total Memory|| Memori Total
+Free Memory|| Memori Gratis
+Used Memory|| Memori yang Digunakan
+Buffers|| Buffer
+Cached|| Dalam cache
+Total Swap|| Tukar Total
+Free Swap|| Swap gratis
+Used Swap|| Swap digunakan
+Cached Swap|| Swap dalam cache
+Idle|| Siaga
+Usage|| penggunaan
+Iowait|| Iowait
+Irq|| Irq
+Nice|| Bagus
+Softirq|| Softirq
+Sys|| Sys
+User|| pemakai
+Last minute|| Menit terakhir
+Last 5 minutes|| 5 menit terakhir
+Last 15 minutes|| 15 menit terakhir
 Are you sure you want to delete the {{param}} farmguardian?|| Anda yakin ingin menghapus {{param}} farmguardian?
-The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> penjaga pertanian telah berhasil dihapus.
-The farm has been updated successfully.|| Peternakan telah berhasil diperbarui.
-Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| Anda yakin ingin menghapus farm {{param}} {{param2}} farmguardian?
-Are you sure you want to delete the backend {{param}}?|| Anda yakin ingin menghapus backend {{param}}?
-The backend <strong>{{param}}</strong> has been deleted successfully|| Backend <strong>{{param}}</strong> telah berhasil dihapus
-The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| Backend <strong>{{param}}</strong> telah {{param2}} berhasil.
-The service <strong>{{param}}</strong> has been created successfully.|| Layanan <strong>{{param}}</strong> telah berhasil dibuat.
-The service <strong>{{param}}</strong> has been deleted successfully.|| Layanan <strong>{{param}}</strong> telah berhasil dihapus.
-The service <strong>{{param}}</strong> has been updated successfully.|| Layanan <strong>{{param}}</strong> telah berhasil diperbarui.
-The <strong>{{param}}</strong> Gateway has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Gateway telah berhasil diperbarui.
-Are you sure you want to unset the current gateway?|| Apakah Anda yakin ingin membatalkan pengaturan gateway saat ini?
-Are you sure you want to unset the {{param}} gateway?|| Anda yakin ingin membatalkan gerbang {{param}}?
-The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Gateway telah berhasil dikonfigurasi.
-The <strong>{{param}}</strong> NIC has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC telah berhasil diperbarui.
-The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC telah berhasil dikonfigurasi.
-The <strong>{{param}}</strong> NIC is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> NIC adalah {{param2}}
-The <strong>{{param}}</strong> Virtual interface has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil dibuat.
-The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil diperbarui.
-Are you sure you want to delete the {{param}} Virtual interface?|| Yakin ingin menghapus {{param}} antarmuka virtual?
-The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka virtual telah berhasil dihapus.
-The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> Antarmuka Virtual adalah {{param2}}
-The <strong>{{param}}</strong> VLAN has been created successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil dibuat.
-The <strong>{{param}}</strong> VLAN has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil diperbarui.
-Are you sure you want to delete the {{param}} VLAN?|| Yakin ingin menghapus VLAN {{param}}?
-The <strong>{{param}}</strong> VLAN has been deleted successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN telah berhasil dihapus.
-The <strong>{{param}}</strong> VLAN is {{param2}}|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> VLAN adalah {{param2}}
-The backup <strong>{{param}}</strong> has been created successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil dibuat.
-The backup <strong>{{param}}</strong> has been uploaded successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil diunggah.
-Are you sure you want to delete the backup {{param}}?|| Anda yakin ingin menghapus cadangan {{param}}?
-The backup <strong>{{param}}</strong> has been deleted successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil dihapus.
-The backup <strong>{{param}}</strong> has been applied successfully.|| Cadangan <strong>{{param}}</strong> telah berhasil diterapkan.
-The backup <strong>{{backup}}</strong> has been downloaded successfully.|| Cadangan <strong>{{backup}}</strong> telah berhasil diunduh.
-The log <strong>{{param}}</strong> has been downloaded successfully.|| Log <strong>{{param}}</strong> telah berhasil diunduh.
-The <strong>{{param}}</strong> service has been updated successfully.|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong>{{param}}</strong> layanan telah berhasil diperbarui.
-The <strong> Support Save </strong> has been downloaded successfully|| The Olymp Platform trade dapatdiakses dalam tiga cara. Pertama, ada versi web yang dapat Anda aksesmelalui website utama mereka. Kedua, ada aplikasi desktop baik untukWindows maupun macOS. Aplikasi ini memiliki fitur tambahan, Anda akan menemukannya padaversi Terakhir, Olymp Trade juga dapat diakses melalui aplikasi mobile baik untukiOS dan Smartphone Android. <strong> Mendukung Hemat </strong> telah berhasil diunduh
+Are you sure you want to delete the selected farmguardians?|| Apakah Anda yakin ingin menghapus penjaga pertanian yang dipilih?
+The <strong> {{param}} </strong> farmguardian has been created successfully.|| The <strong> {{param}} </strong> penjaga pertanian telah berhasil dibuat.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| The <strong> {{param}} </strong> penjaga pertanian telah berhasil dihapus.
+The <strong> {{param}} </strong> farmguardian has been updated successfully.|| The <strong> {{param}} </strong> farmguardian telah berhasil diperbarui.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke farmguardian.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| Ladang <strong> {{param}} </strong> berhasil dipindahkan ke penjaga pertanian.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| Ladang <strong> {{param}} with the service {{param2}} </strong> telah berhasil ditambahkan ke farmguardian.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| Ladang <strong> {{param}} with the service {{param2}} </strong> berhasil dipindahkan ke penjaga pertanian.
+NIC List|| Daftar NIC
+Bonding Interface List|| Daftar Antarmuka Ikatan
+Select the slaves|| Pilih budak
+VLAN Interface List|| Daftar Antarmuka VLAN
+VLAN ID|| ID VLAN
+VLAN tag|| Tag VLAN
+Virtual Interface List|| Daftar Antarmuka Virtual
+Virtual interface name|| Nama antarmuka virtual
+Virtual interface tag|| Tag antarmuka virtual
+Floating IP List|| Daftar IP Terapung
+IPv4 Gateway|| Gateway IPv4
+IPv6 Gateway|| Gateway IPv6
+IPv4 Gateway Settings|| Pengaturan Gateway IPv4
+IPv6 Gateway Settings|| Pengaturan Gateway IPv6
+Backends Aliases|| Backends Alias
+Interfaces Aliases|| Alias ​​Antarmuka
+Routing Rule List|| Daftar Aturan Routing
+Routing Table List|| Daftar Tabel Routing
+Priority should be a value between {{min}} and {{max}}|| Prioritas harus berupa nilai antara {{min}} dan {{max}}
+Configure table {{param}}|| Konfigurasikan tabel {{param}}
+Available Routes|| Rute yang Tersedia
+Routing table for the outputs of the interface {{param}}.|| Tabel perutean untuk output antarmuka {{param}}.
+Should be a IP address or CIDR|| Harus alamat IP atau CIDR
+Should be a IP address (IPv4/IPv6)|| Harus berupa alamat IP (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}?|| Anda yakin ingin menghapus NIC {{param}}?
+Are you sure you want to unset the selected NIC?|| Anda yakin ingin menghapus NIC yang dipilih?
+Are you sure you want to unset the Bonding {{param}}?|| Anda yakin ingin membatalkan ikatan {{param}}?
+Are you sure you want to unset the selected Bondings?|| Anda yakin ingin membatalkan Bonding yang dipilih?
+Are you sure you want to delete the Bonding {{param}}?|| Anda yakin ingin menghapus Bonding {{param}}?
+Are you sure you want to delete the selected Bondings?|| Anda yakin ingin menghapus Bondings yang dipilih?
+Are you sure you want to delete the VLAN {{param}}?|| Anda yakin ingin menghapus VLAN {{param}}?
+Are you sure you want to delete the selected VLANs?|| Anda yakin ingin menghapus VLAN yang dipilih?
+Are you sure you want to delete the Virtual interface {{param}}?|| Anda yakin ingin menghapus antarmuka virtual {{param}}?
+Are you sure you want to delete the selected Virtual interfaces?|| Anda yakin ingin menghapus antarmuka Virtual yang dipilih?
+Are you sure you want to unset the Floating IP of {{param}}?|| Yakin ingin membatalkan IP Floating {{param}}?
+Are you sure you want to unset the selected Floating IPs?|| Anda yakin ingin menghapus IP Floating yang dipilih?
+Are you sure you want to unset the gateway for {{param}}?|| Apakah Anda yakin ingin mengesampingkan gateway untuk {{param}}?
+Are you sure you want to delete the alias {{param}}?|| Anda yakin ingin menghapus alias {{param}}?
+Are you sure you want to delete the selected aliases?|| Anda yakin ingin menghapus alias yang dipilih?
+Are you sure you want to delete the routing rule {{param}}?|| Anda yakin ingin menghapus aturan perutean {{param}}?
+Are you sure you want to delete the selected routing rules?|| Yakin ingin menghapus aturan perutean yang dipilih?
+Are you sure you want to delete the route {{param}}?|| Anda yakin ingin menghapus rute {{param}}?
+Are you sure you want to delete the selected routes?|| Anda yakin ingin menghapus rute yang dipilih?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| The <strong> {{param}} </strong> NIC telah berhasil dikonfigurasi.
+The <strong> {{param}} </strong> NIC is up.|| The <strong> {{param}} </strong> NIC sudah habis.
+The <strong> {{param}} </strong> NIC is down.|| The <strong> {{param}} </strong> NIC sedang down.
+The <strong> {{param}} </strong> NIC has been updated successfully.|| The <strong> {{param}} </strong> NIC telah berhasil diperbarui.
+The <strong> {{param}} </strong> NIC has updated the alias successfully.|| The <strong> {{param}} </strong> NIC berhasil memperbarui alias.
+The <strong> {{param}} </strong> Bonding has been created successfully.|| The <strong> {{param}} </strong> Ikatan telah berhasil dibuat.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| The <strong> {{param}} </strong> Ikatan telah berhasil dikonfigurasi.
+The <strong> {{param}} </strong> Bonding is up.|| The <strong> {{param}} </strong> Ikatan sudah habis.
+The <strong> {{param}} </strong> Bonding is down.|| The <strong> {{param}} </strong> Ikatan sedang turun.
+The <strong> {{param}} </strong> Bonding has been updated successfully.|| The <strong> {{param}} </strong> Ikatan telah berhasil diperbarui.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| The <strong> {{param}} </strong> Bonding berhasil memperbarui alias.
+The <strong> {{param}} </strong> Bonding has been deleted successfully.|| The <strong> {{param}} </strong> Ikatan telah berhasil dihapus.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| The <strong> {{param}} </strong> budak telah berhasil ditambahkan ke Bonding.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| The <strong> {{param}} </strong> budak telah berhasil menghapus Bonding.
+The <strong> {{param}} </strong> VLAN has been created successfully.|| The <strong> {{param}} </strong> VLAN telah berhasil dibuat.
+The <strong> {{param}} </strong> VLAN is up.|| The <strong> {{param}} </strong> VLAN sudah habis.
+The <strong> {{param}} </strong> VLAN is down.|| The <strong> {{param}} </strong> VLAN sedang down.
+The <strong> {{param}} </strong> VLAN has been updated successfully.|| The <strong> {{param}} </strong> VLAN telah berhasil diperbarui.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| The <strong> {{param}} </strong> VLAN telah berhasil memperbarui alias.
+The <strong> {{param}} </strong> VLAN has been deleted successfully.|| The <strong> {{param}} </strong> VLAN telah berhasil dihapus.
+The <strong> {{param}} </strong> Virtual interface has been created successfully.|| The <strong> {{param}} </strong> Antarmuka virtual telah berhasil dibuat.
+The <strong> {{param}} </strong> Virtual interface is up.|| The <strong> {{param}} </strong> Antarmuka virtual sudah habis.
+The <strong> {{param}} </strong> Virtual interface is down.|| The <strong> {{param}} </strong> Antarmuka virtual tidak aktif.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| The <strong> {{param}} </strong> Antarmuka virtual telah berhasil diperbarui.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| The <strong> {{param}} </strong> Antarmuka virtual berhasil memperbarui alias.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| The <strong> {{param}} </strong> Antarmuka virtual telah berhasil dihapus.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| The <strong> {{param}} </strong> Floating IP telah berhasil dikonfigurasi.
+The <strong> {{param}} </strong> Floating IP is up.|| The <strong> {{param}} </strong> IP mengambang sudah habis.
+The <strong> {{param}} </strong> Floating IP is down.|| The <strong> {{param}} </strong> IP Apung turun.
+The <strong> {{param}} </strong> Floating IP has been updated successfully.|| The <strong> {{param}} </strong> Floating IP telah berhasil diperbarui.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| The <strong> {{param}} </strong> Floating IP berhasil memperbarui alias.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| The <strong> {{param}} </strong> Floating IP telah berhasil dihapus.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| Gerbang untuk <strong> {{param}} </strong> telah berhasil dikonfigurasi.
+The Gateway for <strong> {{param}} </strong> has been updated successfully.|| Gerbang untuk <strong> {{param}} </strong> telah berhasil diperbarui.
+The <strong> {{param}} </strong> Alias has been created successfully.|| The <strong> {{param}} </strong> Alias ​​telah berhasil dibuat.
+The <strong> {{param}} </strong> Alias has been updated successfully.|| The <strong> {{param}} </strong> Alias ​​telah berhasil diperbarui.
+The <strong> {{param}} </strong> Alias has been deleted successfully.|| The <strong> {{param}} </strong> Alias ​​telah berhasil dihapus.
+The <strong> {{param}} </strong> routing rule has been deleted successfully.|| The <strong> {{param}} </strong> aturan perutean telah berhasil dihapus.
+The <strong> {{param}} </strong> routing rule has been updated successfully.|| The <strong> {{param}} </strong> aturan perutean telah berhasil diperbarui.
+The <strong> {{param}} </strong> routing rule has been created successfully.|| The <strong> {{param}} </strong> aturan perutean telah berhasil dibuat.
+The route <strong> {{param}} </strong> has been deleted successfully.|| Rute <strong> {{param}} </strong> telah berhasil dihapus.
+The route <strong> {{param}} </strong> has been updated successfully.|| Rute <strong> {{param}} </strong> telah berhasil diperbarui.
+The route <strong> {{param}} </strong> has been created successfully.|| Rute <strong> {{param}} </strong> telah berhasil dibuat.
+To remove a route you must select it first.|| Untuk menghapus rute, Anda harus memilihnya terlebih dahulu.
+The route {{param}} cannot be removed because it is a system route.|| Rute {{param}} tidak dapat dihapus karena ini adalah rute sistem.
+The interface <strong> {{param}} </strong> has been disabled.|| Antarmuka <strong> {{param}} </strong> telah dinonaktifkan.
+The interface <strong> {{param}} </strong> has been enabled.|| Antarmuka <strong> {{param}} </strong> telah diaktifkan.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| The <strong> {{param}} </strong> budak tidak bisa dihilangkan. Ikatan harus memiliki setidaknya satu budak.
+HTTP Service|| Layanan HTTP
+SSH Service|| Layanan SSH
+SNMP Service|| Layanan SNMP
+The physical interface where is running GUI service|| Antarmuka fisik tempat menjalankan layanan GUI
+If the cluster is up you only can select the cluster interface or all|| Jika cluster sudah habis, Anda hanya dapat memilih antarmuka cluster atau semua
+HTTPS Port where is running GUI service|| Port HTTPS tempat menjalankan layanan GUI
+The physical interface where is running SSH service|| Antarmuka fisik tempat menjalankan layanan SSH
+SSH Port where is running SSH service|| Port SSH tempat menjalankan layanan SSH
+Enable SNMP|| Aktifkan SNMP
+The physical interface where is running SNMP service|| Antarmuka fisik tempat menjalankan layanan SNMP
+SNMP Port where is running SNMP service|| Port SNMP tempat menjalankan layanan SNMP
+Community name|| Nama komunitas
+IP or subnet with access|| IP atau subnet dengan akses
+Primary server|| Server primer
+Secondary Server|| Server Sekunder
+NTP server|| Server NTP
+NTP Service|| Layanan NTP
+Proxy Service|| Layanan Proksi
+DNS Service|| Layanan DNS
+Configure cluster|| Konfigurasikan kluster
+Local IP|| IP lokal
+Remote IP|| IP jarak jauh
+Remote Node Password|| Kata Sandi Node Jarak Jauh
+Confirm Password|| Konfirmasi Sandi
+Backup List|| Daftar Cadangan
+Backup file|| File cadangan
+Choose one file|| Pilih satu file
+Alerts Service|| Layanan Peringatan
+Alerts|| Alerts
+Email Notifications|| Notifikasi Email
+Mail Server|| surat Server
+Mail User|| Pengguna Surat
+TLS|| TLS
+Backends Alert|| Peringatan Backends
+Cluster Alert|| Peringatan Cluster
+Prefix Subject|| Subjek Awalan
+Avoid flapping time|| Hindari mengepakkan waktu
+The time that alerts wait when backend is flapping|| Waktu peringatan menunggu ketika backend mengepak
+User Settings|| Pengaturan Pengguna
+ZAPI Key|| Kunci ZAPI
+Change Password|| Ubah Password
+Current password|| Sandi saat
+New password|| Kata sandi baru
+Repeat new password|| Ulangi kata sandi baru
+Log List|| Daftar Log
+Log view|| Tampilan log
+When this action is executed a file with system information will be downloaded.|| Ketika tindakan ini dijalankan, sebuah file dengan informasi sistem akan diunduh.
+This action may take several seconds, you can continue browsing the GUI.|| Tindakan ini mungkin memakan waktu beberapa detik, Anda dapat melanjutkan menelusuri GUI.
+Select an interface which won't be deleted|| Pilih antarmuka yang tidak akan dihapus
+This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| Tindakan ini akan menghancurkan semua konfigurasi, kecuali antarmuka yang dipilih, cadangan, dan sertifikat aktivasi.
+The current credentials for user root will not be modified.|| Kredensial saat ini untuk root pengguna tidak akan dimodifikasi.
+User List|| Daftar pengguna
+Group List|| Daftar Grup
+Role List|| Daftar Peran
+Role Settings|| Pengaturan Peran
+Show all permissions|| Tampilkan semua izin
+Hide all permissions|| Sembunyikan semua izin
+Show permissions|| Tampilkan izin
+Hide permissions|| Sembunyikan izin
+LDAP Server|| Server LDAP
+Base DN|| DN dasar
+Bind DN|| Bind DN
+Scope|| Cakupan
+Bind Password|| Bind Password
+Filter|| Menyaring
+Global Services|| Layanan Global
+Enable session replication|| Aktifkan replikasi sesi
+Enable Duplicated network|| Aktifkan jaringan duplikat
+Enable ARP announce|| Aktifkan ARP mengumumkan
+Custom Routes|| Rute Khusus
+System Routes|| Rute Sistem
+Use proxy of new generation|| Gunakan proksi generasi baru
+Validation Systems|| Sistem Validasi
+AWS Credentials|| Kredensial AWS
+Access Key|| Kunci akses
+Secret Key|| Rahasia Kunci
+Region|| Daerah
+SSL Certificate|| Sertifikat SSL
+RBAC User|| Pengguna RBAC
+RBAC Group|| Grup RBAC
+RBAC Role|| Peran RBAC
+Network Virtual Interface|| Antarmuka Virtual Jaringan
+System Service|| Layanan Sistem
+Notification|| Pemberitahuan
+Host or URL allowed|| Host atau URL diizinkan
+It will not be used if the HOST/URL field contains a URL|| Ini tidak akan digunakan jika bidang HOST / URL berisi URL
+Filter used to get the LDAP field that contains the user ID to log in|| Filter digunakan untuk mendapatkan bidang LDAP yang berisi ID pengguna untuk masuk
+The Search Request will be performed against the entry specified as the search base DN.|| Permintaan Pencarian akan dilakukan terhadap entri yang ditentukan sebagai DN basis pencarian.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| Permintaan Pencarian akan dilakukan terhadap entri yang merupakan bawahan langsung dari entri yang ditentukan sebagai DN pangkalan pencarian.
+The Search Request will be performed against the search base and all entries below|| Permintaan Pencarian akan dilakukan terhadap basis pencarian dan semua entri di bawah ini
+The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| Alamat GUI manajemen baru adalah {{param}} harap hubungkan kembali ke GUI di URL baru.
+The <strong> HTTP service </strong> has been updated successfully.|| The <strong> Layanan HTTP </strong> telah berhasil diperbarui.
+The <strong> SSH service </strong> has been updated successfully.|| The <strong> Layanan SSH </strong> telah berhasil diperbarui.
+The <strong> SNMP service </strong> has been updated successfully.|| The <strong> Layanan SNMP </strong> telah berhasil diperbarui.
+The <strong> global services </strong> have been updated successfully|| The <strong> layanan global </strong> telah berhasil diperbarui
+The <strong> DNS service </strong> has been updated successfully.|| The <strong> Layanan DNS </strong> telah berhasil diperbarui.
+The <strong> NTP service </strong> has been updated successfully.|| The <strong> Layanan NTP </strong> telah berhasil diperbarui.
+The <strong> Proxy service </strong> has been updated successfully.|| The <strong> Layanan proxy </strong> telah berhasil diperbarui.
+The backup <strong> {{param}} </strong> has been deleted successfully.|| Cadangan <strong> {{param}} </strong> telah berhasil dihapus.
+The backup <strong> {{param}} </strong> has been applied successfully.|| Cadangan <strong> {{param}} </strong> telah berhasil diterapkan.
+The backup <strong> {{param}} </strong> has been downloaded successfully.|| Cadangan <strong> {{param}} </strong> telah berhasil diunduh.
+The backup <strong> {{param}} </strong> has been uploaded successfully.|| Cadangan <strong> {{param}} </strong> telah berhasil diunggah.
+The backup <strong> {{param}} </strong> has been created successfully.|| Cadangan <strong> {{param}} </strong> telah berhasil dibuat.
+The <strong> backends alert </strong> has been applied successfully.|| The <strong> peringatan backends </strong> telah berhasil diterapkan.
+The <strong> cluster alert </strong> has been applied successfully.|| The <strong> peringatan kluster </strong> telah berhasil diterapkan.
+The configuration of email has been updated successfully.|| Konfigurasi email telah berhasil diperbarui.
+The alert has been updated successfully.|| Lansiran telah berhasil diperbarui.
+The test email has been sent successfully.|| Email pengujian telah berhasil dikirim.
 The user has been updated successfully.|| Pengguna telah berhasil diperbarui.
-The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> telah berhasil dibuat.
-The certificate <strong>{{param}}</strong> has been uploaded successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil diunggah.
-The certificate <strong>{{param}}</strong> has been deleted successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil dihapus.
-The certificate <strong>{{param}}</strong> has been downloaded successfully.|| Sertifikat <strong>{{param}}</strong> telah berhasil diunduh.
-New Service|| Layanan Baru
-Create|| membuat
-Cancel|| Batal
-Submit|| Kirim
-Save|| Hemat
-Generate|| Menghasilkan
-Update|| memperbarui
-Upload|| Unggah
-Generate Random Key|| Hasilkan Kunci Acak
-Generate Support Save|| Hasilkan Dukungan, Simpan
-clear|| jelas
-start|| awal
-Apply|| Berlaku
-Add|| menambahkan
-Edit|| Ubah
-Go to Home|| Pergi ke rumah
-404 Page not Found|| Halaman 404 tidak Ditemukan
-The page you were looking for doesn't exist|| Halaman yang Anda cari tidak ada
-No farms found|| Tidak ada peternakan yang ditemukan
-Established Conns|| Perusahaan yang didirikan
-Pending Conns|| Conns yang tertunda
-Select a graph|| Pilih grafik
-Select a profile|| Pilih profil
-Select a Virtual IP|| Pilih IP Virtual
-Select a parent interface|| Pilih antarmuka induk
-Select an interface|| Pilih sebuah antarmuka
-Logout|| Keluar
-Sign in with your username and password|| Masuk dengan nama pengguna dan kata sandi Anda
-Username|| Nama Pengguna
-Password|| Kata Sandi
-Sign In|| Masuk
-User is required!|| Pengguna wajib!
-User should be the real one|| Pengguna harus menjadi yang asli
-Password is required|| katakunci dibutuhkan
-Password should contains {{param}} to {{param2}} characters|| Kata sandi harus berisi {{param}} hingga {{param2}} karakter
-Success!|| Sukses!
-You have been successfully logged in.|| Anda telah berhasil masuk.
-put in maintenance|| dimasukkan ke dalam pemeliharaan
-upped|| terangkat
-stopped|| terhenti
-started|| mulai
-restarted|| restart
-down|| turun
-up||  up
+The log <strong> {{param}} </strong> has been downloaded successfully.|| Log <strong> {{param}} </strong> telah berhasil diunduh.
+The <strong> Support Save </strong> has been downloaded successfully.|| The <strong> Mendukung Hemat </strong> telah berhasil diunduh.
+The user <strong> {{param}} </strong> has been deleted successfully.|| Pengguna <strong> {{param}} </strong> telah berhasil dihapus.
+The user {{param}} has been created successfully.|| Pengguna {{param}} telah berhasil dibuat.
+The user {{param}} has been updated successfully.|| Pengguna {{param}} telah berhasil diperbarui.
+The group <strong> {{param}} </strong> has been deleted successfully.|| Kelompok ini <strong> {{param}} </strong> telah berhasil dihapus.
+The group {{param}} has been created successfully.|| Grup {{param}} telah berhasil dibuat.
+The group {{param}} has been updated successfully.|| Grup {{param}} telah berhasil diperbarui.
+The user <strong> {{param}} </strong> has been added to the group successfully.|| Pengguna <strong> {{param}} </strong> telah berhasil ditambahkan ke grup.
+The user <strong> {{param}} </strong> has been removed to the group successfully.|| Pengguna <strong> {{param}} </strong> telah berhasil dihapus ke grup.
+The farm <strong> {{param}} </strong> has been added to the group successfully.|| Ladang <strong> {{param}} </strong> telah berhasil ditambahkan ke grup.
+The farm <strong> {{param}} </strong> has been removed to the group successfully.|| Ladang <strong> {{param}} </strong> telah berhasil dihapus ke grup.
+The interface <strong> {{param}} </strong> has been added to the group successfully.|| Antarmuka <strong> {{param}} </strong> telah berhasil ditambahkan ke grup.
+The interface <strong> {{param}} </strong> has been removed to the group successfully.|| Antarmuka <strong> {{param}} </strong> telah berhasil dihapus ke grup.
+The role <strong> {{param}} </strong> has been deleted successfully.|| Peran <strong> {{param}} </strong> telah berhasil dihapus.
+The role {{param}} has been created successfully.|| Peran {{param}} telah berhasil dibuat.
+The role {{param}} has been updated successfully.|| Peran {{param}} telah berhasil diperbarui.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| Server LDAP telah dikonfigurasi. Silakan, uji konektivitas untuk mengonfirmasi bahwa konfigurasi sudah benar.
+The connectivity test has been done successfully.|| Tes konektivitas telah berhasil dilakukan.
+The validation system <strong> {{param}} </strong> has been enabled successfully.|| Sistem validasi <strong> {{param}} </strong> telah berhasil diaktifkan.
+The validation system <strong> {{param}} </strong> has been disabled successfully.|| Sistem validasi <strong> {{param}} </strong> telah berhasil dinonaktifkan.
+The cluster has been created successfully.|| Cluster telah berhasil dibuat.
+The cluster has been updated successfully.|| Cluster telah berhasil diperbarui.
+The cluster has been destroyed successfully.|| Cluster telah dihancurkan dengan sukses.
+The <strong>local node</strong> has been put in maintenance successfully.|| The <strong>simpul lokal</strong> telah berhasil dirawat.
+The <strong>local node</strong> has been enabled successfully.|| The <strong>simpul lokal</strong> telah berhasil diaktifkan.
+The AWS credentials have been configured successfully.|| Kredensial AWS telah berhasil dikonfigurasi.
+The Azure credentials have been configured successfully.|| Kredensial Azure telah berhasil dikonfigurasi.
+Are you sure you want to delete the backup {{param}}?|| Anda yakin ingin menghapus cadangan {{param}}?
+Are you sure you want to delete the selected backups?|| Anda yakin ingin menghapus cadangan yang dipilih?
+Are you sure you want to delete the user {{param}}?|| Anda yakin ingin menghapus pengguna {{param}}?
+Are you sure you want to delete the selected users?|| Anda yakin ingin menghapus pengguna yang dipilih?
+Are you sure you want to delete the group {{param}}?|| Anda yakin ingin menghapus grup {{param}}?
+Are you sure you want to delete the selected groups?|| Anda yakin ingin menghapus grup yang dipilih?
+Are you sure you want to delete the role {{param}}?|| Apakah Anda yakin ingin menghapus peran {{param}}?
+Are you sure you want to delete the selected roles?|| Apakah Anda yakin ingin menghapus peran yang dipilih?
+Are you sure you want to destroy the cluster?|| Anda yakin ingin menghancurkan cluster?
+Dashboard|| Menu Utama
+News|| Berita
+LSLB|| LSLB
+Farms|| Pertanian
+SSL Certificates|| SSL Sertifikat
+Generate csr|| Hasilkan csr
+Stats|| Statistik
+GSLB|| GSLB
+DSLB|| DSLB
+IPDS|| IPDS
+Settings|| pengaturan
+Blacklists|| Daftar hitam
+DoS|| DoS
+RBL|| RBL
+Rules|| aturan
+Domains|| Domain
+WAF|| WAF
+Rulesets|| Aturan
+Files|| File
+Monitoring|| Pemantauan
+Graphs|| Grafik
+Farmguardians|| Petani
+Network|| jaringan
+NIC|| NIC
+Bonding|| Ikatan
+VLAN|| VLAN
+Virtual Interfaces|| Antarmuka Virtual
+Floating IPs|| IP mengambang
+Gateway|| Pintu gerbang
+Aliases|| alias
+Routing|| Rute
+Tables|| Meja
+System|| sistem
+RBAC|| RBAC
+Users|| pengguna
+Groups|| Grup
+Roles|| Peran
+Local Services|| Layanan lokal
+Remote Services|| Layanan Jarak Jauh
+Cluster|| Kelompok
+Backups|| backup
+Notifications|| pemberitahuan
+User|| pemakai
+Logs|| Log
+Activation Certificate|| Sertifikat Aktivasi
+License|| Lisensi
+SupportSave|| SupportSave
+Factory Reset|| Setel Ulang Pabrik

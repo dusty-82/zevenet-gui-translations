@@ -1,176 +1,154 @@
-Dashboard|| 用户面板
-LSLB|| LSLB
-Farms|| 农场
-SSL Certificates|| SSL证书
-DSLB|| DSLB
-Monitoring|| 监控
-Graphs|| 图
-Farm Stats|| 农场统计
-Farmguardians|| Farmguardians
-Network|| 网络
-NIC|| 网卡
-VLAN|| VLAN
-Virtual interfaces|| 虚拟接口
-Gateway|| 网关
-System|| 系统
-Remote Services|| 远程服务
-Backups|| 备份
-User|| 用户
-Logs|| 日志
-License|| 执照
-Support Save|| 支持保存
-Create|| 创建
+Sign in with your username and password|| 使用您的用户名和密码登录
+Success!|| 成功了！
+Username|| 用户名
+User should be the real one!|| 用户应该是真实的！
+Password should contains from {{min}} to {{max}} characters|| 密码应包含{{min}}至{{max}}个字符
+Sign In|| 登录
+Logging out, please wait...|| 正在登出，请稍候...
+Package list to upgrade|| 套餐清单升级
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| 要升级系统，请在shell中执行以下命令：'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| *如果您要强制执行检查，则此信息每天更新一次 <code>checkupgrades</code> 从命令行。
+No activation certificate|| 没有激活证书
+There isn't a valid ZEVENET certificate file, please request a new one|| 没有有效的ZEVENET证书文件，请请求一个新的
+Certificate Key|| 证书密钥
+Activation Certificate file|| 激活证书文件
+Activation Data|| 激活数据
+Copy data to the clipboard|| 将数据复制到剪贴板
+Activation Certificate|| 激活证书
+Select an activation certificate|| 选择激活证书
+Upload Activation Certificate|| 上传激活证书
+No Support|| 没有支持
+Certificate expired|| 证书已过期
+Support expired|| 支持已过期
+Certificate expires in {{param}} {{param2}}|| 证书在{{param}} {{param2}}中过期
+Support expires in {{param}} {{param2}}|| 支持在{{param}} {{param2}}中到期
+The activation certificate has been uploaded successfully.|| 激活证书已成功上传。
+The Activation Certificate has been deleted successfully.|| 激活证书已成功删除。
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| 您确定要删除激活证书吗？\\n如果删除它，则将失去对GUI的访问权限，直到上载另一个证书为止
+Upload|| 上传
+Uploading|| 上传
+Add|| 添加
+Disable maintenance|| 禁用维护
+Enable maintenance|| 启用维护
+Drain mode|| 排水模式
+Cut mode|| 裁切模式
 Edit|| 编辑
 Configure|| 配置
-Upload|| 上传
+Save|| 保存
+Add Variable|| 添加变量
+Bring|| 带来
+Export|| 出口
+All data|| 所有数据
+Only selected|| 只有选中
+Apply|| 申请
+Create|| 创建
+Cancel|| 取消
+Submit|| 提交
+New Service|| 新服务
+New Zone|| 新区
+New Route|| 新路线
+Basic|| 基础
+Advanced|| 高级
+Generate|| 产生
+Generating|| 发电
+Delete|| 删除
+Bring Up|| 培养
+Bring down|| 放下
+Restart|| 重新启动
+Restarting|| 重新启动
+Start|| Start 开始
+Stop||  Stop 停止
+Unset|| 取消设置
+Enable|| 启用
+Disable|| 关闭
+Remove|| 删除
+Download|| 下载
+Downloading|| 下载
+Update|| 更新
+New Rule|| 新规则
+Next|| 下一页
+Back|| 返回
+Generate Random MAC|| 产生随机MAC
+Destroy|| 摧毁
+Test Email|| 电子邮件测试
+Generate Random Key|| 生成随机密钥
+Upload Certificate|| 上传证书
+Delete Certificate|| 删除证书
+List|| 名单
+Menu|| 菜单
+Modify|| 修改
+Show|| 展示
+Action|| 操作
+Test|| 测试
+Schedule|| 日程安排
+Upgrade|| 升级
 View|| 查看
-Generate CSR|| 生成CSR
-farm|| 农场
-certificate|| 证书
-farmguardian|| farmguardian
-VLAN|| VLAN
-virtual interface|| 虚拟接口
-backup|| 备份
-backend|| 后端
-session|| 会议
-Professional Products|| 专业产品
-Professional Services|| 专业的服务
-News|| 最新消息
-Resources|| 资源中心
-System Stats|| 系统统计
-CPU|| 中央处理器
-Memory|| 大小
-Load|| 加载
-Cores|| 颜色
-System Information|| 系统信息
-Zevenet Version|| Zevenet版本
-Appliance Version|| 设备版本
-Kernel Version|| 内核版本
-Hostname|| 主机名
-System Date|| 系统日期
-NIC Interfaces|| NIC接口
-Megabytes (MB)|| 兆字节（MB）
-Farm List|| 农场清单
-Name|| 名字
-Profile|| 个人信息
-Status|| 当前状态
-LSLB Farm List|| LSLB农场清单
-Create LSLB Farm|| 创建LSLB农场
-Listener|| 倾听者
-Advanced settings|| 高级设置
+Info|| 详细信息
+Test Connectivity|| 测试连接
+Show certificate|| 显示证书
+Force Changes|| 力变
+Page Not Found|| 页面没有找到
+The page you were looking for doesn't exist|| 您要查找的页面不存在
+Take me home|| 带我回家
+Status|| 状态
+Actions|| 行动
+Name|| 姓名
+ID||  ID
+Alias|| 别名
+IP||  IP
+Interface|| 接口
+Priority|| 优先
+Port|| 港口
+Weight|| 重量
+Max. Conns|| 最大。 是conns
+Name|| 姓名
+Virtual IP|| 虚拟IP
+Vitual Port|| 虚拟港口
+Virtual IP and Port|| 虚拟IP和端口
+Default TCP port health check|| 默认TCP端口运行状况检查
+Health Checks for backend|| 健康检查后端
+Default Name Server|| 默认名称服务器
+Type|| 发布类型
+Data|| 数据
+Profile|| 用户中心
+HTTPS Parameters|| HTTPS参数
+Ciphers|| 密码
+Custom ciphers|| 自定义密码
+Protocol type|| 协议类型
+NAT type|| NAT类型
 Rewrite location headers|| 重写位置标题
 HTTP verbs accepted|| 接受HTTP动词
+Ignore 100 continue|| 忽略100继续
 Backend connection timeout|| 后端连接超时
 Backend response timeout|| 后端响应超时
 Frequency to check resurrected backends|| 检查复活后端的频率
 Client request timeout|| 客户端请求超时
-Message Error 414|| 消息错误414
-Message Error 500|| 消息错误500
-Message Error 501|| 消息错误501
-Message Error 503|| 消息错误503
-HTTPS Parameters|| HTTPS参数
-Disable SSLv2|| 禁用SSLv2
-Disable SSLv3|| 禁用SSLv3
-Disable TLSv1|| 禁用TLSv1
-Disable TLSv1.1|| 禁用TLSv1.1
-Disable TLSv1.2|| 禁用TLSv1.2
-Ciphers|| 密码
-Custom Ciphers|| 自定义密码
-Certificate Enabled|| 证书已启用
+Message Error|| 讯息错误
+Request Headers|| 请求标题
+Response Headers|| 响应标题
+Persistence|| 坚持
+Persistence session time to live|| 持久性会话时间
+TTL|| TTL
+Persistence session identifier|| 持久性会话标识符
+Virtual IP|| 虚拟IP
+Load balancing Scheduler|| 负载平衡调度程序
+Algorithm|| 算法
+Round Robin|| 循环赛
 Virtual Host|| 虚拟主机
 URL Pattern|| 网址格局
 Least Response|| 最不起的回应
 HTTPS Backends|| HTTPS后端
+STS Header|| STS标题
+Timeout|| 超时
 Redirect|| 重定向
 Redirect URL|| 重定向网址
 Redirect Type|| 重定向类型
-Load balancer Algorithm|| 负载平衡器算法
-Persistence|| 坚持
-Persistence session identifier|| 持久性会话标识符
-Persistence session time to live|| 持久性会话时间
-No persistence|| 没有坚持
-IP: Client address|| IP：客户端地址
-BASIC: Basic authentication|| BASIC：基本身份验证
-URL: A request parameter|| URL：请求参数
-PARM: An URI parameter|| PARM：URI参数
-COOKIE: A certain cookie|| COOKIE：某个饼干
-HEADER: A certain request header|| HEADER：某个请求标头
-Protocol type|| 协议类型
-Nat type|| Nat型
-Load balancer Algorithm|| 负载平衡器算法
-Persistence|| 坚持
-Persistence session time to live|| 持久性会话时间
-No persistence|| 没有坚持
-IP: Source IP|| IP：源IP
-Port: Source|| 端口：来源
-MAC: Source MAC|| MAC：来源MAC
-Source IP and Source Port|| 源IP和源端口
-Source IP and Destination Port|| 源IP和目标端口
-Weight: connection linear dispatching by weight|| 重量：按重量连接线性调度
-Source Hash: Hash per Source IP and Source Port|| 源哈希：每个源IP和源端口的哈希值
-Simple Source Hash: Hash per Source IP only|| 简单源哈希：仅限源IP的哈希值
-Symmetric Hash: Round trip hash per IP and Port|| 对称哈希：每个IP和端口的往返哈希
-Round Robin: Sequential backend selection|| Round Robin：顺序后端选择
-SSL Certificate List|| SSL证书列表
-Generate CSR|| 生成CSR
-Upload SSL Certificate|| 上传SSL证书
-Choose one or more files|| 选择一个或多个文件
-DSLB Farm List|| DSLB农场清单
-Create DSLB Farm|| 创建DSLB农场
-System Graphs|| 系统图
-Interfaces Graphs || 接口图
-Show Graphs|| 显示图表
-Farms Graphs|| 农场图
-Select Graphs|| 选择图表
-Farms Stats|| 农场统计
-Farms Graphs|| 农场图
-Farmguardians|| Farmguardians
-Farms Settings|| 农场设置
-Create Farmguardian|| 创建Farmguardian
-NIC List|| 网卡列表
-VLAN Interface List|| VLAN接口列表
-Create VLAN interface|| 创建VLAN接口
-Virtual Interface List|| 虚拟接口列表
-Create Virtual interface|| 创建虚拟接口
-IPv4 Gateway|| IPv4网关
-IPv6 Gateway|| IPv6网关
-Gateway Settings|| 网关设置
-DNS Service|| DNS服务
-Default is 8.8.8.8|| 默认值为8.8.8.8
-Optional|| 可选
-Default is pool.ntp.org|| 默认为pool.ntp.org
-Primary server|| 主服务器
-Secondary server|| 辅助服务器
-NPT Service|| NPT服务
-NPT Server|| NPT服务器
-SNMP Service|| SNMP服务
-Enable SNMP|| 启用S​​NMP
-Physical interface where is running SNMP service|| 运行SNMP服务的物理接口
-SNMP Port where is running SNMP service|| SNMP端口运行SNMP服务的位置
-Default is 161.|| 默认值为161。
-Community name|| 社区名字
-IP or subnet with access (IP/bit)|| 具有访问权限的IP或子网（IP /位）
-Backup List|| 备份清单
-Upload Backup|| 上传备份
-Backup File|| 备份文件
-Create Backup|| 创建备份
-Choose one file|| 选择一个文件
-Settings User|| 设置用户
-User|| 用户
-ZAPI Permissions|| ZAPI权限
-ZAPI Key|| ZAPI密钥
-Change Password|| 更改密码
-Current Password|| 当前密码
-New Password|| 新密码
-Repeat new password|| 重复新密码
-Log List|| 日志列表
-Log View|| 日志视图
-Number of lines|| 行数
-License|| 执照
-Support Save|| 支持保存
-When this action is executed a file with system information will be downloaded.|| 执行此操作时，将下载包含系统信息的文件。
-This action may take several seconds, you can continue browsing the GUI.|| 此操作可能需要几秒钟，您可以继续浏览GUI。
-Name|| 名字
+Redirect Code|| 重定向代码
+Cookie Insert|| Cookie插入
+Cookie Name|| Cookie Name
+Cookie Domain|| Cookie域名
+Cookie Path|| Cookie路径
+Cookie TTL|| Cookie TTL
 Locality|| 局部性
 Country|| 国家
 State/Province|| 州/省
@@ -178,175 +156,1005 @@ Common Name|| 通用名称
 Organization|| 组织
 Division|| 司
 E-mail Address|| 电子邮件地址
-Services Settings|| 服务设置
-Global Settings|| 全局设置
-Virtual IP and Port|| 虚拟IP和端口
-Backend|| 后端
+File|| 文件
+Issuer|| 发行者
+Creation|| 创建
+Expiration|| 過期
+Certificate|| 证书
+Established Conns|| 成立康恩斯
+Pending Conns|| 待定的Conns
+Service|| 服务
+Session ID|| 会话ID
+Backend ID|| 后端ID
+Requests|| 要求
+Failed REQ|| REQ失败
+Failed RES|| RES失败
+Truncated Resp TC|| 截断的TC
+Extended DNS Big|| 扩展DNS大
+Extended DNS TC|| 扩展DNS TC
+No Error|| 没有错误
+Refused|| 拒绝
+Non-existent Domain|| 不存在的域
+Notimp|| Notimp
+Bad Version|| 坏版本
+Format Error|| 格式错误
+Dropped|| 下降
+V6||  V6
+Extended DNS|| 扩展DNS
+Extended DNS-ClientSub|| 扩展DNS-ClientSub
+Client|| 客户
+Listerner|| 李斯特纳
+Value|| 值
+Custom IP|| 自定义IP
+Policy|| Policy
+Remote URL|| 远端网址
+Frequency|| 频率
+Rule|| 第
+Limit RST request per source IP|| 限制每个源IP的RST请求
+Total connections per source IP|| 每个源IP的总连接数
+Limit Burst|| 限制突发
+Total connections limit per source IP|| 每个源IP的连接总限制
+Hits|| 点击
+Time|| 时间
+Log level|| 日志级别
+Only logging|| 仅记录
+Local traffic|| 当地交通
+Queue size|| 队列大小
+Max. Threads|| 最大。 主题
+Cache size|| 缓存大小
+Cache time|| 缓存时间
+Check Request Body|| 检查请求正文
+Check Response Body|| 检查响应主体
+Request Body Limit|| 要求身体限制
+Default Phase|| 默认阶段
+Default Log|| 默认日志
+Rules|| 规则
+Rule Type|| 规则类型
+Mark|| 纪念
+Phase|| 相
+Resolution|| 分辨率
+Rule ID|| 规则编号
+Skip|| 跳至
+Skip after|| 跳过后
+Execute|| 执行
+Description|| 描述
 Interval|| 间隔
 Cut connections|| 切断连接
-Description|| 产品详情
-Copy rule|| 复制规则
-Rule to copy|| 要复制的规则
-seconds|| 秒
-Log|| 历史记录
-Address|| 地址
-Virtual interface name|| 虚拟接口名称
+Command|| 命令
+MAC|| 苹果电脑
+Netmask|| 子网掩码
+Farms|| 农场
+Gateway|| 网关
+IP Address|| IP地址
+CIDR|| CIDR
+Mode|| 模式
+Slaves|| 奴隶
 Parent Interface|| 父接口
-VLAN Name|| VLAN名称
+Address|| 地址
+Host|| 主持人
+Date|| 日期
+Alert|| 警惕
+Password|| 密码
+Log|| 历史记录
+ZAPI Permissions|| ZAPI权限
+GUI Permissions|| GUI权限
+Role|| 角色
+Rules Date|| 规则日期
+Scheduled|| 计划
+Variable|| 变量
+Variable's argument|| 变量的论点
+Ignore this <i>variable</i> for the match|| 忽略这个 <i>变量</i> 为了比赛
+Count elements of <i>variables</i>|| 计数元素 <i>变量</i>
+Variables|| 变量
+Transformations|| 转换
+Operating|| 操作
+Multi Match|| 多场比赛
+Not Match|| 不匹配
+Operator|| 操作者
+Module|| 模块
+Floating IP|| 浮动IP
+Interfaces|| 接口
+Group|| 团队
+Virtual Interface|| 虚拟接口
+URL|| 网址
+From|| 从
+Table|| 表
+To|| 至
+Route|| 路线
+Via|| 通过
+Backend Alias|| 后端别名
+Version|| 版本
+System|| 系统
+Failback|| 故障恢复
+Check Interval|| 检查间隔
+Node|| Node
+Message|| 留言内容
+Hostname|| 主机名
+No {{param}} found|| 找不到{{param}}
+Edit|| 编辑
+Global|| 全球视野
+Services|| 服务范围
+Select a {{param}}|| 选择一个{{param}}
+Resources|| 资源
+Backends|| 后端
+Strict Transport Security|| 严格的运输安全
+Farms Stats|| 农场统计
+Copy to clipboard|| 复制到剪贴板
+Hide nodes|| 隐藏节点
+Show nodes|| 显示节点
+Hide backends|| 隐藏后端
+Show backends|| 显示后端
+Hide graphs|| 隐藏图表
+Show graphs|| 显示图表
+Sessions|| 会议
+Clients|| 客户
+Servers|| 服务器
+Extended|| 扩展
+Nodes|| Nodes
+Number of lines|| 行数
+View All|| 全部目录
+View Less|| 查看更少
+Valid|| 有效
+Expired|| 过期
+Near to expire|| 快要到期了
+True|| 真
+False|| 假
+No configured|| 未配置
+In use by bonding interface|| 通过绑定接口使用
+The cluster service interface has to be changed or disabled before to be able to modify this interface|| 必须先更改或禁用群集服务接口才能修改此接口
+Enabled|| 启用
+Disabled|| 残疾人
+Needed restart|| 需要重启
+Critical|| 危急
+Problem|| 问题
+Maintenance|| 养护你的厨具
+Master|| 硕士
+Backup|| 备用
+Not configured|| 未配置
+Undefined|| 未定义
+Daily Graph|| 每日图表
+Weekly Graph|| 每周图
+Monthly Graph|| 月度图
+Yearly Graph|| 年度图
+Documentation|| 技术文档
+Reload farmguardian list|| 重新载入农场守护者名单
+Cookie|| 饼干
+Zones|| 区
+System Stats|| 系统统计
+CPU|| 中央处理器
+Memory|| 大小
+Load|| 加载
+Cores|| 颜色
+Traffic In|| 贩运
+Traffic Out|| 交通出
+Nothing|| 没什么
+Custom|| 私人订制
+All interfaces|| 所有接口
+All farms|| 所有农场
+Default State|| 默认状态
+Up||  Up
+Down|| Down
+Installed and updated|| 安装和更新
+Not installed|| 未安装
+Updates available|| 可用更新
+Interface|| 接口
+Type|| 发布类型
+Zone|| 区
+Transformation|| 转型
+Backend|| 后端
+Condition|| 产品状况
+Domain|| 域
+Resource|| 资源中心
+Graph|| 图表
+Session|| 时间
+IP alias|| IP别名
+Interface alias|| 接口别名
+Backup|| 备用
+Farm|| 农场
+Header|| 排气歧管
+Pattern|| 模式
+Source|| 来源
+Blacklist|| 黑名单
 Farmguardian|| Farmguardian
-Load balancer Algorithm|| 负载平衡器算法
-Health Checks for backend|| 健康检查后端
-Descriptive text, this name will be used to identify this certificate.|| 描述性文本，此名称将用于标识此证书。
+Package|| 封装
+DoS rule|| DoS规则
+RBL rule|| RBL规则
+WAF ruleset|| WAF规则集
+VLAN|| VLAN
+Routing Rule|| 路由规则
+Routing Table|| 路由表
+Needed restart|| 需要重启
+There're changes that need to be applied, restart the farm to apply them!|| 有需要应用的更改，请重新启动服务器场以应用它们！
+Close|| 关闭
+The <strong> factory reset </strong> has been completed successfully.||   <strong> 出厂复位 </strong> 已成功完成。
+The interface <strong> {{name}} </strong> has been updated successfully.|| 界面 <strong> {{name}} </strong> 已成功更新。
+The <strong>HTTP Service</strong> has been updated successfully.||   <strong>HTTP服务</strong> 已成功更新。
+An error has occurred on the server, try again later|| 服务器上发生了错误，请稍后再试
+Connection to web server failed|| 与Web服务器的连接失败
+An unexpected error has occurred|| 发生意外的错误
+System Information|| 系统信息
+ZEVENET Version|| ZEVENET版本
+Appliance Version|| 设备版本
+Kernel Version|| 内核版本
+System Date|| 系统日期
+NIC Traffic|| NIC流量
+Total number of connections in realtime.|| 实时连接总数。
+Connections|| 连接
+Professional Products|| 专业产品
+Professional Services|| 专业服务
+No Virtual Interfaces|| 没有虚拟接口
+No VLANs|| 没有VLAN
+Create DSLB Farm|| 创建DSLB农场
+Create Virtual interface|| 创建虚拟接口
+Create GSLB Farm|| 创建GSLB场
+Generate CSR|| 生成CSR
+Create LSLB Farm|| 创建LSLB农场
+Upload SSL Certificate|| 上传SSL证书
+Create Blacklist|| 创建黑名单
+Create DoS rule|| 创建DoS规则
+Create RBL rule|| 创建RBL规则
+Create WAF ruleset|| 创建WAF规则集
+Create Rule|| 创建规则
+Create Farmguardian|| 创建Farmguardian
+Create Bonding interface|| 创建绑定界面
+Create VLAN interface|| 创建VLAN接口
+Upload Backup|| 上传备份
+Create Backup|| 创建备份
+Create User|| 创建用户
+Create Group|| 创建组
+Create Role|| 创造角色
+Create Route|| 建立路线
+is required|| 是必须的
+is not valid, it only is possible alphanumeric characters and dash (-).|| 无效，只能使用字母数字字符和短划线（ - ）。
 Only editable when the farm is down.|| 仅在服务器场关闭时才可编辑。
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 虚拟端口无效，可以定义单个端口，多个端口或端口范围（例如：80或80,81或80：90）
+has to be greater than 0|| 必须大于0
+Redirect should be a URL (http(s)://...)|| 重定向应该是一个URL（http（s）：//…）
+Country can only have two characters.|| 国家/地区只能有两个字符。
+E-mail has to be a valid email|| 电子邮件必须是有效的电子邮件
+The password does not match|| 密码不匹配
+has to be a value between {{min}} and {{max}}|| 必须是介于{{min}}和{{max}}之间的值
+Global Settings|| 全局设置
+IPDS Settings|| IPDS设置
+Advanced Settings|| 高级设置
+Domains Settings|| 域设置
+Rules Settings|| 规则设定
+Blacklists rules|| 黑名单规则
+DoS rules|| DoS规则
+RBL rules|| RBL规则
+WAF rulesets|| WAF规则集
+Services Settings|| 服务设置
+Zones Settings|| 区域设置
+Global Filter|| 全局过滤器
+Refresh|| 刷新
+Seconds|| 秒
+per second|| 每秒
+Refresh status every|| 每天刷新状态
+Refresh stats every|| 每刷新一次统计
+Not refresh|| 不刷新
+Farms Settings|| 农场设置
+Minutes|| 分钟
+Hours|| 開馆时间
+Monday|| 星期一
+Tuesday|| 星期二
+Wednesday|| 星期三
+Thursday|| 星期四
+Friday|| 星期五
+Saturday|| 星期六
+Sunday|| 星期日
+Deny|| 否认
+Allow|| 让
+Daily|| 每天
+Weekly|| 每周
+Monthly|| 每月一次
+entries|| 项
+threads|| 线程
+Sort|| 排序
+SORT MODE: Drag and drop the service to the desired position.|| 排序模式：将服务拖放到所需位置。
+The farm will be restarted automatically.|| 服务器场将自动重新启动。
+bytes|| 字节
+Default is|| 默认是
+Optional|| 可选
+days|| 天
+Go to|| 点击
+Edit in form mode|| 在表单模式下编辑
+Edit in raw mode|| 在原始模式下编辑
+Create in form mode|| 以表单模式创建
+Create in raw mode|| 以原始模式创建
+Available certificates|| 可用证书
+Enabled certificates|| 启用证书
+Search certificate|| 搜索证书
+Available blacklists|| 可用的黑名单
+Enabled blacklists|| 启用的黑名单
+Search blacklist|| 搜索黑名单
+Available DoS rules|| 可用的DoS规则
+Enabled DoS rules|| 启用的DoS规则
+Search DoS rule|| 搜索DoS规则
+Available RBL rules|| 可用的RBL规则
+Enabled RBL rules|| 启用的RBL规则
+Search RBL rule|| 搜索RBL规则
+Available WAF rulesets|| 可用的WAF规则集
+Enabled WAF rulesets|| 启用的WAF规则集
+Search WAF ruleset|| 搜索WAF规则集
+Available farms|| 可用的农场
+Enabled farms|| 启用的农场
+Search farm|| 搜索农场
+Available domains|| 可用网域
+Enabled domains|| 启用的域
+Search domain|| 搜索域
+Enabled rules|| 启用的规则
+Disabled rules|| 禁用规则
+Search rule|| 搜索规则
+Available NICs|| 可用的NIC
+Enabled NICs|| 启用的网卡
+Search NIC|| 搜索网卡
+Search slaves|| 搜索奴隶
+Slaves NICs|| 从网卡
+Available users|| 可用用户
+Enabled users|| 已启用的用户
+Search user|| 搜索用户
+Available interfaces|| 可用接口
+Enabled interfaces|| 启用的接口
+Search interface|| 搜索界面
+Managed interfaces|| 托管接口
+Unmanaged interfaces|| 非托管接口
+Search interface|| 搜索界面
+LSLB Farm List|| LSLB农场清单
+GSLB Farm List|| GSLB农场清单
+DSLB Farm List|| DSLB农场清单
+Copy farm|| 复制农场
+Farm to copy|| 农场复制
+Select the farm to copy|| 选择要复制的服务器场
+Weight: connection linear dispatching by weight|| 重量：按重量连接线性调度
+Priority: connections always to the most prio available|| 优先级：始终连接到最常用的prio
+Source Hash: Hash per Source IP and Source Port|| 源哈希：每个源IP和源端口的哈希值
+Simple Source Hash: Hash per Source IP only|| 简单源哈希：仅限源IP的哈希值
+Symmetric Hash: Round trip hash per IP and Port|| 对称哈希：每个IP和端口的往返哈希
+Round Robin: Sequential backend selection|| Round Robin：顺序后端选择
+Least Connections: connections to the least open conns available|| 最少的连接：与可用的最少打开的连接的连接
+Disabled|| 残疾人
+Enabled|| 启用
+Enabled and compare backends|| 启用并比较后端
+No persistence|| 没有坚持
+IP: Source IP|| IP：源IP
+Port: Source Por|| 港口：Source Por
+MAC: Source MAC|| MAC：来源MAC
+Source IP and Source Port|| 源IP和源端口
+Source IP and Destination Port|| 源IP和目标端口
+No persistence|| 没有坚持
+IP: Client address|| IP：客户端地址
+BASIC: Basic authentication|| BASIC：基本身份验证
+URL: A request parameter|| URL：请求参数
+PARM: An URI parameter|| PARM：URI参数
+COOKIE: A certain cookie|| COOKIE：某个饼干
+HEADER: A certain request header|| HEADER：某个请求标头
+The farm has been updated successfully|| 服务器场已成功更新
+The farm <strong> {{param}} </strong> has been deleted successfully.|| 农场 <strong> {{param}} </strong> 已成功删除。
+The farm <strong> {{param}} </strong> has been started successfully.|| 农场 <strong> {{param}} </strong> 已成功启动。
+The farm <strong> {{param}} </strong> has been restarted successfully.|| 农场 <strong> {{param}} </strong> 已成功重启。
+The farm <strong> {{param}} </strong> has been stopped successfully.|| 农场 <strong> {{param}} </strong> 已成功停止。
+The farm <strong> {{param}} </strong> has been created successfully.|| 农场 <strong> {{param}} </strong> 已成功创建。
+The backend has been created successfully.|| 后端已成功创建。
+The backend has been updated successfully.|| 后端已成功更新。
+The backend <strong> {{param}} </strong> has been deleted successfully.|| 后端 <strong> {{param}} </strong> 已成功删除。
+The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| 后端 <strong> {{param}} </strong> 已成功进行维护。
+The backend <strong> {{param}} </strong> has been upped successfully.|| 后端 <strong> {{param}} </strong> 已成功升级。
+Backends with high priority value <strong> {{param}} </strong> will not be used.|| 具有高优先级值的后端 <strong> {{param}} </strong> 将不会被使用。
+The resource has been created successfully.|| 资源已成功创建。
+The resource has been updated successfully.|| 资源已成功更新。
+The backend <strong> {{param}} </strong> has been deleted successfully.|| 后端 <strong> {{param}} </strong> 已成功删除。
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| SSL证书 <strong> {{param}} </strong> 已成功添加到服务器场。
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| SSL证书 <strong> {{param}} </strong> 已成功从服务器场中删除。
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| SSL证书 <strong> {{param}} </strong> 已成功排序。
+The service <strong> {{param}} </strong> has been created successfully.|| 该服务 <strong> {{param}} </strong> 已成功创建。
+The service <strong> {{param}} </strong> has been updated successfully.|| 该服务 <strong> {{param}} </strong> 已成功更新。
+The service <strong> {{param}} </strong> has been deleted successfully.|| 该服务 <strong> {{param}} </strong> 已成功删除。
+The service <strong> {{param}} </strong> has been moved successfully.|| 该服务 <strong> {{param}} </strong> 已成功移动。
+The farmguardians list has been reloaded successfully.|| 农场守护者列表已成功重新加载。
+The farmguardian has been disabled successfully.|| 农场保护人员已成功停用。
+The farmguardian has been changed to {{param}} successfully.|| farmguardian已成功更改为{{param}}。
+The zone <strong> {{param}} </strong> has been created successfully.|| 区域 <strong> {{param}} </strong> 已成功创建。
+The zone <strong> {{param}} </strong> has been updated successfully.|| 区域 <strong> {{param}} </strong> 已成功更新。
+The zone <strong> {{param}} </strong> has been deleted successfully.|| 区域 <strong> {{param}} </strong> 已成功删除。
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| 黑名单 <strong> {{param}} </strong> 已成功添加到服务器场。
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| 黑名单 <strong> {{param}} </strong> 已成功从服务器场中删除。
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| DoS规则 <strong> {{param}} </strong> 已成功添加到服务器场。
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| DoS规则 <strong> {{param}} </strong> 已成功从服务器场中删除。
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| RBL规则 <strong> {{param}} </strong> 已成功添加到服务器场。
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| RBL规则 <strong> {{param}} </strong> 已成功从服务器场中删除。
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| WAF规则集 <strong> {{param}} </strong> 已成功排序。
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| WAF规则集 <strong> {{param}} </strong> 已成功添加到服务器场。
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| WAF规则集 <strong> {{param}} </strong> 已成功从服务器场中删除。
+The profile has been changed to {{param}} successfully.|| 该个人资料已成功更改为{{param}}。
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| 由于所选的NAT类型不允许使用最少的连接算法，因此该算法已更改为权重算法。 您可以从服务选项卡中选择其他算法。
+The request header has been saved successfully.|| 请求标头已成功保存。
+The request header has been deleted successfully.|| 请求标头已成功删除。
+The request header pattern has been saved successfully.|| 请求标头模式已成功保存。
+The request header pattern has been deleted successfully.|| 请求标头模式已成功删除。
+The response header has been saved successfully.|| 响应头已成功保存。
+The response header has been deleted successfully.|| 响应头已成功删除。
+The response header pattern has been saved successfully.|| 响应头模式已成功保存。
+The response header pattern has been deleted successfully.|| 响应头模式已成功删除。
+The service has to have one backend at least.|| 该服务必须至少具有一个后端。
+Are you sure you want to delete the farm {{param}}?|| 您确定要删除服务器场{{param}}吗？
+Are you sure you want to delete the selected farms?|| 您确定要删除所选服务器场吗？
+Are you sure you want to delete the service {{param}}?|| 您确定要删除服务{{param}}吗？
+Are you sure you want to delete the zone {{param}}?|| 您确定要删除区域{{param}}吗？
+Are you sure you want to delete the selected resources?|| 您确定要删除所选资源吗？
+Are you sure you want to delete the resource {{param}}?|| 您确定要删除资源{{param}}吗？
+Are you sure you want to delete the backend {{param}}?|| 您确定要删除后端{{param}}吗？
+Are you sure you want to delete the selected backends?|| 您确定要删除所选的后端吗？
+Are you sure you want to delete the request header with ID {{id}}?|| 您确定要删除ID为{{id}}的请求标头吗？
+Are you sure you want to delete the request header pattern with ID {{id}}?|| 您确定要删除ID为{{id}}的请求标头模式吗？
+Are you sure you want to delete the selected request headers?|| 您确定要删除所选的请求标头吗？
+Are you sure you want to delete the selected request headers patterns?|| 您确定要删除所选的请求标头模式吗？
+Are you sure you want to delete the response header with ID {{id}}?|| 您确定要删除ID为{{id}}的响应标头吗？
+Are you sure you want to delete the response header pattern with ID {{id}}?|| 您确定要删除ID为{{id}}的响应头模式吗？
+Are you sure you want to delete the selected response headers?|| 您确定要删除所选的响应头吗？
+Are you sure you want to delete the selected response headers patterns?|| 您确定要删除所选的响应头模式吗？
+Are you sure you want to delete the {{param}} blacklist?|| 您确定要删除{{param}}黑名单吗？
+Are you sure you want to delete the selected blacklists?|| 您确定要删除所选的黑名单吗？
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| 接口{{param}}的网关将被删除并替换为该服务器场。 你想继续吗？
+SSL Certificate list|| SSL凭证清单
+Choose one certificate|| 选择一张证书
+Choose one or more files|| 选择一个或多个文件
+Selected files|| 选定的文件
+Descriptive text, this name will be used to identify this certificate.|| 描述性文本，此名称将用于标识此证书。
 City where your organization is located.|| 您所在组织所在的城市。
 Country (two characters) where your organization is located.|| 您的组织所在的国家/地区（两个字符）。
 State or province where your organization is located.|| 您所在组织所在的州或省。
 FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| 服务器的FQDN。 示例：domain.com，mail.domain.com或* .domain.com。
-The full legal name of your organization/company (ex.: Zevenet Co.). || 您组织/公司的完整法定名称（例如：Zevenet Co.）。
+The full legal name of your organization/company (ex.: ZEVENET Co.)|| 您的组织/公司的完整法定名称（例如：ZEVENET Co.）
 Your department; such as 'IT','Web', 'Office', etc.|| 你的部门; 例如'IT'，'Web'，'Office'等。
-Your email address.|| 您的电子邮件地址。
-Name|| 名字
-Name|| 名字
-Profile|| 个人信息
-Virtual IP|| 虚拟IP
-Virtual Port|| 虚拟端口
-Status|| 当前状态
-Actions|| 行动
-ID||  ID
-IP||  IP
-Address|| 地址
-Port|| 港口
-Timeout|| 超时
-Weight|| 重量
-Common Name|| 通用名称
-Type|| 类型
-File|| 文件
-Issuer|| 发行者
-Create on|| 创建
-Expire on|| 过期
-Priority|| 优先
-Interface|| 接口
-Service|| 服务
-Client|| 客户
-Sessions|| 会议
-Session ID|| 会话ID
-Backend ID|| 后端ID
-Command|| 命令
-Description|| 产品详情
-Farms|| 农场
-Farm|| 农场
-Gateway|| 网关
-Netmask|| 子网掩码
-MAC|| 苹果电脑
-IP Address (IPv4 / IPv6)|| IP地址（IPv4 / IPv6）
-VLAN tag|| VLAN标记
-Date|| 日期
-Log|| 历史记录
-Established Conns|| 成立康恩斯
-Pending Conns|| 待定的Conns
-No|| 没有
-found|| 发现
- is required|| 是必须的
- is not valid, it only is possible alphanumeric characters and dash (-).|| 无效，只能使用字母数字字符和短划线（ - ）。
- not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 无效，可以定义单个端口，多个端口或端口范围（例如：80或80,81或80：90）
- has to be greater than 0|| 必须大于0
- can only has two characters.|| 只能有两个字符。
- has to be a valid email.|| 必须是有效的电子邮件。
-does not match.|| 不匹配。
-The farm <strong>{{param}}</strong> has been deleted successfully.|| 农场 <strong>{{param}}</strong> 已成功删除。
-The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.|| 农场 <strong>{{param}}</strong> {{param2}}已成功删除。
-Are you sure you want to delete the {{param}} farmname ?|| 您确定要删除{{param}}农场名吗？
-The farm <strong>{{param}}</strong> has been {{param2}} successfully.|| 农场 <strong>{{param}}</strong> 已成功{{param2}}。
-The farm <strong>{{param}}</strong> has been created successfully.|| 农场 <strong>{{param}}</strong> 已成功创建。
-The farm <strong>{{param}}</strong> has been restarted successfully.|| 农场 <strong>{{param}}</strong> 已成功重启。
-The backend has been created successfully.|| 后端已成功创建。
-The profile has been changed to {{param}} successfully.|| 该个人资料已成功更改为{{param}}。
-The farmguardian has been disabled sucessfully.|| 农场养老金成功残疾。
-The farmguardian has been changed to {{param}} successfully.|| farmguardian已成功更改为{{param}}。
-The <strong>{{param}}</strong> farmguardian has been created successfully.|| 在此 <strong>{{param}}</strong> farmguardian已成功创建。
-The <strong>{{param}}</strong> farmguardian has been updated successfully|| 在此 <strong>{{param}}</strong> farmguardian已成功更新
+Your email address|| 您的电子邮件地址
+The CSR <strong> {{param}} </strong> has been generated successfully.|| CSR <strong> {{param}} </strong> 已成功生成。
+The certificate <strong> {{param}} </strong> has been uploaded successfully.|| 证书 <strong> {{param}} </strong> 已成功上传。
+The certificate <strong> {{param}} </strong> has been deleted successfully.|| 证书 <strong> {{param}} </strong> 已成功删除。
+The certificate <strong> {{param}} </strong> has been downloaded successfully.|| 证书 <strong> {{param}} </strong> 已成功下载。
+Are you sure you want to delete the certificate {{param}}?|| 您确定要删除证书{{param}}吗？
+Are you sure you want to delete the selected certificates?|| 您确定要删除所选证书吗？
+Updates|| 最新动态
+Update list|| 更新清单
+Period time|| 期间
+Exact time|| 确切时间
+Daily every|| 每天每
+Day of the week|| 一周中的天
+Day of the month|| 每月的某一天
+Sources|| 来源
+DoS rules IPDS|| DoS规范IPDS
+RBL rules IPDS|| RBL统治IPDS
+Copy rule|| 复制规则
+Rule to copy|| 要复制的规则
+Ruleset to copy|| 要复制的规则集
+Select the rule to copy|| 选择要复制的规则
+Select the ruleset to copy|| 选择要复制的规则集
+Custom Domain List|| 自定义域列表
+Preloaded Domain List|| 预载网域清单
+WAF rulesets IPDS|| WAF规则集IPDS
+Default Action|| 默认动作
+Disable Rules|| 禁用规则
+IPDS Package Updates|| IPDS包更新
+Conditions|| 状况
+Flow|| 流
+WAF File List|| WAF文件列表
+WAF file|| WAF文件
+Content File|| 内容文件
+Select files|| 选择文件
+Select a file|| 选择一个文件
+Select transformations|| 选择转换
+Connection limit per second.|| 每秒连接数限制。
+Total connections limit per source IP.|| 每个源IP的总连接限制。
+Check bogus TCP flags.|| 检查伪造的TCP标志。
+Limit RST request per second.|| 每秒限制RST请求。
+Allow: Finish the WAF processing and complete the HTTP transaction|| 允许：完成WAF处理并完成HTTP事务
+Pass: Continue executing the rules|| 通过：继续执行规则
+Deny: Cut the request and not execute rules left|| 拒绝：削减请求，不执行剩余规则
+Redirect: The client received a URL to redirect|| 重定向：客户端收到了要重定向的URL
+Default action: The default action of this ruleset|| 默认操作：此规则集的默认操作
+Request headers are received|| 收到请求标头
+Request body is received|| 收到请求正文
+Response headers are received|| 收到响应头
+Response body is received|| 收到回复正文
+Before than logging|| 在记录之前
+LUA Script|| LUA脚本
+Data file|| 数据文件
+It is a collection with the values of arguments in a request.|| 它是一个包含请求中参数值的集合。
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| 它是一个包含JSON请求中参数值的集合。 在WAF解析JSON参数的情况下，此变量将可用，因此，应启用规则集REQUEST-901-INITIALIZATION。
+The total size of the request parameters. The files are excluded.|| 请求参数的总大小。 文件被排除。
+It is a collection with the names of the arguments in a request.|| 它是一个包含请求中参数名称的集合。
+It contains the file names in the user filesys. Only when the data is multipart/form-data.|| 它包含用户filesys中的文件名。 仅当数据是multipart / form-data时。
+It is the total size of the files in a request. Only when the data is multipart/form-data.|| 它是请求中文件的总大小。 仅当数据是multipart / form-data时。
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| 它是用于上载文件的文件名列表。 仅当数据是multipart / form-data时。
+It contains a list of individual file sizes. Only when the data is multipart/form-data.|| 它包含单个文件大小的列表。 仅当数据是multipart / form-data时。
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| 如果请求正文格式对于JSON或XML不正确，则此变量为1，否则其值为0。
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| 这是原始身体要求。 如果请求没有“application / x-www-form-urlencoded”标头，则必须在REQUEST_HEADER阶段使用“ctl：forceRequestBodyVariable”。
+It is the number of bytes of the request body.|| 它是请求正文的字节数。
+It is a list with all request cookies values.|| 它是包含所有请求cookie值的列表。
+It is a list with all request cookies names.|| 它是包含所有请求cookie名称的列表。
+This variable has all the request headers.|| 此变量包含所有请求标头。
+This variable has a list with the request headers names.|| 此变量具有包含请求标头名称的列表。
+It is the request method.|| 这是请求方法。
+This variable holds the request HTTP version protocol.|| 此变量保存请求HTTP版本协议。
+It is the URI request path. The virtual host is excluded.|| 它是URI请求路径。 虚拟主机被排除在外。
+It is the information before than the URI path.|| 它是URI路径之前的信息。
+It is the full request.|| 这是完整的要求。
+It is the number of bytes that full request can have.|| 它是完整请求可以具有的字节数。
+It is the raw body response.|| 这是生体反应。
+It is the number of bytes of the response body.|| 它是响应主体的字节数。
+This variable has all response headers.|| 此变量具有所有响应标头。
+This variable has a list with the response headers names.|| 此变量有一个包含响应头名称的列表。
+This variable holds the response HTTP version protocol.|| 此变量保存响应HTTP版本协议。
+It is the response HTTP code.|| 它是响应HTTP代码。
+It is the IP address of the client.|| 它是客户端的IP地址。
+It is the port where the client initializes the connection.|| 它是客户端初始化连接的端口。
+It is the name of the authenticated user.|| 它是经过身份验证的用户的名称。
+It is the server time. The format is hours:minutes:seconds.|| 这是服务器时间。 格式为小时：分钟：秒。
+It is the number of milliseconds since the beginning of the current transaction.|| 它是自当前事务开始以来的毫秒数。
+It is the field filename in a multipart request.|| 它是多部分请求中的字段文件名。
+It is the field name in a multipart request.|| 它是多部分请求中的字段名称。
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| 它是最后一次匹配操作中的匹配值。 此值不需要捕获选项，但在每个匹配操作中都会替换它。
+It is a list of all matched values.|| 它是所有匹配值的列表。
+It is the IP address of the server.|| 它是服务器的IP地址。
+It is the virtual host, it gets from the request URI.|| 它是虚拟主机，它来自请求URI。
+It is the environment variables of the WAF.|| 它是WAF的环境变量。
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| 它是当前事务的变量集合。 交易结束时将删除这些变量。 变量TX：0-TX：9保存使用strRegex或strPhrases运算符捕获的值。
+Decodes a Base64-encoded string.|| 解码Base64编码的字符串。
+Decodes a Base64-encoded string ignoring invalid characters.|| 解码Base64编码的字符串，忽略无效字符。
+Decodes SQL hex data.|| 解码SQL十六进制数据。
+Encodes using Base64 encoding.|| 使用Base64编码进行编码。
+Avoids the problem related with the escaped command line.|| 避免与转义命令行相关的问题。
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| 将任何空白字符（0x20，\\f，\\t，\\n，\\r，\\v，0xa0）转换为空格（ASCII 0x20），将多个连续的空格字符压缩为一个。
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| 解码使用CSS 2.x转义规则编码的字符。 此函数在解码过程中最多使用两个字节，这意味着发现使用CSS编码（通常不会编码）编码的ASCII字符或反斜杠（反斜杠和非反斜杠的组合）非常有用-十六进制字符（例如ja \\vascript等效于javascript）。
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| 解码ANSI C转义序列：\\a，\\b，\\f，\\n，\\r，\\t，\\v，\\，\\？，\\'，\\”，\\xHH（十六进制），\\0OOO（八进制）。 无效的编码保留在输出中。
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| 使用与hexEncode中使用的算法相同的算法对已编码的字符串进行解码（请参阅以下条目）。
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| 通过用两个十六进制字符替换每个输入字节来编码字符串（可能包含二进制字符）。 例如，xyz被编码为78797a。
+Decodes the characters encoded as HTML entities.|| 解码编码为HTML实体的字符。
+Decodes JavaScript escape sequences.|| 解码JavaScript转义序列。
+Looks up the length of the input string in bytes, placing it (as string) in output.|| 以字节为单位查找输入字符串的长度，将其（作为字符串）放在输出中。
+Converts all characters to lowercase using the current C locale.|| 使用当前C语言环境将所有字符转换为小写。
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 根据输入中的数据计算MD5哈希。 计算得出的散列为原始二进制格式，可能需要编码为要打印（或记录）的文本。 哈希函数通常与hexEncode结合使用。
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| 不是实际的转换函数，而是删除与当前规则关联的先前转换函数的指令。
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| 从输入字符串中删除多个斜杠，目录自引用和目录反向引用（在输入的开头除外）。
+Same as normalizePath, but first converts backslash characters to forward slashes.|| 与normalizePath相同，但首先将反斜杠字符转换为正斜杠。
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 计算7位数据的偶校验，用计算出的奇偶校验位替换每个目标字节的8th位。
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 计算7位数据的奇校验，用计算出的奇偶校验位替换每个目标字节的8th位。
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| 计算7位数据的零奇偶校验，用零奇偶校验位替换每个目标字节的8th位，这允许检查偶数/奇数奇偶校验7位数据作为ASCII7数据。
+Removes all NUL bytes from input.|| 从输入中删除所有NUL字节。
+Removes all whitespace characters from the input.|| 从输入中删除所有空白字符。
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| 用单个空格替换每次出现的C样式注释（/ *…* /）（不会压缩多个连续出现的空格）。 未终止的注释也将替换为空格（ASCII 0x20）。 但是，将不会对注释（* /）进行独立终止。
+Removes common comments chars (/*, */, –, #).|| 删除常见注释字符（/ *，* /，–，＃）。
+Replaces NUL bytes in input with space characters (ASCII 0x20).|| 用空格字符（ASCII 0x20）替换输入中的NUL字节。
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| 解码URL编码的输入字符串。 无效编码（即，使用非十六进制字符的编码，或者位于字符串末尾且缺少一个或两个字节的编码）不会被转换，但不会引发错误。
+Converts all characters to uppercase using the current C locale.|| 使用当前C语言环境将所有字符转换为大写。
+Like urlDecode, but with support for the Microsoft-specific %u encoding.|| 与urlDecode一样，但支持Microsoft特定的％u编码。
+Encodes input string using URL encoding.|| 使用URL编码对输入字符串进行编码。
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| 将所有UTF-8字符序列转换为Unicode。 这有助于输入规范化，尤其是对于非英语语言，可最大程度地减少错误肯定和错误否定的情况。
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 从输入字符串计算SHA1哈希。 计算的散列是原始二进制形式，可能需要编码到要打印（或记录）的文本中。 散列函数通常与hexEncode结合使用。
+Removes whitespace from the left side of the input string.|| 从输入字符串的左侧删除空格。
+Removes whitespace from the right side of the input string.|| 从输入字符串的右侧删除空格。
+Removes whitespace from both the left and right sides of the input string.|| 从输入字符串的左侧和右侧删除空格。
+The rule will match if any of the variables begin with the value of operating.|| 如果任何变量以操作值开头，则规则将匹配。
+The rule will match if any of the variables contain the value of operating.|| 如果任何变量包含操作值，则规则将匹配。
+The rule will match if any of the variables contain a word as the string one.|| 如果任何变量包含单词作为字符串one，则该规则将匹配。
+The rule will match if any of the variables end with the value of operating.|| 如果任何变量以操作值结束，则规则将匹配。
+The rule will match if any of the variables match with the value of operating.|| 如果任何变量与operation的值匹配，则规则将匹配。
+The rule will match if any of the variables match with the value of operating.|| 如果任何变量与operation的值匹配，则规则将匹配。
+The rule will match if any of the variables is identical to the value of operating.|| 如果任何变量与操作值相同，则规则将匹配。
+The rule will match if any of the variables match in the regular expression used in operating.|| 如果在操作中使用的正则表达式中有任何变量匹配，则规则将匹配。
+The rule will match if any of the variables match in any of the values of the list operating.|| 如果任何变量在列表操作的任何值中匹配，则规则将匹配。
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| 运算符strPhrases相同，但是运算符是一个文件，在该文件中将其定义为短语列表。
+The rule will match if any of the variables is equal to the number used in operating.|| 如果任何变量等于操作中使用的数字，则规则将匹配。
+The rule will match if any of the variables is greater or equal to the number used in operating.|| 如果任何变量大于或等于操作中使用的数量，则规则将匹配。
+The rule will match if any of the variables is greater than the number used in operating.|| 如果任何变量大于操作中使用的数量，则规则将匹配。
+The rule will match if any of the variables is lower or equal to the number used in operating.|| 如果任何变量低于或等于操作中使用的数量，则规则将匹配。
+The rule will match if any of the variables is lower than the number used in operating.|| 如果任何变量低于操作中使用的数量，则规则将匹配。
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| 它将SQL注入的检测应用于变量列表。 该操作员不期望任何操作。
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| 它将XSS注入的检测应用于变量列表。 该操作员不期望任何操作。
+Try to match the IP or network segments of operating with the list of variables.|| 尝试将操作的IP或网段与变量列表进行匹配。
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| 它与运算符ipMatch相同，但是会尝试将变量与具有IP和网段列表的文件进行匹配。
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| 它检查变量的字节数是否在其中一个操作值中。 操作的一个例子是“10，13，32-126”。
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| 它验证编码数据。 此运算符必须仅用于不常编码数据或数据编码多次的数据。
+It validates that variables are UTF-8. This operator does not expect any operating.|| 它验证变量是UTF-8。 该操作员不希望任何操作。
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| 它验证变量是否是信用卡号。 此参数接受正则表达式作为操作，如果匹配，则它应用已验证的信用卡。
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| 它验证变量是否为美国社会保险号。 此参数接受正则表达式作为运算符，如果匹配则应用SSN验证。
+It returns true always, forcing a match.|| 它总是返回true，强制匹配。
+It returns false always, forcing a non-match.|| 它总是返回false，强制不匹配。
+A word is delimited by characters different to (a-z, 0-9 and '_')|| 单词由与（az，0-9和'_'）不同的字符分隔
+Can be a list of strings split by the character ,|| 可以是由字符分隔的字符串列表，
+Can be a list of strings split by the character |,|| 可以是由字符|，分隔的字符串列表
+Can be a list of strings split by a blank space|| 可以是由空格分隔的字符串列表
+Can be a list of IPs or network segments split by the character ,|| 可以是IP或网段的列表，按字符分隔，
+Can be a list of IPs ranges split by the character ,|| 可以是IP范围列表，按字符分隔，
+Can be selected more than one file.|| 可以选择多个文件。
+It uses the PCRE engine, optional field.|| 它使用PCRE引擎，可选字段。
+It uses the PCRE engine, optional field.|| 它使用PCRE引擎，可选字段。
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| 它使用PCRE引擎。 表达式（？i）用于不区分大小写的匹配。
+This operator does not expect any operating.|| 该操作员不希望任何操作。
+String.|| 字符串。
+Number.|| 数。
+The <strong> {{param}} </strong> blacklist has been created successfully.||   <strong> {{param}} </strong> 黑名单创建成功。
+The <strong> {{param}} </strong> blacklist has been deleted successfully.||   <strong> {{param}} </strong> 黑名单已成功删除。
+The <strong> {{param}} </strong> blacklist has been stopped successfully.||   <strong> {{param}} </strong> 黑名单已成功停止。
+The <strong> {{param}} </strong> blacklist has been started successfully.||   <strong> {{param}} </strong> 黑名单已成功启动。
+The <strong> {{param}} </strong> blacklist has been updated successfully.||   <strong> {{param}} </strong> 黑名单已成功更新。
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到黑名单。
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| 农场 <strong> {{param}} </strong> 已成功从黑名单中删除。
+The <strong> {{param}} </strong> DoS rule has been created successfully.||   <strong> {{param}} </strong> DoS规则已成功创建。
+The <strong> {{param}} </strong> DoS rule has been deleted successfully.||   <strong> {{param}} </strong> DoS规则已成功删除。
+The <strong> {{param}} </strong> DoS rule has been stopped successfully.||   <strong> {{param}} </strong> DoS规则已成功停止。
+The <strong> {{param}} </strong> DoS rule has been started successfully.||   <strong> {{param}} </strong> DoS规则已成功启动。
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到DoS规则中。
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| 农场 <strong> {{param}} </strong> 已成功删除DoS规则。
+The source has been created successfully|| 源已成功创建
+The source has been updated successfully|| 源已成功更新
+The source <strong> {{param}} </strong> has been deleted successfully.|| 来源 <strong> {{param}} </strong> 已成功删除。
+The <strong> {{param}} </strong> RBL rule has been created successfully.||   <strong> {{param}} </strong> RBL规则已成功创建。
+The <strong> {{param}} </strong> RBL rule has been updated successfully.||   <strong> {{param}} </strong> RBL规则已成功更新。
+The <strong> {{param}} </strong> RBL rule has been deleted successfully.||   <strong> {{param}} </strong> RBL规则已成功删除。
+The <strong> {{param}} </strong> RBL rule has been stopped successfully.||   <strong> {{param}} </strong> RBL规则已成功停止。
+The <strong> {{param}} </strong> RBL rule has been started successfully.||   <strong> {{param}} </strong> RBL规则已成功启动。
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到RBL规则。
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| 农场 <strong> {{param}} </strong> 已成功删除RBL规则。
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| 域 <strong> {{param}} </strong> 已成功添加到RBL规则。
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| 域 <strong> {{param}} </strong> 已成功删除RBL规则。
+The domain <strong> {{param}} </strong> has been created successfully|| 域 <strong> {{param}} </strong> 已成功创建
+The domain has been updated successfully|| 域已成功更新
+The domain <strong> {{param}} </strong> has been deleted successfully.|| 域 <strong> {{param}} </strong> 已成功删除。
+The <strong> {{param}} </strong> WAF ruleset has been created successfully.||   <strong> {{param}} </strong> WAF规则集已成功创建。
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.||   <strong> {{param}} </strong> WAF规则集已成功删除。
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.||   <strong> {{param}} </strong> WAF规则集已成功停止。
+The <strong> {{param}} </strong> WAF ruleset has been started successfully.||   <strong> {{param}} </strong> WAF规则集已成功启动。
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully.||   <strong> {{param}} </strong> WAF规则集已成功更新。
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到WAF规则集中。
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| 农场 <strong> {{param}} </strong> 已成功从WAF规则集中删除。
+The rule <strong> {{param}} </strong> has been created successfully.|| 规则 <strong> {{param}} </strong> 已成功创建。
+The rule <strong> {{param}} </strong> has been moved successfully.|| 规则 <strong> {{param}} </strong> 已成功移动。
+The rule <strong> {{param}} </strong> has been deleted successfully.|| 规则 <strong> {{param}} </strong> 已成功删除。
+The rule <strong> {{param}} </strong> has been updated successfully|| 规则 <strong> {{param}} </strong> 已成功更新
+The match has been created successfully|| 比赛已成功创建
+The match <strong> {{param}} </strong> has been deleted successfully.|| 比赛 <strong> {{param}} </strong> 已成功删除。
+The WAF file <strong> {{param}} </strong> has been created successfully.|| WAF文件 <strong> {{param}} </strong> 已成功创建。
+The WAF file <strong> {{param}} </strong> has been deleted successfully.|| WAF文件 <strong> {{param}} </strong> 已成功删除。
+The WAF file <strong> {{param}} </strong> has been updated successfully.|| WAF文件 <strong> {{param}} </strong> 已成功更新。
+The <strong> IPDS package </strong> has been scheduled successfully.||   <strong> IPDS套件 </strong> 已成功安排。
+The <strong> IPDS package </strong> has been upgraded successfully.||   <strong> IPDS套件 </strong> 已成功升级。
+Are you sure you want to delete the {{param}} blacklist?|| 您确定要删除{{param}}黑名单吗？
+Are you sure you want to delete the selected blacklists?|| 您确定要删除所选的黑名单吗？
+Are you sure you want to delete the {{param}} DoS rule?|| 您确定要删除{{param}} DoS规则吗？
+Are you sure you want to delete the selected DoS rules?|| 您确定要删除所选的DoS规则吗？
+Are you sure you want to delete the source {{param}}?|| 您确定要删除源{{param}}吗？
+Are you sure you want to delete the selected sources?|| 您确定要删除所选来源吗？
+Are you sure you want to delete the {{param}} RBL rule?|| 您确定要删除{{param}} RBL规则吗？
+Are you sure you want to delete the selected RBL rules?|| 您确定要删除所选的RBL规则吗？
+Are you sure you want to delete the domain {{param}}?|| 您确定要删除域{{param}}吗？
+Are you sure you want to delete the selected domains?|| 您确定要删除所选域吗？
+Are you sure you want to delete the {{param}} WAF ruleset?|| 您确定要删除{{param}} WAF规则集吗？
+Are you sure you want to delete the selected rulesets?|| 您确定要删除所选规则集吗？
+'Are you sure you want to delete the rule {{param}}?|| '您确定要删除规则{{param}}吗？
+Are you sure you want to delete the match {{param}}?|| 您确定要删除匹配项{{param}}吗？
+Are you sure you want to delete the selected matches?|| 您确定要删除所选的匹配项吗？
+Are you sure you want to delete the file {{param}}?|| 您确定要删除文件{{param}}吗？
+Are you sure you want to delete the selected files?|| 您确定要删除所选文件吗？
+System Graphs|| 系统图
+Interfaces Graphs|| 接口图
+Farms Graph|| 农场图
+Farms Stats|| 农场统计
+System Stats|| 系统统计
+Network Stats|| 网络统计
+Copy farmguardian|| 复制farmguardian
+Farmguardian to copy|| Farmguardian要复制
+Select the farmguardian to copy|| 选择要复制的农场守护者
+Total Memory|| 总内存
+Free Memory|| 可用内存
+Used Memory|| 已用记忆体
+Buffers|| 缓冲区
+Cached|| 缓存
+Total Swap|| 总掉期
+Free Swap|| 免费掉期
+Used Swap|| 二手掉期
+Cached Swap|| 缓存交换
+Idle|| 空闲
+Usage|| 用法
+Iowait|| IOWAIT
+Irq|| IRQ
+Nice|| 尼斯
+Softirq|| 软中断
+Sys|| SYS
+User|| 用户
+Last minute|| 临时预订
+Last 5 minutes|| 最近5分钟
+Last 15 minutes|| 最近15分钟
 Are you sure you want to delete the {{param}} farmguardian?|| 您确定要删除{{param}}农场主吗？
-The <strong>{{param}}</strong> farmguardian has been deleted successfully.|| 在此 <strong>{{param}}</strong> farmguardian已成功删除。
-The farm has been updated successfully.|| 该服务器场已成功更新。
-Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?|| 您确定要删除农场主的农场{{param}} {{param2}}吗？
-Are you sure you want to delete the backend {{param}}?|| 您确定要删除后端{{param}}吗？
-The backend <strong>{{param}}</strong> has been deleted successfully|| 后端 <strong>{{param}}</strong> 已成功删除
-The backend <strong>{{param}}</strong> has been {{param2}} successfully.|| 后端 <strong>{{param}}</strong> 已成功{{param2}}。
-The service <strong>{{param}}</strong> has been created successfully.|| 该服务 <strong>{{param}}</strong> 已成功创建。
-The service <strong>{{param}}</strong> has been deleted successfully.|| 该服务 <strong>{{param}}</strong> 已成功删除。
-The service <strong>{{param}}</strong> has been updated successfully.|| 该服务 <strong>{{param}}</strong> 已成功更新。
-The <strong>{{param}}</strong> Gateway has been updated successfully.|| 在此 <strong>{{param}}</strong> 网关已成功更新。
-Are you sure you want to unset the current gateway?|| 您确定要取消设置当前网关吗？
-Are you sure you want to unset the {{param}} gateway?|| 您确定要取消设置{{param}}网关吗？
-The <strong>{{param}}</strong> Gateway has been unconfigured successfully.|| 在此 <strong>{{param}}</strong> Gateway已成功取消配置。
-The <strong>{{param}}</strong> NIC has been updated successfully.|| 在此 <strong>{{param}}</strong> NIC已成功更新。
-The <strong>{{param}}</strong> NIC has been unconfigured successfully.|| 在此 <strong>{{param}}</strong> NIC已成功取消配置。
-The <strong>{{param}}</strong> NIC is {{param2}}|| 在此 <strong>{{param}}</strong> 网卡是{{param2}}
-The <strong>{{param}}</strong> Virtual interface has been created successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功创建。
-The <strong>{{param}}</strong> Virtual interface has been updated successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功更新。
-Are you sure you want to delete the {{param}} Virtual interface?|| 您确定要删除{{param}}虚拟界面吗？
-The <strong>{{param}}</strong> Virtual interface has been deleted successfully.|| 在此 <strong>{{param}}</strong> 虚拟接口已成功删除。
-The <strong>{{param}}</strong> Virtual Interface is {{param2}}|| 在此 <strong>{{param}}</strong> 虚拟接口为{{param2}}
-The <strong>{{param}}</strong> VLAN has been created successfully.|| 在此 <strong>{{param}}</strong> 已成功创建VLAN。
-The <strong>{{param}}</strong> VLAN has been updated successfully.|| 在此 <strong>{{param}}</strong> VLAN已成功更新。
-Are you sure you want to delete the {{param}} VLAN?|| 您确定要删除{{param}} VLAN吗？
-The <strong>{{param}}</strong> VLAN has been deleted successfully.|| 在此 <strong>{{param}}</strong> VLAN已成功删除。
-The <strong>{{param}}</strong> VLAN is {{param2}}|| 在此 <strong>{{param}}</strong> VLAN是{{param2}}
-The backup <strong>{{param}}</strong> has been created successfully.|| 备份 <strong>{{param}}</strong> 已成功创建。
-The backup <strong>{{param}}</strong> has been uploaded successfully.|| 备份 <strong>{{param}}</strong> 已成功上传。
-Are you sure you want to delete the backup {{param}}?|| 您确定要删除备份{{param}}吗？
-The backup <strong>{{param}}</strong> has been deleted successfully.|| 备份 <strong>{{param}}</strong> 已成功删除。
-The backup <strong>{{param}}</strong> has been applied successfully.|| 备份 <strong>{{param}}</strong> 已成功应用。
-The backup <strong>{{backup}}</strong> has been downloaded successfully.|| 备份 <strong>{{backup}}</strong> 已成功下载。
-The log <strong>{{param}}</strong> has been downloaded successfully.|| 日志 <strong>{{param}}</strong> 已成功下载。
-The <strong>{{param}}</strong> service has been updated successfully.|| 在此 <strong>{{param}}</strong> 服务已成功更新。
-The <strong> Support Save </strong> has been downloaded successfully|| 在此 <strong> 支持保存 </strong> 已成功下载
+Are you sure you want to delete the selected farmguardians?|| 您确定要删除所选的农场守护者吗？
+The <strong> {{param}} </strong> farmguardian has been created successfully.||   <strong> {{param}} </strong> farmguardian已成功创建。
+The <strong> {{param}} </strong> farmguardian has been deleted successfully.||   <strong> {{param}} </strong> farmguardian已成功删除。
+The <strong> {{param}} </strong> farmguardian has been updated successfully.||   <strong> {{param}} </strong> farmguardian已成功更新。
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到农场守护者中。
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| 农场 <strong> {{param}} </strong> 已成功移交给农场守护者。
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| 农场 <strong> {{param}} with the service {{param2}} </strong> 已成功添加到农场守护者中。
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| 农场 <strong> {{param}} with the service {{param2}} </strong> 已成功移交给农场守护者。
+NIC List|| 网卡列表
+Bonding Interface List|| 绑定接口列表
+Select the slaves|| 选择奴隶
+VLAN Interface List|| VLAN接口列表
+VLAN ID|| VLAN编号
+VLAN tag|| VLAN标记
+Virtual Interface List|| 虚拟接口列表
+Virtual interface name|| 虚拟接口名称
+Virtual interface tag|| 虚拟接口标签
+Floating IP List|| 浮动IP清单
+IPv4 Gateway|| IPv4网关
+IPv6 Gateway|| IPv6网关
+IPv4 Gateway Settings|| IPv4网关设置
+IPv6 Gateway Settings|| IPv6网关设置
+Backends Aliases|| 后端别名
+Interfaces Aliases|| 接口别名
+Routing Rule List|| 路由规则列表
+Routing Table List|| 路由表列表
+Priority should be a value between {{min}} and {{max}}|| 优先级应为{{min}}至{{max}}之间的值
+Configure table {{param}}|| 配置表{{param}}
+Available Routes|| 可用路线
+Routing table for the outputs of the interface {{param}}.|| 接口{{param}}的输出的路由表。
+Should be a IP address or CIDR|| 应该是IP地址或CIDR
+Should be a IP address (IPv4/IPv6)|| 应该是IP地址（IPv4 / IPv6）
+Are you sure you want to unset the NIC {{param}}?|| 您确定要取消设置NIC {{param}}吗？
+Are you sure you want to unset the selected NIC?|| 您确定要取消设置所选的NIC吗？
+Are you sure you want to unset the Bonding {{param}}?|| 您确定要取消设置绑定{{param}}吗？
+Are you sure you want to unset the selected Bondings?|| 您确定要取消设置选定的绑定吗？
+Are you sure you want to delete the Bonding {{param}}?|| 您确定要删除“绑定{{param}}”吗？
+Are you sure you want to delete the selected Bondings?|| 您确定要删除所选的绑定吗？
+Are you sure you want to delete the VLAN {{param}}?|| 您确定要删除VLAN {{param}}吗？
+Are you sure you want to delete the selected VLANs?|| 您确定要删除所选的VLAN吗？
+Are you sure you want to delete the Virtual interface {{param}}?|| 您确定要删除虚拟接口{{param}}吗？
+Are you sure you want to delete the selected Virtual interfaces?|| 您确定要删除所选的虚拟接口吗？
+Are you sure you want to unset the Floating IP of {{param}}?|| 您确定要取消设置{{param}}的浮动IP吗？
+Are you sure you want to unset the selected Floating IPs?|| 您确定要取消设置选定的浮动IP吗？
+Are you sure you want to unset the gateway for {{param}}?|| 您确定要为{{param}}设置网关吗？
+Are you sure you want to delete the alias {{param}}?|| 您确定要删除别名{{param}}吗？
+Are you sure you want to delete the selected aliases?|| 您确定要删除所选别名吗？
+Are you sure you want to delete the routing rule {{param}}?|| 您确定要删除路由规则{{param}}吗？
+Are you sure you want to delete the selected routing rules?|| 您确定要删除所选的路由规则吗？
+Are you sure you want to delete the route {{param}}?|| 您确定要删除路线{{param}}吗？
+Are you sure you want to delete the selected routes?|| 您确定要删除所选路线吗？
+The <strong> {{param}} </strong> NIC has been unconfigured successfully.||   <strong> {{param}} </strong> NIC已成功取消配置。
+The <strong> {{param}} </strong> NIC is up.||   <strong> {{param}} </strong> NIC已启动。
+The <strong> {{param}} </strong> NIC is down.||   <strong> {{param}} </strong> NIC已关闭。
+The <strong> {{param}} </strong> NIC has been updated successfully.||   <strong> {{param}} </strong> NIC已成功更新。
+The <strong> {{param}} </strong> NIC has updated the alias successfully.||   <strong> {{param}} </strong> NIC已成功更新别名。
+The <strong> {{param}} </strong> Bonding has been created successfully.||   <strong> {{param}} </strong> 绑定已成功创建。
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully.||   <strong> {{param}} </strong> 绑定已成功取消配置。
+The <strong> {{param}} </strong> Bonding is up.||   <strong> {{param}} </strong> 粘接起来了。
+The <strong> {{param}} </strong> Bonding is down.||   <strong> {{param}} </strong> 绑定已关闭。
+The <strong> {{param}} </strong> Bonding has been updated successfully.||   <strong> {{param}} </strong> 绑定已成功更新。
+The <strong> {{param}} </strong> Bonding has updated the alias successfully.||   <strong> {{param}} </strong> 绑定已成功更新别名。
+The <strong> {{param}} </strong> Bonding has been deleted successfully.||   <strong> {{param}} </strong> 绑定已成功删除。
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully.||   <strong> {{param}} </strong> 已成功将slave添加到绑定中。
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.||   <strong> {{param}} </strong> 已成功将slave从绑定中删除。
+The <strong> {{param}} </strong> VLAN has been created successfully.||   <strong> {{param}} </strong> 已成功创建VLAN。
+The <strong> {{param}} </strong> VLAN is up.||   <strong> {{param}} </strong> VLAN已启动。
+The <strong> {{param}} </strong> VLAN is down.||   <strong> {{param}} </strong> VLAN关闭。
+The <strong> {{param}} </strong> VLAN has been updated successfully.||   <strong> {{param}} </strong> VLAN已成功更新。
+The <strong> {{param}} </strong> VLAN has updated the alias successfully.||   <strong> {{param}} </strong> VLAN已成功更新别名。
+The <strong> {{param}} </strong> VLAN has been deleted successfully.||   <strong> {{param}} </strong> VLAN已成功删除。
+The <strong> {{param}} </strong> Virtual interface has been created successfully.||   <strong> {{param}} </strong> 虚拟接口已成功创建。
+The <strong> {{param}} </strong> Virtual interface is up.||   <strong> {{param}} </strong> 虚拟接口已启动。
+The <strong> {{param}} </strong> Virtual interface is down.||   <strong> {{param}} </strong> 虚拟接口已关闭。
+The <strong> {{param}} </strong> Virtual interface has been updated successfully.||   <strong> {{param}} </strong> 虚拟接口已成功更新。
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.||   <strong> {{param}} </strong> 虚拟接口已成功更新别名。
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully.||   <strong> {{param}} </strong> 虚拟接口已成功删除。
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.||   <strong> {{param}} </strong> 浮动IP已成功取消配置。
+The <strong> {{param}} </strong> Floating IP is up.||   <strong> {{param}} </strong> 浮动IP已启动。
+The <strong> {{param}} </strong> Floating IP is down.||   <strong> {{param}} </strong> 浮动IP已关闭。
+The <strong> {{param}} </strong> Floating IP has been updated successfully.||   <strong> {{param}} </strong> 浮动IP已成功更新。
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully.||   <strong> {{param}} </strong> 浮动IP已成功更新别名。
+The <strong> {{param}} </strong> Floating IP has been deleted successfully.||   <strong> {{param}} </strong> 浮动IP已成功删除。
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| 门户 <strong> {{param}} </strong> 已成功取消配置。
+The Gateway for <strong> {{param}} </strong> has been updated successfully.|| 门户 <strong> {{param}} </strong> 已成功更新。
+The <strong> {{param}} </strong> Alias has been created successfully.||   <strong> {{param}} </strong> 别名已成功创建。
+The <strong> {{param}} </strong> Alias has been updated successfully.||   <strong> {{param}} </strong> 别名已成功更新。
+The <strong> {{param}} </strong> Alias has been deleted successfully.||   <strong> {{param}} </strong> 别名已成功删除。
+The <strong> {{param}} </strong> routing rule has been deleted successfully.||   <strong> {{param}} </strong> 路由规则已成功删除。
+The <strong> {{param}} </strong> routing rule has been updated successfully.||   <strong> {{param}} </strong> 路由规则已成功更新。
+The <strong> {{param}} </strong> routing rule has been created successfully.||   <strong> {{param}} </strong> 路由规则已成功创建。
+The route <strong> {{param}} </strong> has been deleted successfully.|| 路线 <strong> {{param}} </strong> 已成功删除。
+The route <strong> {{param}} </strong> has been updated successfully.|| 路线 <strong> {{param}} </strong> 已成功更新。
+The route <strong> {{param}} </strong> has been created successfully.|| 路线 <strong> {{param}} </strong> 已成功创建。
+To remove a route you must select it first.|| 要删除路线，您必须先选择它。
+The route {{param}} cannot be removed because it is a system route.|| 无法删除路由{{param}}，因为它是系统路由。
+The interface <strong> {{param}} </strong> has been disabled.|| 界面 <strong> {{param}} </strong> 已被禁用。
+The interface <strong> {{param}} </strong> has been enabled.|| 界面 <strong> {{param}} </strong> 已启用。
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.||   <strong> {{param}} </strong> 从站无法删除。 绑定必须至少具有一个从属。
+HTTP Service|| HTTP服务
+SSH Service|| SSH服务
+SNMP Service|| SNMP服务
+The physical interface where is running GUI service|| 运行GUI服务的物理接口
+If the cluster is up you only can select the cluster interface or all|| 如果群集已启动，则只能选择群集接口或全部
+HTTPS Port where is running GUI service|| HTTPS端口运行GUI服务的位置
+The physical interface where is running SSH service|| 运行SSH服务的物理接口
+SSH Port where is running SSH service|| SSH端口运行SSH服务的位置
+Enable SNMP|| 启用S​​NMP
+The physical interface where is running SNMP service|| 运行SNMP服务的物理接口
+SNMP Port where is running SNMP service|| SNMP端口运行SNMP服务的位置
+Community name|| 社区名字
+IP or subnet with access|| 具有访问权限的IP或子网
+Primary server|| 主服务器
+Secondary Server|| 辅助服务器
+NTP server|| NTP服务器
+NTP Service|| NTP服务
+Proxy Service|| 代理服务
+DNS Service|| DNS服务
+Configure cluster|| 配置集群
+Local IP|| 本地IP
+Remote IP|| 远程IP
+Remote Node Password|| 远程节点密码
+Confirm Password|| 确认密码
+Backup List|| 备份清单
+Backup file|| 备份文件
+Choose one file|| 选择一个文件
+Alerts Service|| 警报服务
+Alerts|| 通知
+Email Notifications|| 电子邮件通知
+Mail Server|| 邮件服务器
+Mail User|| 邮件用户
+TLS|| TLS
+Backends Alert|| 后端警报
+Cluster Alert|| 集群警报
+Prefix Subject|| 前缀主题
+Avoid flapping time|| 避免拍打时间
+The time that alerts wait when backend is flapping|| 后端震荡时警报等待的时间
+User Settings|| 用户设置
+ZAPI Key|| ZAPI密钥
+Change Password|| 更改密码
+Current password|| 目前的密码
+New password|| 新密码
+Repeat new password|| 重复新密码
+Log List|| 日志列表
+Log view|| 日志查看
+When this action is executed a file with system information will be downloaded.|| 执行此操作时，将下载包含系统信息的文件。
+This action may take several seconds, you can continue browsing the GUI.|| 此操作可能需要几秒钟，您可以继续浏览GUI。
+Select an interface which won't be deleted|| 选择一个不会删除的接口
+This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| 此操作将销毁所有配置，但所选接口，备份和激活证书除外。
+The current credentials for user root will not be modified.|| root用户的当前凭据不会被修改。
+User List|| 用户列表
+Group List|| 组列表
+Role List|| 角色清单
+Role Settings|| 角色设定
+Show all permissions|| 显示所有权限
+Hide all permissions|| 隐藏所有权限
+Show permissions|| 显示权限
+Hide permissions|| 隐藏权限
+LDAP Server|| LDAP服务器
+Base DN|| 基本DN
+Bind DN|| 绑定DN
+Scope|| Scope
+Bind Password|| 绑定密码
+Filter|| 过滤
+Global Services|| 全球服务
+Enable session replication|| 启用会话复制
+Enable Duplicated network|| 启用重复网络
+Enable ARP announce|| 启用ARP通告
+Custom Routes|| 自定义路线
+System Routes|| 系统路线
+Use proxy of new generation|| 使用新一代的代理
+Validation Systems|| 验证系统
+AWS Credentials|| AWS凭证
+Access Key|| 访问密钥
+Secret Key|| 秘密钥匙
+Region|| 区域
+SSL Certificate|| SSL证书
+RBAC User|| RBAC用户
+RBAC Group|| RBAC集团
+RBAC Role|| RBAC角色
+Network Virtual Interface|| 网络虚拟接口
+System Service|| 系统服务
+Notification|| 通知
+Host or URL allowed|| 允许主机或URL
+It will not be used if the HOST/URL field contains a URL|| 如果“主机/ URL”字段包含URL，则不会使用它
+Filter used to get the LDAP field that contains the user ID to log in|| 用于获取包含要登录的用户ID的LDAP字段的过滤器
+The Search Request will be performed against the entry specified as the search base DN.|| 将针对指定为搜索基础DN的条目执行搜索请求。
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| 将针对作为指定为搜索基础DN的条目的直接下级的条目执行搜索请求。
+The Search Request will be performed against the search base and all entries below|| 搜索请求将针对搜索库和以下所有条目执行
+The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| 新的管理GUI地址为{{param}}，请重新连接到新URL中的GUI。
+The <strong> HTTP service </strong> has been updated successfully.||   <strong> HTTP服务 </strong> 已成功更新。
+The <strong> SSH service </strong> has been updated successfully.||   <strong> SSH服务 </strong> 已成功更新。
+The <strong> SNMP service </strong> has been updated successfully.||   <strong> SNMP服务 </strong> 已成功更新。
+The <strong> global services </strong> have been updated successfully||   <strong> 全球服务 </strong> 已成功更新
+The <strong> DNS service </strong> has been updated successfully.||   <strong> DNS服务 </strong> 已成功更新。
+The <strong> NTP service </strong> has been updated successfully.||   <strong> NTP服务 </strong> 已成功更新。
+The <strong> Proxy service </strong> has been updated successfully.||   <strong> 代理服务 </strong> 已成功更新。
+The backup <strong> {{param}} </strong> has been deleted successfully.|| 备份 <strong> {{param}} </strong> 已成功删除。
+The backup <strong> {{param}} </strong> has been applied successfully.|| 备份 <strong> {{param}} </strong> 已成功应用。
+The backup <strong> {{param}} </strong> has been downloaded successfully.|| 备份 <strong> {{param}} </strong> 已成功下载。
+The backup <strong> {{param}} </strong> has been uploaded successfully.|| 备份 <strong> {{param}} </strong> 已成功上传。
+The backup <strong> {{param}} </strong> has been created successfully.|| 备份 <strong> {{param}} </strong> 已成功创建。
+The <strong> backends alert </strong> has been applied successfully.||   <strong> 后端警报 </strong> 已成功应用。
+The <strong> cluster alert </strong> has been applied successfully.||   <strong> 集群警报 </strong> 已成功应用。
+The configuration of email has been updated successfully.|| 电子邮件配置已成功更新。
+The alert has been updated successfully.|| 警报已成功更新。
+The test email has been sent successfully.|| 测试电子邮件已成功发送。
 The user has been updated successfully.|| 用户已成功更新。
-The CSR <strong>{{param}}</strong> has been generated successfully.|| CSR <strong>{{param}}</strong> 已成功生成。
-The certificate <strong>{{param}}</strong> has been uploaded successfully.|| 证书 <strong>{{param}}</strong> 已成功上传。
-The certificate <strong>{{param}}</strong> has been deleted successfully.|| 证书 <strong>{{param}}</strong> 已成功删除。
-The certificate <strong>{{param}}</strong> has been downloaded successfully.|| 证书 <strong>{{param}}</strong> 已成功下载。
-New Service|| 新服务
-Create|| 创建
-Cancel|| 取消
-Submit|| 提交
-Save|| 保存
-Generate|| 产生
-Update|| 提交
-Upload|| 上传
-Generate Random Key|| 生成随机密钥
-Generate Support Save|| 生成支持保存
-clear|| 明确
-start|| 开始
-Apply|| 申请
-Add|| 添加
-Edit|| 编辑
-Go to Home|| 回家
-404 Page not Found|| 找不到404页面
-The page you were looking for doesn't exist|| 您要查找的页面不存在
-No farms found|| 找不到农场
-Established Conns|| 成立康恩斯
-Pending Conns|| 待定的Conns
-Select a graph|| 选择一个图表
-Select a profile|| 选择个人资料
-Select a Virtual IP|| 选择虚拟IP
-Select a parent interface|| 选择父接口
-Select an interface|| 选择一个界面
-Logout|| 登出
-Sign in with your username and password|| 使用您的用户名和密码登录
-Username|| 用户名
-Password|| 密码
-Sign In|| 登录
-User is required!|| 用户是必需的！
-User should be the real one|| 用户应该是真实的
-Password is required|| 密码是必需的
-Password should contains {{param}} to {{param2}} characters|| 密码应包含{{param}}到{{param2}}个字符
-Success!|| 成功了！
-You have been successfully logged in.|| 您已成功登录。
-put in maintenance|| 进行维护
-upped|| 提升
-stopped|| 停止
-started|| 开始
-restarted|| 重新启动
-down|| 向下
-up||  up
+The log <strong> {{param}} </strong> has been downloaded successfully.|| 日志 <strong> {{param}} </strong> 已成功下载。
+The <strong> Support Save </strong> has been downloaded successfully.||   <strong> 支持保存 </strong> 已成功下载。
+The user <strong> {{param}} </strong> has been deleted successfully.|| 用户 <strong> {{param}} </strong> 已成功删除。
+The user {{param}} has been created successfully.|| 用户{{param}}已成功创建。
+The user {{param}} has been updated successfully.|| 用户{{param}}已成功更新。
+The group <strong> {{param}} </strong> has been deleted successfully.|| 该集团 <strong> {{param}} </strong> 已成功删除。
+The group {{param}} has been created successfully.|| 组{{param}}已成功创建。
+The group {{param}} has been updated successfully.|| {{param}}组已成功更新。
+The user <strong> {{param}} </strong> has been added to the group successfully.|| 用户 <strong> {{param}} </strong> 已成功添加到组中。
+The user <strong> {{param}} </strong> has been removed to the group successfully.|| 用户 <strong> {{param}} </strong> 已成功移至该组。
+The farm <strong> {{param}} </strong> has been added to the group successfully.|| 农场 <strong> {{param}} </strong> 已成功添加到组中。
+The farm <strong> {{param}} </strong> has been removed to the group successfully.|| 农场 <strong> {{param}} </strong> 已成功移至该组。
+The interface <strong> {{param}} </strong> has been added to the group successfully.|| 界面 <strong> {{param}} </strong> 已成功添加到组中。
+The interface <strong> {{param}} </strong> has been removed to the group successfully.|| 界面 <strong> {{param}} </strong> 已成功移至该组。
+The role <strong> {{param}} </strong> has been deleted successfully.|| 的作用 <strong> {{param}} </strong> 已成功删除。
+The role {{param}} has been created successfully.|| 角色{{param}}已成功创建。
+The role {{param}} has been updated successfully.|| 角色{{param}}已成功更新。
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| LDAP服务器已配置。 请测试连接性以确认配置正确。
+The connectivity test has been done successfully.|| 连接测试已成功完成。
+The validation system <strong> {{param}} </strong> has been enabled successfully.|| 验证系统 <strong> {{param}} </strong> 已成功启用。
+The validation system <strong> {{param}} </strong> has been disabled successfully.|| 验证系统 <strong> {{param}} </strong> 已成功禁用。
+The cluster has been created successfully.|| 集群已成功创建。
+The cluster has been updated successfully.|| 集群已成功更新。
+The cluster has been destroyed successfully.|| 集群已成功销毁。
+The <strong>local node</strong> has been put in maintenance successfully.||   <strong>本地节点</strong> 已成功进行维护。
+The <strong>local node</strong> has been enabled successfully.||   <strong>本地节点</strong> 已成功启用。
+The AWS credentials have been configured successfully.|| AWS凭证已成功配置。
+The Azure credentials have been configured successfully.|| Azure凭据已成功配置。
+Are you sure you want to delete the backup {{param}}?|| 您确定要删除备份{{param}}吗？
+Are you sure you want to delete the selected backups?|| 您确定要删除所选的备份吗？
+Are you sure you want to delete the user {{param}}?|| 您确定要删除用户{{param}}吗？
+Are you sure you want to delete the selected users?|| 您确定要删除所选的用户吗？
+Are you sure you want to delete the group {{param}}?|| 您确定要删除组{{param}}吗？
+Are you sure you want to delete the selected groups?|| 您确定要删除所选的组吗？
+Are you sure you want to delete the role {{param}}?|| 您确定要删除角色{{param}}吗？
+Are you sure you want to delete the selected roles?|| 您确定要删除所选角色吗？
+Are you sure you want to destroy the cluster?|| 您确定要销毁群集吗？
+Dashboard|| 用户面板
+News|| 新闻
+LSLB|| LSLB
+Farms|| 农场
+SSL Certificates|| SSL证书
+Generate csr|| 产生csr
+Stats|| 统计数据
+GSLB|| GSLB
+DSLB|| DSLB
+IPDS|| IPDS
+Settings|| 设置
+Blacklists|| 黑名单
+DoS|| DoS攻击
+RBL|| RBL
+Rules|| 规则
+Domains|| 域名
+WAF|| WAF
+Rulesets|| 规则集
+Files|| 档
+Monitoring|| 监控
+Graphs|| 图
+Farmguardians|| Farmguardians
+Network|| 网络
+NIC|| 网卡
+Bonding|| 粘接
+VLAN|| VLAN
+Virtual Interfaces|| 虚拟接口
+Floating IPs|| 浮动IP
+Gateway|| 网关
+Aliases|| 别名
+Routing|| 路由
+Tables|| 表
+System|| 系统
+RBAC|| RBAC
+Users|| 用户
+Groups|| 组
+Roles|| 角色
+Local Services|| 本地服务
+Remote Services|| 远程服务
+Cluster|| 簇
+Backups|| 备份
+Notifications|| 通知
+User|| 用户
+Logs|| 日志
+Activation Certificate|| 激活证书
+License|| 执照
+SupportSave|| 支持保存
+Factory Reset|| 出厂重置
