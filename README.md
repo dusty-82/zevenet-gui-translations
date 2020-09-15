@@ -35,7 +35,7 @@ The English file only contains the sentences in English and can be used for the 
 
 We would be grateful if you would help us to improve the translations of your language, but please, keep the file structure, the words between  {{}} (double curly brackets) should not be translated, and notice that some sentences start with space, upper or lower cases.
 
-If you want to add a new language, you can generate a new file with the same structure as other files, for this copy the file of translations from English to the new language and identify the file with two characters and at the end of each line add a space followed by two pipes (||), a space, and add the translated sentence in the chosen language.
+If you want to add a new language, you can generate a new file with the same structure as other files, for this copy the file of translations from English to the new language and identify the file with two characters and at the end of each line add a space followed by two pipes (||), other space, and add the translated sentence in the chosen language.
 
 ### Example of a line in Spanish:
 > Create farm || Crear granja
