@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| ユーザー名とパスワードを使ってサインインする
-Success!|| 成功！
-Username|| ユーザー名
-User should be the real one!|| ユーザーは本物でなければなりません！
-Password should contains from {{min}} to {{max}} characters|| パスワードには{{min}}〜{{max}}文字が含まれている必要があります
-Sign In|| 登録
-Logging out, please wait...|| ログアウトしています。お待ちください…
-Package list to upgrade|| アップグレードするパッケージリスト
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| システムをアップグレードするには、シェルで次のコマンドを実行してください： 'checkupgrades -i'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| *チェックの実行を強制する場合、この情報は毎日更新されます <code>checkupgrades</code> コマンドラインから。
-No activation certificate|| アクティベーション証明書なし
-There isn't a valid ZEVENET certificate file, please request a new one|| 有効なZEVENET証明書ファイルがありません。新しいファイルをリクエストしてください
-Certificate Key|| 証明書キー
-Activation Certificate file|| アクティベーション証明書ファイル
-Activation Data|| アクティベーションデータ
-Copy data to the clipboard|| データをクリップボードにコピーします
-Activation Certificate|| アクティベーション証明書
-Select an activation certificate|| アクティベーション証明書を選択してください
-Upload Activation Certificate|| アクティベーション証明書をアップロード
-No Support|| サポートなし
-Certificate expired|| 期限切れの証明書
-Support expired|| サポート期限切れ
-Certificate expires in {{param}} {{param2}}|| {{param}} {{param2}}で証明書の有効期限が切れます
-Support expires in {{param}} {{param2}}|| {{param}} {{param2}}でサポートの有効期限が切れます
-The activation certificate has been uploaded successfully.|| アクティベーション証明書が正常にアップロードされました。
-The Activation Certificate has been deleted successfully.|| アクティベーション証明書は正常に削除されました。
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| アクティベーション証明書を削除してもよろしいですか？\\n削除すると、別の証明書をアップロードするまでGUIにアクセスできなくなります。
-Upload|| アップロード
-Uploading|| アップロード
-Add|| 追加
-Disable maintenance|| メンテナンスを無効にする
-Enable maintenance|| メンテナンスを有効にする
-Drain mode|| 排水モード
-Cut mode|| カットモード
-Edit|| 編集
-Configure|| 設定する
-Save|| 保存
-Add Variable|| 変数を追加
-Bring|| 持って来る
-Export|| 輸出
-All data|| すべてのデータ
-Only selected|| 選択されたもののみ
-Apply|| 適用
-Create|| 作ります
-Cancel|| キャンセル
-Submit|| 送信
-New Service|| 新サービス
-New Zone|| 新しいゾーン
-New Route|| 新しいルート
-Basic|| ベーシック
-Advanced|| 高度な
-Generate|| 生成する
-Generating|| 生成
-Delete|| 削除
-Bring Up|| 持ってくる
-Bring down|| 倒す
-Restart|| 再起動
-Restarting|| 再起動する
-Start|| 開始
-Stop|| 停止
-Unset|| 未設定
-Enable|| 有効にします
-Disable|| 無効にします
-Remove|| 削除します
-Download|| ダウンロード
-Downloading|| ダウンロード
-Update|| アップデイト
-New Rule|| 新しいルール
-Next|| 次
-Back|| バック
-Generate Random MAC|| ランダムMACを生成
-Destroy|| 破壊する
-Test Email|| テストメール
-Generate Random Key|| ランダムキーを生成する
-Upload Certificate|| 証明書をアップロードする
-Delete Certificate|| 証明書を削除する
-List|| リスト
-Menu|| メニュー
-Modify|| 修正します
-Show|| ショー
-Action|| アクション
-Test|| テスティング 
-Schedule|| スケジュール
-Upgrade|| アップグレード
-View|| 詳細
-Info|| インフォ
-Test Connectivity|| 接続性のテスト
-Show certificate|| 証明書を表示
-Force Changes|| 強制変更
-Page Not Found|| ページが見つかりません
-The page you were looking for doesn't exist|| 探しているページは存在しません
-Take me home|| 家まで連れて帰ってください
-Status|| 状態
-Actions|| アクション
-Name|| お名前
-ID||  ID
-Alias|| エイリアス
-IP||  IP
-Interface|| インタフェース
-Priority|| 優先
-Port|| ポート
-Weight|| 重さ
-Max. Conns|| 最大 Conns
-Name|| お名前
-Virtual IP|| 仮想IP
-Vitual Port|| 仮想ポート
-Virtual IP and Port|| 仮想IPとポート
-Default TCP port health check|| デフォルトのTCPポートヘルスチェック
-Health Checks for backend|| バックエンドのヘルスチェック
-Default Name Server|| デフォルトネームサーバ
-Type|| 種類
-Data|| データ
-Profile|| プロフィール
-HTTPS Parameters|| HTTPSパラメータ
-Ciphers|| 暗号
-Custom ciphers|| カスタム暗号
-Protocol type|| プロトコルの種類
-NAT type|| NATタイプ
-Rewrite location headers|| ロケーションヘッダーを書き換える
-HTTP verbs accepted|| HTTP動詞が受け入れられました
-Ignore 100 continue|| 100を無視して続行
-Backend connection timeout|| バックエンド接続タイムアウト
-Backend response timeout|| バックエンドの応答タイムアウト
-Frequency to check resurrected backends|| 復活したバックエンドをチェックする頻度
-Client request timeout|| クライアント要求タイムアウト
-Message Error|| メッセージエラー
-Request Headers|| リクエストヘッダー
-Response Headers|| 応答ヘッダー
-Persistence|| 固執
-Persistence session time to live|| 持続セッションの存続時間
-TTL|| TTL
-Persistence session identifier|| 持続セッション識別子
-Virtual IP|| 仮想IP
-Load balancing Scheduler|| 負荷分散スケジューラ
-Algorithm|| アルゴリズム
-Round Robin|| ラウンドロビン
-Virtual Host|| 仮想ホスト
-URL Pattern|| URLパターン
-Least Response|| 最小の応答
-HTTPS Backends|| HTTPSバックエンド
-STS Header|| STSヘッダ
-Timeout|| タイムアウト
-Redirect|| リダイレクト
-Redirect URL|| リダイレクトURL
-Redirect Type|| リダイレクトタイプ
-Redirect Code|| リダイレクトコード
-Cookie Insert|| クッキー挿入
-Cookie Name|| Cookie Name
-Cookie Domain|| クッキードメイン
-Cookie Path|| クッキーパス
-Cookie TTL|| クッキーTTL
-Locality|| 地域
-Country|| 国
-State/Province|| 州/地方
-Common Name|| 一般名
-Organization|| 組織
-Division|| 除算
-E-mail Address|| 電子メールアドレス
-File|| フィレット
-Issuer|| 発行者
-Creation|| 創造
-Expiration|| 満了
-Certificate|| 認証
-Established Conns|| 確立されたConns
-Pending Conns|| 保留中のコーン
-Service|| サービス
-Session ID|| セッションID
-Backend ID|| バックエンドID
-Requests|| リクエスト
-Failed REQ|| REQに失敗しました
-Failed RES|| RESに失敗しました
-Truncated Resp TC|| 切り捨てられたResp TC
-Extended DNS Big|| 拡張DNSビッグ
-Extended DNS TC|| 拡張DNS TC
-No Error|| エラーなし
-Refused|| 拒否されました
-Non-existent Domain|| 存在しないドメイン
-Notimp|| Notimp
-Bad Version|| 悪いバージョン
-Format Error|| フォーマットエラー
-Dropped|| ドロップされた
-V6||  V6
-Extended DNS|| 拡張DNS
-Extended DNS-ClientSub|| 拡張DNS-ClientSub
-Client|| クライアント
-Listerner|| リスターナー
-Value|| 値
-Custom IP|| カスタムIP
-Policy|| ポリシー
-Remote URL|| リモートURL
-Frequency|| 周波数
-Rule|| ルール
-Limit RST request per source IP|| 送信元IPごとにRST要求を制限する
-Total connections per source IP|| 送信元IPあたりの合計接続数
-Limit Burst|| リミットバースト
-Total connections limit per source IP|| 送信元IPあたりの総接続数の制限
-Hits|| ヒット
-Time|| 時間
-Log level|| ログレベル
-Only logging|| ロギングのみ
-Local traffic|| ローカルトラフィック
-Queue size|| キューサイズ
-Max. Threads|| 最大 スレッド
-Cache size|| キャッシュサイズ
-Cache time|| キャッシュの時間
-Check Request Body|| リクエスト本文を確認する
-Check Response Body|| 応答本文を確認する
-Request Body Limit|| ボディ制限のリクエスト
-Default Phase|| デフォルトフェーズ
-Default Log|| デフォルトログ
-Rules|| キャンペーンのルール
-Rule Type|| ルールタイプ
-Mark|| マーク
-Phase|| 相
-Resolution|| 分解能
-Rule ID|| ルールID
-Skip|| スキップ
-Skip after|| 後にスキップ
-Execute|| 実行する
-Description|| 説明
-Interval|| インターバル
-Cut connections|| 接続を切断する
-Command|| コマンド
-MAC|| マック
-Netmask|| ネットマスク
-Farms|| 農場
-Gateway|| ゲートウェイ
-IP Address|| IPアドレス
-CIDR|| CIDR
-Mode|| モード
-Slaves|| 奴隷
-Parent Interface|| 親インターフェース
-Address|| 住所
-Host|| ホスト
-Date|| 日付
-Alert|| 警告
-Password|| パスワード
-Log|| ログ
-ZAPI Permissions|| ZAPIのアクセス許可
-GUI Permissions|| GUIアクセス許可
-Role|| 仕事の内容
-Rules Date|| ルール日付
-Scheduled|| 予定の
-Variable|| 変数
-Variable's argument|| 変数の引数
-Ignore this <i>variable</i> for the match|| これを無視する <i>変数</i> 試合のために
-Count elements of <i>variables</i>|| の要素を数える <i>variables</i>
-Variables|| Variables
-Transformations|| 変換
-Operating|| オペレーティング
-Multi Match|| マルチマッチ
-Not Match|| 合わない
-Operator|| 演算子
-Module|| モジュール
-Floating IP|| フローティングIP
-Interfaces|| インターフェース
-Group|| グループ
-Virtual Interface|| 仮想インタフェース
-URL|| URL
-From|| XNUMXサーバ当たり年間
-Table|| 表
-To|| に
-Route|| ルート
-Via|| ビア
-Backend Alias|| バックエンドエイリアス
-Version|| バージョン
-System|| エントルピー
-Failback|| フェイルバック
-Check Interval|| チェック間隔
-Node|| ノード
-Message|| お問合わせ内容
-Hostname|| ホスト名
-No {{param}} found|| {{param}}が見つかりません
-Edit|| 編集
-Global|| グローバル
-Services|| Services
-Select a {{param}}|| {{param}}を選択します
-Resources|| リソース
-Backends|| バックエンド
-Strict Transport Security|| 厳格な輸送セキュリティ
-Farms Stats|| 農場統計
-Copy to clipboard|| クリップボードにコピー
-Hide nodes|| ノードを非表示
-Show nodes|| ノードを表示
-Hide backends|| バックエンドを非表示
-Show backends|| バックエンドを表示
-Hide graphs|| グラフを非表示
-Show graphs|| グラフを表示
-Sessions|| セッションズ
-Clients|| 取引実績
-Servers|| サーバー
-Extended|| 延長された
-Nodes|| Nodes
-Number of lines|| 行数
-View All|| すべてを表示
-View Less|| 少ない表示
-Valid|| 有効な
-Expired|| 期限切れの求人
-Near to expire|| 期限切れ間近
-True|| 誤りである
-False|| 正しい
-No configured|| 設定なし
-In use by bonding interface|| ボンディングインターフェイスで使用中
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| このインターフェイスを変更するには、クラスタサービスインターフェイスを変更または無効にする必要があります
-Enabled|| 使用可能
-Disabled|| 身体障がい者
-Needed restart|| 再起動が必要
-Critical|| クリティカル
-Problem|| 問題
-Maintenance|| メンテナンス
-Master|| マスター
-Backup|| バックアップ
-Not configured|| 構成されていません
-Undefined|| 未定義
-Daily Graph|| デイリーグラフ
-Weekly Graph|| 週間グラフ
-Monthly Graph|| 月次グラフ
-Yearly Graph|| 年間グラフ
-Documentation|| ドキュメンテーション
-Reload farmguardian list|| ファームガーディアンリストをリロードする
-Cookie|| クッキー
-Zones|| ゾーン
-System Stats|| システム統計
-CPU|| CPU
-Memory|| メモリ
-Load|| 負荷
-Cores|| コア
-Traffic In|| トラフィックイン
-Traffic Out|| トラフィックアウト
-Nothing|| 何も
-Custom|| カスタム
-All interfaces|| すべてのインターフェース
-All farms|| すべての農場
-Default State|| デフォルト状態
-Up||  Up
-Down|| 値下がり
-Installed and updated|| インストールおよび更新
-Not installed|| インストールされていない
-Updates available|| 利用可能なアップデート
-Interface|| インタフェース
-Type|| 種類
-Zone|| ゾーン
-Transformation|| 変換
-Backend|| バックエンド
-Condition|| 調子
-Domain|| ドメイン
-Resource|| リソース
-Graph|| グラフ
-Session|| セッションを開く
-IP alias|| IPエイリアス
-Interface alias|| インターフェースエイリアス
-Backup|| バックアップ
-Farm|| 農場
-Header|| ヘッダ
-Pattern|| パターン
-Source|| ソース
-Blacklist|| ブラックリスト
-Farmguardian|| 農場の守護者
-Package|| パッケージ
-DoS rule|| DoSルール
-RBL rule|| RBLルール
-WAF ruleset|| WAFルールセット
-VLAN|| VLAN
-Routing Rule|| ルーティングルール
-Routing Table|| ルーティングテーブル
-Needed restart|| 再起動が必要
-There're changes that need to be applied, restart the farm to apply them!|| 適用する必要がある変更があります。それらを適用するにはファームを再起動してください！
-Close|| 閉じる
-The <strong> factory reset </strong> has been completed successfully.||   <strong> 工場出荷時設定へのリセット </strong> 正常に完了しました。
-The interface <strong> {{name}} </strong> has been updated successfully.|| インタフェース <strong> {{name}} </strong> 更新に成功しました。
-The <strong>HTTP Service</strong> has been updated successfully.||   <strong>HTTPサービス</strong> 更新に成功しました。
-An error has occurred on the server, try again later|| サーバーでエラーが発生しました。しばらくしてからもう一度お試しください
-Connection to web server failed|| Webサーバーへの接続に失敗しました
-An unexpected error has occurred|| 予期しないエラーが発生しました
-System Information|| システム情報
-ZEVENET Version|| ZEVENETバージョン
-Appliance Version|| アプライアンスのバージョン
-Kernel Version|| カーネルバージョン
-System Date|| システム日付
-NIC Traffic|| NICトラフィック
-Total number of connections in realtime.|| リアルタイムの接続の総数。
-Connections|| 接続
-Professional Products|| プロフェッショナル製品
-Professional Services|| プロフェッショナルサービス
-No Virtual Interfaces|| 仮想インターフェイスなし
-No VLANs|| VLANなし
-Create DSLB Farm|| DSLBファームを作成する
-Create Virtual interface|| 仮想インターフェースを作成する
-Create GSLB Farm|| GSLBファームを作成する
-Generate CSR|| CSRを生み出す
-Create LSLB Farm|| LSLBファームを作成する
-Upload SSL Certificate|| SSL証明書をアップロードする
-Create Blacklist|| ブラックリストを作成
-Create DoS rule|| DoSルールを作成する
-Create RBL rule|| RBLルールを作成する
-Create WAF ruleset|| WAFルールセットを作成する
-Create Rule|| ルールの作成
-Create Farmguardian|| Farmguardianを作成する
-Create Bonding interface|| ボンディングインターフェースを作成
-Create VLAN interface|| VLANインタフェースを作成する
-Upload Backup|| バックアップをアップロード
-Create Backup|| バックアップを作成する
-Create User|| ユーザーの作成
-Create Group|| グループを作成
-Create Role|| ロールを作成
-Create Route|| ルートを作成
-is required|| 必要とされる
-is not valid, it only is possible alphanumeric characters and dash (-).|| 有効ではありません。使用できるのは英数字とダッシュ（ - ）だけです。
-Only editable when the farm is down.|| ファームが停止しているときにのみ編集可能です。
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| 仮想ポートが無効です。単一のポート、複数のポート、またはポートの範囲を定義できます（例：80または80,81または80：90）
-has to be greater than 0|| 0より大きくなければなりません
-Redirect should be a URL (http(s)://...)|| リダイレクトはURL（http（s）：//…）である必要があります
-Country can only have two characters.|| 国には2文字しか使用できません。
-E-mail has to be a valid email|| 電子メールは有効な電子メールである必要があります
-The password does not match|| パスワードが一致しません
-has to be a value between {{min}} and {{max}}|| {{min}}〜{{max}}の間の値である必要があります
-Global Settings|| グローバル設定
-IPDS Settings|| IPDS設定
-Advanced Settings|| [詳細設定]
-Domains Settings|| ドメイン設定
-Rules Settings|| ルール設定
-Blacklists rules|| ブラックリストのルール
-DoS rules|| DoSルール
-RBL rules|| RBLルール
-WAF rulesets|| WAFルールセット
-Services Settings|| サービス設定
-Zones Settings|| ゾーン設定
-Global Filter|| グローバルフィルター
-Refresh|| リフレッシュ
-Seconds|| 秒
-per second|| 毎秒
-Refresh status every|| ステータスを毎回更新
-Refresh stats every|| 統計を更新する
-Not refresh|| リフレッシュしない
-Farms Settings|| 農場の設定
-Minutes|| 分
-Hours|| 時間
-Monday|| 月曜日
-Tuesday|| 火曜日
-Wednesday|| 水曜日
-Thursday|| 木曜日
-Friday|| 金曜日
-Saturday|| 土曜日
-Sunday|| 日曜日
-Deny|| 否定する
-Allow|| 許可する
-Daily|| デイリー
-Weekly|| 毎週
-Monthly|| 毎月
-entries|| エントリー
-threads|| スレッド
-Sort|| ソート
-SORT MODE: Drag and drop the service to the desired position.|| ソートモード：サービスを目的の位置にドラッグアンドドロップします。
-The farm will be restarted automatically.|| ファームは自動的に再起動されます。
-bytes|| バイト
-Default is|| デフォルトは
-Optional|| 各種オプション
-days|| 日々
-Go to|| 次のURLに行きます。
-Edit in form mode|| フォームモードで編集する
-Edit in raw mode|| rawモードで編集する
-Create in form mode|| フォームモードで作成
-Create in raw mode|| rawモードで作成
-Available certificates|| 利用可能な証明書
-Enabled certificates|| 有効な証明書
-Search certificate|| 検索証明書
-Available blacklists|| 利用可能なブラックリスト
-Enabled blacklists|| ブラックリストを有効化
-Search blacklist|| ブラックリストを検索
-Available DoS rules|| 利用可能なDoSルール
-Enabled DoS rules|| 有効なDoSルール
-Search DoS rule|| 検索DoSルール
-Available RBL rules|| 利用可能なRBLルール
-Enabled RBL rules|| 有効なRBLルール
-Search RBL rule|| 検索RBLルール
-Available WAF rulesets|| 利用可能なWAFルールセット
-Enabled WAF rulesets|| 有効なWAFルールセット
-Search WAF ruleset|| WAFルールセットを検索する
-Available farms|| 利用可能な農場
-Enabled farms|| 有効なファーム
-Search farm|| 検索ファーム
-Available domains|| 利用可能なドメイン
-Enabled domains|| 有効なドメイン
-Search domain|| 検索ドメイン
-Enabled rules|| 有効なルール
-Disabled rules|| 無効なルール
-Search rule|| 検索ルール
-Available NICs|| 利用可能なNIC
-Enabled NICs|| 有効なNIC
-Search NIC|| NICを検索
-Search slaves|| スレーブを検索
-Slaves NICs|| スレーブNIC
-Available users|| 利用可能なユーザー
-Enabled users|| 有効なユーザー
-Search user|| 検索ユーザー
-Available interfaces|| 利用可能なインターフェース
-Enabled interfaces|| 有効なインターフェース
-Search interface|| 検索インターフェース
-Managed interfaces|| 管理インターフェース
-Unmanaged interfaces|| 管理されていないインターフェース
-Search interface|| 検索インターフェース
-LSLB Farm List|| LSLB農場リスト
-GSLB Farm List|| GSLBファームリスト
-DSLB Farm List|| DSLBファームリスト
-Copy farm|| コピーファーム
-Farm to copy|| コピーするファーム
-Select the farm to copy|| コピーするファームを選択してください
-Weight: connection linear dispatching by weight|| 重量：重量による接続線形発送
-Priority: connections always to the most prio available|| 優先順位：常に利用可能な最も優先度の高いものへの接続
-Source Hash: Hash per Source IP and Source Port|| 送信元ハッシュ：送信元IPおよび送信元ポートごとのハッシュ
-Simple Source Hash: Hash per Source IP only|| シンプルソースハッシュ：ソースIPごとのハッシュのみ
-Symmetric Hash: Round trip hash per IP and Port|| 対称ハッシュ：IPおよびポートごとのラウンドトリップハッシュ
-Round Robin: Sequential backend selection|| ラウンドロビン：シーケンシャルバックエンド選択
-Least Connections: connections to the least open conns available|| 最小接続：利用可能な最小オープン接続への接続
-Disabled|| 身体障がい者
-Enabled|| 使用可能
-Enabled and compare backends|| バックエンドの有効化と比較
-No persistence|| 持続性なし
-IP: Source IP|| IP：送信元IP
-Port: Source Por|| ポート：ソースPor
-MAC: Source MAC|| MAC：送信元MAC
-Source IP and Source Port|| 送信元IPと送信元ポート
-Source IP and Destination Port|| 送信元IPと宛先ポート
-No persistence|| 持続性なし
-IP: Client address|| IP：クライアントアドレス
-BASIC: Basic authentication|| 基本：基本認証
-URL: A request parameter|| URL：リクエストパラメータ
-PARM: An URI parameter|| PARM：URIパラメータ
-COOKIE: A certain cookie|| COOKIE：あるクッキー
-HEADER: A certain request header|| HEADER：あるリクエストヘッダ
-The farm has been updated successfully|| ファームが正常に更新されました
-The farm <strong> {{param}} </strong> has been deleted successfully.|| 農場 <strong> {{param}} </strong> 削除されました。
-The farm <strong> {{param}} </strong> has been started successfully.|| 農場 <strong> {{param}} </strong> 正常に開始されました。
-The farm <strong> {{param}} </strong> has been restarted successfully.|| 農場 <strong> {{param}} </strong> 正常に再起動されました。
-The farm <strong> {{param}} </strong> has been stopped successfully.|| 農場 <strong> {{param}} </strong> 正常に停止しました。
-The farm <strong> {{param}} </strong> has been created successfully.|| 農場 <strong> {{param}} </strong> 正常に作成されました。
-The backend has been created successfully.|| バックエンドは正常に作成されました。
-The backend has been updated successfully.|| バックエンドが正常に更新されました。
-The backend <strong> {{param}} </strong> has been deleted successfully.|| バックエンド <strong> {{param}} </strong> 削除されました。
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| バックエンド <strong> {{param}} </strong> メンテナンスに成功しました。
-The backend <strong> {{param}} </strong> has been upped successfully.|| バックエンド <strong> {{param}} </strong> 正常にアップされました。
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| 優先度の高い値のバックエンド <strong> {{param}} </strong> 使用されません。
-The resource has been created successfully.|| リソースが正常に作成されました。
-The resource has been updated successfully.|| リソースは正常に更新されました。
-The backend <strong> {{param}} </strong> has been deleted successfully.|| バックエンド <strong> {{param}} </strong> 削除されました。
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| SSL証明書 <strong> {{param}} </strong> ファームに正常に追加されました。
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| SSL証明書 <strong> {{param}} </strong> ファームから正常に削除されました。
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| SSL証明書 <strong> {{param}} </strong> 正常にソートされました。
-The service <strong> {{param}} </strong> has been created successfully.|| サービス <strong> {{param}} </strong> 正常に作成されました。
-The service <strong> {{param}} </strong> has been updated successfully.|| サービス <strong> {{param}} </strong> 更新に成功しました。
-The service <strong> {{param}} </strong> has been deleted successfully.|| サービス <strong> {{param}} </strong> 削除されました。
-The service <strong> {{param}} </strong> has been moved successfully.|| サービス <strong> {{param}} </strong> 移動しました。
-The farmguardians list has been reloaded successfully.|| 農場の保護者のリストが正常にリロードされました。
-The farmguardian has been disabled successfully.|| Farmguardianは正常に無効にされました。
-The farmguardian has been changed to {{param}} successfully.|| 農場の守護者は{{param}}に変更されました。
-The zone <strong> {{param}} </strong> has been created successfully.|| ゾーン <strong> {{param}} </strong> 正常に作成されました。
-The zone <strong> {{param}} </strong> has been updated successfully.|| ゾーン <strong> {{param}} </strong> 更新に成功しました。
-The zone <strong> {{param}} </strong> has been deleted successfully.|| ゾーン <strong> {{param}} </strong> 削除されました。
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| ブラックリスト <strong> {{param}} </strong> ファームに正常に追加されました。
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| ブラックリスト <strong> {{param}} </strong> ファームから正常に削除されました。
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| DoSルール <strong> {{param}} </strong> ファームに正常に追加されました。
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| DoSルール <strong> {{param}} </strong> ファームから正常に削除されました。
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| RBLルール <strong> {{param}} </strong> ファームに正常に追加されました。
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| RBLルール <strong> {{param}} </strong> ファームから正常に削除されました。
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| WAFルールセット <strong> {{param}} </strong> 正常にソートされました。
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| WAFルールセット <strong> {{param}} </strong> ファームに正常に追加されました。
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| WAFルールセット <strong> {{param}} </strong> ファームから正常に削除されました。
-The profile has been changed to {{param}} successfully.|| プロファイルは{{param}}に正常に変更されました。
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| 選択したNATタイプでは接続アルゴリズムが許可されないため、アルゴリズムは重みアルゴリズムに変更されました。 [サービス]タブから別のアルゴリズムを選択できます。
-The request header has been saved successfully.|| 要求ヘッダーは正常に保存されました。
-The request header has been deleted successfully.|| 要求ヘッダーは正常に削除されました。
-The request header pattern has been saved successfully.|| 要求ヘッダーパターンは正常に保存されました。
-The request header pattern has been deleted successfully.|| 要求ヘッダーパターンは正常に削除されました。
-The response header has been saved successfully.|| 応答ヘッダーが正常に保存されました。
-The response header has been deleted successfully.|| 応答ヘッダーは正常に削除されました。
-The response header pattern has been saved successfully.|| 応答ヘッダーパターンが正常に保存されました。
-The response header pattern has been deleted successfully.|| 応答ヘッダーパターンは正常に削除されました。
-The service has to have one backend at least.|| サービスには少なくともXNUMXつのバックエンドが必要です。
-Are you sure you want to delete the farm {{param}}?|| ファーム{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected farms?|| 選択したファームを削除してもよろしいですか？
-Are you sure you want to delete the service {{param}}?|| サービス{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the zone {{param}}?|| ゾーン{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected resources?|| 選択したリソースを削除してもよろしいですか？
-Are you sure you want to delete the resource {{param}}?|| リソース{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the backend {{param}}?|| バックエンド{{param}}を削除してよろしいですか？
-Are you sure you want to delete the selected backends?|| 選択したバックエンドを削除してもよろしいですか？
-Are you sure you want to delete the request header with ID {{id}}?|| ID {{id}}のリクエストヘッダーを削除してもよろしいですか？
-Are you sure you want to delete the request header pattern with ID {{id}}?|| ID {{id}}のリクエストヘッダーパターンを削除してもよろしいですか？
-Are you sure you want to delete the selected request headers?|| 選択したリクエストヘッダーを削除してもよろしいですか？
-Are you sure you want to delete the selected request headers patterns?|| 選択したリクエストヘッダーパターンを削除してもよろしいですか？
-Are you sure you want to delete the response header with ID {{id}}?|| ID {{id}}の応答ヘッダーを削除してもよろしいですか？
-Are you sure you want to delete the response header pattern with ID {{id}}?|| ID {{id}}の応答ヘッダーパターンを削除してもよろしいですか？
-Are you sure you want to delete the selected response headers?|| 選択した応答ヘッダーを削除してもよろしいですか？
-Are you sure you want to delete the selected response headers patterns?|| 選択した応答ヘッダーパターンを削除してもよろしいですか？
-Are you sure you want to delete the {{param}} blacklist?|| {{param}}ブラックリストを削除してもよろしいですか？
-Are you sure you want to delete the selected blacklists?|| 選択したブラックリストを削除してもよろしいですか？
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| インターフェイス{{param}}のゲートウェイが削除され、このファームで置き換えられます。 続行しますか？
-SSL Certificate list|| SSL証明書リスト
-Choose one certificate|| 証明書を1つ選択してください
-Choose one or more files|| 1つ以上のファイルを選択
-Selected files|| 選択したファイル
-Descriptive text, this name will be used to identify this certificate.|| 説明テキスト、この名前はこの証明書を識別するために使用されます。
-City where your organization is located.|| あなたの組織が所在する市。
-Country (two characters) where your organization is located.|| 組織が所在する国（2文字）
-State or province where your organization is located.|| 組織が所在する州または県。
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| サーバーのFQDN。 例：domain.com、mail.domain.com、または* .domain.com。
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| 組織/会社の正式名称（例：ZEVENET Co.）
-Your department; such as 'IT','Web', 'Office', etc.|| あなたの部署 「IT」、「Web」、「オフィス」など。
-Your email address|| メールアドレス
-The CSR <strong> {{param}} </strong> has been generated successfully.|| CSR <strong> {{param}} </strong> 正常に生成されました。
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| 証明書 <strong> {{param}} </strong> アップロードに成功しました。
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| 証明書 <strong> {{param}} </strong> 削除されました。
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| 証明書 <strong> {{param}} </strong> ダウンロードに成功しました。
-Are you sure you want to delete the certificate {{param}}?|| 証明書{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected certificates?|| 選択した証明書を削除してもよろしいですか？
-Updates|| 更新版
-Update list|| 更新リスト
-Period time|| 生理時
-Exact time|| 正確な時間
-Daily every|| 毎日
-Day of the week|| 曜日
-Day of the month|| 月の日
-Sources|| 情報源
-DoS rules IPDS|| DoSルールIPDS
-RBL rules IPDS|| RBLルールIPDS
-Copy rule|| コピールール
-Rule to copy|| コピーする規則
-Ruleset to copy|| コピーするルールセット
-Select the rule to copy|| コピーするルールを選択します
-Select the ruleset to copy|| コピーするルールセットを選択します
-Custom Domain List|| カスタムドメインリスト
-Preloaded Domain List|| プリロードされたドメインリスト
-WAF rulesets IPDS|| WAFルールセットIPDS
-Default Action|| デフォルトのアクション
-Disable Rules|| ルールを無効にする
-IPDS Package Updates|| IPDSパッケージの更新
-Conditions|| 条件
-Flow|| 流量（フロー）
-WAF File List|| WAFファイルリスト
-WAF file|| WAFファイル
-Content File|| コンテンツファイル
-Select files|| ファイルを選択
-Select a file|| ファイルを選択
-Select transformations|| 変換を選択
-Connection limit per second.|| XNUMX秒あたりの接続制限。
-Total connections limit per source IP.|| 送信元IPごとの合計接続制限。
-Check bogus TCP flags.|| 偽のTCPフラグを確認してください。
-Limit RST request per second.|| XNUMX秒あたりのRST要求を制限します。
-Allow: Finish the WAF processing and complete the HTTP transaction|| 許可：WAF処理を終了し、HTTPトランザクションを完了します
-Pass: Continue executing the rules|| パス：ルールの実行を続行します
-Deny: Cut the request and not execute rules left|| 拒否：リクエストをカットし、残ったルールを実行しません
-Redirect: The client received a URL to redirect|| リダイレクト：クライアントはリダイレクトするURLを受け取りました
-Default action: The default action of this ruleset|| デフォルトアクション：このルールセットのデフォルトアクション
-Request headers are received|| リクエストヘッダを受信
-Request body is received|| リクエストボディを受け取る
-Response headers are received|| 応答ヘッダーが受信されます
-Response body is received|| レスポンスボディを受け取る
-Before than logging|| ロギング前より
-LUA Script|| LUAスクリプト
-Data file|| データファイル
-It is a collection with the values of arguments in a request.|| リクエストの引数の値を含むコレクションです。
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| これはJSONリクエスト内の引数の値を持つコレクションです。 この変数は、WAFがJSON引数を解析する場合に使用可能になります。そのため、ルールセットREQUEST-901-INITIALIZATIONを有効にする必要があります。
-The total size of the request parameters. The files are excluded.|| リクエストパラメータの合計サイズ。 ファイルは除外されます。
-It is a collection with the names of the arguments in a request.|| リクエスト内の引数の名前を持つコレクションです。
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| ユーザーfilesysのファイル名が含まれています。 データがmultipart / form-dataの場合のみ
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| 要求内のファイルの合計サイズです。 データがmultipart / form-dataの場合のみ
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| ファイルをアップロードするために使用されるファイル名のリストです。 データがmultipart / form-dataの場合のみ
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| 個々のファイルサイズのリストが含まれています。 データがmultipart / form-dataの場合のみ
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| 要求本体のフォーマットがJSONまたはXMLに対して正しくない場合、この変数は1です。それ以外の場合、値は0です。
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| それは生の要求です。 リクエストに &quot;application / x-www-form-urlencoded&quot;ヘッダがない場合は、REQUEST_HEADERフェーズで &quot;ctl：forceRequestBodyVariable&quot;を使用する必要があります。
-It is the number of bytes of the request body.|| リクエストボディのバイト数です。
-It is a list with all request cookies values.|| すべてのリクエストクッキーの値を含むリストです。
-It is a list with all request cookies names.|| それはすべてのリクエストクッキーの名前のリストです。
-This variable has all the request headers.|| この変数はすべてのリクエストヘッダを持ちます。
-This variable has a list with the request headers names.|| この変数はリクエストヘッダの名前のリストを持っています。
-It is the request method.|| リクエスト方法です。
-This variable holds the request HTTP version protocol.|| この変数はリクエストHTTPバージョンプロトコルを保持します。
-It is the URI request path. The virtual host is excluded.|| これはURI要求パスです。 仮想ホストは除外されます。
-It is the information before than the URI path.|| URIパスより前の情報です。
-It is the full request.|| それは完全な要求です。
-It is the number of bytes that full request can have.|| 全要求が持つことができるバイト数です。
-It is the raw body response.|| 生の反応です。
-It is the number of bytes of the response body.|| レスポンスボディのバイト数です。
-This variable has all response headers.|| この変数はすべてのレスポンスヘッダを持ちます。
-This variable has a list with the response headers names.|| この変数はレスポンスヘッダの名前のリストを持っています。
-This variable holds the response HTTP version protocol.|| この変数は、応答HTTPバージョンプロトコルを保持します。
-It is the response HTTP code.|| レスポンスHTTPコードです。
-It is the IP address of the client.|| クライアントのIPアドレスです。
-It is the port where the client initializes the connection.|| クライアントが接続を初期化するポートです。
-It is the name of the authenticated user.|| 認証されたユーザーの名前です。
-It is the server time. The format is hours:minutes:seconds.|| サーバーの時間です。 形式は時：分：秒です。
-It is the number of milliseconds since the beginning of the current transaction.|| 現在のトランザクションが開始されてからのミリ秒数です。
-It is the field filename in a multipart request.|| これはマルチパートリクエストのフィールドfilenameです。
-It is the field name in a multipart request.|| これはマルチパートリクエストのフィールド名です。
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| これは最後の一致操作で一致した値です。 この値にはキャプチャオプションは必要ありませんが、一致操作ごとに置き換えられます。
-It is a list of all matched values.|| 一致したすべての値のリストです。
-It is the IP address of the server.|| サーバーのIPアドレスです。
-It is the virtual host, it gets from the request URI.|| それは仮想ホストであり、リクエストURIから取得します。
-It is the environment variables of the WAF.|| それはWAFの環境変数です。
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| 現在のトランザクションの変数の集まりです。 トランザクションが終了すると、これらの変数は削除されます。 変数TX：0-TX：9は、strRegexまたはstrPhrases演算子でキャプチャされた値を保存します。
-Decodes a Base64-encoded string.|| Base64エンコード文字列をデコードします。
-Decodes a Base64-encoded string ignoring invalid characters.|| 無効な文字を無視してBase64エンコード文字列をデコードします。
-Decodes SQL hex data.|| SQL 16進データをデコードします。
-Encodes using Base64 encoding.|| Base64エンコーディングを使用してエンコードします。
-Avoids the problem related with the escaped command line.|| エスケープされたコマンドラインに関連した問題を回避します。
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| 空白文字（0x20、\\f、\\t、\\n、\\r、\\v、0xa0）をスペース（ASCII 0x20）に変換し、連続する複数のスペース文字を1つに圧縮します。
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| CSS 2.xエスケープルールを使用してエンコードされた文字をデコードします。 この関数は、デコードプロセスで最大2バイトのみを使用します。これは、CSSエンコード（通常はエンコードされない）を使用してエンコードされたASCII文字を発見するか、またはバックスラッシュと非-16進文字（たとえば、ja \\vascriptはjavascriptと同等）。
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| ANSI Cエスケープシーケンスをデコードします：\\a、\\b、\\f、\\n、\\r、\\t、\\v、\\、\\？、\\'、\\&quot;、\\xHH（16進数）、\\0OOO（8進数）。 無効なエンコーディングは出力に残ります。
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| hexEncodeで使用されているものと同じアルゴリズムを使用してエンコードされた文字列をデコードします（次のエントリを参照）。
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| 各入力バイトを2つの16進文字で置き換えることによって、文字列（おそらくバイナリ文字を含む）をエンコードします。 たとえば、xyzは78797aとしてエンコードされます。
-Decodes the characters encoded as HTML entities.|| HTMLエンティティとしてエンコードされた文字をデコードします。
-Decodes JavaScript escape sequences.|| JavaScriptのエスケープシーケンスをデコードします。
-Looks up the length of the input string in bytes, placing it (as string) in output.|| 入力文字列の長さをバイト単位で調べ、それを（文字列として）出力に入れます。
-Converts all characters to lowercase using the current C locale.|| 現在のCロケールを使用して、すべての文字を小文字に変換します。
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 入力のデータからMD5ハッシュを計算します。 計算されたハッシュは生のバイナリ形式であり、印刷（またはログ記録）するテキストにエンコードする必要がある場合があります。 ハッシュ関数は通常、hexEncodeと組み合わせて使用​​されます。
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| 実際の変換関数ではなく、現在のルールに関連付けられている以前の変換関数を削除する命令です。
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| 入力文字列から複数のスラッシュ、ディレクトリの自己参照、およびディレクトリの後方参照を削除します（入力の先頭にある場合を除く）。
-Same as normalizePath, but first converts backslash characters to forward slashes.|| normalizePathと同じですが、最初にバックスラッシュ文字をスラッシュに変換します。
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 各ターゲットバイトの7番目のビットを計算したパリティビットに置き換えて、8ビットデータの偶数パリティを計算します。
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| 各ターゲットバイトの7番目のビットを計算されたパリティビットで置き換えて、8ビットデータの奇数パリティを計算します。
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| 各対象バイトの7番目のビットをゼロパリティビットに置き換えて8ビットデータのゼロパリティを計算します。これにより、偶数/奇数パリティの7ビットデータをASCII7データとして検査できます。
-Removes all NUL bytes from input.|| 入力からすべてのNULバイトを削除します。
-Removes all whitespace characters from the input.|| 入力からすべての空白文字を削除します。
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| Cスタイルのコメント（/ *…* /）の各オカレンスを単一のスペースに置き換えます（連続する複数のオカレンスは圧縮されません）。 終了していないコメントもスペース（ASCII 0x20）に置き換えられます。 ただし、コメント（* /）のスタンドアロン終了は処理されません。
-Removes common comments chars (/*, */, –, #).|| 一般的なコメント文字（/ *、* /、-、＃）を削除します。
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| 入力のNULバイトをスペース文字（ASCII 0x20）に置き換えます。
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| URLエンコードされた入力文字列をデコードします。 無効なエンコーディング（つまり、16進数以外の文字を使用するもの、または文字列の末尾にあり、1または2バイトが欠けているもの）は変換されませんが、エラーは発生しません。
-Converts all characters to uppercase using the current C locale.|| 現在のCロケールを使用して、すべての文字を大文字に変換します。
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| urlDecodeと似ていますが、Microsoft固有の％uエンコーディングをサポートしています。
-Encodes input string using URL encoding.|| URLエンコードを使用して入力文字列をエンコードします。
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| すべてのUTF-8文字シーケンスをUnicodeに変換します。 これは、特に英語以外の言語の入力の正規化に役立ち、偽陽性と偽陰性を最小限に抑えます。
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| 入力文字列からSHA1ハッシュを計算します。 計算されたハッシュは生のバイナリ形式であり、印刷（またはログ）されるテキストにエンコードされる必要があるかもしれません。 ハッシュ関数は通常hexEncodeと組み合わせて使用​​されます。
-Removes whitespace from the left side of the input string.|| 入力文字列の左側から空白を削除します。
-Removes whitespace from the right side of the input string.|| 入力文字列の右側から空白を削除します。
-Removes whitespace from both the left and right sides of the input string.|| 入力文字列の左右両側から空白を削除します。
-The rule will match if any of the variables begin with the value of operating.|| いずれかの変数がoperatingの値で始まっていれば、規則は一致します。
-The rule will match if any of the variables contain the value of operating.|| いずれかの変数にoperatingの値が含まれていれば、規則は一致します。
-The rule will match if any of the variables contain a word as the string one.|| 変数のいずれかに文字列として単語が含まれている場合、ルールは一致します。
-The rule will match if any of the variables end with the value of operating.|| いずれかの変数がoperatingの値で終わっていれば、規則は一致します。
-The rule will match if any of the variables match with the value of operating.|| いずれかの変数がoperatingの値と一致する場合、ルールは一致します。
-The rule will match if any of the variables match with the value of operating.|| いずれかの変数がoperatingの値と一致する場合、ルールは一致します。
-The rule will match if any of the variables is identical to the value of operating.|| いずれかの変数がoperatingの値と同じであれば、規則は一致します。
-The rule will match if any of the variables match in the regular expression used in operating.|| 操作で使用される正規表現で変数のいずれかが一致する場合、ルールは一致します。
-The rule will match if any of the variables match in any of the values of the list operating.|| リスト演算子のいずれかの値でいずれかの変数が一致すると、ルールが一致します。
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| 演算子strPhrasesと同じですが、操作はフレーズのリストとして定義されているファイルです。
-The rule will match if any of the variables is equal to the number used in operating.|| いずれかの変数が操作に使用された数と等しい場合、規則は一致します。
-The rule will match if any of the variables is greater or equal to the number used in operating.|| いずれかの変数が操作に使用された数以上の場合、ルールは一致します。
-The rule will match if any of the variables is greater than the number used in operating.|| いずれかの変数が操作に使用された数より大きい場合、ルールは一致します。
-The rule will match if any of the variables is lower or equal to the number used in operating.|| いずれかの変数が操作に使用された数以下の場合、ルールは一致します。
-The rule will match if any of the variables is lower than the number used in operating.|| いずれかの変数が操作に使用された数より小さい場合、ルールは一致します。
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| SQLインジェクションの検出を変数のリストに適用します。 このオペレーターは何の操作も期待していません。
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| XSSインジェクションの検出を変数のリストに適用します。 このオペレーターは何の操作も期待していません。
-Try to match the IP or network segments of operating with the list of variables.|| 操作のIPまたはネットワークセグメントを変数のリストと一致させるようにしてください。
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| これは、ipMatch演算子と同じですが、IPとネットワークセグメントのリストを持つファイルに対して変数の一致を試みます。
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| 変数のバイト数が操作値の1つにあることを確認します。 操作例は「10、13、32-126」です。
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| エンコードされたデータを検証します。 この演算子は、データを一般的にエンコードしないデータ、またはデータが複数回エンコードされるデータに対してのみ使用する必要があります。
-It validates that variables are UTF-8. This operator does not expect any operating.|| 変数がUTF-8であることを検証します。 このオペレーターは、動作を期待していません。
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| 変数がクレジットカード番号かどうかを確認します。 このパラメータは正規表現を作動として受け入れ、一致する場合は検証済みのクレジットカードを適用します。
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| 変数が米国の社会保障番号かどうかを検証します。 このパラメーターは正規表現を操作として受け入れ、一致する場合はSSN検証を適用します。
-It returns true always, forcing a match.|| 常にtrueを返し、強制的に一致させます。
-It returns false always, forcing a non-match.|| 常にfalseを返し、不一致を強制します。
-A word is delimited by characters different to (a-z, 0-9 and '_')|| 単語は（az、0-9および '_'）と異なる文字で区切られます
-Can be a list of strings split by the character ,|| 文字で区切られた文字列のリストにすることができます
-Can be a list of strings split by the character |,|| 文字で区切られた文字列のリストにすることができます|、
-Can be a list of strings split by a blank space|| 空白で区切られた文字列のリストにすることができます
-Can be a list of IPs or network segments split by the character ,|| IPのリスト、または文字で分割されたネットワークセグメントを指定できます。
-Can be a list of IPs ranges split by the character ,|| IP範囲のリストを文字で区切ることができます。
-Can be selected more than one file.|| 複数のファイルを選択できます。
-It uses the PCRE engine, optional field.|| PCREエンジンのオプションフィールドを使用します。
-It uses the PCRE engine, optional field.|| PCREエンジンのオプションフィールドを使用します。
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| PCREエンジンを使用します。 式（？i）は、大文字と小文字を区別しないで照合するために使用されます。
-This operator does not expect any operating.|| このオペレーターは、動作を期待していません。
-String.|| 文字列。
-Number.|| 数。
-The <strong> {{param}} </strong> blacklist has been created successfully.||   <strong> {{param}} </strong> ブラックリストが正常に作成されました。
-The <strong> {{param}} </strong> blacklist has been deleted successfully.||   <strong> {{param}} </strong> ブラックリストは正常に削除されました。
-The <strong> {{param}} </strong> blacklist has been stopped successfully.||   <strong> {{param}} </strong> ブラックリストは正常に停止されました。
-The <strong> {{param}} </strong> blacklist has been started successfully.||   <strong> {{param}} </strong> ブラックリストが正常に開始されました。
-The <strong> {{param}} </strong> blacklist has been updated successfully.||   <strong> {{param}} </strong> ブラックリストは正常に更新されました。
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| 農場 <strong> {{param}} </strong> ブラックリストに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| 農場 <strong> {{param}} </strong> ブラックリストから削除されました。
-The <strong> {{param}} </strong> DoS rule has been created successfully.||   <strong> {{param}} </strong> DoSルールが正常に作成されました。
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.||   <strong> {{param}} </strong> DoSルールは正常に削除されました。
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.||   <strong> {{param}} </strong> DoSルールは正常に停止されました。
-The <strong> {{param}} </strong> DoS rule has been started successfully.||   <strong> {{param}} </strong> DoSルールが正常に開始されました。
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| 農場 <strong> {{param}} </strong> DoSルールに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| 農場 <strong> {{param}} </strong> DoSルールが正常に削除されました。
-The source has been created successfully|| ソースが正常に作成されました
-The source has been updated successfully|| ソースは正常に更新されました
-The source <strong> {{param}} </strong> has been deleted successfully.|| 起源 <strong> {{param}} </strong> 削除されました。
-The <strong> {{param}} </strong> RBL rule has been created successfully.||   <strong> {{param}} </strong> RBLルールが正常に作成されました。
-The <strong> {{param}} </strong> RBL rule has been updated successfully.||   <strong> {{param}} </strong> RBLルールが正常に更新されました。
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.||   <strong> {{param}} </strong> RBLルールは正常に削除されました。
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.||   <strong> {{param}} </strong> RBLルールは正常に停止されました。
-The <strong> {{param}} </strong> RBL rule has been started successfully.||   <strong> {{param}} </strong> RBLルールが正常に開始されました。
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| 農場 <strong> {{param}} </strong> RBLルールに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| 農場 <strong> {{param}} </strong> RBLルールが正常に削除されました。
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| ドメイン <strong> {{param}} </strong> RBLルールに正常に追加されました。
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| ドメイン <strong> {{param}} </strong> RBLルールが正常に削除されました。
-The domain <strong> {{param}} </strong> has been created successfully|| ドメイン <strong> {{param}} </strong> 正常に作成されました
-The domain has been updated successfully|| ドメインが正常に更新されました
-The domain <strong> {{param}} </strong> has been deleted successfully.|| ドメイン <strong> {{param}} </strong> 削除されました。
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.||   <strong> {{param}} </strong> WAFルールセットが正常に作成されました。
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.||   <strong> {{param}} </strong> WAFルールセットは正常に削除されました。
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.||   <strong> {{param}} </strong> WAFルールセットは正常に停止されました。
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.||   <strong> {{param}} </strong> WAFルールセットが正常に開始されました。
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.||   <strong> {{param}} </strong> WAFルールセットが正常に更新されました。
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| 農場 <strong> {{param}} </strong> WAFルールセットに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| 農場 <strong> {{param}} </strong> WAFルールセットが正常に削除されました。
-The rule <strong> {{param}} </strong> has been created successfully.|| ルール <strong> {{param}} </strong> 正常に作成されました。
-The rule <strong> {{param}} </strong> has been moved successfully.|| ルール <strong> {{param}} </strong> 移動しました。
-The rule <strong> {{param}} </strong> has been deleted successfully.|| ルール <strong> {{param}} </strong> 削除されました。
-The rule <strong> {{param}} </strong> has been updated successfully|| ルール <strong> {{param}} </strong> 正常に更新されました
-The match has been created successfully|| 一致が正常に作成されました
-The match <strong> {{param}} </strong> has been deleted successfully.|| 試合 <strong> {{param}} </strong> 削除されました。
-The WAF file <strong> {{param}} </strong> has been created successfully.|| WAFファイル <strong> {{param}} </strong> 正常に作成されました。
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| WAFファイル <strong> {{param}} </strong> 削除されました。
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| WAFファイル <strong> {{param}} </strong> 更新に成功しました。
-The <strong> IPDS package </strong> has been scheduled successfully.||   <strong> IPDSパッケージ </strong> 正常にスケジュールされました。
-The <strong> IPDS package </strong> has been upgraded successfully.||   <strong> IPDSパッケージ </strong> 正常にアップグレードされました。
-Are you sure you want to delete the {{param}} blacklist?|| {{param}}ブラックリストを削除してもよろしいですか？
-Are you sure you want to delete the selected blacklists?|| 選択したブラックリストを削除してもよろしいですか？
-Are you sure you want to delete the {{param}} DoS rule?|| {{param}} DoSルールを削除してもよろしいですか？
-Are you sure you want to delete the selected DoS rules?|| 選択したDoSルールを削除してもよろしいですか？
-Are you sure you want to delete the source {{param}}?|| ソース{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected sources?|| 選択したソースを削除してもよろしいですか？
-Are you sure you want to delete the {{param}} RBL rule?|| {{param}} RBLルールを削除してもよろしいですか？
-Are you sure you want to delete the selected RBL rules?|| 選択したRBLルールを削除してもよろしいですか？
-Are you sure you want to delete the domain {{param}}?|| ドメイン{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected domains?|| 選択したドメインを削除してもよろしいですか？
-Are you sure you want to delete the {{param}} WAF ruleset?|| {{param}} WAFルールセットを削除してもよろしいですか？
-Are you sure you want to delete the selected rulesets?|| 選択したルールセットを削除してもよろしいですか？
-'Are you sure you want to delete the rule {{param}}?|| 'ルール{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the match {{param}}?|| 一致する{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected matches?|| 選択した一致を削除してもよろしいですか？
-Are you sure you want to delete the file {{param}}?|| ファイル{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected files?|| 選択したファイルを削除してもよろしいですか？
-System Graphs|| システムグラフ
-Interfaces Graphs|| インタフェースグラフ
-Farms Graph|| 農場グラフ
-Farms Stats|| 農場統計
-System Stats|| システム統計
-Network Stats|| ネットワーク統計
-Copy farmguardian|| 農場の保護者のコピー
-Farmguardian to copy|| コピーするFarmguardian
-Select the farmguardian to copy|| コピーするファームガーディアンを選択
-Total Memory|| 合計メモリ
-Free Memory|| 空きメモリ
-Used Memory|| 使用メモリ
-Buffers|| バッファー
-Cached|| キャッシュされた
-Total Swap|| 合計スワップ
-Free Swap|| フリースワップ
-Used Swap|| 使用済みスワップ
-Cached Swap|| キャッシュされたスワップ
-Idle|| アイドル
-Usage|| 使用法
-Iowait|| アイオワ
-Irq|| Irq
-Nice|| ニース
-Softirq|| Softirq
-Sys|| SYS
-User|| ユーザー
-Last minute|| 直前
-Last 5 minutes|| 最後の5分間
-Last 15 minutes|| 最後の15分間
-Are you sure you want to delete the {{param}} farmguardian?|| {{param}}ファームガードを削除してもよろしいですか？
-Are you sure you want to delete the selected farmguardians?|| 選択した農家の保護者を削除してもよろしいですか？
-The <strong> {{param}} </strong> farmguardian has been created successfully.||   <strong> {{param}} </strong> farmguardianが正常に作成されました。
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.||   <strong> {{param}} </strong> farmguardianは正常に削除されました。
-The <strong> {{param}} </strong> farmguardian has been updated successfully.||   <strong> {{param}} </strong> farmguardianは正常に更新されました。
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| 農場 <strong> {{param}} </strong> ファームガーディアンに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| 農場 <strong> {{param}} </strong> 農場の保護者から削除されました。
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| 農場 <strong> {{param}} with the service {{param2}} </strong> ファームガーディアンに正常に追加されました。
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| 農場 <strong> {{param}} with the service {{param2}} </strong> 農場の保護者から削除されました。
-NIC List|| NICリスト
-Bonding Interface List|| ボンディングインターフェイスリスト
-Select the slaves|| スレーブを選択
-VLAN Interface List|| VLANインタフェースリスト
-VLAN ID|| VLAN ID
-VLAN tag|| VLANタグ
-Virtual Interface List|| 仮想インタフェース一覧
-Virtual interface name|| 仮想インタフェース名
-Virtual interface tag|| 仮想インターフェイスタグ
-Floating IP List|| フローティングIPリスト
-IPv4 Gateway|| IPv64ゲートウェイ
-IPv6 Gateway|| IPv66ゲートウェイ
-IPv4 Gateway Settings|| IPv4ゲートウェイ設定
-IPv6 Gateway Settings|| IPv6ゲートウェイ設定
-Backends Aliases|| バックエンドエイリアス
-Interfaces Aliases|| インターフェイスエイリアス
-Routing Rule List|| ルーティングルールリスト
-Routing Table List|| ルーティングテーブルリスト
-Priority should be a value between {{min}} and {{max}}|| 優先度は{{min}}〜{{max}}の間の値である必要があります
-Configure table {{param}}|| テーブル{{param}}を構成します
-Available Routes|| 利用可能なルート
-Routing table for the outputs of the interface {{param}}.|| インターフェイス{{param}}の出力のルーティングテーブル。
-Should be a IP address or CIDR|| IPアドレスまたはCIDRである必要があります
-Should be a IP address (IPv4/IPv6)|| IPアドレス（IPv4 / IPv6）でなければなりません
-Are you sure you want to unset the NIC {{param}}?|| NIC {{param}}の設定を解除してもよろしいですか？
-Are you sure you want to unset the selected NIC?|| 選択したNICの設定を解除してもよろしいですか？
-Are you sure you want to unset the Bonding {{param}}?|| ボンディング{{param}}の設定を解除してもよろしいですか？
-Are you sure you want to unset the selected Bondings?|| 選択したボンディングの設定を解除してもよろしいですか？
-Are you sure you want to delete the Bonding {{param}}?|| 結合{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected Bondings?|| 選択したボンディングを削除してもよろしいですか？
-Are you sure you want to delete the VLAN {{param}}?|| VLAN {{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected VLANs?|| 選択したVLANを削除してもよろしいですか？
-Are you sure you want to delete the Virtual interface {{param}}?|| 仮想インターフェイス{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected Virtual interfaces?|| 選択した仮想インターフェイスを削除してもよろしいですか？
-Are you sure you want to unset the Floating IP of {{param}}?|| {{param}}のフローティングIPの設定を解除してもよろしいですか？
-Are you sure you want to unset the selected Floating IPs?|| 選択したフローティングIPの設定を解除してもよろしいですか？
-Are you sure you want to unset the gateway for {{param}}?|| {{param}}のゲートウェイを設定解除してもよろしいですか？
-Are you sure you want to delete the alias {{param}}?|| エイリアス{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected aliases?|| 選択したエイリアスを削除してもよろしいですか？
-Are you sure you want to delete the routing rule {{param}}?|| ルーティングルール{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected routing rules?|| 選択したルーティングルールを削除してもよろしいですか？
-Are you sure you want to delete the route {{param}}?|| ルート{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected routes?|| 選択したルートを削除してもよろしいですか？
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.||   <strong> {{param}} </strong> NICは正常に構成解除されました。
-The <strong> {{param}} </strong> NIC is up.||   <strong> {{param}} </strong> NICは起動しています。
-The <strong> {{param}} </strong> NIC is down.||   <strong> {{param}} </strong> NICがダウンしています。
-The <strong> {{param}} </strong> NIC has been updated successfully.||   <strong> {{param}} </strong> NICは正常に更新されました。
-The <strong> {{param}} </strong> NIC has updated the alias successfully.||   <strong> {{param}} </strong> NICはエイリアスを正常に更新しました。
-The <strong> {{param}} </strong> Bonding has been created successfully.||   <strong> {{param}} </strong> ボンディングが正常に作成されました。
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.||   <strong> {{param}} </strong> ボンディングは正常に構成解除されました。
-The <strong> {{param}} </strong> Bonding is up.||   <strong> {{param}} </strong> ボンディングが完了しました。
-The <strong> {{param}} </strong> Bonding is down.||   <strong> {{param}} </strong> ボンディングがダウンしています。
-The <strong> {{param}} </strong> Bonding has been updated successfully.||   <strong> {{param}} </strong> ボンディングが正常に更新されました。
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.||   <strong> {{param}} </strong> ボンディングによりエイリアスが正常に更新されました。
-The <strong> {{param}} </strong> Bonding has been deleted successfully.||   <strong> {{param}} </strong> ボンディングは正常に削除されました。
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.||   <strong> {{param}} </strong> スレーブがボンディングに正常に追加されました。
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.||   <strong> {{param}} </strong> スレーブはボンディングから正常に削除されました。
-The <strong> {{param}} </strong> VLAN has been created successfully.||   <strong> {{param}} </strong> VLANは正常に作成されました。
-The <strong> {{param}} </strong> VLAN is up.||   <strong> {{param}} </strong> VLANはアップしています。
-The <strong> {{param}} </strong> VLAN is down.||   <strong> {{param}} </strong> VLANがダウンしています。
-The <strong> {{param}} </strong> VLAN has been updated successfully.||   <strong> {{param}} </strong> VLANは正常に更新されました。
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.||   <strong> {{param}} </strong> VLANはエイリアスを正常に更新しました。
-The <strong> {{param}} </strong> VLAN has been deleted successfully.||   <strong> {{param}} </strong> VLANは正常に削除されました。
-The <strong> {{param}} </strong> Virtual interface has been created successfully.||   <strong> {{param}} </strong> 仮想インターフェースは正常に作成されました。
-The <strong> {{param}} </strong> Virtual interface is up.||   <strong> {{param}} </strong> 仮想インターフェイスがアップしています。
-The <strong> {{param}} </strong> Virtual interface is down.||   <strong> {{param}} </strong> 仮想インターフェイスがダウンしています。
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.||   <strong> {{param}} </strong> 仮想インターフェースは正常に更新されました。
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.||   <strong> {{param}} </strong> 仮想インターフェイスはエイリアスを正常に更新しました。
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.||   <strong> {{param}} </strong> 仮想インターフェースは正常に削除されました。
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.||   <strong> {{param}} </strong> フローティングIPは正常に構成解除されました。
-The <strong> {{param}} </strong> Floating IP is up.||   <strong> {{param}} </strong> フローティングIPが起動しています。
-The <strong> {{param}} </strong> Floating IP is down.||   <strong> {{param}} </strong> フローティングIPがダウンしています。
-The <strong> {{param}} </strong> Floating IP has been updated successfully.||   <strong> {{param}} </strong> フローティングIPは正常に更新されました。
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.||   <strong> {{param}} </strong> フローティングIPはエイリアスを正常に更新しました。
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.||   <strong> {{param}} </strong> フローティングIPは正常に削除されました。
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| ゲートウェイ <strong> {{param}} </strong> 正常に構成解除されました。
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| ゲートウェイ <strong> {{param}} </strong> 更新に成功しました。
-The <strong> {{param}} </strong> Alias has been created successfully.||   <strong> {{param}} </strong> エイリアスが正常に作成されました。
-The <strong> {{param}} </strong> Alias has been updated successfully.||   <strong> {{param}} </strong> エイリアスは正常に更新されました。
-The <strong> {{param}} </strong> Alias has been deleted successfully.||   <strong> {{param}} </strong> エイリアスは正常に削除されました。
-The <strong> {{param}} </strong> routing rule has been deleted successfully.||   <strong> {{param}} </strong> ルーティングルールが正常に削除されました。
-The <strong> {{param}} </strong> routing rule has been updated successfully.||   <strong> {{param}} </strong> ルーティングルールが正常に更新されました。
-The <strong> {{param}} </strong> routing rule has been created successfully.||   <strong> {{param}} </strong> ルーティングルールが正常に作成されました。
-The route <strong> {{param}} </strong> has been deleted successfully.|| ルート <strong> {{param}} </strong> 削除されました。
-The route <strong> {{param}} </strong> has been updated successfully.|| ルート <strong> {{param}} </strong> 更新に成功しました。
-The route <strong> {{param}} </strong> has been created successfully.|| ルート <strong> {{param}} </strong> 正常に作成されました。
-To remove a route you must select it first.|| ルートを削除するには、まずルートを選択する必要があります。
-The route {{param}} cannot be removed because it is a system route.|| ルート{{param}}はシステムルートであるため削除できません。
-The interface <strong> {{param}} </strong> has been disabled.|| インタフェース <strong> {{param}} </strong> 無効になっています。
-The interface <strong> {{param}} </strong> has been enabled.|| インタフェース <strong> {{param}} </strong> 有効になっています。
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.||   <strong> {{param}} </strong> スレーブは削除できません。 ボンディングには少なくとも1つのスレーブが必要です。
-HTTP Service|| HTTPサービス
-SSH Service|| SSHサービス
-SNMP Service|| SNMPサービス
-The physical interface where is running GUI service|| GUIサービスを実行している物理インターフェイス
-If the cluster is up you only can select the cluster interface or all|| クラスターが稼働している場合は、クラスターインターフェイスまたはすべてを選択できます
-HTTPS Port where is running GUI service|| GUIサービスを実行しているHTTPSポート
-The physical interface where is running SSH service|| SSHサービスを実行している物理インターフェイス
-SSH Port where is running SSH service|| SSHサービスを実行しているSSHポート
-Enable SNMP|| SNMPを有効にする
-The physical interface where is running SNMP service|| SNMPサービスを実行している物理インターフェイス
-SNMP Port where is running SNMP service|| SNMPサービスを実行しているSNMPポート
-Community name|| コミュニティ名
-IP or subnet with access|| アクセス可能なIPまたはサブネット
-Primary server|| プライマリサーバ
-Secondary Server|| 副サーバ
-NTP server|| NTPサーバー
-NTP Service|| NTPサービス
-Proxy Service|| 代理サービス
-DNS Service|| DNSサービス
-Configure cluster|| クラスターを構成する
-Local IP|| ローカルIP
-Remote IP|| リモートIP
-Remote Node Password|| リモートノードのパスワード
-Confirm Password|| パスワードを入力
-Backup List|| バックアップリスト
-Backup file|| バックアップファイル
-Choose one file|| ファイルを1つ選択してください
-Alerts Service|| アラートサービス
-Alerts|| アラート
-Email Notifications|| 電子メール通知
-Mail Server|| メールサーバー
-Mail User|| メールユーザー
-TLS|| TLS
-Backends Alert|| バックエンドアラート
-Cluster Alert|| クラスターアラート
-Prefix Subject|| 接頭辞の件名
-Avoid flapping time|| 羽ばたき時間を避ける
-The time that alerts wait when backend is flapping|| バックエンドがフラッピングしているときにアラートが待機する時間
-User Settings|| ユーザー設定
-ZAPI Key|| ZAPIキー
-Change Password|| パスワードの変更
-Current password|| 現在のパスワード
-New password|| 新しいパスワード
-Repeat new password|| 新しいパスワードを再入力
-Log List|| ログリスト
-Log view|| ログビュー
-When this action is executed a file with system information will be downloaded.|| このアクションが実行されると、システム情報を含むファイルがダウンロードされます。
-This action may take several seconds, you can continue browsing the GUI.|| この操作には数秒かかることがあります。GUIを参照し続けることができます。
-Select an interface which won't be deleted|| 削除されないインターフェイスを選択します
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| このアクションにより、選択したインターフェース、バックアップ、アクティベーション証明書を除くすべての構成が破棄されます。
-The current credentials for user root will not be modified.|| ユーザーrootの現在の資格情報は変更されません。
-User List|| ユーザー一覧
-Group List|| グループリスト
-Role List|| 役割リスト
-Role Settings|| ロール設定
-Show all permissions|| すべての権限を表示
-Hide all permissions|| すべての権限を非表示
-Show permissions|| 権限を表示
-Hide permissions|| 権限を非表示
-LDAP Server|| LDAPサーバー
-Base DN|| ベースDN
-Bind DN|| バインドDN
-Scope|| 範囲
-Bind Password|| バインドパスワード
-Filter|| フィルタ
-Global Services|| グローバルサービス
-Enable session replication|| セッション複製を有効にする
-Enable Duplicated network|| 複製ネットワークを有効にする
-Enable ARP announce|| ARPアナウンスを有効にする
-Custom Routes|| カスタムルート
-System Routes|| システムルート
-Use proxy of new generation|| 新世代のプロキシを使用する
-Validation Systems|| 検証システム
-AWS Credentials|| AWS認証情報
-Access Key|| アクセスキー
-Secret Key|| 秘密鍵
-Region||  
-SSL Certificate|| SSL証明書
-RBAC User|| RBACユーザー
-RBAC Group|| RBACグループ
-RBAC Role|| RBACの役割
-Network Virtual Interface|| ネットワーク仮想インタフェース
-System Service|| システムサービス
-Notification|| 通知ですよ
-Host or URL allowed|| 許可されたホストまたはURL
-It will not be used if the HOST/URL field contains a URL|| HOST / URLフィールドにURLが含まれている場合は使用されません
-Filter used to get the LDAP field that contains the user ID to log in|| ログインするユーザーIDを含むLDAPフィールドを取得するために使用されるフィルター
-The Search Request will be performed against the entry specified as the search base DN.|| 検索要求は、検索ベースDNとして指定されたエントリに対して実行されます。
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| 検索要求は、検索ベースDNとして指定されたエントリの直下のエントリに対して実行されます。
-The Search Request will be performed against the search base and all entries below|| 検索リクエストは、検索ベースと以下のすべてのエントリに対して実行されます
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| 新しい管理GUIアドレスは{{param}}です。新しいURLでGUIに再接続してください。
-The <strong> HTTP service </strong> has been updated successfully.||   <strong> HTTPサービス </strong> 更新に成功しました。
-The <strong> SSH service </strong> has been updated successfully.||   <strong> SSHサービス </strong> 更新に成功しました。
-The <strong> SNMP service </strong> has been updated successfully.||   <strong> SNMPサービス </strong> 更新に成功しました。
-The <strong> global services </strong> have been updated successfully||   <strong> グローバルサービス </strong> 正常に更新されました
-The <strong> DNS service </strong> has been updated successfully.||   <strong> DNSサービス </strong> 更新に成功しました。
-The <strong> NTP service </strong> has been updated successfully.||   <strong> NTPサービス </strong> 更新に成功しました。
-The <strong> Proxy service </strong> has been updated successfully.||   <strong> プロキシサービス </strong> 更新に成功しました。
-The backup <strong> {{param}} </strong> has been deleted successfully.|| バックアップ <strong> {{param}} </strong> 削除されました。
-The backup <strong> {{param}} </strong> has been applied successfully.|| バックアップ <strong> {{param}} </strong> 正常に適用されました。
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| バックアップ <strong> {{param}} </strong> ダウンロードに成功しました。
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| バックアップ <strong> {{param}} </strong> アップロードに成功しました。
-The backup <strong> {{param}} </strong> has been created successfully.|| バックアップ <strong> {{param}} </strong> 正常に作成されました。
-The <strong> backends alert </strong> has been applied successfully.||   <strong> バックエンドアラート </strong> 正常に適用されました。
-The <strong> cluster alert </strong> has been applied successfully.||   <strong> クラスターアラート </strong> 正常に適用されました。
-The configuration of email has been updated successfully.|| 電子メールの構成が正常に更新されました。
-The alert has been updated successfully.|| アラートは正常に更新されました。
-The test email has been sent successfully.|| テストメールが正常に送信されました。
-The user has been updated successfully.|| ユーザーは正常に更新されました。
-The log <strong> {{param}} </strong> has been downloaded successfully.|| ログ <strong> {{param}} </strong> ダウンロードに成功しました。
-The <strong> Support Save </strong> has been downloaded successfully.||   <strong> サポート保存 </strong> ダウンロードに成功しました。
-The user <strong> {{param}} </strong> has been deleted successfully.|| ユーザー <strong> {{param}} </strong> 削除されました。
-The user {{param}} has been created successfully.|| ユーザー{{param}}が正常に作成されました。
-The user {{param}} has been updated successfully.|| ユーザー{{param}}は正常に更新されました。
-The group <strong> {{param}} </strong> has been deleted successfully.|| グループ <strong> {{param}} </strong> 削除されました。
-The group {{param}} has been created successfully.|| グループ{{param}}が正常に作成されました。
-The group {{param}} has been updated successfully.|| グループ{{param}}は正常に更新されました。
-The user <strong> {{param}} </strong> has been added to the group successfully.|| ユーザー <strong> {{param}} </strong> グループに正常に追加されました。
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| ユーザー <strong> {{param}} </strong> グループから削除されました。
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| 農場 <strong> {{param}} </strong> グループに正常に追加されました。
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| 農場 <strong> {{param}} </strong> グループから削除されました。
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| インタフェース <strong> {{param}} </strong> グループに正常に追加されました。
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| インタフェース <strong> {{param}} </strong> グループから削除されました。
-The role <strong> {{param}} </strong> has been deleted successfully.|| 役割 <strong> {{param}} </strong> 削除されました。
-The role {{param}} has been created successfully.|| ロール{{param}}が正常に作成されました。
-The role {{param}} has been updated successfully.|| ロール{{param}}は正常に更新されました。
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| LDAPサーバーが構成されました。 接続をテストして、構成が正しいことを確認してください。
-The connectivity test has been done successfully.|| 接続テストは正常に完了しました。
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| 検証システム <strong> {{param}} </strong> 正常に有効化されました。
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| 検証システム <strong> {{param}} </strong> 正常に無効化されました。
-The cluster has been created successfully.|| クラスターが正常に作成されました。
-The cluster has been updated successfully.|| クラスターは正常に更新されました。
-The cluster has been destroyed successfully.|| クラスターは正常に破壊されました。
-The <strong>local node</strong> has been put in maintenance successfully.||   <strong>ローカルノード</strong> メンテナンスに成功しました。
-The <strong>local node</strong> has been enabled successfully.||   <strong>ローカルノード</strong> 正常に有効化されました。
-The AWS credentials have been configured successfully.|| AWS認証情報が正常に設定されました。
-The Azure credentials have been configured successfully.|| Azure資格情報が正常に構成されました。
-Are you sure you want to delete the backup {{param}}?|| バックアップ{{param}}を削除してよろしいですか？
-Are you sure you want to delete the selected backups?|| 選択したバックアップを削除してもよろしいですか？
-Are you sure you want to delete the user {{param}}?|| ユーザー{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected users?|| 選択したユーザーを削除してもよろしいですか？
-Are you sure you want to delete the group {{param}}?|| グループ{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected groups?|| 選択したグループを削除してもよろしいですか？
-Are you sure you want to delete the role {{param}}?|| ロール{{param}}を削除してもよろしいですか？
-Are you sure you want to delete the selected roles?|| 選択した役割を削除してもよろしいですか？
-Are you sure you want to destroy the cluster?|| クラスターを破棄してもよろしいですか？
-Dashboard|| ダッシュボード
-News|| ニュース
-LSLB|| LSLB
-Farms|| 農場
-SSL Certificates|| SSL証明書
-Generate csr|| CSRを生成
-Stats|| 統計
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| 設定
-Blacklists|| ブラックリスト
-DoS|| DoS攻撃
-RBL|| RBL
-Rules|| キャンペーンのルール
-Domains|| ドメイン
-WAF|| WAF
-Rulesets|| ルールセット
-Files|| ファイル
-Monitoring|| 監視
-Graphs|| グラフ
-Farmguardians|| 農場の人々
-Network|| ネットワーク
-NIC|| NIC
-Bonding|| ボンディング
-VLAN|| VLAN
-Virtual Interfaces|| 仮想インタフェース
-Floating IPs|| フローティングIP
-Gateway|| ゲートウェイ
-Aliases|| エイリアス
-Routing|| ルーティング
-Tables|| テーブル
-System|| エントルピー
-RBAC|| RBAC
-Users|| ユーザー
-Groups|| グループ
-Roles|| 役割
-Local Services|| ローカルサービス
-Remote Services|| リモートサービス
-Cluster|| クラスタ
-Backups|| バックアップ
-Notifications|| お知らせ
-User|| ユーザー
-Logs|| ログ
-Activation Certificate|| アクティベーション証明書
-License|| ライセンス
-SupportSave|| サポート保存
-Factory Reset|| 工場リセット
+Sign in with your username and password || ユーザー名とパスワードを使ってサインインする
+Success! || 成功！
+Username || ユーザー名
+User should be the real one! || ユーザーは本物でなければなりません！
+Password should contains from {{min}} to {{max}} characters || パスワードには{{min}}〜{{max}}文字が含まれている必要があります
+Sign In || 登録
+Logging out, please wait... || ログアウトしています。お待ちください…
+Package list to upgrade || アップグレードするパッケージリスト
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || システムをアップグレードするには、シェルで次のコマンドを実行してください： 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || *チェックの実行を強制する場合、この情報は毎日更新されます <code>checkupgrades</code> コマンドラインから。
+No activation certificate || アクティベーション証明書なし
+There isn't a valid ZEVENET certificate file, please request a new one || 有効なZEVENET証明書ファイルがありません。新しいファイルをリクエストしてください
+Certificate Key || 証明書キー
+Activation Certificate file || アクティベーション証明書ファイル
+Activation Data || アクティベーションデータ
+Copy data to the clipboard || データをクリップボードにコピーします
+Activation Certificate || アクティベーション証明書
+Select an activation certificate || アクティベーション証明書を選択してください
+Upload Activation Certificate || アクティベーション証明書をアップロード
+No Support || サポートなし
+Certificate expired || 期限切れの証明書
+Support expired || サポート期限切れ
+Certificate expires in {{param}} {{param2}} || {{param}} {{param2}}で証明書の有効期限が切れます
+Support expires in {{param}} {{param2}} || {{param}} {{param2}}でサポートの有効期限が切れます
+The activation certificate has been uploaded successfully. || アクティベーション証明書が正常にアップロードされました。
+The Activation Certificate has been deleted successfully. || アクティベーション証明書は正常に削除されました。
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || アクティベーション証明書を削除してもよろしいですか？\\n削除すると、別の証明書をアップロードするまでGUIにアクセスできなくなります。
+Upload || アップロード
+Uploading || アップロード
+Add || 追加
+Disable maintenance || メンテナンスを無効にする
+Enable maintenance || メンテナンスを有効にする
+Drain mode || 排水モード
+Cut mode || カットモード
+Edit || 編集
+Configure || 設定する
+Save || 保存
+Add Variable || 変数を追加
+Bring || 持って来る
+Export || 輸出
+All data || すべてのデータ
+Only selected || 選択されたもののみ
+Apply || 適用
+Create || 作ります
+Cancel || キャンセル
+Submit || 送信
+New Service || 新サービス
+New Zone || 新しいゾーン
+New Route || 新しいルート
+Basic || ベーシック
+Advanced || 高度な
+Generate || 生成する
+Generating || 生成
+Delete || 削除
+Bring Up || 持ってくる
+Bring down || 倒す
+Restart || 再起動
+Restarting || 再起動する
+Start || 開始
+Stop || 停止
+Unset || 未設定
+Enable || 有効にします
+Disable || 無効にします
+Remove || 削除します
+Download || ダウンロード
+Downloading || ダウンロード
+Update || アップデイト
+New Rule || 新しいルール
+Next || 次
+Back || バック
+Generate Random MAC || ランダムMACを生成
+Destroy || 破壊する
+Test Email || テストメール
+Generate Random Key || ランダムキーを生成する
+Upload Certificate || 証明書をアップロードする
+Delete Certificate || 証明書を削除する
+List || リスト
+Menu || メニュー
+Modify || 修正します
+Show || ショー
+Action || アクション
+Test || テスティング 
+Schedule || スケジュール
+Upgrade || アップグレード
+View || 詳細
+Info || インフォ
+Test Connectivity || 接続性のテスト
+Show certificate || 証明書を表示
+Force Changes || 強制変更
+Page Not Found || ページが見つかりません
+The page you were looking for doesn't exist || 探しているページは存在しません
+Take me home || 家まで連れて帰ってください
+Status || 状態
+Actions || アクション
+Name || お名前
+ID ||  ID
+Alias || エイリアス
+IP ||  IP
+Interface || インタフェース
+Priority || 優先
+Port || ポート
+Weight || 重さ
+Max. Conns || 最大 Conns
+Name || お名前
+Virtual IP || 仮想IP
+Vitual Port || 仮想ポート
+Virtual IP and Port || 仮想IPとポート
+Default TCP port health check || デフォルトのTCPポートヘルスチェック
+Health Checks for backend || バックエンドのヘルスチェック
+Default Name Server || デフォルトネームサーバ
+Type || 種類
+Data || データ
+Profile || プロフィール
+HTTPS Parameters || HTTPSパラメータ
+Ciphers || 暗号
+Custom ciphers || カスタム暗号
+Protocol type || プロトコルの種類
+NAT type || NATタイプ
+Rewrite location headers || ロケーションヘッダーを書き換える
+HTTP verbs accepted || HTTP動詞が受け入れられました
+Ignore 100 continue || 100を無視して続行
+Backend connection timeout || バックエンド接続タイムアウト
+Backend response timeout || バックエンドの応答タイムアウト
+Frequency to check resurrected backends || 復活したバックエンドをチェックする頻度
+Client request timeout || クライアント要求タイムアウト
+Message Error || メッセージエラー
+Request Headers || リクエストヘッダー
+Response Headers || 応答ヘッダー
+Persistence || 固執
+Persistence session time to live || 持続セッションの存続時間
+TTL || TTL
+Persistence session identifier || 持続セッション識別子
+Virtual IP || 仮想IP
+Load balancing Scheduler || 負荷分散スケジューラ
+Algorithm || アルゴリズム
+Round Robin || ラウンドロビン
+Virtual Host || 仮想ホスト
+URL Pattern || URLパターン
+Least Response || 最小の応答
+HTTPS Backends || HTTPSバックエンド
+STS Header || STSヘッダ
+Timeout || タイムアウト
+Redirect || リダイレクト
+Redirect URL || リダイレクトURL
+Redirect Type || リダイレクトタイプ
+Redirect Code || リダイレクトコード
+Cookie Insert || クッキー挿入
+Cookie Name || Cookie Name
+Cookie Domain || クッキードメイン
+Cookie Path || クッキーパス
+Cookie TTL || クッキーTTL
+Locality || 地域
+Country || 国
+State/Province || 州/地方
+Common Name || 一般名
+Organization || 組織
+Division || 除算
+E-mail Address || 電子メールアドレス
+File || フィレット
+Issuer || 発行者
+Creation || 創造
+Expiration || 満了
+Certificate || 認証
+Established Conns || 確立されたConns
+Pending Conns || 保留中のコーン
+Service || サービス
+Session ID || セッションID
+Backend ID || バックエンドID
+Requests || リクエスト
+Failed REQ || REQに失敗しました
+Failed RES || RESに失敗しました
+Truncated Resp TC || 切り捨てられたResp TC
+Extended DNS Big || 拡張DNSビッグ
+Extended DNS TC || 拡張DNS TC
+No Error || エラーなし
+Refused || 拒否されました
+Non-existent Domain || 存在しないドメイン
+Notimp || Notimp
+Bad Version || 悪いバージョン
+Format Error || フォーマットエラー
+Dropped || ドロップされた
+V6 ||  V6
+Extended DNS || 拡張DNS
+Extended DNS-ClientSub || 拡張DNS-ClientSub
+Client || クライアント
+Listerner || リスターナー
+Value || 値
+Custom IP || カスタムIP
+Policy || ポリシー
+Remote URL || リモートURL
+Frequency || 周波数
+Rule || ルール
+Limit RST request per source IP || 送信元IPごとにRST要求を制限する
+Total connections per source IP || 送信元IPあたりの合計接続数
+Limit Burst || リミットバースト
+Total connections limit per source IP || 送信元IPあたりの総接続数の制限
+Hits || ヒット
+Time || 時間
+Log level || ログレベル
+Only logging || ロギングのみ
+Local traffic || ローカルトラフィック
+Queue size || キューサイズ
+Max. Threads || 最大 スレッド
+Cache size || キャッシュサイズ
+Cache time || キャッシュの時間
+Check Request Body || リクエスト本文を確認する
+Check Response Body || 応答本文を確認する
+Request Body Limit || ボディ制限のリクエスト
+Default Phase || デフォルトフェーズ
+Default Log || デフォルトログ
+Rules || キャンペーンのルール
+Rule Type || ルールタイプ
+Mark || マーク
+Phase || 相
+Resolution || 分解能
+Rule ID || ルールID
+Skip || スキップ
+Skip after || 後にスキップ
+Execute || 実行する
+Description || 説明
+Interval || インターバル
+Cut connections || 接続を切断する
+Command || コマンド
+MAC || マック
+Netmask || ネットマスク
+Farms || 農場
+Gateway || ゲートウェイ
+IP Address || IPアドレス
+CIDR || CIDR
+Mode || モード
+Slaves || 奴隷
+Parent Interface || 親インターフェース
+Address || 住所
+Host || ホスト
+Date || 日付
+Alert || 警告
+Password || パスワード
+Log || ログ
+ZAPI Permissions || ZAPIのアクセス許可
+GUI Permissions || GUIアクセス許可
+Role || 仕事の内容
+Rules Date || ルール日付
+Scheduled || 予定の
+Variable || 変数
+Variable's argument || 変数の引数
+Ignore this <i>variable</i> for the match || これを無視する <i>変数</i> 試合のために
+Count elements of <i>variables</i> || の要素を数える <i>variables</i>
+Variables || Variables
+Transformations || 変換
+Operating || オペレーティング
+Multi Match || マルチマッチ
+Not Match || 合わない
+Operator || 演算子
+Module || モジュール
+Floating IP || フローティングIP
+Interfaces || インターフェース
+Group || グループ
+Virtual Interface || 仮想インタフェース
+URL || URL
+From || XNUMXサーバ当たり年間
+Table || 表
+To || に
+Route || ルート
+Via || ビア
+Backend Alias || バックエンドエイリアス
+Version || バージョン
+System || エントルピー
+Failback || フェイルバック
+Check Interval || チェック間隔
+Node || ノード
+Message || お問合わせ内容
+Hostname || ホスト名
+No {{param}} found || {{param}}が見つかりません
+Edit || 編集
+Global || グローバル
+Services || Services
+Select a {{param}} || {{param}}を選択します
+Resources || リソース
+Backends || バックエンド
+Strict Transport Security || 厳格な輸送セキュリティ
+Farms Stats || 農場統計
+Copy to clipboard || クリップボードにコピー
+Hide nodes || ノードを非表示
+Show nodes || ノードを表示
+Hide backends || バックエンドを非表示
+Show backends || バックエンドを表示
+Hide graphs || グラフを非表示
+Show graphs || グラフを表示
+Sessions || セッションズ
+Clients || 取引実績
+Servers || サーバー
+Extended || 延長された
+Nodes || Nodes
+Number of lines || 行数
+View All || すべてを表示
+View Less || 少ない表示
+Valid || 有効な
+Expired || 期限切れの求人
+Near to expire || 期限切れ間近
+True || 誤りである
+False || 正しい
+No configured || 設定なし
+In use by bonding interface || ボンディングインターフェイスで使用中
+The cluster service interface has to be changed or disabled before to be able to modify this interface || このインターフェイスを変更するには、クラスタサービスインターフェイスを変更または無効にする必要があります
+Enabled || 使用可能
+Disabled || 身体障がい者
+Needed restart || 再起動が必要
+Critical || クリティカル
+Problem || 問題
+Maintenance || メンテナンス
+Master || マスター
+Backup || バックアップ
+Not configured || 構成されていません
+Undefined || 未定義
+Daily Graph || デイリーグラフ
+Weekly Graph || 週間グラフ
+Monthly Graph || 月次グラフ
+Yearly Graph || 年間グラフ
+Documentation || ドキュメンテーション
+Reload farmguardian list || ファームガーディアンリストをリロードする
+Cookie || クッキー
+Zones || ゾーン
+System Stats || システム統計
+CPU || CPU
+Memory || メモリ
+Load || 負荷
+Cores || コア
+Traffic In || トラフィックイン
+Traffic Out || トラフィックアウト
+Nothing || 何も
+Custom || カスタム
+All interfaces || すべてのインターフェース
+All farms || すべての農場
+Default State || デフォルト状態
+Up ||  Up
+Down || 値下がり
+Installed and updated || インストールおよび更新
+Not installed || インストールされていない
+Updates available || 利用可能なアップデート
+Interface || インタフェース
+Type || 種類
+Zone || ゾーン
+Transformation || 変換
+Backend || バックエンド
+Condition || 調子
+Domain || ドメイン
+Resource || リソース
+Graph || グラフ
+Session || セッションを開く
+IP alias || IPエイリアス
+Interface alias || インターフェースエイリアス
+Backup || バックアップ
+Farm || 農場
+Header || ヘッダ
+Pattern || パターン
+Source || ソース
+Blacklist || ブラックリスト
+Farmguardian || 農場の守護者
+Package || パッケージ
+DoS rule || DoSルール
+RBL rule || RBLルール
+WAF ruleset || WAFルールセット
+VLAN || VLAN
+Routing Rule || ルーティングルール
+Routing Table || ルーティングテーブル
+Needed restart || 再起動が必要
+There're changes that need to be applied, restart the farm to apply them! || 適用する必要がある変更があります。それらを適用するにはファームを再起動してください！
+Close || 閉じる
+The <strong> factory reset </strong> has been completed successfully. ||   <strong> 工場出荷時設定へのリセット </strong> 正常に完了しました。
+The interface <strong> {{name}} </strong> has been updated successfully. || インタフェース <strong> {{name}} </strong> 更新に成功しました。
+The <strong>HTTP Service</strong> has been updated successfully. ||   <strong>HTTPサービス</strong> 更新に成功しました。
+An error has occurred on the server, try again later || サーバーでエラーが発生しました。しばらくしてからもう一度お試しください
+Connection to web server failed || Webサーバーへの接続に失敗しました
+An unexpected error has occurred || 予期しないエラーが発生しました
+System Information || システム情報
+ZEVENET Version || ZEVENETバージョン
+Appliance Version || アプライアンスのバージョン
+Kernel Version || カーネルバージョン
+System Date || システム日付
+NIC Traffic || NICトラフィック
+Total number of connections in realtime. || リアルタイムの接続の総数。
+Connections || 接続
+Professional Products || プロフェッショナル製品
+Professional Services || プロフェッショナルサービス
+No Virtual Interfaces || 仮想インターフェイスなし
+No VLANs || VLANなし
+Create DSLB Farm || DSLBファームを作成する
+Create Virtual interface || 仮想インターフェースを作成する
+Create GSLB Farm || GSLBファームを作成する
+Generate CSR || CSRを生み出す
+Create LSLB Farm || LSLBファームを作成する
+Upload SSL Certificate || SSL証明書をアップロードする
+Create Blacklist || ブラックリストを作成
+Create DoS rule || DoSルールを作成する
+Create RBL rule || RBLルールを作成する
+Create WAF ruleset || WAFルールセットを作成する
+Create Rule || ルールの作成
+Create Farmguardian || Farmguardianを作成する
+Create Bonding interface || ボンディングインターフェースを作成
+Create VLAN interface || VLANインタフェースを作成する
+Upload Backup || バックアップをアップロード
+Create Backup || バックアップを作成する
+Create User || ユーザーの作成
+Create Group || グループを作成
+Create Role || ロールを作成
+Create Route || ルートを作成
+is required || 必要とされる
+is not valid, it only is possible alphanumeric characters and dash (-). || 有効ではありません。使用できるのは英数字とダッシュ（ - ）だけです。
+Only editable when the farm is down. || ファームが停止しているときにのみ編集可能です。
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || 仮想ポートが無効です。単一のポート、複数のポート、またはポートの範囲を定義できます（例：80または80,81または80：90）
+has to be greater than 0 || 0より大きくなければなりません
+Redirect should be a URL (http(s)://...) || リダイレクトはURL（http（s）：//…）である必要があります
+Country can only have two characters. || 国には2文字しか使用できません。
+E-mail has to be a valid email || 電子メールは有効な電子メールである必要があります
+The password does not match || パスワードが一致しません
+has to be a value between {{min}} and {{max}} || {{min}}〜{{max}}の間の値である必要があります
+Global Settings || グローバル設定
+IPDS Settings || IPDS設定
+Advanced Settings || [詳細設定]
+Domains Settings || ドメイン設定
+Rules Settings || ルール設定
+Blacklists rules || ブラックリストのルール
+DoS rules || DoSルール
+RBL rules || RBLルール
+WAF rulesets || WAFルールセット
+Services Settings || サービス設定
+Zones Settings || ゾーン設定
+Global Filter || グローバルフィルター
+Refresh || リフレッシュ
+Seconds || 秒
+per second || 毎秒
+Refresh status every || ステータスを毎回更新
+Refresh stats every || 統計を更新する
+Not refresh || リフレッシュしない
+Farms Settings || 農場の設定
+Minutes || 分
+Hours || 時間
+Monday || 月曜日
+Tuesday || 火曜日
+Wednesday || 水曜日
+Thursday || 木曜日
+Friday || 金曜日
+Saturday || 土曜日
+Sunday || 日曜日
+Deny || 否定する
+Allow || 許可する
+Daily || デイリー
+Weekly || 毎週
+Monthly || 毎月
+entries || エントリー
+threads || スレッド
+Sort || ソート
+SORT MODE: Drag and drop the service to the desired position. || ソートモード：サービスを目的の位置にドラッグアンドドロップします。
+The farm will be restarted automatically. || ファームは自動的に再起動されます。
+bytes || バイト
+Default is || デフォルトは
+Optional || 各種オプション
+days || 日々
+Go to || 次のURLに行きます。
+Edit in form mode || フォームモードで編集する
+Edit in raw mode || rawモードで編集する
+Create in form mode || フォームモードで作成
+Create in raw mode || rawモードで作成
+Available certificates || 利用可能な証明書
+Enabled certificates || 有効な証明書
+Search certificate || 検索証明書
+Available blacklists || 利用可能なブラックリスト
+Enabled blacklists || ブラックリストを有効化
+Search blacklist || ブラックリストを検索
+Available DoS rules || 利用可能なDoSルール
+Enabled DoS rules || 有効なDoSルール
+Search DoS rule || 検索DoSルール
+Available RBL rules || 利用可能なRBLルール
+Enabled RBL rules || 有効なRBLルール
+Search RBL rule || 検索RBLルール
+Available WAF rulesets || 利用可能なWAFルールセット
+Enabled WAF rulesets || 有効なWAFルールセット
+Search WAF ruleset || WAFルールセットを検索する
+Available farms || 利用可能な農場
+Enabled farms || 有効なファーム
+Search farm || 検索ファーム
+Available domains || 利用可能なドメイン
+Enabled domains || 有効なドメイン
+Search domain || 検索ドメイン
+Enabled rules || 有効なルール
+Disabled rules || 無効なルール
+Search rule || 検索ルール
+Available NICs || 利用可能なNIC
+Enabled NICs || 有効なNIC
+Search NIC || NICを検索
+Search slaves || スレーブを検索
+Slaves NICs || スレーブNIC
+Available users || 利用可能なユーザー
+Enabled users || 有効なユーザー
+Search user || 検索ユーザー
+Available interfaces || 利用可能なインターフェース
+Enabled interfaces || 有効なインターフェース
+Search interface || 検索インターフェース
+Managed interfaces || 管理インターフェース
+Unmanaged interfaces || 管理されていないインターフェース
+Search interface || 検索インターフェース
+LSLB Farm List || LSLB農場リスト
+GSLB Farm List || GSLBファームリスト
+DSLB Farm List || DSLBファームリスト
+Copy farm || コピーファーム
+Farm to copy || コピーするファーム
+Select the farm to copy || コピーするファームを選択してください
+Weight: connection linear dispatching by weight || 重量：重量による接続線形発送
+Priority: connections always to the most prio available || 優先順位：常に利用可能な最も優先度の高いものへの接続
+Source Hash: Hash per Source IP and Source Port || 送信元ハッシュ：送信元IPおよび送信元ポートごとのハッシュ
+Simple Source Hash: Hash per Source IP only || シンプルソースハッシュ：ソースIPごとのハッシュのみ
+Symmetric Hash: Round trip hash per IP and Port || 対称ハッシュ：IPおよびポートごとのラウンドトリップハッシュ
+Round Robin: Sequential backend selection || ラウンドロビン：シーケンシャルバックエンド選択
+Least Connections: connections to the least open conns available || 最小接続：利用可能な最小オープン接続への接続
+Disabled || 身体障がい者
+Enabled || 使用可能
+Enabled and compare backends || バックエンドの有効化と比較
+No persistence || 持続性なし
+IP: Source IP || IP：送信元IP
+Port: Source Por || ポート：ソースPor
+MAC: Source MAC || MAC：送信元MAC
+Source IP and Source Port || 送信元IPと送信元ポート
+Source IP and Destination Port || 送信元IPと宛先ポート
+No persistence || 持続性なし
+IP: Client address || IP：クライアントアドレス
+BASIC: Basic authentication || 基本：基本認証
+URL: A request parameter || URL：リクエストパラメータ
+PARM: An URI parameter || PARM：URIパラメータ
+COOKIE: A certain cookie || COOKIE：あるクッキー
+HEADER: A certain request header || HEADER：あるリクエストヘッダ
+The farm has been updated successfully || ファームが正常に更新されました
+The farm <strong> {{param}} </strong> has been deleted successfully. || 農場 <strong> {{param}} </strong> 削除されました。
+The farm <strong> {{param}} </strong> has been started successfully. || 農場 <strong> {{param}} </strong> 正常に開始されました。
+The farm <strong> {{param}} </strong> has been restarted successfully. || 農場 <strong> {{param}} </strong> 正常に再起動されました。
+The farm <strong> {{param}} </strong> has been stopped successfully. || 農場 <strong> {{param}} </strong> 正常に停止しました。
+The farm <strong> {{param}} </strong> has been created successfully. || 農場 <strong> {{param}} </strong> 正常に作成されました。
+The backend has been created successfully. || バックエンドは正常に作成されました。
+The backend has been updated successfully. || バックエンドが正常に更新されました。
+The backend <strong> {{param}} </strong> has been deleted successfully. || バックエンド <strong> {{param}} </strong> 削除されました。
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || バックエンド <strong> {{param}} </strong> メンテナンスに成功しました。
+The backend <strong> {{param}} </strong> has been upped successfully. || バックエンド <strong> {{param}} </strong> 正常にアップされました。
+Backends with high priority value <strong> {{param}} </strong> will not be used. || 優先度の高い値のバックエンド <strong> {{param}} </strong> 使用されません。
+The resource has been created successfully. || リソースが正常に作成されました。
+The resource has been updated successfully. || リソースは正常に更新されました。
+The backend <strong> {{param}} </strong> has been deleted successfully. || バックエンド <strong> {{param}} </strong> 削除されました。
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || SSL証明書 <strong> {{param}} </strong> ファームに正常に追加されました。
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || SSL証明書 <strong> {{param}} </strong> ファームから正常に削除されました。
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || SSL証明書 <strong> {{param}} </strong> 正常にソートされました。
+The service <strong> {{param}} </strong> has been created successfully. || サービス <strong> {{param}} </strong> 正常に作成されました。
+The service <strong> {{param}} </strong> has been updated successfully. || サービス <strong> {{param}} </strong> 更新に成功しました。
+The service <strong> {{param}} </strong> has been deleted successfully. || サービス <strong> {{param}} </strong> 削除されました。
+The service <strong> {{param}} </strong> has been moved successfully. || サービス <strong> {{param}} </strong> 移動しました。
+The farmguardians list has been reloaded successfully. || 農場の保護者のリストが正常にリロードされました。
+The farmguardian has been disabled successfully. || Farmguardianは正常に無効にされました。
+The farmguardian has been changed to {{param}} successfully. || 農場の守護者は{{param}}に変更されました。
+The zone <strong> {{param}} </strong> has been created successfully. || ゾーン <strong> {{param}} </strong> 正常に作成されました。
+The zone <strong> {{param}} </strong> has been updated successfully. || ゾーン <strong> {{param}} </strong> 更新に成功しました。
+The zone <strong> {{param}} </strong> has been deleted successfully. || ゾーン <strong> {{param}} </strong> 削除されました。
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || ブラックリスト <strong> {{param}} </strong> ファームに正常に追加されました。
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || ブラックリスト <strong> {{param}} </strong> ファームから正常に削除されました。
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || DoSルール <strong> {{param}} </strong> ファームに正常に追加されました。
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || DoSルール <strong> {{param}} </strong> ファームから正常に削除されました。
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || RBLルール <strong> {{param}} </strong> ファームに正常に追加されました。
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || RBLルール <strong> {{param}} </strong> ファームから正常に削除されました。
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || WAFルールセット <strong> {{param}} </strong> 正常にソートされました。
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || WAFルールセット <strong> {{param}} </strong> ファームに正常に追加されました。
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || WAFルールセット <strong> {{param}} </strong> ファームから正常に削除されました。
+The profile has been changed to {{param}} successfully. || プロファイルは{{param}}に正常に変更されました。
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || 選択したNATタイプでは接続アルゴリズムが許可されないため、アルゴリズムは重みアルゴリズムに変更されました。 [サービス]タブから別のアルゴリズムを選択できます。
+The request header has been saved successfully. || 要求ヘッダーは正常に保存されました。
+The request header has been deleted successfully. || 要求ヘッダーは正常に削除されました。
+The request header pattern has been saved successfully. || 要求ヘッダーパターンは正常に保存されました。
+The request header pattern has been deleted successfully. || 要求ヘッダーパターンは正常に削除されました。
+The response header has been saved successfully. || 応答ヘッダーが正常に保存されました。
+The response header has been deleted successfully. || 応答ヘッダーは正常に削除されました。
+The response header pattern has been saved successfully. || 応答ヘッダーパターンが正常に保存されました。
+The response header pattern has been deleted successfully. || 応答ヘッダーパターンは正常に削除されました。
+The service has to have one backend at least. || サービスには少なくともXNUMXつのバックエンドが必要です。
+Are you sure you want to delete the farm {{param}}? || ファーム{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected farms? || 選択したファームを削除してもよろしいですか？
+Are you sure you want to delete the service {{param}}? || サービス{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the zone {{param}}? || ゾーン{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected resources? || 選択したリソースを削除してもよろしいですか？
+Are you sure you want to delete the resource {{param}}? || リソース{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the backend {{param}}? || バックエンド{{param}}を削除してよろしいですか？
+Are you sure you want to delete the selected backends? || 選択したバックエンドを削除してもよろしいですか？
+Are you sure you want to delete the request header with ID {{id}}? || ID {{id}}のリクエストヘッダーを削除してもよろしいですか？
+Are you sure you want to delete the request header pattern with ID {{id}}? || ID {{id}}のリクエストヘッダーパターンを削除してもよろしいですか？
+Are you sure you want to delete the selected request headers? || 選択したリクエストヘッダーを削除してもよろしいですか？
+Are you sure you want to delete the selected request headers patterns? || 選択したリクエストヘッダーパターンを削除してもよろしいですか？
+Are you sure you want to delete the response header with ID {{id}}? || ID {{id}}の応答ヘッダーを削除してもよろしいですか？
+Are you sure you want to delete the response header pattern with ID {{id}}? || ID {{id}}の応答ヘッダーパターンを削除してもよろしいですか？
+Are you sure you want to delete the selected response headers? || 選択した応答ヘッダーを削除してもよろしいですか？
+Are you sure you want to delete the selected response headers patterns? || 選択した応答ヘッダーパターンを削除してもよろしいですか？
+Are you sure you want to delete the {{param}} blacklist? || {{param}}ブラックリストを削除してもよろしいですか？
+Are you sure you want to delete the selected blacklists? || 選択したブラックリストを削除してもよろしいですか？
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || インターフェイス{{param}}のゲートウェイが削除され、このファームで置き換えられます。 続行しますか？
+SSL Certificate list || SSL証明書リスト
+Choose one certificate || 証明書を1つ選択してください
+Choose one or more files || 1つ以上のファイルを選択
+Selected files || 選択したファイル
+Descriptive text, this name will be used to identify this certificate. || 説明テキスト、この名前はこの証明書を識別するために使用されます。
+City where your organization is located. || あなたの組織が所在する市。
+Country (two characters) where your organization is located. || 組織が所在する国（2文字）
+State or province where your organization is located. || 組織が所在する州または県。
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || サーバーのFQDN。 例：domain.com、mail.domain.com、または* .domain.com。
+The full legal name of your organization/company (ex.: ZEVENET Co.) || 組織/会社の正式名称（例：ZEVENET Co.）
+Your department; such as 'IT','Web', 'Office', etc. || あなたの部署 「IT」、「Web」、「オフィス」など。
+Your email address || メールアドレス
+The CSR <strong> {{param}} </strong> has been generated successfully. || CSR <strong> {{param}} </strong> 正常に生成されました。
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || 証明書 <strong> {{param}} </strong> アップロードに成功しました。
+The certificate <strong> {{param}} </strong> has been deleted successfully. || 証明書 <strong> {{param}} </strong> 削除されました。
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || 証明書 <strong> {{param}} </strong> ダウンロードに成功しました。
+Are you sure you want to delete the certificate {{param}}? || 証明書{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected certificates? || 選択した証明書を削除してもよろしいですか？
+Updates || 更新版
+Update list || 更新リスト
+Period time || 生理時
+Exact time || 正確な時間
+Daily every || 毎日
+Day of the week || 曜日
+Day of the month || 月の日
+Sources || 情報源
+DoS rules IPDS || DoSルールIPDS
+RBL rules IPDS || RBLルールIPDS
+Copy rule || コピールール
+Rule to copy || コピーする規則
+Ruleset to copy || コピーするルールセット
+Select the rule to copy || コピーするルールを選択します
+Select the ruleset to copy || コピーするルールセットを選択します
+Custom Domain List || カスタムドメインリスト
+Preloaded Domain List || プリロードされたドメインリスト
+WAF rulesets IPDS || WAFルールセットIPDS
+Default Action || デフォルトのアクション
+Disable Rules || ルールを無効にする
+IPDS Package Updates || IPDSパッケージの更新
+Conditions || 条件
+Flow || 流量（フロー）
+WAF File List || WAFファイルリスト
+WAF file || WAFファイル
+Content File || コンテンツファイル
+Select files || ファイルを選択
+Select a file || ファイルを選択
+Select transformations || 変換を選択
+Connection limit per second. || XNUMX秒あたりの接続制限。
+Total connections limit per source IP. || 送信元IPごとの合計接続制限。
+Check bogus TCP flags. || 偽のTCPフラグを確認してください。
+Limit RST request per second. || XNUMX秒あたりのRST要求を制限します。
+Allow: Finish the WAF processing and complete the HTTP transaction || 許可：WAF処理を終了し、HTTPトランザクションを完了します
+Pass: Continue executing the rules || パス：ルールの実行を続行します
+Deny: Cut the request and not execute rules left || 拒否：リクエストをカットし、残ったルールを実行しません
+Redirect: The client received a URL to redirect || リダイレクト：クライアントはリダイレクトするURLを受け取りました
+Default action: The default action of this ruleset || デフォルトアクション：このルールセットのデフォルトアクション
+Request headers are received || リクエストヘッダを受信
+Request body is received || リクエストボディを受け取る
+Response headers are received || 応答ヘッダーが受信されます
+Response body is received || レスポンスボディを受け取る
+Before than logging || ロギング前より
+LUA Script || LUAスクリプト
+Data file || データファイル
+It is a collection with the values of arguments in a request. || リクエストの引数の値を含むコレクションです。
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || これはJSONリクエスト内の引数の値を持つコレクションです。 この変数は、WAFがJSON引数を解析する場合に使用可能になります。そのため、ルールセットREQUEST-901-INITIALIZATIONを有効にする必要があります。
+The total size of the request parameters. The files are excluded. || リクエストパラメータの合計サイズ。 ファイルは除外されます。
+It is a collection with the names of the arguments in a request. || リクエスト内の引数の名前を持つコレクションです。
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || ユーザーfilesysのファイル名が含まれています。 データがmultipart / form-dataの場合のみ
+It is the total size of the files in a request. Only when the data is multipart/form-data. || 要求内のファイルの合計サイズです。 データがmultipart / form-dataの場合のみ
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || ファイルをアップロードするために使用されるファイル名のリストです。 データがmultipart / form-dataの場合のみ
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || 個々のファイルサイズのリストが含まれています。 データがmultipart / form-dataの場合のみ
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || 要求本体のフォーマットがJSONまたはXMLに対して正しくない場合、この変数は1です。それ以外の場合、値は0です。
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || それは生の要求です。 リクエストに &quot;application / x-www-form-urlencoded&quot;ヘッダがない場合は、REQUEST_HEADERフェーズで &quot;ctl：forceRequestBodyVariable&quot;を使用する必要があります。
+It is the number of bytes of the request body. || リクエストボディのバイト数です。
+It is a list with all request cookies values. || すべてのリクエストクッキーの値を含むリストです。
+It is a list with all request cookies names. || それはすべてのリクエストクッキーの名前のリストです。
+This variable has all the request headers. || この変数はすべてのリクエストヘッダを持ちます。
+This variable has a list with the request headers names. || この変数はリクエストヘッダの名前のリストを持っています。
+It is the request method. || リクエスト方法です。
+This variable holds the request HTTP version protocol. || この変数はリクエストHTTPバージョンプロトコルを保持します。
+It is the URI request path. The virtual host is excluded. || これはURI要求パスです。 仮想ホストは除外されます。
+It is the information before than the URI path. || URIパスより前の情報です。
+It is the full request. || それは完全な要求です。
+It is the number of bytes that full request can have. || 全要求が持つことができるバイト数です。
+It is the raw body response. || 生の反応です。
+It is the number of bytes of the response body. || レスポンスボディのバイト数です。
+This variable has all response headers. || この変数はすべてのレスポンスヘッダを持ちます。
+This variable has a list with the response headers names. || この変数はレスポンスヘッダの名前のリストを持っています。
+This variable holds the response HTTP version protocol. || この変数は、応答HTTPバージョンプロトコルを保持します。
+It is the response HTTP code. || レスポンスHTTPコードです。
+It is the IP address of the client. || クライアントのIPアドレスです。
+It is the port where the client initializes the connection. || クライアントが接続を初期化するポートです。
+It is the name of the authenticated user. || 認証されたユーザーの名前です。
+It is the server time. The format is hours:minutes:seconds. || サーバーの時間です。 形式は時：分：秒です。
+It is the number of milliseconds since the beginning of the current transaction. || 現在のトランザクションが開始されてからのミリ秒数です。
+It is the field filename in a multipart request. || これはマルチパートリクエストのフィールドfilenameです。
+It is the field name in a multipart request. || これはマルチパートリクエストのフィールド名です。
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || これは最後の一致操作で一致した値です。 この値にはキャプチャオプションは必要ありませんが、一致操作ごとに置き換えられます。
+It is a list of all matched values. || 一致したすべての値のリストです。
+It is the IP address of the server. || サーバーのIPアドレスです。
+It is the virtual host, it gets from the request URI. || それは仮想ホストであり、リクエストURIから取得します。
+It is the environment variables of the WAF. || それはWAFの環境変数です。
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || 現在のトランザクションの変数の集まりです。 トランザクションが終了すると、これらの変数は削除されます。 変数TX：0-TX：9は、strRegexまたはstrPhrases演算子でキャプチャされた値を保存します。
+Decodes a Base64-encoded string. || Base64エンコード文字列をデコードします。
+Decodes a Base64-encoded string ignoring invalid characters. || 無効な文字を無視してBase64エンコード文字列をデコードします。
+Decodes SQL hex data. || SQL 16進データをデコードします。
+Encodes using Base64 encoding. || Base64エンコーディングを使用してエンコードします。
+Avoids the problem related with the escaped command line. || エスケープされたコマンドラインに関連した問題を回避します。
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || 空白文字（0x20、\\f、\\t、\\n、\\r、\\v、0xa0）をスペース（ASCII 0x20）に変換し、連続する複数のスペース文字を1つに圧縮します。
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || CSS 2.xエスケープルールを使用してエンコードされた文字をデコードします。 この関数は、デコードプロセスで最大2バイトのみを使用します。これは、CSSエンコード（通常はエンコードされない）を使用してエンコードされたASCII文字を発見するか、またはバックスラッシュと非-16進文字（たとえば、ja \\vascriptはjavascriptと同等）。
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || ANSI Cエスケープシーケンスをデコードします：\\a、\\b、\\f、\\n、\\r、\\t、\\v、\\、\\？、\\'、\\&quot;、\\xHH（16進数）、\\0OOO（8進数）。 無効なエンコーディングは出力に残ります。
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || hexEncodeで使用されているものと同じアルゴリズムを使用してエンコードされた文字列をデコードします（次のエントリを参照）。
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || 各入力バイトを2つの16進文字で置き換えることによって、文字列（おそらくバイナリ文字を含む）をエンコードします。 たとえば、xyzは78797aとしてエンコードされます。
+Decodes the characters encoded as HTML entities. || HTMLエンティティとしてエンコードされた文字をデコードします。
+Decodes JavaScript escape sequences. || JavaScriptのエスケープシーケンスをデコードします。
+Looks up the length of the input string in bytes, placing it (as string) in output. || 入力文字列の長さをバイト単位で調べ、それを（文字列として）出力に入れます。
+Converts all characters to lowercase using the current C locale. || 現在のCロケールを使用して、すべての文字を小文字に変換します。
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || 入力のデータからMD5ハッシュを計算します。 計算されたハッシュは生のバイナリ形式であり、印刷（またはログ記録）するテキストにエンコードする必要がある場合があります。 ハッシュ関数は通常、hexEncodeと組み合わせて使用​​されます。
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || 実際の変換関数ではなく、現在のルールに関連付けられている以前の変換関数を削除する命令です。
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || 入力文字列から複数のスラッシュ、ディレクトリの自己参照、およびディレクトリの後方参照を削除します（入力の先頭にある場合を除く）。
+Same as normalizePath, but first converts backslash characters to forward slashes. || normalizePathと同じですが、最初にバックスラッシュ文字をスラッシュに変換します。
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || 各ターゲットバイトの7番目のビットを計算したパリティビットに置き換えて、8ビットデータの偶数パリティを計算します。
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || 各ターゲットバイトの7番目のビットを計算されたパリティビットで置き換えて、8ビットデータの奇数パリティを計算します。
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || 各対象バイトの7番目のビットをゼロパリティビットに置き換えて8ビットデータのゼロパリティを計算します。これにより、偶数/奇数パリティの7ビットデータをASCII7データとして検査できます。
+Removes all NUL bytes from input. || 入力からすべてのNULバイトを削除します。
+Removes all whitespace characters from the input. || 入力からすべての空白文字を削除します。
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || Cスタイルのコメント（/ *…* /）の各オカレンスを単一のスペースに置き換えます（連続する複数のオカレンスは圧縮されません）。 終了していないコメントもスペース（ASCII 0x20）に置き換えられます。 ただし、コメント（* /）のスタンドアロン終了は処理されません。
+Removes common comments chars (/*, */, –, #). || 一般的なコメント文字（/ *、* /、-、＃）を削除します。
+Replaces NUL bytes in input with space characters (ASCII 0x20). || 入力のNULバイトをスペース文字（ASCII 0x20）に置き換えます。
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || URLエンコードされた入力文字列をデコードします。 無効なエンコーディング（つまり、16進数以外の文字を使用するもの、または文字列の末尾にあり、1または2バイトが欠けているもの）は変換されませんが、エラーは発生しません。
+Converts all characters to uppercase using the current C locale. || 現在のCロケールを使用して、すべての文字を大文字に変換します。
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || urlDecodeと似ていますが、Microsoft固有の％uエンコーディングをサポートしています。
+Encodes input string using URL encoding. || URLエンコードを使用して入力文字列をエンコードします。
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || すべてのUTF-8文字シーケンスをUnicodeに変換します。 これは、特に英語以外の言語の入力の正規化に役立ち、偽陽性と偽陰性を最小限に抑えます。
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || 入力文字列からSHA1ハッシュを計算します。 計算されたハッシュは生のバイナリ形式であり、印刷（またはログ）されるテキストにエンコードされる必要があるかもしれません。 ハッシュ関数は通常hexEncodeと組み合わせて使用​​されます。
+Removes whitespace from the left side of the input string. || 入力文字列の左側から空白を削除します。
+Removes whitespace from the right side of the input string. || 入力文字列の右側から空白を削除します。
+Removes whitespace from both the left and right sides of the input string. || 入力文字列の左右両側から空白を削除します。
+The rule will match if any of the variables begin with the value of operating. || いずれかの変数がoperatingの値で始まっていれば、規則は一致します。
+The rule will match if any of the variables contain the value of operating. || いずれかの変数にoperatingの値が含まれていれば、規則は一致します。
+The rule will match if any of the variables contain a word as the string one. || 変数のいずれかに文字列として単語が含まれている場合、ルールは一致します。
+The rule will match if any of the variables end with the value of operating. || いずれかの変数がoperatingの値で終わっていれば、規則は一致します。
+The rule will match if any of the variables match with the value of operating. || いずれかの変数がoperatingの値と一致する場合、ルールは一致します。
+The rule will match if any of the variables match with the value of operating. || いずれかの変数がoperatingの値と一致する場合、ルールは一致します。
+The rule will match if any of the variables is identical to the value of operating. || いずれかの変数がoperatingの値と同じであれば、規則は一致します。
+The rule will match if any of the variables match in the regular expression used in operating. || 操作で使用される正規表現で変数のいずれかが一致する場合、ルールは一致します。
+The rule will match if any of the variables match in any of the values of the list operating. || リスト演算子のいずれかの値でいずれかの変数が一致すると、ルールが一致します。
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || 演算子strPhrasesと同じですが、操作はフレーズのリストとして定義されているファイルです。
+The rule will match if any of the variables is equal to the number used in operating. || いずれかの変数が操作に使用された数と等しい場合、規則は一致します。
+The rule will match if any of the variables is greater or equal to the number used in operating. || いずれかの変数が操作に使用された数以上の場合、ルールは一致します。
+The rule will match if any of the variables is greater than the number used in operating. || いずれかの変数が操作に使用された数より大きい場合、ルールは一致します。
+The rule will match if any of the variables is lower or equal to the number used in operating. || いずれかの変数が操作に使用された数以下の場合、ルールは一致します。
+The rule will match if any of the variables is lower than the number used in operating. || いずれかの変数が操作に使用された数より小さい場合、ルールは一致します。
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || SQLインジェクションの検出を変数のリストに適用します。 このオペレーターは何の操作も期待していません。
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || XSSインジェクションの検出を変数のリストに適用します。 このオペレーターは何の操作も期待していません。
+Try to match the IP or network segments of operating with the list of variables. || 操作のIPまたはネットワークセグメントを変数のリストと一致させるようにしてください。
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || これは、ipMatch演算子と同じですが、IPとネットワークセグメントのリストを持つファイルに対して変数の一致を試みます。
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || 変数のバイト数が操作値の1つにあることを確認します。 操作例は「10、13、32-126」です。
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || エンコードされたデータを検証します。 この演算子は、データを一般的にエンコードしないデータ、またはデータが複数回エンコードされるデータに対してのみ使用する必要があります。
+It validates that variables are UTF-8. This operator does not expect any operating. || 変数がUTF-8であることを検証します。 このオペレーターは、動作を期待していません。
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || 変数がクレジットカード番号かどうかを確認します。 このパラメータは正規表現を作動として受け入れ、一致する場合は検証済みのクレジットカードを適用します。
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || 変数が米国の社会保障番号かどうかを検証します。 このパラメーターは正規表現を操作として受け入れ、一致する場合はSSN検証を適用します。
+It returns true always, forcing a match. || 常にtrueを返し、強制的に一致させます。
+It returns false always, forcing a non-match. || 常にfalseを返し、不一致を強制します。
+A word is delimited by characters different to (a-z, 0-9 and '_') || 単語は（az、0-9および '_'）と異なる文字で区切られます
+Can be a list of strings split by the character , || 文字で区切られた文字列のリストにすることができます
+Can be a list of strings split by the character |, || 文字で区切られた文字列のリストにすることができます|、
+Can be a list of strings split by a blank space || 空白で区切られた文字列のリストにすることができます
+Can be a list of IPs or network segments split by the character , || IPのリスト、または文字で分割されたネットワークセグメントを指定できます。
+Can be a list of IPs ranges split by the character , || IP範囲のリストを文字で区切ることができます。
+Can be selected more than one file. || 複数のファイルを選択できます。
+It uses the PCRE engine, optional field. || PCREエンジンのオプションフィールドを使用します。
+It uses the PCRE engine, optional field. || PCREエンジンのオプションフィールドを使用します。
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || PCREエンジンを使用します。 式（？i）は、大文字と小文字を区別しないで照合するために使用されます。
+This operator does not expect any operating. || このオペレーターは、動作を期待していません。
+String. || 文字列。
+Number. || 数。
+The <strong> {{param}} </strong> blacklist has been created successfully. ||   <strong> {{param}} </strong> ブラックリストが正常に作成されました。
+The <strong> {{param}} </strong> blacklist has been deleted successfully. ||   <strong> {{param}} </strong> ブラックリストは正常に削除されました。
+The <strong> {{param}} </strong> blacklist has been stopped successfully. ||   <strong> {{param}} </strong> ブラックリストは正常に停止されました。
+The <strong> {{param}} </strong> blacklist has been started successfully. ||   <strong> {{param}} </strong> ブラックリストが正常に開始されました。
+The <strong> {{param}} </strong> blacklist has been updated successfully. ||   <strong> {{param}} </strong> ブラックリストは正常に更新されました。
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || 農場 <strong> {{param}} </strong> ブラックリストに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || 農場 <strong> {{param}} </strong> ブラックリストから削除されました。
+The <strong> {{param}} </strong> DoS rule has been created successfully. ||   <strong> {{param}} </strong> DoSルールが正常に作成されました。
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. ||   <strong> {{param}} </strong> DoSルールは正常に削除されました。
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. ||   <strong> {{param}} </strong> DoSルールは正常に停止されました。
+The <strong> {{param}} </strong> DoS rule has been started successfully. ||   <strong> {{param}} </strong> DoSルールが正常に開始されました。
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || 農場 <strong> {{param}} </strong> DoSルールに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || 農場 <strong> {{param}} </strong> DoSルールが正常に削除されました。
+The source has been created successfully || ソースが正常に作成されました
+The source has been updated successfully || ソースは正常に更新されました
+The source <strong> {{param}} </strong> has been deleted successfully. || 起源 <strong> {{param}} </strong> 削除されました。
+The <strong> {{param}} </strong> RBL rule has been created successfully. ||   <strong> {{param}} </strong> RBLルールが正常に作成されました。
+The <strong> {{param}} </strong> RBL rule has been updated successfully. ||   <strong> {{param}} </strong> RBLルールが正常に更新されました。
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. ||   <strong> {{param}} </strong> RBLルールは正常に削除されました。
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. ||   <strong> {{param}} </strong> RBLルールは正常に停止されました。
+The <strong> {{param}} </strong> RBL rule has been started successfully. ||   <strong> {{param}} </strong> RBLルールが正常に開始されました。
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || 農場 <strong> {{param}} </strong> RBLルールに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || 農場 <strong> {{param}} </strong> RBLルールが正常に削除されました。
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || ドメイン <strong> {{param}} </strong> RBLルールに正常に追加されました。
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || ドメイン <strong> {{param}} </strong> RBLルールが正常に削除されました。
+The domain <strong> {{param}} </strong> has been created successfully || ドメイン <strong> {{param}} </strong> 正常に作成されました
+The domain has been updated successfully || ドメインが正常に更新されました
+The domain <strong> {{param}} </strong> has been deleted successfully. || ドメイン <strong> {{param}} </strong> 削除されました。
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. ||   <strong> {{param}} </strong> WAFルールセットが正常に作成されました。
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. ||   <strong> {{param}} </strong> WAFルールセットは正常に削除されました。
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. ||   <strong> {{param}} </strong> WAFルールセットは正常に停止されました。
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. ||   <strong> {{param}} </strong> WAFルールセットが正常に開始されました。
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. ||   <strong> {{param}} </strong> WAFルールセットが正常に更新されました。
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || 農場 <strong> {{param}} </strong> WAFルールセットに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || 農場 <strong> {{param}} </strong> WAFルールセットが正常に削除されました。
+The rule <strong> {{param}} </strong> has been created successfully. || ルール <strong> {{param}} </strong> 正常に作成されました。
+The rule <strong> {{param}} </strong> has been moved successfully. || ルール <strong> {{param}} </strong> 移動しました。
+The rule <strong> {{param}} </strong> has been deleted successfully. || ルール <strong> {{param}} </strong> 削除されました。
+The rule <strong> {{param}} </strong> has been updated successfully || ルール <strong> {{param}} </strong> 正常に更新されました
+The match has been created successfully || 一致が正常に作成されました
+The match <strong> {{param}} </strong> has been deleted successfully. || 試合 <strong> {{param}} </strong> 削除されました。
+The WAF file <strong> {{param}} </strong> has been created successfully. || WAFファイル <strong> {{param}} </strong> 正常に作成されました。
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || WAFファイル <strong> {{param}} </strong> 削除されました。
+The WAF file <strong> {{param}} </strong> has been updated successfully. || WAFファイル <strong> {{param}} </strong> 更新に成功しました。
+The <strong> IPDS package </strong> has been scheduled successfully. ||   <strong> IPDSパッケージ </strong> 正常にスケジュールされました。
+The <strong> IPDS package </strong> has been upgraded successfully. ||   <strong> IPDSパッケージ </strong> 正常にアップグレードされました。
+Are you sure you want to delete the {{param}} blacklist? || {{param}}ブラックリストを削除してもよろしいですか？
+Are you sure you want to delete the selected blacklists? || 選択したブラックリストを削除してもよろしいですか？
+Are you sure you want to delete the {{param}} DoS rule? || {{param}} DoSルールを削除してもよろしいですか？
+Are you sure you want to delete the selected DoS rules? || 選択したDoSルールを削除してもよろしいですか？
+Are you sure you want to delete the source {{param}}? || ソース{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected sources? || 選択したソースを削除してもよろしいですか？
+Are you sure you want to delete the {{param}} RBL rule? || {{param}} RBLルールを削除してもよろしいですか？
+Are you sure you want to delete the selected RBL rules? || 選択したRBLルールを削除してもよろしいですか？
+Are you sure you want to delete the domain {{param}}? || ドメイン{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected domains? || 選択したドメインを削除してもよろしいですか？
+Are you sure you want to delete the {{param}} WAF ruleset? || {{param}} WAFルールセットを削除してもよろしいですか？
+Are you sure you want to delete the selected rulesets? || 選択したルールセットを削除してもよろしいですか？
+'Are you sure you want to delete the rule {{param}}? || 'ルール{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the match {{param}}? || 一致する{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected matches? || 選択した一致を削除してもよろしいですか？
+Are you sure you want to delete the file {{param}}? || ファイル{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected files? || 選択したファイルを削除してもよろしいですか？
+System Graphs || システムグラフ
+Interfaces Graphs || インタフェースグラフ
+Farms Graph || 農場グラフ
+Farms Stats || 農場統計
+System Stats || システム統計
+Network Stats || ネットワーク統計
+Copy farmguardian || 農場の保護者のコピー
+Farmguardian to copy || コピーするFarmguardian
+Select the farmguardian to copy || コピーするファームガーディアンを選択
+Total Memory || 合計メモリ
+Free Memory || 空きメモリ
+Used Memory || 使用メモリ
+Buffers || バッファー
+Cached || キャッシュされた
+Total Swap || 合計スワップ
+Free Swap || フリースワップ
+Used Swap || 使用済みスワップ
+Cached Swap || キャッシュされたスワップ
+Idle || アイドル
+Usage || 使用法
+Iowait || アイオワ
+Irq || Irq
+Nice || ニース
+Softirq || Softirq
+Sys || SYS
+User || ユーザー
+Last minute || 直前
+Last 5 minutes || 最後の5分間
+Last 15 minutes || 最後の15分間
+Are you sure you want to delete the {{param}} farmguardian? || {{param}}ファームガードを削除してもよろしいですか？
+Are you sure you want to delete the selected farmguardians? || 選択した農家の保護者を削除してもよろしいですか？
+The <strong> {{param}} </strong> farmguardian has been created successfully. ||   <strong> {{param}} </strong> farmguardianが正常に作成されました。
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. ||   <strong> {{param}} </strong> farmguardianは正常に削除されました。
+The <strong> {{param}} </strong> farmguardian has been updated successfully. ||   <strong> {{param}} </strong> farmguardianは正常に更新されました。
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || 農場 <strong> {{param}} </strong> ファームガーディアンに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || 農場 <strong> {{param}} </strong> 農場の保護者から削除されました。
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || 農場 <strong> {{param}} with the service {{param2}} </strong> ファームガーディアンに正常に追加されました。
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || 農場 <strong> {{param}} with the service {{param2}} </strong> 農場の保護者から削除されました。
+NIC List || NICリスト
+Bonding Interface List || ボンディングインターフェイスリスト
+Select the slaves || スレーブを選択
+VLAN Interface List || VLANインタフェースリスト
+VLAN ID || VLAN ID
+VLAN tag || VLANタグ
+Virtual Interface List || 仮想インタフェース一覧
+Virtual interface name || 仮想インタフェース名
+Virtual interface tag || 仮想インターフェイスタグ
+Floating IP List || フローティングIPリスト
+IPv4 Gateway || IPv64ゲートウェイ
+IPv6 Gateway || IPv66ゲートウェイ
+IPv4 Gateway Settings || IPv4ゲートウェイ設定
+IPv6 Gateway Settings || IPv6ゲートウェイ設定
+Backends Aliases || バックエンドエイリアス
+Interfaces Aliases || インターフェイスエイリアス
+Routing Rule List || ルーティングルールリスト
+Routing Table List || ルーティングテーブルリスト
+Priority should be a value between {{min}} and {{max}} || 優先度は{{min}}〜{{max}}の間の値である必要があります
+Configure table {{param}} || テーブル{{param}}を構成します
+Available Routes || 利用可能なルート
+Routing table for the outputs of the interface {{param}}. || インターフェイス{{param}}の出力のルーティングテーブル。
+Should be a IP address or CIDR || IPアドレスまたはCIDRである必要があります
+Should be a IP address (IPv4/IPv6) || IPアドレス（IPv4 / IPv6）でなければなりません
+Are you sure you want to unset the NIC {{param}}? || NIC {{param}}の設定を解除してもよろしいですか？
+Are you sure you want to unset the selected NIC? || 選択したNICの設定を解除してもよろしいですか？
+Are you sure you want to unset the Bonding {{param}}? || ボンディング{{param}}の設定を解除してもよろしいですか？
+Are you sure you want to unset the selected Bondings? || 選択したボンディングの設定を解除してもよろしいですか？
+Are you sure you want to delete the Bonding {{param}}? || 結合{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected Bondings? || 選択したボンディングを削除してもよろしいですか？
+Are you sure you want to delete the VLAN {{param}}? || VLAN {{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected VLANs? || 選択したVLANを削除してもよろしいですか？
+Are you sure you want to delete the Virtual interface {{param}}? || 仮想インターフェイス{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected Virtual interfaces? || 選択した仮想インターフェイスを削除してもよろしいですか？
+Are you sure you want to unset the Floating IP of {{param}}? || {{param}}のフローティングIPの設定を解除してもよろしいですか？
+Are you sure you want to unset the selected Floating IPs? || 選択したフローティングIPの設定を解除してもよろしいですか？
+Are you sure you want to unset the gateway for {{param}}? || {{param}}のゲートウェイを設定解除してもよろしいですか？
+Are you sure you want to delete the alias {{param}}? || エイリアス{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected aliases? || 選択したエイリアスを削除してもよろしいですか？
+Are you sure you want to delete the routing rule {{param}}? || ルーティングルール{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected routing rules? || 選択したルーティングルールを削除してもよろしいですか？
+Are you sure you want to delete the route {{param}}? || ルート{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected routes? || 選択したルートを削除してもよろしいですか？
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. ||   <strong> {{param}} </strong> NICは正常に構成解除されました。
+The <strong> {{param}} </strong> NIC is up. ||   <strong> {{param}} </strong> NICは起動しています。
+The <strong> {{param}} </strong> NIC is down. ||   <strong> {{param}} </strong> NICがダウンしています。
+The <strong> {{param}} </strong> NIC has been updated successfully. ||   <strong> {{param}} </strong> NICは正常に更新されました。
+The <strong> {{param}} </strong> NIC has updated the alias successfully. ||   <strong> {{param}} </strong> NICはエイリアスを正常に更新しました。
+The <strong> {{param}} </strong> Bonding has been created successfully. ||   <strong> {{param}} </strong> ボンディングが正常に作成されました。
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. ||   <strong> {{param}} </strong> ボンディングは正常に構成解除されました。
+The <strong> {{param}} </strong> Bonding is up. ||   <strong> {{param}} </strong> ボンディングが完了しました。
+The <strong> {{param}} </strong> Bonding is down. ||   <strong> {{param}} </strong> ボンディングがダウンしています。
+The <strong> {{param}} </strong> Bonding has been updated successfully. ||   <strong> {{param}} </strong> ボンディングが正常に更新されました。
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. ||   <strong> {{param}} </strong> ボンディングによりエイリアスが正常に更新されました。
+The <strong> {{param}} </strong> Bonding has been deleted successfully. ||   <strong> {{param}} </strong> ボンディングは正常に削除されました。
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. ||   <strong> {{param}} </strong> スレーブがボンディングに正常に追加されました。
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. ||   <strong> {{param}} </strong> スレーブはボンディングから正常に削除されました。
+The <strong> {{param}} </strong> VLAN has been created successfully. ||   <strong> {{param}} </strong> VLANは正常に作成されました。
+The <strong> {{param}} </strong> VLAN is up. ||   <strong> {{param}} </strong> VLANはアップしています。
+The <strong> {{param}} </strong> VLAN is down. ||   <strong> {{param}} </strong> VLANがダウンしています。
+The <strong> {{param}} </strong> VLAN has been updated successfully. ||   <strong> {{param}} </strong> VLANは正常に更新されました。
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. ||   <strong> {{param}} </strong> VLANはエイリアスを正常に更新しました。
+The <strong> {{param}} </strong> VLAN has been deleted successfully. ||   <strong> {{param}} </strong> VLANは正常に削除されました。
+The <strong> {{param}} </strong> Virtual interface has been created successfully. ||   <strong> {{param}} </strong> 仮想インターフェースは正常に作成されました。
+The <strong> {{param}} </strong> Virtual interface is up. ||   <strong> {{param}} </strong> 仮想インターフェイスがアップしています。
+The <strong> {{param}} </strong> Virtual interface is down. ||   <strong> {{param}} </strong> 仮想インターフェイスがダウンしています。
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. ||   <strong> {{param}} </strong> 仮想インターフェースは正常に更新されました。
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. ||   <strong> {{param}} </strong> 仮想インターフェイスはエイリアスを正常に更新しました。
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. ||   <strong> {{param}} </strong> 仮想インターフェースは正常に削除されました。
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. ||   <strong> {{param}} </strong> フローティングIPは正常に構成解除されました。
+The <strong> {{param}} </strong> Floating IP is up. ||   <strong> {{param}} </strong> フローティングIPが起動しています。
+The <strong> {{param}} </strong> Floating IP is down. ||   <strong> {{param}} </strong> フローティングIPがダウンしています。
+The <strong> {{param}} </strong> Floating IP has been updated successfully. ||   <strong> {{param}} </strong> フローティングIPは正常に更新されました。
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. ||   <strong> {{param}} </strong> フローティングIPはエイリアスを正常に更新しました。
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. ||   <strong> {{param}} </strong> フローティングIPは正常に削除されました。
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || ゲートウェイ <strong> {{param}} </strong> 正常に構成解除されました。
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || ゲートウェイ <strong> {{param}} </strong> 更新に成功しました。
+The <strong> {{param}} </strong> Alias has been created successfully. ||   <strong> {{param}} </strong> エイリアスが正常に作成されました。
+The <strong> {{param}} </strong> Alias has been updated successfully. ||   <strong> {{param}} </strong> エイリアスは正常に更新されました。
+The <strong> {{param}} </strong> Alias has been deleted successfully. ||   <strong> {{param}} </strong> エイリアスは正常に削除されました。
+The <strong> {{param}} </strong> routing rule has been deleted successfully. ||   <strong> {{param}} </strong> ルーティングルールが正常に削除されました。
+The <strong> {{param}} </strong> routing rule has been updated successfully. ||   <strong> {{param}} </strong> ルーティングルールが正常に更新されました。
+The <strong> {{param}} </strong> routing rule has been created successfully. ||   <strong> {{param}} </strong> ルーティングルールが正常に作成されました。
+The route <strong> {{param}} </strong> has been deleted successfully. || ルート <strong> {{param}} </strong> 削除されました。
+The route <strong> {{param}} </strong> has been updated successfully. || ルート <strong> {{param}} </strong> 更新に成功しました。
+The route <strong> {{param}} </strong> has been created successfully. || ルート <strong> {{param}} </strong> 正常に作成されました。
+To remove a route you must select it first. || ルートを削除するには、まずルートを選択する必要があります。
+The route {{param}} cannot be removed because it is a system route. || ルート{{param}}はシステムルートであるため削除できません。
+The interface <strong> {{param}} </strong> has been disabled. || インタフェース <strong> {{param}} </strong> 無効になっています。
+The interface <strong> {{param}} </strong> has been enabled. || インタフェース <strong> {{param}} </strong> 有効になっています。
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. ||   <strong> {{param}} </strong> スレーブは削除できません。 ボンディングには少なくとも1つのスレーブが必要です。
+HTTP Service || HTTPサービス
+SSH Service || SSHサービス
+SNMP Service || SNMPサービス
+The physical interface where is running GUI service || GUIサービスを実行している物理インターフェイス
+If the cluster is up you only can select the cluster interface or all || クラスターが稼働している場合は、クラスターインターフェイスまたはすべてを選択できます
+HTTPS Port where is running GUI service || GUIサービスを実行しているHTTPSポート
+The physical interface where is running SSH service || SSHサービスを実行している物理インターフェイス
+SSH Port where is running SSH service || SSHサービスを実行しているSSHポート
+Enable SNMP || SNMPを有効にする
+The physical interface where is running SNMP service || SNMPサービスを実行している物理インターフェイス
+SNMP Port where is running SNMP service || SNMPサービスを実行しているSNMPポート
+Community name || コミュニティ名
+IP or subnet with access || アクセス可能なIPまたはサブネット
+Primary server || プライマリサーバ
+Secondary Server || 副サーバ
+NTP server || NTPサーバー
+NTP Service || NTPサービス
+Proxy Service || 代理サービス
+DNS Service || DNSサービス
+Configure cluster || クラスターを構成する
+Local IP || ローカルIP
+Remote IP || リモートIP
+Remote Node Password || リモートノードのパスワード
+Confirm Password || パスワードを入力
+Backup List || バックアップリスト
+Backup file || バックアップファイル
+Choose one file || ファイルを1つ選択してください
+Alerts Service || アラートサービス
+Alerts || アラート
+Email Notifications || 電子メール通知
+Mail Server || メールサーバー
+Mail User || メールユーザー
+TLS || TLS
+Backends Alert || バックエンドアラート
+Cluster Alert || クラスターアラート
+Prefix Subject || 接頭辞の件名
+Avoid flapping time || 羽ばたき時間を避ける
+The time that alerts wait when backend is flapping || バックエンドがフラッピングしているときにアラートが待機する時間
+User Settings || ユーザー設定
+ZAPI Key || ZAPIキー
+Change Password || パスワードの変更
+Current password || 現在のパスワード
+New password || 新しいパスワード
+Repeat new password || 新しいパスワードを再入力
+Log List || ログリスト
+Log view || ログビュー
+When this action is executed a file with system information will be downloaded. || このアクションが実行されると、システム情報を含むファイルがダウンロードされます。
+This action may take several seconds, you can continue browsing the GUI. || この操作には数秒かかることがあります。GUIを参照し続けることができます。
+Select an interface which won't be deleted || 削除されないインターフェイスを選択します
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || このアクションにより、選択したインターフェース、バックアップ、アクティベーション証明書を除くすべての構成が破棄されます。
+The current credentials for user root will not be modified. || ユーザーrootの現在の資格情報は変更されません。
+User List || ユーザー一覧
+Group List || グループリスト
+Role List || 役割リスト
+Role Settings || ロール設定
+Show all permissions || すべての権限を表示
+Hide all permissions || すべての権限を非表示
+Show permissions || 権限を表示
+Hide permissions || 権限を非表示
+LDAP Server || LDAPサーバー
+Base DN || ベースDN
+Bind DN || バインドDN
+Scope || 範囲
+Bind Password || バインドパスワード
+Filter || フィルタ
+Global Services || グローバルサービス
+Enable session replication || セッション複製を有効にする
+Enable Duplicated network || 複製ネットワークを有効にする
+Enable ARP announce || ARPアナウンスを有効にする
+Custom Routes || カスタムルート
+System Routes || システムルート
+Use proxy of new generation || 新世代のプロキシを使用する
+Validation Systems || 検証システム
+AWS Credentials || AWS認証情報
+Access Key || アクセスキー
+Secret Key || 秘密鍵
+Region ||  
+SSL Certificate || SSL証明書
+RBAC User || RBACユーザー
+RBAC Group || RBACグループ
+RBAC Role || RBACの役割
+Network Virtual Interface || ネットワーク仮想インタフェース
+System Service || システムサービス
+Notification || 通知ですよ
+Host or URL allowed || 許可されたホストまたはURL
+It will not be used if the HOST/URL field contains a URL || HOST / URLフィールドにURLが含まれている場合は使用されません
+Filter used to get the LDAP field that contains the user ID to log in || ログインするユーザーIDを含むLDAPフィールドを取得するために使用されるフィルター
+The Search Request will be performed against the entry specified as the search base DN. || 検索要求は、検索ベースDNとして指定されたエントリに対して実行されます。
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || 検索要求は、検索ベースDNとして指定されたエントリの直下のエントリに対して実行されます。
+The Search Request will be performed against the search base and all entries below || 検索リクエストは、検索ベースと以下のすべてのエントリに対して実行されます
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || 新しい管理GUIアドレスは{{param}}です。新しいURLでGUIに再接続してください。
+The <strong> HTTP service </strong> has been updated successfully. ||   <strong> HTTPサービス </strong> 更新に成功しました。
+The <strong> SSH service </strong> has been updated successfully. ||   <strong> SSHサービス </strong> 更新に成功しました。
+The <strong> SNMP service </strong> has been updated successfully. ||   <strong> SNMPサービス </strong> 更新に成功しました。
+The <strong> global services </strong> have been updated successfully ||   <strong> グローバルサービス </strong> 正常に更新されました
+The <strong> DNS service </strong> has been updated successfully. ||   <strong> DNSサービス </strong> 更新に成功しました。
+The <strong> NTP service </strong> has been updated successfully. ||   <strong> NTPサービス </strong> 更新に成功しました。
+The <strong> Proxy service </strong> has been updated successfully. ||   <strong> プロキシサービス </strong> 更新に成功しました。
+The backup <strong> {{param}} </strong> has been deleted successfully. || バックアップ <strong> {{param}} </strong> 削除されました。
+The backup <strong> {{param}} </strong> has been applied successfully. || バックアップ <strong> {{param}} </strong> 正常に適用されました。
+The backup <strong> {{param}} </strong> has been downloaded successfully. || バックアップ <strong> {{param}} </strong> ダウンロードに成功しました。
+The backup <strong> {{param}} </strong> has been uploaded successfully. || バックアップ <strong> {{param}} </strong> アップロードに成功しました。
+The backup <strong> {{param}} </strong> has been created successfully. || バックアップ <strong> {{param}} </strong> 正常に作成されました。
+The <strong> backends alert </strong> has been applied successfully. ||   <strong> バックエンドアラート </strong> 正常に適用されました。
+The <strong> cluster alert </strong> has been applied successfully. ||   <strong> クラスターアラート </strong> 正常に適用されました。
+The configuration of email has been updated successfully. || 電子メールの構成が正常に更新されました。
+The alert has been updated successfully. || アラートは正常に更新されました。
+The test email has been sent successfully. || テストメールが正常に送信されました。
+The user has been updated successfully. || ユーザーは正常に更新されました。
+The log <strong> {{param}} </strong> has been downloaded successfully. || ログ <strong> {{param}} </strong> ダウンロードに成功しました。
+The <strong> Support Save </strong> has been downloaded successfully. ||   <strong> サポート保存 </strong> ダウンロードに成功しました。
+The user <strong> {{param}} </strong> has been deleted successfully. || ユーザー <strong> {{param}} </strong> 削除されました。
+The user {{param}} has been created successfully. || ユーザー{{param}}が正常に作成されました。
+The user {{param}} has been updated successfully. || ユーザー{{param}}は正常に更新されました。
+The group <strong> {{param}} </strong> has been deleted successfully. || グループ <strong> {{param}} </strong> 削除されました。
+The group {{param}} has been created successfully. || グループ{{param}}が正常に作成されました。
+The group {{param}} has been updated successfully. || グループ{{param}}は正常に更新されました。
+The user <strong> {{param}} </strong> has been added to the group successfully. || ユーザー <strong> {{param}} </strong> グループに正常に追加されました。
+The user <strong> {{param}} </strong> has been removed to the group successfully. || ユーザー <strong> {{param}} </strong> グループから削除されました。
+The farm <strong> {{param}} </strong> has been added to the group successfully. || 農場 <strong> {{param}} </strong> グループに正常に追加されました。
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || 農場 <strong> {{param}} </strong> グループから削除されました。
+The interface <strong> {{param}} </strong> has been added to the group successfully. || インタフェース <strong> {{param}} </strong> グループに正常に追加されました。
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || インタフェース <strong> {{param}} </strong> グループから削除されました。
+The role <strong> {{param}} </strong> has been deleted successfully. || 役割 <strong> {{param}} </strong> 削除されました。
+The role {{param}} has been created successfully. || ロール{{param}}が正常に作成されました。
+The role {{param}} has been updated successfully. || ロール{{param}}は正常に更新されました。
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || LDAPサーバーが構成されました。 接続をテストして、構成が正しいことを確認してください。
+The connectivity test has been done successfully. || 接続テストは正常に完了しました。
+The validation system <strong> {{param}} </strong> has been enabled successfully. || 検証システム <strong> {{param}} </strong> 正常に有効化されました。
+The validation system <strong> {{param}} </strong> has been disabled successfully. || 検証システム <strong> {{param}} </strong> 正常に無効化されました。
+The cluster has been created successfully. || クラスターが正常に作成されました。
+The cluster has been updated successfully. || クラスターは正常に更新されました。
+The cluster has been destroyed successfully. || クラスターは正常に破壊されました。
+The <strong>local node</strong> has been put in maintenance successfully. ||   <strong>ローカルノード</strong> メンテナンスに成功しました。
+The <strong>local node</strong> has been enabled successfully. ||   <strong>ローカルノード</strong> 正常に有効化されました。
+The AWS credentials have been configured successfully. || AWS認証情報が正常に設定されました。
+The Azure credentials have been configured successfully. || Azure資格情報が正常に構成されました。
+Are you sure you want to delete the backup {{param}}? || バックアップ{{param}}を削除してよろしいですか？
+Are you sure you want to delete the selected backups? || 選択したバックアップを削除してもよろしいですか？
+Are you sure you want to delete the user {{param}}? || ユーザー{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected users? || 選択したユーザーを削除してもよろしいですか？
+Are you sure you want to delete the group {{param}}? || グループ{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected groups? || 選択したグループを削除してもよろしいですか？
+Are you sure you want to delete the role {{param}}? || ロール{{param}}を削除してもよろしいですか？
+Are you sure you want to delete the selected roles? || 選択した役割を削除してもよろしいですか？
+Are you sure you want to destroy the cluster? || クラスターを破棄してもよろしいですか？
+Dashboard || ダッシュボード
+News || ニュース
+LSLB || LSLB
+Farms || 農場
+SSL Certificates || SSL証明書
+Generate csr || CSRを生成
+Stats || 統計
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || 設定
+Blacklists || ブラックリスト
+DoS || DoS攻撃
+RBL || RBL
+Rules || キャンペーンのルール
+Domains || ドメイン
+WAF || WAF
+Rulesets || ルールセット
+Files || ファイル
+Monitoring || 監視
+Graphs || グラフ
+Farmguardians || 農場の人々
+Network || ネットワーク
+NIC || NIC
+Bonding || ボンディング
+VLAN || VLAN
+Virtual Interfaces || 仮想インタフェース
+Floating IPs || フローティングIP
+Gateway || ゲートウェイ
+Aliases || エイリアス
+Routing || ルーティング
+Tables || テーブル
+System || エントルピー
+RBAC || RBAC
+Users || ユーザー
+Groups || グループ
+Roles || 役割
+Local Services || ローカルサービス
+Remote Services || リモートサービス
+Cluster || クラスタ
+Backups || バックアップ
+Notifications || お知らせ
+User || ユーザー
+Logs || ログ
+Activation Certificate || アクティベーション証明書
+License || ライセンス
+SupportSave || サポート保存
+Factory Reset || 工場リセット

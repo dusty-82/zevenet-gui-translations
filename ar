@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| تسجيل الدخول باستخدام اسم المستخدم وكلمة المرور الخاصة بك
-Success!|| النجاح!
-Username|| اسم المستخدم
-User should be the real one!|| يجب أن يكون المستخدم الحقيقي!
-Password should contains from {{min}} to {{max}} characters|| يجب أن تحتوي كلمة المرور من {{min}} إلى {{max}} حرفًا
-Sign In|| تسجيل الدخول
-Logging out, please wait...|| تسجيل الخروج ، يرجى الانتظار ...
-Package list to upgrade|| قائمة الحزمة للترقية
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| لترقية النظام ، يرجى تنفيذ الأمر التالي في shell: 'checkupgrades -i'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * يتم تحديث هذه المعلومات يوميا ، إذا كنت ترغب في فرض تشغيل الاختيار <code>checkupgrades</code> من سطر الأوامر.
-No activation certificate|| لا شهادة التفعيل
-There isn't a valid ZEVENET certificate file, please request a new one|| لا يوجد ملف شهادة ZEVENET صالح ، يرجى طلب ملف جديد
-Certificate Key|| مفتاح الشهادة
-Activation Certificate file|| ملف شهادة التنشيط
-Activation Data|| بيانات التنشيط
-Copy data to the clipboard|| نسخ البيانات إلى الحافظة
-Activation Certificate|| شهادة التنشيط
-Select an activation certificate|| حدد شهادة التفعيل
-Upload Activation Certificate|| تحميل شهادة التفعيل
-No Support|| لا دعم
-Certificate expired|| انتهت صلاحية الشهادة
-Support expired|| انتهت صلاحية الدعم
-Certificate expires in {{param}} {{param2}}|| تنتهي صلاحية الشهادة في {{param}} {{param2}}
-Support expires in {{param}} {{param2}}|| ينتهي الدعم في {{param}} {{param2}}
-The activation certificate has been uploaded successfully.|| تم تحميل شهادة التفعيل بنجاح.
-The Activation Certificate has been deleted successfully.|| تم حذف شهادة التفعيل بنجاح.
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| هل أنت متأكد من حذف شهادة التفعيل \\n إذا قمت بحذفها ، فستفقد الوصول إلى واجهة المستخدم الرسومية ، حتى يتم تحميل شهادة أخرى
-Upload|| تحميل
-Uploading|| تحميل
-Add|| أضف جرعات 
-Disable maintenance|| تعطيل الصيانة
-Enable maintenance|| تمكين الصيانة
-Drain mode|| وضع الصرف
-Cut mode|| وضع القطع
-Edit|| تعديل
-Configure|| ضبط
-Save|| توفير
-Add Variable|| إضافة متغير
-Bring|| احضر
-Export|| تصدير
-All data|| كل المعلومات
-Only selected|| تم تحديدها فقط
-Apply|| تقديم الطلب
-Create|| خلق
-Cancel|| إلغاء
-Submit|| إرسال
-New Service|| خدمة جديدة
-New Zone|| منطقة جديدة
-New Route|| طريق جديد
-Basic|| أساسي
-Advanced|| المتقدم
-Generate|| توليد
-Generating|| توليد
-Delete|| حذف
-Bring Up|| ارفع
-Bring down|| يجلب
-Restart|| إعادة تشغيل
-Restarting|| إعادة تشغيل
-Start|| بداية
-Stop|| توقف
-Unset|| غير مصلد
-Enable|| تمكين
-Disable|| تعطيل
-Remove|| حذف
-Download|| تحميل
-Downloading|| تحميل
-Update|| تحديث
-New Rule|| قانون جديد
-Next|| التالى
-Back|| الخلف
-Generate Random MAC|| توليد عشوائية MAC
-Destroy|| هدم
-Test Email|| اختبار البريد الإلكتروني
-Generate Random Key|| توليد مفتاح عشوائي
-Upload Certificate|| شهادة إيداع
-Delete Certificate|| حذف الشهادة
-List|| قائمة
-Menu|| القائمة الرئيسية
-Modify|| عدل
-Show|| عرض
-Action|| الحالة
-Test|| اختبار
-Schedule|| جدول
-Upgrade|| تحديث
-View|| عرض
-Info|| معلومات
-Test Connectivity|| اختبار الاتصال
-Show certificate|| إظهار الشهادة
-Force Changes|| تغييرات القوة
-Page Not Found|| الصفحة غير موجودة
-The page you were looking for doesn't exist|| الصفحة التي تبحث عنها غير موجودة
-Take me home|| خذنى إلى المنزل
-Status|| الحالة
-Actions|| الإجراءات
-Name|| الإسم
-ID||  ID
-Alias|| الاسم المستعار
-IP||  IP
-Interface|| السطح البيني
-Priority|| درجة الأهمية
-Port|| ميناء
-Weight|| الوزن
-Max. Conns|| ماكس. Conns
-Name|| الإسم
-Virtual IP|| IP الظاهري
-Vitual Port|| ميناء الفعلي
-Virtual IP and Port|| IP الظاهري والمنفذ
-Default TCP port health check|| افتراضي فحص منفذ TCP
-Health Checks for backend|| الشيكات الصحية للوظيفه
-Default Name Server|| اسم الخادم الافتراضي
-Type|| نوع
-Data|| Data (البيانات)
-Profile|| التعريف
-HTTPS Parameters|| معلمات HTTPS
-Ciphers|| الأصفار
-Custom ciphers|| الأصفار المخصصة
-Protocol type|| نوع البروتوكول
-NAT type|| نوع NAT
-Rewrite location headers|| أعد كتابة رؤوس الموقع
-HTTP verbs accepted|| الأفعال HTTP مقبولة
-Ignore 100 continue|| تجاهل 100 متابعة
-Backend connection timeout|| الخلفية انقطاع الاتصال
-Backend response timeout|| مهلة استجابة الخلفية
-Frequency to check resurrected backends|| تردد للتحقق من الخلفيات التي أعيد إنشاؤها
-Client request timeout|| طلب العميل مهلة
-Message Error|| رسالة خطأ
-Request Headers|| طلب الرؤوس
-Response Headers|| رؤوس الاستجابة
-Persistence|| إصرار
-Persistence session time to live|| وقت الجلسة المثابرة للعيش
-TTL|| TTL
-Persistence session identifier|| معرف جلسة المثابرة
-Virtual IP|| IP الظاهري
-Load balancing Scheduler|| تحميل موازنة المجدول
-Algorithm|| خوارزمية
-Round Robin|| جولة روبن
-Virtual Host|| استضافة افتراضية
-URL Pattern|| نمط عنوان URL
-Least Response|| استجابة أقل
-HTTPS Backends|| HTTPS الخلفية
-STS Header|| رأس STS
-Timeout|| مهلة
-Redirect|| إعادة توجيه
-Redirect URL|| إعادة توجيه URL
-Redirect Type|| نوع إعادة التوجيه
-Redirect Code|| رمز إعادة التوجيه
-Cookie Insert|| ملف تعريف الارتباط إدراج
-Cookie Name|| اسم ملف تعريف الارتباط
-Cookie Domain|| نطاق ملفات تعريف الارتباط
-Cookie Path|| مسار ملفات تعريف الارتباط
-Cookie TTL|| ملف تعريف الارتباط TTL
-Locality|| مكان
-Country|| الدولة
-State/Province|| الدولة / مقاطعة
-Common Name|| اسم شائع
-Organization|| منظمة
-Division|| تقسيم
-E-mail Address|| عنوان البريد الإلكتروني
-File|| قم بتقديم
-Issuer|| المصدر
-Creation|| خلق
-Expiration|| انتهاء
-Certificate|| شهادة
-Established Conns|| أنشئت كونز
-Pending Conns|| معلقة كونز
-Service|| اختار نوع الكشف اوالخدمه
-Session ID|| الدورة ID
-Backend ID|| معرف الخلفية
-Requests|| طلبات الصداقة
-Failed REQ|| فشل REQ
-Failed RES|| فشل RES
-Truncated Resp TC|| تم اقتطاع Resp TC
-Extended DNS Big|| تمديد DNS كبير
-Extended DNS TC|| تمديد DNS TC
-No Error|| لا خطأ
-Refused|| رفض
-Non-existent Domain|| مجال غير موجود
-Notimp|| Notimp
-Bad Version|| إصدار سيء
-Format Error|| خطأ في التنسيق
-Dropped|| إسقاط
-V6||  V6
-Extended DNS|| DNS الموسعة
-Extended DNS-ClientSub|| تمديد DNS- ClientSub
-Client|| جديد
-Listerner|| Listerner
-Value|| القيمة
-Custom IP|| IP مخصص
-Policy|| سياسة
-Remote URL|| URL البعيد
-Frequency|| تردد
-Rule|| قاعدة
-Limit RST request per source IP|| الحد من طلب RST لكل مصدر IP
-Total connections per source IP|| مجموع الاتصالات لكل مصدر IP
-Limit Burst|| الحد من انفجار
-Total connections limit per source IP|| مجموع الاتصالات الحد لكل مصدر IP
-Hits|| المشاهدات
-Time|| الوقت: 
-Log level|| تسجيل مستوى
-Only logging|| تسجيل فقط
-Local traffic|| حركة المرور المحلية
-Queue size|| حجم قائمة الانتظار
-Max. Threads|| ماكس. الخيوط
-Cache size|| حجم ذاكرة التخزين المؤقت
-Cache time|| وقت الكاش
-Check Request Body|| تحقق طلب الجسم
-Check Response Body|| تحقق استجابة الجسم
-Request Body Limit|| طلب الحد الأساسي
-Default Phase|| المرحلة الافتراضية
-Default Log|| السجل الافتراضي
-Rules|| قواعد
-Rule Type|| نوع القاعدة
-Mark|| علامة
-Phase|| مرحلة
-Resolution|| دقة الشاشة 
-Rule ID|| معرف القاعدة
-Skip|| تخطى
-Skip after|| تخطي بعد
-Execute|| تنفيذ
-Description|| الوصف
-Interval|| الفاصلة
-Cut connections|| قطع الاتصالات
-Command|| أمر
-MAC|| ماك
-Netmask|| قناع الشبكة
-Farms|| المزارع
-Gateway|| بوابة
-IP Address|| عنوان IP
-CIDR|| CIDR
-Mode|| موضة
-Slaves|| العبيد
-Parent Interface|| واجهة الأم
-Address|| العنوان
-Host|| مضيف
-Date|| التاريخ
-Alert|| إنذار
-Password|| كلمة المرور
-Log|| سجل
-ZAPI Permissions|| أذونات ZAPI
-GUI Permissions|| أذونات واجهة المستخدم الرسومية
-Role|| الدور
-Rules Date|| تاريخ القواعد
-Scheduled|| المقرر
-Variable|| متغير
-Variable's argument|| حجة المتغير
-Ignore this <i>variable</i> for the match|| تجاهل هذا <i>متغير</i> من اجل المباراة
-Count elements of <i>variables</i>|| عد عناصر <i>المتغيرات</i>
-Variables|| المتغيرات
-Transformations|| التحولات
-Operating|| التشغيل
-Multi Match|| مباراة متعددة
-Not Match|| لا يتطابق
-Operator|| المُشغل 
-Module|| وحدة
-Floating IP|| عائم IP
-Interfaces|| واجهات
-Group|| تجمع
-Virtual Interface|| واجهة افتراضية
-URL|| URL
-From|| السعر
-Table|| طاولة
-To|| إلى
-Route|| طريق
-Via|| بواسطة
-Backend Alias|| الخلفية الاسم المستعار
-Version|| الإصدار
-System|| نظام
-Failback|| الإعادة بعد الفشل
-Check Interval|| تحقق الفاصل الزمني
-Node|| العقدة
-Message|| يرجى ترك رسالتك هنا
-Hostname|| اسم المضيف
-No {{param}} found|| لم يتم العثور على {{param}}
-Edit|| تعديل
-Global|| عالمي
-Services|| الخدمات
-Select a {{param}}|| اختر {{param}}
-Resources|| المصادر
-Backends|| الخلفيات
-Strict Transport Security|| أمن النقل الدقيق
-Farms Stats|| إحصائيات المزارع
-Copy to clipboard|| نسخ إلى الحافظة
-Hide nodes|| إخفاء العقد
-Show nodes|| إظهار العقد
-Hide backends|| إخفاء الخلفية
-Show backends|| تظهر الخلفية
-Hide graphs|| إخفاء الرسوم البيانية
-Show graphs|| عرض الرسوم البيانية
-Sessions|| دورات
-Clients|| الراضون
-Servers|| خوادم
-Extended|| ممتد
-Nodes|| العقد
-Number of lines|| عدد الخطوط
-View All|| عرض المزيد
-View Less|| عرض أقل
-Valid|| صالح
-Expired|| انتهت
-Near to expire|| على وشك الانتهاء
-True|| صواب
-False|| خطأ
-No configured|| لا تكوين
-In use by bonding interface|| قيد الاستخدام من خلال واجهة الترابط
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| يجب تغيير واجهة خدمة نظام المجموعة أو تعطيلها قبل التمكن من تعديل هذه الواجهة
-Enabled|| تمكين
-Disabled|| معاق
-Needed restart|| مطلوب إعادة التشغيل
-Critical|| حرج
-Problem|| المشكلة
-Maintenance|| الصيانة
-Master|| ماستر
-Backup|| دعم
-Not configured|| لم يقم
-Undefined|| غير محدد
-Daily Graph|| الرسم البياني اليومي
-Weekly Graph|| الرسم البياني الأسبوعي
-Monthly Graph|| الرسم البياني الشهري
-Yearly Graph|| الرسم البياني السنوي
-Documentation|| الوثائق
-Reload farmguardian list|| تحديث قائمة farmguardian
-Cookie|| كوكي
-Zones|| المناطق
-System Stats|| إحصائيات النظام
-CPU|| وحدة المعالجة المركزية‏:
-Memory|| مكبر الصوت : يدعم، مع دعم ميكروفون مدمج لمنع الضوضاء 
-Load|| حمل
-Cores|| الألوان
-Traffic In|| حركة المرور في
-Traffic Out|| حركة المرور خارج
-Nothing|| لا شيء
-Custom|| عرف
-All interfaces|| جميع الواجهات
-All farms|| جميع المزارع
-Default State|| الدولة الافتراضية
-Up||  Up
-Down|| إلى أسفل
-Installed and updated|| تم التثبيت والتحديث
-Not installed|| غير مثبت
-Updates available|| التحديثات المتوفرة
-Interface|| السطح البيني
-Type|| نوع
-Zone|| المنطقة
-Transformation|| تحول
-Backend|| الخلفية
-Condition|| حالة
-Domain|| نطاق
-Resource|| مورد
-Graph|| رسم بياني
-Session|| جلسة
-IP alias|| الاسم المستعار IP
-Interface alias|| الاسم المستعار واجهة
-Backup|| دعم
-Farm|| مزرعة
-Header|| رأس
-Pattern|| نمط
-Source|| مصدر
-Blacklist|| القائمة السوداء
-Farmguardian|| Farmguardian
-Package|| فئة الإشتراك
-DoS rule|| هل يحكم
-RBL rule|| حكم RBL
-WAF ruleset|| قواعد WAF
-VLAN|| VLAN
-Routing Rule|| قاعدة التوجيه
-Routing Table|| جدول التوجيه
-Needed restart|| مطلوب إعادة التشغيل
-There're changes that need to be applied, restart the farm to apply them!|| هناك تغييرات تحتاج إلى تطبيق ، أعد تشغيل المزرعة لتطبيقها!
-Close|| اغلاق
-The <strong> factory reset </strong> has been completed successfully.|| الجمعية  <strong> ضبط المصنع </strong> تم الانتهاء بنجاح.
-The interface <strong> {{name}} </strong> has been updated successfully.|| واجهة <strong> {{name}} </strong> تم تحديثه بنجاح.
-The <strong>HTTP Service</strong> has been updated successfully.|| الجمعية  <strong>خدمة HTTP</strong> تم تحديثه بنجاح.
-An error has occurred on the server, try again later|| لقد حدث خطأ على الخادم ، أعد المحاولة لاحقًا
-Connection to web server failed|| فشل الاتصال بخادم الويب
-An unexpected error has occurred|| لقد حدث خطأ غير متوقع
-System Information|| نظام المعلومات
-ZEVENET Version|| نسخة ZEVENET
-Appliance Version|| إصدار الأجهزة
-Kernel Version|| إصدار النواة
-System Date|| تاريخ النظام
-NIC Traffic|| حركة المرور NIC
-Total number of connections in realtime.|| إجمالي عدد الاتصالات في الوقت الحقيقي.
-Connections|| تكنولوجيا فائقة فنون عالية  : يوفر لك Apple Pencil طريقة مثالية للتعبير عن أفكارك كلما زارك الإلهام. استخدمه لتدوين الملاحظات أو الرسم بالألوان المائية أو تصميم مبنى في موقع العمل. وستجد العديد من التطبيقات في App Store التي تسمح لك بإنجاز المزيد مع Apple Pencil. ومهما كان ما تريد إنجازه، فإن Apple Pencil من السهل استخدامه ومن الصعب تركه.
-Professional Products|| المنتجات المهنية
-Professional Services|| خدمات مهنية
-No Virtual Interfaces|| لا واجهات افتراضية
-No VLANs|| لا شبكات محلية ظاهرية
-Create DSLB Farm|| إنشاء مزرعة DSLB
-Create Virtual interface|| إنشاء واجهة افتراضية
-Create GSLB Farm|| إنشاء مزرعة GSLB
-Generate CSR|| توليد المسؤولية الاجتماعية للشركات
-Create LSLB Farm|| إنشاء مزرعة LSLB
-Upload SSL Certificate|| تحميل شهادة SSL
-Create Blacklist|| إنشاء قائمة سوداء
-Create DoS rule|| قم بإنشاء قاعدة DoS
-Create RBL rule|| إنشاء قاعدة RBL
-Create WAF ruleset|| إنشاء قواعد WAF
-Create Rule|| إنشاء قاعدة
-Create Farmguardian|| إنشاء Farmguardian
-Create Bonding interface|| إنشاء واجهة الربط
-Create VLAN interface|| إنشاء واجهة VLAN
-Upload Backup|| تحميل النسخ الاحتياطي
-Create Backup|| إنشاء نسخة احتياطية
-Create User|| إنشاء مستخدم
-Create Group|| إنشاء المجموعة
-Create Role|| خلق دور
-Create Route|| إنشاء الطريق
-is required|| مطلوب
-is not valid, it only is possible alphanumeric characters and dash (-).|| غير صالح ، إنه ممكن فقط الأحرف الأبجدية الرقمية وشرطة (-).
-Only editable when the farm is down.|| فقط للتحرير عندما تكون المزرعة معطلة.
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| المنفذ الظاهري غير صالح ، فمن الممكن تحديد منفذ واحد أو عدة منافذ أو نطاقات من المنافذ (على سبيل المثال: 80 أو 80,81 أو 80: 90)
-has to be greater than 0|| يجب أن يكون أكبر من 0
-Redirect should be a URL (http(s)://...)|| يجب أن يكون إعادة التوجيه عنوان URL (http (s): // ...)
-Country can only have two characters.|| يمكن أن تحتوي الدولة على حرفين فقط.
-E-mail has to be a valid email|| البريد الإلكتروني يجب أن يكون بريدًا إلكترونيًا صالحًا
-The password does not match|| كلمة المرور غير متطابقة
-has to be a value between {{min}} and {{max}}|| يجب أن تكون قيمة بين {{min}} و {{max}}
-Global Settings|| إعدادات العالمية
-IPDS Settings|| إعدادات IPDS
-Advanced Settings|| إعدادات متقدمة
-Domains Settings|| إعدادات المجالات
-Rules Settings|| إعدادات القواعد
-Blacklists rules|| قواعد القوائم السوداء
-DoS rules|| قواعد الخدمة
-RBL rules|| قواعد RBL
-WAF rulesets|| قواعد WAF
-Services Settings|| إعدادات الخدمات
-Zones Settings|| إعدادات المناطق
-Global Filter|| تصفية العالمية
-Refresh|| تحديث
-Seconds|| ثواني
-per second|| في الثانية
-Refresh status every|| تحديث الحالة كل
-Refresh stats every|| تحديث احصائيات كل
-Not refresh|| ليس التحديث
-Farms Settings|| إعدادات المزارع
-Minutes|| دقيقة
-Hours|| ساعات
-Monday|| الإثنين
-Tuesday|| الثلاثاء
-Wednesday|| الأربعاء
-Thursday|| الخميس
-Friday|| الجمعة
-Saturday|| السبت
-Sunday|| الأحد
-Deny|| تنكر
-Allow|| السماح
-Daily|| Daily
-Weekly|| أسبوعيا
-Monthly|| شهرياً
-entries|| مقالات
-threads|| المواضيع
-Sort|| تصنيف حسب:
-SORT MODE: Drag and drop the service to the desired position.|| SORT MODE: سحب وإسقاط الخدمة إلى الموضع المطلوب.
-The farm will be restarted automatically.|| سيتم إعادة تشغيل المزرعة تلقائيًا.
-bytes|| بايت
-Default is|| الافتراضي هو
-Optional|| اختياري
-days|| أيام
-Go to|| توجّه إلى 
-Edit in form mode|| تحرير في وضع النموذج
-Edit in raw mode|| تحرير في الوضع الخام
-Create in form mode|| إنشاء في وضع النموذج
-Create in raw mode|| إنشاء في الوضع الخام
-Available certificates|| الشهادات المتاحة
-Enabled certificates|| الشهادات الممكّنة
-Search certificate|| شهادة البحث
-Available blacklists|| القوائم السوداء المتاحة
-Enabled blacklists|| قوائم سوداء ممكّنة
-Search blacklist|| البحث في القائمة السوداء
-Available DoS rules|| قواعد DoS المتاحة
-Enabled DoS rules|| قواعد DoS الممكنة
-Search DoS rule|| بحث DoS القاعدة
-Available RBL rules|| قواعد RBL المتاحة
-Enabled RBL rules|| قواعد RBL الممكنة
-Search RBL rule|| بحث حكم RBL
-Available WAF rulesets|| قواعد WAF المتاحة
-Enabled WAF rulesets|| قواعد WAF الممكّنة
-Search WAF ruleset|| البحث في قواعد WAF
-Available farms|| المزارع المتاحة
-Enabled farms|| المزارع الممكّنة
-Search farm|| بحث مزرعة
-Available domains|| المجالات المتاحة
-Enabled domains|| المجالات الممكنة
-Search domain|| مجال البحث
-Enabled rules|| القواعد الممكّنة
-Disabled rules|| قواعد المعوقين
-Search rule|| قاعدة البحث
-Available NICs|| بطاقات NIC المتاحة
-Enabled NICs|| بطاقات NIC الممكّنة
-Search NIC|| بحث NIC
-Search slaves|| بحث العبيد
-Slaves NICs|| العبيد بطاقات NIC
-Available users|| المستخدمين المتاحة
-Enabled users|| المستخدمين تمكين
-Search user|| بحث المستخدم
-Available interfaces|| واجهات المتاحة
-Enabled interfaces|| واجهات تمكين
-Search interface|| واجهة البحث
-Managed interfaces|| واجهات المدارة
-Unmanaged interfaces|| واجهات غير المدارة
-Search interface|| واجهة البحث
-LSLB Farm List|| قائمة مزرعة LSLB
-GSLB Farm List|| قائمة مزرعة GSLB
-DSLB Farm List|| قائمة مزرعة DSLB
-Copy farm|| نسخة المزرعة
-Farm to copy|| مزرعة لنسخ
-Select the farm to copy|| حدد المزرعة لنسخها
-Weight: connection linear dispatching by weight|| الوزن: اتصال خطي الإرسال حسب الوزن
-Priority: connections always to the most prio available|| الأولوية: الاتصالات دائمًا مع معظم المنتجات المتاحة
-Source Hash: Hash per Source IP and Source Port|| تجزئة المصدر: تجزئة لكل مصدر IP و منفذ مصدر
-Simple Source Hash: Hash per Source IP only|| تجزئة مصدر بسيط: تجزئة لكل مصدر IP فقط
-Symmetric Hash: Round trip hash per IP and Port|| هاش متماثل: تجول ذهابا وإيابا لكل IP والميناء
-Round Robin: Sequential backend selection|| جولة روبن: اختيار الخلفية المتسلسلة
-Least Connections: connections to the least open conns available|| اتصالات الأقل: اتصالات إلى أقل conns المتاحة
-Disabled|| معاق
-Enabled|| تمكين
-Enabled and compare backends|| تمكين ومقارنة الخلفية
-No persistence|| لا استمرار
-IP: Source IP|| IP: مصدر IP
-Port: Source Por|| ميناء: المصدر بور
-MAC: Source MAC|| MAC: مصدر MAC
-Source IP and Source Port|| مصدر IP ومصدر المنفذ
-Source IP and Destination Port|| مصدر IP ومنفذ الوجهة
-No persistence|| لا استمرار
-IP: Client address|| IP: عنوان العميل
-BASIC: Basic authentication|| الأساسية: المصادقة الأساسية
-URL: A request parameter|| عنوان URL: معلمة طلب
-PARM: An URI parameter|| PARM: معلمة URI
-COOKIE: A certain cookie|| كوكي: ملف تعريف ارتباط معين
-HEADER: A certain request header|| العنوان: رأس طلب معين
-The farm has been updated successfully|| تم تحديث المزرعة بنجاح
-The farm <strong> {{param}} </strong> has been deleted successfully.|| المزرعة <strong> {{param}} </strong> تم حذفه بنجاح
-The farm <strong> {{param}} </strong> has been started successfully.|| المزرعة <strong> {{param}} </strong> تم البدء بنجاح
-The farm <strong> {{param}} </strong> has been restarted successfully.|| المزرعة <strong> {{param}} </strong> تم اعادة التشغيل بنجاح.
-The farm <strong> {{param}} </strong> has been stopped successfully.|| المزرعة <strong> {{param}} </strong> تم ايقافه بنجاح
-The farm <strong> {{param}} </strong> has been created successfully.|| المزرعة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The backend has been created successfully.|| تم إنشاء الواجهة الخلفية بنجاح.
-The backend has been updated successfully.|| تم تحديث الخلفية بنجاح.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| الخلفية <strong> {{param}} </strong> تم حذفه بنجاح
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| الخلفية <strong> {{param}} </strong> تم وضعه في الصيانة بنجاح.
-The backend <strong> {{param}} </strong> has been upped successfully.|| الخلفية <strong> {{param}} </strong> لقد تم زيادة بنجاح.
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| خلفية مع قيمة أولوية عالية <strong> {{param}} </strong> لن يتم استخدامها.
-The resource has been created successfully.|| تم إنشاء المورد بنجاح.
-The resource has been updated successfully.|| تم تحديث المورد بنجاح.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| الخلفية <strong> {{param}} </strong> تم حذفه بنجاح
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| شهادة SSL <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| شهادة SSL <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| شهادة SSL <strong> {{param}} </strong> تم الفرز بنجاح.
-The service <strong> {{param}} </strong> has been created successfully.|| الخدمة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The service <strong> {{param}} </strong> has been updated successfully.|| الخدمة <strong> {{param}} </strong> تم تحديثه بنجاح.
-The service <strong> {{param}} </strong> has been deleted successfully.|| الخدمة <strong> {{param}} </strong> تم حذفه بنجاح
-The service <strong> {{param}} </strong> has been moved successfully.|| الخدمة <strong> {{param}} </strong> لقد تم نقل بنجاح.
-The farmguardians list has been reloaded successfully.|| تم إعادة تحميل قائمة farmguardians بنجاح.
-The farmguardian has been disabled successfully.|| تم تعطيل farmguardian بنجاح.
-The farmguardian has been changed to {{param}} successfully.|| تم تغيير farmguardian إلى {{param}} بنجاح.
-The zone <strong> {{param}} </strong> has been created successfully.|| المنطقة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The zone <strong> {{param}} </strong> has been updated successfully.|| المنطقة <strong> {{param}} </strong> تم تحديثه بنجاح.
-The zone <strong> {{param}} </strong> has been deleted successfully.|| المنطقة <strong> {{param}} </strong> تم حذفه بنجاح
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| القائمة السوداء <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| القائمة السوداء <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| القاعدة DoS <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| القاعدة DoS <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| حكم RBL <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| حكم RBL <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| قواعد WAF <strong> {{param}} </strong> تم الفرز بنجاح.
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| قواعد WAF <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| قواعد WAF <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
-The profile has been changed to {{param}} successfully.|| تم تغيير ملف التعريف إلى {{param}} بنجاح.
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| تم تغيير الخوارزمية إلى خوارزمية الوزن ، نظرًا لأن خوارزمية الاتصالات الأقل غير مسموح بها مع نوع NAT المحدد. يمكنك اختيار خوارزمية أخرى من علامة تبويب الخدمات.
-The request header has been saved successfully.|| تم حفظ رأس الطلب بنجاح.
-The request header has been deleted successfully.|| تم حذف رأس الطلب بنجاح.
-The request header pattern has been saved successfully.|| تم حفظ نموذج رأس الطلب بنجاح.
-The request header pattern has been deleted successfully.|| تم حذف نموذج رأس الطلب بنجاح.
-The response header has been saved successfully.|| تم حفظ رأس الاستجابة بنجاح.
-The response header has been deleted successfully.|| تم حذف رأس الاستجابة بنجاح.
-The response header pattern has been saved successfully.|| تم حفظ نمط رأس الاستجابة بنجاح.
-The response header pattern has been deleted successfully.|| تم حذف نمط رأس الاستجابة بنجاح.
-The service has to have one backend at least.|| يجب أن يكون للخدمة خلفية واحدة على الأقل.
-Are you sure you want to delete the farm {{param}}?|| هل أنت متأكد من أنك تريد حذف المزرعة {{param}}؟
-Are you sure you want to delete the selected farms?|| هل أنت متأكد من أنك تريد حذف المزارع المحددة؟
-Are you sure you want to delete the service {{param}}?|| هل أنت متأكد من أنك تريد حذف الخدمة {{param}}؟
-Are you sure you want to delete the zone {{param}}?|| هل أنت متأكد من أنك تريد حذف المنطقة {{param}}؟
-Are you sure you want to delete the selected resources?|| هل أنت متأكد من أنك تريد حذف الموارد المحددة؟
-Are you sure you want to delete the resource {{param}}?|| هل أنت متأكد من أنك تريد حذف المورد {{param}}؟
-Are you sure you want to delete the backend {{param}}?|| هل أنت متأكد من أنك تريد حذف الواجهة الخلفية {{param}}؟
-Are you sure you want to delete the selected backends?|| هل أنت متأكد من أنك تريد حذف الخلفية المحددة؟
-Are you sure you want to delete the request header with ID {{id}}?|| هل أنت متأكد من أنك تريد حذف رأس الطلب بالكود {{id}}؟
-Are you sure you want to delete the request header pattern with ID {{id}}?|| هل أنت متأكد من أنك تريد حذف نمط رأس الطلب بالكود {{id}}؟
-Are you sure you want to delete the selected request headers?|| هل أنت متأكد من أنك تريد حذف رؤوس الطلبات المحددة؟
-Are you sure you want to delete the selected request headers patterns?|| هل تريد بالتأكيد حذف أنماط رؤوس الطلبات المحددة؟
-Are you sure you want to delete the response header with ID {{id}}?|| هل تريد بالتأكيد حذف رأس الاستجابة بالكود {{id}}؟
-Are you sure you want to delete the response header pattern with ID {{id}}?|| هل أنت متأكد من أنك تريد حذف نمط رأس الاستجابة بالكود {{id}}؟
-Are you sure you want to delete the selected response headers?|| هل أنت متأكد من أنك تريد حذف رؤوس الاستجابة المحددة؟
-Are you sure you want to delete the selected response headers patterns?|| هل أنت متأكد من أنك تريد حذف أنماط رؤوس الاستجابة المحددة؟
-Are you sure you want to delete the {{param}} blacklist?|| هل تريد بالتأكيد حذف القائمة السوداء {{param}}؟
-Are you sure you want to delete the selected blacklists?|| هل أنت متأكد من أنك تريد حذف القوائم السوداء المحددة؟
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| سيتم حذف بوابة الواجهة {{param}} واستبدالها لهذه المزرعة. هل ترغب في الاستمرار؟
-SSL Certificate list|| قائمة شهادات SSL
-Choose one certificate|| اختيار شهادة واحدة
-Choose one or more files|| اختر ملفًا واحدًا أو أكثر
-Selected files|| الملفات المختارة
-Descriptive text, this name will be used to identify this certificate.|| نص وصفي ، سيتم استخدام هذا الاسم لتحديد هذه الشهادة.
-City where your organization is located.|| المدينة التي تقع فيها مؤسستك.
-Country (two characters) where your organization is located.|| البلد (حرفين) حيث توجد مؤسستك.
-State or province where your organization is located.|| الولاية أو المقاطعة التي تقع فيها منظمتك.
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN للخادم. مثال: domain.com أو mail.domain.com أو * .domain.com.
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| الاسم القانوني الكامل لمؤسستك / شركتك (مثل: شركة ZEVENET)
-Your department; such as 'IT','Web', 'Office', etc.|| قسمك؛ مثل &quot;تكنولوجيا المعلومات&quot; ، &quot;الويب&quot; ، &quot;المكتب&quot; ، إلخ.
-Your email address|| عنوان بريدك  الإلكتروني
-The CSR <strong> {{param}} </strong> has been generated successfully.|| المسؤولية الاجتماعية للشركات <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| الشهادة <strong> {{param}} </strong> تم الرفع بنجاح
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| الشهادة <strong> {{param}} </strong> تم حذفه بنجاح
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| الشهادة <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
-Are you sure you want to delete the certificate {{param}}?|| هل أنت متأكد من أنك تريد حذف الشهادة {{param}}؟
-Are you sure you want to delete the selected certificates?|| هل أنت متأكد من أنك تريد حذف الشهادات المحددة؟
-Updates|| التحديثات
-Update list|| قائمة التحديث
-Period time|| وقت الفترة
-Exact time|| الوقت بالضبط
-Daily every|| كل يوم
-Day of the week|| يوم من الاسبوع
-Day of the month|| يوم من الشهر
-Sources|| مصادر
-DoS rules IPDS|| هل قواعد IPDS
-RBL rules IPDS|| قواعد RBL IPDS
-Copy rule|| نسخة القاعدة
-Rule to copy|| حكم للنسخ
-Ruleset to copy|| Ruleset لنسخ
-Select the rule to copy|| حدد القاعدة لنسخها
-Select the ruleset to copy|| حدد مجموعة القواعد لنسخها
-Custom Domain List|| قائمة المجال المخصص
-Preloaded Domain List|| قائمة المجال المحملة مسبقا
-WAF rulesets IPDS|| قواعد WAF IPDS
-Default Action|| حدث اساسي
-Disable Rules|| تعطيل القواعد
-IPDS Package Updates|| تحديثات حزمة IPDS
-Conditions|| <font><font><font><font>الحالات</font></font></font></font>
-Flow|| التدفق
-WAF File List|| قائمة ملف WAF
-WAF file|| ملف WAF
-Content File|| ملف المحتوى
-Select files|| اختيار الملفات
-Select a file|| حدد ملف
-Select transformations|| حدد التحولات
-Connection limit per second.|| حد الاتصال في الثانية الواحدة.
-Total connections limit per source IP.|| مجموع الاتصالات الحد لكل مصدر IP.
-Check bogus TCP flags.|| تحقق الأعلام TCP وهمية.
-Limit RST request per second.|| حد طلب RST في الثانية.
-Allow: Finish the WAF processing and complete the HTTP transaction|| السماح: إنهاء معالجة WAF وإكمال معاملة HTTP
-Pass: Continue executing the rules|| تمرير: متابعة تنفيذ القواعد
-Deny: Cut the request and not execute rules left|| الرفض: قص الطلب وعدم تنفيذ القواعد المتبقية
-Redirect: The client received a URL to redirect|| إعادة التوجيه: تلقى العميل عنوان URL لإعادة التوجيه
-Default action: The default action of this ruleset|| الإجراء الافتراضي: الإجراء الافتراضي لمجموعة القواعد هذه
-Request headers are received|| يتم استلام رؤوس الطلب
-Request body is received|| تم استلام نص الطلب
-Response headers are received|| يتم تلقي رؤوس الاستجابة
-Response body is received|| تلقي استجابة الجسم
-Before than logging|| قبل التسجيل
-LUA Script|| لوا النصي
-Data file|| ملف البيانات
-It is a collection with the values of arguments in a request.|| إنها مجموعة تحتوي على قيم الوسائط في الطلب.
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| إنها مجموعة تحتوي على قيم الوسائط في طلب JSON. سيكون هذا المتغير متاحًا في حالة قيام WAF بتوزيع وسيطات JSON ، لذلك ، يجب تمكين مجموعة القواعد REQUEST-901-INITIALIZATION.
-The total size of the request parameters. The files are excluded.|| الحجم الكلي لمعلمات الطلب. يتم استبعاد الملفات.
-It is a collection with the names of the arguments in a request.|| إنها مجموعة بها أسماء الوسائط في الطلب.
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| أنه يحتوي على أسماء الملفات في ملفات المستخدم. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| هذا هو الحجم الكلي للملفات في الطلب. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| إنها قائمة بأسماء الملفات المستخدمة لتحميل الملفات. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| أنه يحتوي على قائمة أحجام الملفات الفردية. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| هذا المتغير هو 1 إذا كان تنسيق نص الطلب غير صحيح بالنسبة إلى JSON أو XML ، وإلا فإنه يحتوي على القيمة 0.
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| هذا هو طلب الجسم الخام. إذا كان الطلب لا يحتوي على رأس &quot;application / x-www-form-urlencoded&quot; ، فمن الضروري استخدام &quot;ctl: forceRequestBodyVariable&quot; في مرحلة REQUEST_HEADER.
-It is the number of bytes of the request body.|| هذا هو عدد بايتات نص الطلب.
-It is a list with all request cookies values.|| إنها قائمة بكل قيم طلب ملفات تعريف الارتباط.
-It is a list with all request cookies names.|| إنها قائمة بجميع أسماء ملفات تعريف الارتباط للطلب.
-This variable has all the request headers.|| يحتوي هذا المتغير على كل رؤوس الطلبات.
-This variable has a list with the request headers names.|| يحتوي هذا المتغير على قائمة بأسماء رؤوس الطلب.
-It is the request method.|| هذه هي طريقة الطلب.
-This variable holds the request HTTP version protocol.|| يحتوي هذا المتغير على بروتوكول إصدار طلب HTTP.
-It is the URI request path. The virtual host is excluded.|| هذا هو مسار طلب URI. المضيف الظاهري مستبعد.
-It is the information before than the URI path.|| إنها المعلومات قبل مسار URI.
-It is the full request.|| هذا هو الطلب الكامل.
-It is the number of bytes that full request can have.|| هو عدد البايتات التي يمكن أن يكون الطلب الكامل عليها.
-It is the raw body response.|| هذا هو استجابة الجسم الخام.
-It is the number of bytes of the response body.|| إنه عدد بايتات نص الاستجابة.
-This variable has all response headers.|| يحتوي هذا المتغير على كل رؤوس الاستجابة.
-This variable has a list with the response headers names.|| يحتوي هذا المتغير على قائمة بأسماء رؤوس الاستجابة.
-This variable holds the response HTTP version protocol.|| هذا المتغير يحمل استجابة بروتوكول HTTP الإصدار.
-It is the response HTTP code.|| هذا هو استجابة رمز HTTP.
-It is the IP address of the client.|| هذا هو عنوان IP للعميل.
-It is the port where the client initializes the connection.|| هذا هو المنفذ حيث العميل تهيئة الاتصال.
-It is the name of the authenticated user.|| إنه اسم المستخدم المصادق عليه.
-It is the server time. The format is hours:minutes:seconds.|| إنه وقت الخادم. التنسيق هو الساعات: دقيقة: ثانية.
-It is the number of milliseconds since the beginning of the current transaction.|| هو عدد المللي ثانية منذ بداية المعاملة الحالية.
-It is the field filename in a multipart request.|| هذا هو اسم الحقل في طلب متعدد الأجزاء.
-It is the field name in a multipart request.|| هذا هو اسم الحقل في طلب متعدد الأجزاء.
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| هذه هي القيمة المطابقة في عملية المطابقة الأخيرة. لا تحتاج هذه القيمة إلى خيار الالتقاط ولكن يتم استبدالها في كل عملية مطابقة.
-It is a list of all matched values.|| إنها قائمة بجميع القيم المتطابقة.
-It is the IP address of the server.|| هذا هو عنوان IP للخادم.
-It is the virtual host, it gets from the request URI.|| هذا هو المضيف الظاهري ، فإنه يحصل من طلب URI.
-It is the environment variables of the WAF.|| هذا هو متغيرات البيئة من WAF.
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| إنها مجموعة من المتغيرات للمعاملة الحالية. ستتم إزالة هذه المتغيرات عندما تنتهي المعاملة. تقوم متغيرات TX: 0-TX: 9 بحفظ القيم التي تم التقاطها باستخدام معاملات strRegex أو strPhrases.
-Decodes a Base64-encoded string.|| فك شفرة سلسلة ترميز Base64.
-Decodes a Base64-encoded string ignoring invalid characters.|| يقوم بترميز سلسلة ترميز Base64 متجاهلاً الأحرف غير الصحيحة.
-Decodes SQL hex data.|| فك شفرة بيانات SQL السداسية.
-Encodes using Base64 encoding.|| يشفر باستخدام ترميز Base64.
-Avoids the problem related with the escaped command line.|| يتجنب المشكلة المتعلقة بسطر الأوامر النجاة.
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| يحول أيًا من أحرف المسافة البيضاء (0x20، \\f، \\t، \\n، \\r، \\v، 0xa0) إلى مسافات (ASCII 0x20) ، مع ضغط العديد من أحرف المسافات المتتالية في واحد.
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| يقوم بترميز الأحرف المشفرة باستخدام قواعد الهروب CSS 2.x. تستخدم هذه الوظيفة ما يصل إلى وحدتي بايت فقط في عملية فك التشفير ، مما يعني أنه من المفيد الكشف عن أحرف ASCII المشفرة باستخدام تشفير CSS (الذي لن يتم تشفيره عادةً) ، أو لمقاومة التهرب ، وهو مزيج من الشرطة المائلة للخلف وغير - الأحرف السداسية عشرية (على سبيل المثال ، ja \\vascript تعادل javascript).
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| يقوم بترميز تسلسل هروب ANSI C: \\a، \\b، \\f، \\n، \\r، \\t، \\v، \\، \\؟، \\&quot;، \\&quot;، \\xHH (ست عشري) ، \\0OOO ​​(ثماني). يتم ترك ترميزات غير صالحة في الإخراج.
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| يقوم بترميز السلسلة التي تم تشفيرها باستخدام نفس الخوارزمية كتلك المستخدمة في hexEncode (انظر الإدخال التالي).
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| تشفير السلسلة (ربما تحتوي على أحرف ثنائية) عن طريق استبدال كل بايت إدخال بحرفين سداسي عشري. على سبيل المثال ، يتم ترميز xyz كـ 78797a.
-Decodes the characters encoded as HTML entities.|| يقوم بترميز الحروف المشفرة ككيانات HTML.
-Decodes JavaScript escape sequences.|| يشترط تسلسل جافا سكريبت الهروب.
-Looks up the length of the input string in bytes, placing it (as string) in output.|| يبحث عن طول سلسلة الإدخال بالبايت ، ووضعها (كسلسلة) في الإخراج.
-Converts all characters to lowercase using the current C locale.|| يحول كل الحروف إلى أحرف صغيرة باستخدام لغة C الحالية.
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| يحسب تجزئة MD5 من البيانات في الإدخال. التجزئة المحسوبة في شكل ثنائي خام وقد تحتاج إلى ترميز في النص المراد طباعته (أو تسجيله). تستخدم وظائف تجزئة عادة في تركيبة مع hexEncode.
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| ليست وظيفة تحويل فعلية ، ولكن تعليمة لإزالة وظائف التحويل السابقة المرتبطة بالقاعدة الحالية.
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| يزيل خطوط مائلة متعددة ، والمراجع الذاتية للدليل ، والمراجع الخلفية للدليل (باستثناء عندما يكون في بداية الإدخال) من سلسلة الإدخال.
-Same as normalizePath, but first converts backslash characters to forward slashes.|| مثل normalizePath ، لكن أولاً يحول الأحرف المائلة للخلف إلى الأمام مائلة.
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| يحسب حتى تماثل بيانات بت 7 باستبدال بت 8th من كل بايت الهدف مع بت التماثل المحسوبة.
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| يحسب التماثل الفردي لبيانات 7-bit لاستبدال بت 8th من كل بايت الهدف مع بت التماثل المحسوب.
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| يحسب تكافؤ صفر في بيانات 7-bit لاستبدال بت 8th من كل بايت الهدف بت بت تعادل صفري ، مما يسمح بفحص بيانات 7 بت متساوية / فردية مثل بيانات ASCII7.
-Removes all NUL bytes from input.|| يزيل كل بايت NUL من الإدخال.
-Removes all whitespace characters from the input.|| يزيل كل حروف المسافة البيضاء من المدخلات.
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| يستبدل كل تواجد تعليق على النمط C (/ * ... * /) بمسافة واحدة (لن يتم ضغط تكرارات متعددة متتالية). سيتم أيضًا استبدال التعليقات غير المنتهية بمسافة (ASCII 0x20). ومع ذلك ، لن يتم تنفيذ الإنهاء المستقل للتعليق (* /).
-Removes common comments chars (/*, */, –, #).|| يزيل أحرف التعليقات الشائعة (/ * ، * / ، - ، #).
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| يستبدل NUL بايت في الإدخال بأحرف المسافات (ASCII 0x20).
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| فك شفرة سلسلة الإدخال المشفرة بعنوان URL. لا يتم تحويل الترميزات غير الصالحة (أي تلك التي تستخدم أحرفًا غير سداسية أو تلك الموجودة في نهاية السلسلة ولديها بايت أو اثنتان) ، ولكن لا يتم رفع أي خطأ.
-Converts all characters to uppercase using the current C locale.|| يحول كل الحروف إلى أحرف كبيرة باستخدام لغة C الحالية.
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| مثل urlDecode ، ولكن مع دعم الترميز٪ u الخاص بـ Microsoft.
-Encodes input string using URL encoding.|| يشفر سلسلة الإدخال باستخدام ترميز URL.
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| يحول كل تسلسل أحرف UTF-8 إلى Unicode. وهذا يساعد على تطبيع المدخلات خاصة بالنسبة للغات غير الإنجليزية التي تقلل من الإيجابيات الكاذبة والسلبيات الخاطئة.
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| يحسب تجزئة SHA1 من سلسلة الإدخال. التجزئة المحسوبة في شكل ثنائي خام وقد تحتاج إلى ترميز في النص المراد طباعته (أو تسجيله). تستخدم وظائف تجزئة عادة في تركيبة مع hexEncode.
-Removes whitespace from the left side of the input string.|| يزيل مسافة بيضاء من الجانب الأيسر من سلسلة الإدخال.
-Removes whitespace from the right side of the input string.|| يزيل مسافة بيضاء من الجانب الأيمن من سلسلة الإدخال.
-Removes whitespace from both the left and right sides of the input string.|| يزيل مسافة بيضاء من كلا الجانبين الأيسر والأيمن من سلسلة الإدخال.
-The rule will match if any of the variables begin with the value of operating.|| سوف تتطابق القاعدة إذا كان أي من المتغيرات يبدأ بقيمة التشغيل.
-The rule will match if any of the variables contain the value of operating.|| ستطابق القاعدة إذا كان أي من المتغيرات يحتوي على قيمة التشغيل.
-The rule will match if any of the variables contain a word as the string one.|| ستطابق القاعدة إذا كان أي من المتغيرات يحتوي على كلمة مثل السلسلة واحدة.
-The rule will match if any of the variables end with the value of operating.|| ستطابق القاعدة إذا كان أي من المتغيرات ينتهي بقيمة التشغيل.
-The rule will match if any of the variables match with the value of operating.|| ستطابق القاعدة إذا تطابق أي من المتغيرات مع قيمة التشغيل.
-The rule will match if any of the variables match with the value of operating.|| ستطابق القاعدة إذا تطابق أي من المتغيرات مع قيمة التشغيل.
-The rule will match if any of the variables is identical to the value of operating.|| ستطابق القاعدة إذا كان أي من المتغيرات مطابقًا لقيمة التشغيل.
-The rule will match if any of the variables match in the regular expression used in operating.|| ستطابق القاعدة إذا تطابق أي من المتغيرات في التعبير العادي المستخدم في التشغيل.
-The rule will match if any of the variables match in any of the values of the list operating.|| ستطابق القاعدة إذا تطابق أي من المتغيرات في أي من قيم القائمة العاملة.
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| هو نفسه الذي strPhrases المشغل ولكن التشغيل هو ملف حيث يتم تعريفه على أنه قائمة من العبارات.
-The rule will match if any of the variables is equal to the number used in operating.|| ستطابق القاعدة إذا كان أي من المتغيرات يساوي الرقم المستخدم في التشغيل.
-The rule will match if any of the variables is greater or equal to the number used in operating.|| ستطابق القاعدة إذا كان أي من المتغيرات أكبر أو يساوي الرقم المستخدم في التشغيل.
-The rule will match if any of the variables is greater than the number used in operating.|| ستطابق القاعدة إذا كان أي من المتغيرات أكبر من الرقم المستخدم في التشغيل.
-The rule will match if any of the variables is lower or equal to the number used in operating.|| ستطابق القاعدة إذا كان أي من المتغيرات أقل أو يساوي العدد المستخدم في التشغيل.
-The rule will match if any of the variables is lower than the number used in operating.|| ستطابق القاعدة إذا كان أي من المتغيرات أقل من الرقم المستخدم في التشغيل.
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| يتم تطبيق الكشف عن حقن SQL إلى قائمة المتغيرات. هذا المشغل لا يتوقع أي تشغيل.
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| يتم تطبيق الكشف عن حقن XSS على قائمة المتغيرات. هذا المشغل لا يتوقع أي تشغيل.
-Try to match the IP or network segments of operating with the list of variables.|| حاول أن تطابق مقاطع IP أو شبكة التشغيل مع قائمة المتغيرات.
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| هو نفس عامل التشغيل ipMatch ، لكن هذا يحاول مطابقة المتغيرات مع ملف مع قائمة عناوين IP وشبكات الشبكة.
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| يتحقق من أن عدد بايتات المتغيرات موجود في إحدى قيم التشغيل. مثال على التشغيل هو &quot;10 ، 13 ، 32-126&quot;.
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| التحقق من صحة البيانات المشفرة. يجب استخدام عامل التشغيل هذا فقط للبيانات التي لا تقوم بترميز البيانات بشكل شائع أو يتم ترميز البيانات عدة مرات.
-It validates that variables are UTF-8. This operator does not expect any operating.|| يتحقق من صحة أن المتغيرات هي UTF-8. هذا المشغل لا يتوقع أي تشغيل.
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| يتم التحقق مما إذا كانت المتغيرات هي رقم بطاقة الائتمان. تقبل هذه المعلمة تعبيرًا عاديًا كعمل ، إذا كانت مطابقة ، فتطبق بطاقة الائتمان التي تم التحقق منها.
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| إنه يتحقق مما إذا كانت المتغيرات هي رقم الضمان الاجتماعي الأمريكي. تقبل هذه المعلمة تعبيرًا عاديًا كعمل ، إذا كانت مطابقة ، فإنها تنطبق على التحقق من SSN.
-It returns true always, forcing a match.|| يعود صحيحًا دائمًا ، مما يفرض تطابقًا.
-It returns false always, forcing a non-match.|| تقوم بإرجاع false دومًا ، مما يؤدي إلى عدم تطابق.
-A word is delimited by characters different to (a-z, 0-9 and '_')|| يتم تحديد كلمة بأحرف مختلفة عن (az ، 0-9 و '_')
-Can be a list of strings split by the character ,|| يمكن أن تكون قائمة من السلاسل المقسومة على الحرف ،
-Can be a list of strings split by the character |,|| يمكن أن تكون قائمة بالسلاسل المقسومة على الحرف | ،
-Can be a list of strings split by a blank space|| يمكن أن تكون قائمة من السلاسل المقسمة بمساحة فارغة
-Can be a list of IPs or network segments split by the character ,|| يمكن أن تكون قائمة عناوين IP أو مقاطع الشبكة مقسومة على الحرف ،
-Can be a list of IPs ranges split by the character ,|| يمكن أن تكون قائمة نطاقات عناوين IP مقسمة حسب الحرف ،
-Can be selected more than one file.|| يمكن اختيار أكثر من ملف واحد.
-It uses the PCRE engine, optional field.|| يستخدم محرك PCRE ، الحقل الاختياري.
-It uses the PCRE engine, optional field.|| يستخدم محرك PCRE ، الحقل الاختياري.
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| ويستخدم محرك PCRE. يتم استخدام التعبير (؟ i) لمطابقة استخدام غير متحسسة لحالة الأحرف.
-This operator does not expect any operating.|| هذا المشغل لا يتوقع أي تشغيل.
-String.|| خيط.
-Number.|| عدد.
-The <strong> {{param}} </strong> blacklist has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء القائمة السوداء بنجاح.
-The <strong> {{param}} </strong> blacklist has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف القائمة السوداء بنجاح.
-The <strong> {{param}} </strong> blacklist has been stopped successfully.|| الجمعية  <strong> {{param}} </strong> تم إيقاف القائمة السوداء بنجاح.
-The <strong> {{param}} </strong> blacklist has been started successfully.|| الجمعية  <strong> {{param}} </strong> القائمة السوداء قد بدأت بنجاح.
-The <strong> {{param}} </strong> blacklist has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث القائمة السوداء بنجاح.
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافته إلى القائمة السوداء بنجاح.
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة القائمة السوداء بنجاح.
-The <strong> {{param}} </strong> DoS rule has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة DoS بنجاح.
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف قاعدة DoS بنجاح.
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| الجمعية  <strong> {{param}} </strong> تم إيقاف حكم DoS بنجاح.
-The <strong> {{param}} </strong> DoS rule has been started successfully.|| الجمعية  <strong> {{param}} </strong> لقد بدأ حكم DoS بنجاح.
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافة قاعدة DoS بنجاح.
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة قاعدة DoS بنجاح.
-The source has been created successfully|| تم إنشاء المصدر بنجاح
-The source has been updated successfully|| تم تحديث المصدر بنجاح
-The source <strong> {{param}} </strong> has been deleted successfully.|| المصدر <strong> {{param}} </strong> تم حذفه بنجاح
-The <strong> {{param}} </strong> RBL rule has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة RBL بنجاح.
-The <strong> {{param}} </strong> RBL rule has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث قاعدة RBL بنجاح.
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف قاعدة RBL بنجاح.
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| الجمعية  <strong> {{param}} </strong> تم إيقاف قاعدة RBL بنجاح.
-The <strong> {{param}} </strong> RBL rule has been started successfully.|| الجمعية  <strong> {{param}} </strong> تم بدء حكم RBL بنجاح.
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافة قاعدة RBL بنجاح.
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة قاعدة RBL بنجاح.
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| المجال <strong> {{param}} </strong> تمت إضافة قاعدة RBL بنجاح.
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| المجال <strong> {{param}} </strong> تمت إزالة قاعدة RBL بنجاح.
-The domain <strong> {{param}} </strong> has been created successfully|| المجال <strong> {{param}} </strong> تم إنشاؤه بنجاح
-The domain has been updated successfully|| تم تحديث المجال بنجاح
-The domain <strong> {{param}} </strong> has been deleted successfully.|| المجال <strong> {{param}} </strong> تم حذفه بنجاح
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء قواعد WAF بنجاح.
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف مجموعة قواعد WAF بنجاح.
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| الجمعية  <strong> {{param}} </strong> تم إيقاف قواعد WAF بنجاح.
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| الجمعية  <strong> {{param}} </strong> تم بدء تشغيل مجموعة قواعد WAF بنجاح.
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث مجموعة قواعد WAF بنجاح.
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافة قواعد مجموعة WAF بنجاح.
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة مجموعة قواعد WAF بنجاح.
-The rule <strong> {{param}} </strong> has been created successfully.|| القاعدة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The rule <strong> {{param}} </strong> has been moved successfully.|| القاعدة <strong> {{param}} </strong> لقد تم نقل بنجاح.
-The rule <strong> {{param}} </strong> has been deleted successfully.|| القاعدة <strong> {{param}} </strong> تم حذفه بنجاح
-The rule <strong> {{param}} </strong> has been updated successfully|| القاعدة <strong> {{param}} </strong> تم تحديثه بنجاح
-The match has been created successfully|| تم إنشاء المباراة بنجاح
-The match <strong> {{param}} </strong> has been deleted successfully.|| المباراة <strong> {{param}} </strong> تم حذفه بنجاح
-The WAF file <strong> {{param}} </strong> has been created successfully.|| ملف WAF <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| ملف WAF <strong> {{param}} </strong> تم حذفه بنجاح
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| ملف WAF <strong> {{param}} </strong> تم تحديثه بنجاح.
-The <strong> IPDS package </strong> has been scheduled successfully.|| الجمعية  <strong> حزمة IPDS </strong> تم جدولة بنجاح.
-The <strong> IPDS package </strong> has been upgraded successfully.|| الجمعية  <strong> حزمة IPDS </strong> تمت ترقيته بنجاح.
-Are you sure you want to delete the {{param}} blacklist?|| هل تريد بالتأكيد حذف القائمة السوداء {{param}}؟
-Are you sure you want to delete the selected blacklists?|| هل أنت متأكد من أنك تريد حذف القوائم السوداء المحددة؟
-Are you sure you want to delete the {{param}} DoS rule?|| هل أنت متأكد من أنك تريد حذف قاعدة {{param}} DoS؟
-Are you sure you want to delete the selected DoS rules?|| هل أنت متأكد من أنك تريد حذف قواعد DoS المحددة؟
-Are you sure you want to delete the source {{param}}?|| هل أنت متأكد من أنك تريد حذف المصدر {{param}}؟
-Are you sure you want to delete the selected sources?|| هل أنت متأكد من أنك تريد حذف المصادر المحددة؟
-Are you sure you want to delete the {{param}} RBL rule?|| هل أنت متأكد من أنك تريد حذف القاعدة {{param}} RBL؟
-Are you sure you want to delete the selected RBL rules?|| هل أنت متأكد من أنك تريد حذف قواعد RBL المحددة؟
-Are you sure you want to delete the domain {{param}}?|| هل أنت متأكد من أنك تريد حذف النطاق {{param}}؟
-Are you sure you want to delete the selected domains?|| هل تريد بالتأكيد حذف النطاقات المحددة؟
-Are you sure you want to delete the {{param}} WAF ruleset?|| هل أنت متأكد من أنك تريد حذف مجموعة قواعد {WAF {{param}}؟
-Are you sure you want to delete the selected rulesets?|| هل أنت متأكد من أنك تريد حذف القواعد المحددة؟
-'Are you sure you want to delete the rule {{param}}?|| هل أنت متأكد أنك تريد حذف القاعدة {{param}}؟
-Are you sure you want to delete the match {{param}}?|| هل أنت متأكد من أنك تريد حذف التطابق {{param}}؟
-Are you sure you want to delete the selected matches?|| هل تريد بالتأكيد حذف التطابقات المحددة؟
-Are you sure you want to delete the file {{param}}?|| هل أنت متأكد أنك تريد حذف الملف {{param}}؟
-Are you sure you want to delete the selected files?|| هل أنت متأكد من أنك تريد حذف الملفات المحددة؟
-System Graphs|| الرسوم البيانية للنظام
-Interfaces Graphs|| واجهات الرسوم البيانية
-Farms Graph|| الرسم البياني للمزارع
-Farms Stats|| إحصائيات المزارع
-System Stats|| إحصائيات النظام
-Network Stats|| احصائيات الشبكة
-Copy farmguardian|| نسخة فارقجارديان
-Farmguardian to copy|| Farmguardian لنسخ
-Select the farmguardian to copy|| حدد farmguardian لنسخ
-Total Memory|| إجمالي الذاكرة
-Free Memory|| ذاكرة حرة
-Used Memory|| الذاكرة المستخدمة
-Buffers|| مخازن
-Cached|| مؤقتا
-Total Swap|| إجمالي المبادلة
-Free Swap|| مبادلة مجانية
-Used Swap|| تستخدم مبادلة
-Cached Swap|| مخزنة مؤقتا مبادلة
-Idle|| الخمول
-Usage|| الأستعمال
-Iowait|| Iowait
-Irq|| IRQ
-Nice|| لطيف
-Softirq|| Softirq
-Sys|| SYS
-User|| المستخدم 
-Last minute|| اللحظة الأخيرة
-Last 5 minutes|| آخر 5 دقائق
-Last 15 minutes|| آخر 15 دقائق
-Are you sure you want to delete the {{param}} farmguardian?|| هل أنت متأكد من رغبتك في حذف {farm} {guardian}؟
-Are you sure you want to delete the selected farmguardians?|| هل أنت متأكد أنك تريد حذف المزارعون المختارون؟
-The <strong> {{param}} </strong> farmguardian has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء farmguardian بنجاح.
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف farmguardian بنجاح.
-The <strong> {{param}} </strong> farmguardian has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث farmguardian بنجاح.
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافة إلى farmguardian بنجاح.
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة إلى farmguardian بنجاح.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| المزرعة <strong> {{param}} with the service {{param2}} </strong> تمت إضافة إلى farmguardian بنجاح.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| المزرعة <strong> {{param}} with the service {{param2}} </strong> تمت إزالة إلى farmguardian بنجاح.
-NIC List|| قائمة NIC
-Bonding Interface List|| قائمة واجهة الترابط
-Select the slaves|| اختر العبيد
-VLAN Interface List|| قائمة واجهة VLAN
-VLAN ID|| معرف VLAN
-VLAN tag|| علامة VLAN
-Virtual Interface List|| قائمة واجهة افتراضية
-Virtual interface name|| اسم الواجهة الافتراضية
-Virtual interface tag|| علامة واجهة افتراضية
-Floating IP List|| قائمة IP العائمة
-IPv4 Gateway|| بوابة IPv4
-IPv6 Gateway|| بوابة IPv6
-IPv4 Gateway Settings|| إعدادات بوابة IPv4
-IPv6 Gateway Settings|| إعدادات بوابة IPv6
-Backends Aliases|| الخلفية الأسماء المستعارة
-Interfaces Aliases|| واجهات الأسماء المستعارة
-Routing Rule List|| قائمة قاعدة التوجيه
-Routing Table List|| قائمة جدول التوجيه
-Priority should be a value between {{min}} and {{max}}|| يجب أن تكون الأولوية قيمة بين {{min}} و {{max}}
-Configure table {{param}}|| تكوين الجدول {{param}}
-Available Routes|| الطرق المتاحة
-Routing table for the outputs of the interface {{param}}.|| جدول التوجيه لمخرجات الواجهة {{param}}.
-Should be a IP address or CIDR|| يجب أن يكون عنوان IP أو CIDR
-Should be a IP address (IPv4/IPv6)|| يجب أن يكون عنوان IP (IPv4 / IPv6)
-Are you sure you want to unset the NIC {{param}}?|| هل تريد بالتأكيد إلغاء بطاقة واجهة الشبكة {{param}}؟
-Are you sure you want to unset the selected NIC?|| هل أنت متأكد من أنك تريد إلغاء تعيين NIC المحدد؟
-Are you sure you want to unset the Bonding {{param}}?|| هل أنت متأكد من أنك تريد إلغاء تعيين Bonding {{param}}؟
-Are you sure you want to unset the selected Bondings?|| هل أنت متأكد من أنك تريد إلغاء تعيين الروابط المحددة؟
-Are you sure you want to delete the Bonding {{param}}?|| هل أنت متأكد من أنك تريد حذف Bonding {{param}}؟
-Are you sure you want to delete the selected Bondings?|| هل أنت متأكد من أنك تريد حذف الروابط المحددة؟
-Are you sure you want to delete the VLAN {{param}}?|| هل أنت متأكد من أنك تريد حذف VLAN {{param}}؟
-Are you sure you want to delete the selected VLANs?|| هل تريد بالتأكيد حذف شبكات محلية ظاهرية محددة؟
-Are you sure you want to delete the Virtual interface {{param}}?|| هل تريد بالتأكيد حذف الواجهة الظاهرية {{param}}؟
-Are you sure you want to delete the selected Virtual interfaces?|| هل تريد بالتأكيد حذف الواجهات الظاهرية المحددة؟
-Are you sure you want to unset the Floating IP of {{param}}?|| هل أنت متأكد من أنك تريد إلغاء تعيين عنوان IP العائم لـ {{param}}؟
-Are you sure you want to unset the selected Floating IPs?|| هل أنت متأكد من أنك تريد إلغاء تعيين عناوين IP العائمة المحددة؟
-Are you sure you want to unset the gateway for {{param}}?|| هل أنت متأكد من أنك تريد إلغاء تعيين العبارة لـ {{param}}؟
-Are you sure you want to delete the alias {{param}}?|| هل تريد بالتأكيد حذف الاسم المستعار {{param}}؟
-Are you sure you want to delete the selected aliases?|| هل تريد بالتأكيد حذف الأسماء المستعارة المحددة؟
-Are you sure you want to delete the routing rule {{param}}?|| هل أنت متأكد من أنك تريد حذف قاعدة التوجيه {{param}}؟
-Are you sure you want to delete the selected routing rules?|| هل أنت متأكد من أنك تريد حذف قواعد التوجيه المحددة؟
-Are you sure you want to delete the route {{param}}?|| هل أنت متأكد من أنك تريد حذف المسار {{param}}؟
-Are you sure you want to delete the selected routes?|| هل أنت متأكد من أنك تريد حذف المسارات المحددة؟
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| الجمعية  <strong> {{param}} </strong> لقد تم تكوين NIC بنجاح.
-The <strong> {{param}} </strong> NIC is up.|| الجمعية  <strong> {{param}} </strong> NIC هو ما يصل.
-The <strong> {{param}} </strong> NIC is down.|| الجمعية  <strong> {{param}} </strong> NIC معطلة.
-The <strong> {{param}} </strong> NIC has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث NIC بنجاح.
-The <strong> {{param}} </strong> NIC has updated the alias successfully.|| الجمعية  <strong> {{param}} </strong> قام NIC بتحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Bonding has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء الربط بنجاح.
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| الجمعية  <strong> {{param}} </strong> الرابطة لم يتم تكوينها بنجاح.
-The <strong> {{param}} </strong> Bonding is up.|| الجمعية  <strong> {{param}} </strong> الترابط هو ما يصل.
-The <strong> {{param}} </strong> Bonding is down.|| الجمعية  <strong> {{param}} </strong> الترابط لأسفل.
-The <strong> {{param}} </strong> Bonding has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث Bonding بنجاح.
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| الجمعية  <strong> {{param}} </strong> قام Bonding بتحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Bonding has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف الربط بنجاح.
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| الجمعية  <strong> {{param}} </strong> تم إضافة الرقيق إلى Bonding بنجاح.
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| الجمعية  <strong> {{param}} </strong> تم إزالة العبد من Bonding بنجاح.
-The <strong> {{param}} </strong> VLAN has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء شبكة محلية ظاهرية بنجاح.
-The <strong> {{param}} </strong> VLAN is up.|| الجمعية  <strong> {{param}} </strong> شبكة محلية ظاهرية متروك.
-The <strong> {{param}} </strong> VLAN is down.|| الجمعية  <strong> {{param}} </strong> شبكة محلية ظاهرية معطلة.
-The <strong> {{param}} </strong> VLAN has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث VLAN بنجاح.
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| الجمعية  <strong> {{param}} </strong> قام VLAN بتحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> VLAN has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف VLAN بنجاح.
-The <strong> {{param}} </strong> Virtual interface has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء واجهة افتراضية بنجاح.
-The <strong> {{param}} </strong> Virtual interface is up.|| الجمعية  <strong> {{param}} </strong> واجهة افتراضية هو ما يصل.
-The <strong> {{param}} </strong> Virtual interface is down.|| الجمعية  <strong> {{param}} </strong> الواجهة الافتراضية معطلة.
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث الواجهة الافتراضية بنجاح.
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| الجمعية  <strong> {{param}} </strong> قامت الواجهة الافتراضية بتحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف الواجهة الافتراضية بنجاح.
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| الجمعية  <strong> {{param}} </strong> العائمة IP قد تم تكوينه بنجاح.
-The <strong> {{param}} </strong> Floating IP is up.|| الجمعية  <strong> {{param}} </strong> العائمة الملكية الفكرية هو ما يصل.
-The <strong> {{param}} </strong> Floating IP is down.|| الجمعية  <strong> {{param}} </strong> IP العائم هو أسفل.
-The <strong> {{param}} </strong> Floating IP has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث IP العائم بنجاح.
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| الجمعية  <strong> {{param}} </strong> قام Floating IP بتحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف IP العائم بنجاح.
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| بوابة ل <strong> {{param}} </strong> تم تكوينه بنجاح.
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| بوابة ل <strong> {{param}} </strong> تم تحديثه بنجاح.
-The <strong> {{param}} </strong> Alias has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Alias has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> Alias has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف الاسم المستعار بنجاح.
-The <strong> {{param}} </strong> routing rule has been deleted successfully.|| الجمعية  <strong> {{param}} </strong> تم حذف قاعدة التوجيه بنجاح.
-The <strong> {{param}} </strong> routing rule has been updated successfully.|| الجمعية  <strong> {{param}} </strong> تم تحديث قاعدة التوجيه بنجاح.
-The <strong> {{param}} </strong> routing rule has been created successfully.|| الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة التوجيه بنجاح.
-The route <strong> {{param}} </strong> has been deleted successfully.|| الطريق <strong> {{param}} </strong> تم حذفه بنجاح
-The route <strong> {{param}} </strong> has been updated successfully.|| الطريق <strong> {{param}} </strong> تم تحديثه بنجاح.
-The route <strong> {{param}} </strong> has been created successfully.|| الطريق <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-To remove a route you must select it first.|| لإزالة مسار ، يجب تحديده أولاً.
-The route {{param}} cannot be removed because it is a system route.|| لا يمكن إزالة المسار {{param}} لأنه مسار نظام.
-The interface <strong> {{param}} </strong> has been disabled.|| واجهة <strong> {{param}} </strong> تم تعطيل.
-The interface <strong> {{param}} </strong> has been enabled.|| واجهة <strong> {{param}} </strong> تم تمكين.
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| الجمعية  <strong> {{param}} </strong> الرقيق لا يمكن إزالتها. يجب أن يكون للرابطة عبدا واحدا على الأقل.
-HTTP Service|| خدمة HTTP
-SSH Service|| خدمة SSH
-SNMP Service|| خدمة SNMP
-The physical interface where is running GUI service|| الواجهة الفعلية حيث يتم تشغيل خدمة واجهة المستخدم الرسومية
-If the cluster is up you only can select the cluster interface or all|| إذا كانت الكتلة في وضع التشغيل ، فيمكنك فقط تحديد واجهة المجموعة أو الكل
-HTTPS Port where is running GUI service|| منفذ HTTPS حيث يتم تشغيل خدمة GUI
-The physical interface where is running SSH service|| الواجهة الفعلية حيث يتم تشغيل خدمة SSH
-SSH Port where is running SSH service|| ميناء SSH حيث يتم تشغيل خدمة SSH
-Enable SNMP|| تمكين SNMP
-The physical interface where is running SNMP service|| الواجهة الفعلية حيث يتم تشغيل خدمة SNMP
-SNMP Port where is running SNMP service|| SNMP Port حيث يقوم بتشغيل خدمة SNMP
-Community name|| اسم المجتمع
-IP or subnet with access|| IP أو الشبكة الفرعية مع الوصول
-Primary server|| الخادم الرئيسي
-Secondary Server|| الخادم الثانوي
-NTP server|| الخادم NTP
-NTP Service|| خدمة NTP
-Proxy Service|| خدمة الوكيل
-DNS Service|| خدمة DNS
-Configure cluster|| تكوين الكتلة
-Local IP|| IP المحلي
-Remote IP|| الملكية الفكرية عن بعد
-Remote Node Password|| كلمة السر عن بعد العقدة
-Confirm Password|| تأكيد كلمة المرور
-Backup List|| قائمة النسخ الاحتياطي
-Backup file|| ملف النسخ الاحتياطي
-Choose one file|| اختيار ملف واحد
-Alerts Service|| خدمة التنبيهات
-Alerts|| التنبيهات
-Email Notifications|| اشعارات البريد الالكتروني
-Mail Server|| خادم البريد
-Mail User|| مستخدم البريد
-TLS|| TLS
-Backends Alert|| تنبيه الخلفي
-Cluster Alert|| تنبيه الكتلة
-Prefix Subject|| البادئة الموضوع
-Avoid flapping time|| تجنب الخفقان الوقت
-The time that alerts wait when backend is flapping|| الوقت الذي تنبيهات الانتظار عندما الخلفية ترفرف
-User Settings|| إعدادات المستخدم
-ZAPI Key|| مفتاح ZAPI
-Change Password|| تغيير كلمة المرور
-Current password|| كلمة المرور الحالية
-New password|| كلمة السر الجديدة
-Repeat new password|| كرر كلمة المرور الجديدة
-Log List|| قائمة السجل
-Log view|| عرض السجل
-When this action is executed a file with system information will be downloaded.|| عند تنفيذ هذا الإجراء ، سيتم تنزيل ملف به معلومات النظام.
-This action may take several seconds, you can continue browsing the GUI.|| قد يستغرق هذا الإجراء عدة ثوان ، يمكنك متابعة تصفح واجهة المستخدم الرسومية.
-Select an interface which won't be deleted|| حدد واجهة لن يتم حذفها
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| سيؤدي هذا الإجراء إلى تدمير جميع التكوينات ، باستثناء الواجهة المحددة والنسخ الاحتياطية وشهادة التنشيط.
-The current credentials for user root will not be modified.|| لن يتم تعديل بيانات الاعتماد الحالية لجذر المستخدم.
-User List|| قائمة المستخدم
-Group List|| قائمة المجموعة
-Role List|| قائمة الدور
-Role Settings|| إعدادات الدور
-Show all permissions|| إظهار جميع الأذونات
-Hide all permissions|| إخفاء جميع الأذونات
-Show permissions|| إظهار الأذونات
-Hide permissions|| إخفاء الأذونات
-LDAP Server|| خادم LDAP
-Base DN|| قاعدة DN
-Bind DN|| ربط DN
-Scope|| مجال
-Bind Password|| ربط كلمة المرور
-Filter|| تصنيف 
-Global Services|| الخدمات العالمية
-Enable session replication|| تمكين النسخ المتماثل جلسة
-Enable Duplicated network|| تمكين الشبكة المكررة
-Enable ARP announce|| تمكين إعلان ARP
-Custom Routes|| طرق مخصصة
-System Routes|| طرق النظام
-Use proxy of new generation|| استخدام وكيل الجيل الجديد
-Validation Systems|| أنظمة التحقق من الصحة
-AWS Credentials|| أوراق اعتماد AWS
-Access Key|| مفتاح الوصول
-Secret Key|| المفتاح السري
-Region|| Region
-SSL Certificate|| شهادة SSL
-RBAC User|| مستخدم RBAC
-RBAC Group|| مجموعة RBAC
-RBAC Role|| دور RBAC
-Network Virtual Interface|| واجهة الشبكة الافتراضية
-System Service|| خدمة النظام
-Notification|| اشعارات
-Host or URL allowed|| المضيف أو URL المسموح به
-It will not be used if the HOST/URL field contains a URL|| لن يتم استخدامه إذا كان حقل HOST / URL يحتوي على عنوان URL
-Filter used to get the LDAP field that contains the user ID to log in|| التصفية المستخدمة للحصول على حقل LDAP الذي يحتوي على معرف المستخدم لتسجيل الدخول
-The Search Request will be performed against the entry specified as the search base DN.|| سيتم تنفيذ &quot;طلب البحث&quot; مقابل الإدخال المحدد كقاعدة البحث DN.
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| سيتم تنفيذ &quot;طلب البحث&quot; مقابل الإدخالات التي تعتبر مرؤوسًا فوريًا للإدخال المحدد كقاعدة البحث DN.
-The Search Request will be performed against the search base and all entries below|| سيتم تنفيذ طلب البحث مقابل قاعدة البحث وجميع الإدخالات أدناه
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| عنوان واجهة المستخدم الرسومية للإدارة الجديد هو {{param}} يرجى إعادة الاتصال بـ واجهة المستخدم الرسومية في عنوان URL الجديد.
-The <strong> HTTP service </strong> has been updated successfully.|| الجمعية  <strong> خدمة HTTP </strong> تم تحديثه بنجاح.
-The <strong> SSH service </strong> has been updated successfully.|| الجمعية  <strong> خدمة SSH </strong> تم تحديثه بنجاح.
-The <strong> SNMP service </strong> has been updated successfully.|| الجمعية  <strong> خدمة SNMP </strong> تم تحديثه بنجاح.
-The <strong> global services </strong> have been updated successfully|| الجمعية  <strong> خدمات عالمية </strong> تم تحديثها بنجاح
-The <strong> DNS service </strong> has been updated successfully.|| الجمعية  <strong> خدمة DNS </strong> تم تحديثه بنجاح.
-The <strong> NTP service </strong> has been updated successfully.|| الجمعية  <strong> خدمة NTP </strong> تم تحديثه بنجاح.
-The <strong> Proxy service </strong> has been updated successfully.|| الجمعية  <strong> خدمة الوكيل </strong> تم تحديثه بنجاح.
-The backup <strong> {{param}} </strong> has been deleted successfully.|| النسخ الاحتياطي <strong> {{param}} </strong> تم حذفه بنجاح
-The backup <strong> {{param}} </strong> has been applied successfully.|| النسخ الاحتياطي <strong> {{param}} </strong> تم تطبيقه بنجاح.
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| النسخ الاحتياطي <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| النسخ الاحتياطي <strong> {{param}} </strong> تم الرفع بنجاح
-The backup <strong> {{param}} </strong> has been created successfully.|| النسخ الاحتياطي <strong> {{param}} </strong> تم إنشاؤه بنجاح.
-The <strong> backends alert </strong> has been applied successfully.|| الجمعية  <strong> التأخير الخلفي </strong> تم تطبيقه بنجاح.
-The <strong> cluster alert </strong> has been applied successfully.|| الجمعية  <strong> تنبيه الكتلة </strong> تم تطبيقه بنجاح.
-The configuration of email has been updated successfully.|| تم تحديث تكوين البريد الإلكتروني بنجاح.
-The alert has been updated successfully.|| تم تحديث التنبيه بنجاح.
-The test email has been sent successfully.|| تم إرسال البريد الإلكتروني للاختبار بنجاح.
-The user has been updated successfully.|| تم تحديث المستخدم بنجاح.
-The log <strong> {{param}} </strong> has been downloaded successfully.|| السجل <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
-The <strong> Support Save </strong> has been downloaded successfully.|| الجمعية  <strong> دعم حفظ </strong> وقد تم تحميلها بنجاح.
-The user <strong> {{param}} </strong> has been deleted successfully.|| المستخدم <strong> {{param}} </strong> تم حذفه بنجاح
-The user {{param}} has been created successfully.|| تم إنشاء المستخدم {{param}} بنجاح.
-The user {{param}} has been updated successfully.|| تم تحديث المستخدم {{param}} بنجاح.
-The group <strong> {{param}} </strong> has been deleted successfully.|| المجموعة <strong> {{param}} </strong> تم حذفه بنجاح
-The group {{param}} has been created successfully.|| تم إنشاء المجموعة {{param}} بنجاح.
-The group {{param}} has been updated successfully.|| تم تحديث المجموعة {{param}} بنجاح.
-The user <strong> {{param}} </strong> has been added to the group successfully.|| المستخدم <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| المستخدم <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| المزرعة <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| المزرعة <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| واجهة <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| واجهة <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
-The role <strong> {{param}} </strong> has been deleted successfully.|| دور <strong> {{param}} </strong> تم حذفه بنجاح
-The role {{param}} has been created successfully.|| تم إنشاء الدور {{param}} بنجاح.
-The role {{param}} has been updated successfully.|| تم تحديث الدور {{param}} بنجاح.
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| تم تكوين خادم LDAP. من فضلك ، اختبر الاتصال للتأكد من صحة التكوين.
-The connectivity test has been done successfully.|| تم اختبار الاتصال بنجاح.
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| نظام التحقق من الصحة <strong> {{param}} </strong> تم تمكين بنجاح.
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| نظام التحقق من الصحة <strong> {{param}} </strong> تم تعطيل بنجاح.
-The cluster has been created successfully.|| تم إنشاء الكتلة بنجاح.
-The cluster has been updated successfully.|| تم تحديث الكتلة بنجاح.
-The cluster has been destroyed successfully.|| تم تدمير الكتلة بنجاح.
-The <strong>local node</strong> has been put in maintenance successfully.|| الجمعية  <strong>العقدة المحلية</strong> تم وضعه في الصيانة بنجاح.
-The <strong>local node</strong> has been enabled successfully.|| الجمعية  <strong>العقدة المحلية</strong> تم تمكين بنجاح.
-The AWS credentials have been configured successfully.|| تم تكوين بيانات اعتماد AWS بنجاح.
-The Azure credentials have been configured successfully.|| تم تكوين بيانات اعتماد Azure بنجاح.
-Are you sure you want to delete the backup {{param}}?|| هل أنت متأكد من أنك تريد حذف النسخة الاحتياطية {{param}}؟
-Are you sure you want to delete the selected backups?|| هل أنت متأكد من أنك تريد حذف النسخ الاحتياطية المحددة؟
-Are you sure you want to delete the user {{param}}?|| هل أنت متأكد من أنك تريد حذف المستخدم {{param}}؟
-Are you sure you want to delete the selected users?|| هل تريد بالتأكيد حذف المستخدمين المحددين؟
-Are you sure you want to delete the group {{param}}?|| هل أنت متأكد من أنك تريد حذف المجموعة {{param}}؟
-Are you sure you want to delete the selected groups?|| هل أنت متأكد من أنك تريد حذف المجموعات المحددة؟
-Are you sure you want to delete the role {{param}}?|| هل أنت متأكد من أنك تريد حذف الدور {{param}}؟
-Are you sure you want to delete the selected roles?|| هل أنت متأكد من أنك تريد حذف الأدوار المحددة؟
-Are you sure you want to destroy the cluster?|| هل أنت متأكد أنك تريد تدمير الكتلة؟
-Dashboard|| لوحة التحكم
-News|| الأخبار
-LSLB|| LSLB
-Farms|| المزارع
-SSL Certificates|| شهادة SSL
-Generate csr|| توليد CSR
-Stats|| احصائيات
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| الإعدادات
-Blacklists|| القوائم السوداء
-DoS|| دوس
-RBL|| RBL
-Rules|| قواعد
-Domains|| المجالات
-WAF|| WAF
-Rulesets|| Rulesets
-Files|| ملفات
-Monitoring|| مراقبة
-Graphs|| الرسوم البيانية
-Farmguardians|| Farmguardians
-Network|| شبكة
-NIC|| NIC
-Bonding|| الرابطة
-VLAN|| VLAN
-Virtual Interfaces|| واجهات افتراضية
-Floating IPs|| عناوين IP العائمة
-Gateway|| بوابة
-Aliases|| الأسماء المستعارة
-Routing|| التوجيه
-Tables|| الجداول
-System|| نظام
-RBAC|| RBAC
-Users|| المستخدمين
-Groups|| مجموعات
-Roles|| الأدوار
-Local Services|| الخدمات المحلية
-Remote Services|| الخدمات عن بعد
-Cluster|| كتلة
-Backups|| النسخ الاحتياطي
-Notifications|| الإشعارات
-User|| المستخدم 
-Logs|| سجلات
-Activation Certificate|| شهادة التنشيط
-License|| رخصة الخصوصية
-SupportSave|| SupportSave
-Factory Reset|| اعدادات المصنع
+Sign in with your username and password || تسجيل الدخول باستخدام اسم المستخدم وكلمة المرور الخاصة بك
+Success! || النجاح!
+Username || اسم المستخدم
+User should be the real one! || يجب أن يكون المستخدم الحقيقي!
+Password should contains from {{min}} to {{max}} characters || يجب أن تحتوي كلمة المرور من {{min}} إلى {{max}} حرفًا
+Sign In || تسجيل الدخول
+Logging out, please wait... || تسجيل الخروج ، يرجى الانتظار ...
+Package list to upgrade || قائمة الحزمة للترقية
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || لترقية النظام ، يرجى تنفيذ الأمر التالي في shell: 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * يتم تحديث هذه المعلومات يوميا ، إذا كنت ترغب في فرض تشغيل الاختيار <code>checkupgrades</code> من سطر الأوامر.
+No activation certificate || لا شهادة التفعيل
+There isn't a valid ZEVENET certificate file, please request a new one || لا يوجد ملف شهادة ZEVENET صالح ، يرجى طلب ملف جديد
+Certificate Key || مفتاح الشهادة
+Activation Certificate file || ملف شهادة التنشيط
+Activation Data || بيانات التنشيط
+Copy data to the clipboard || نسخ البيانات إلى الحافظة
+Activation Certificate || شهادة التنشيط
+Select an activation certificate || حدد شهادة التفعيل
+Upload Activation Certificate || تحميل شهادة التفعيل
+No Support || لا دعم
+Certificate expired || انتهت صلاحية الشهادة
+Support expired || انتهت صلاحية الدعم
+Certificate expires in {{param}} {{param2}} || تنتهي صلاحية الشهادة في {{param}} {{param2}}
+Support expires in {{param}} {{param2}} || ينتهي الدعم في {{param}} {{param2}}
+The activation certificate has been uploaded successfully. || تم تحميل شهادة التفعيل بنجاح.
+The Activation Certificate has been deleted successfully. || تم حذف شهادة التفعيل بنجاح.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || هل أنت متأكد من حذف شهادة التفعيل \\n إذا قمت بحذفها ، فستفقد الوصول إلى واجهة المستخدم الرسومية ، حتى يتم تحميل شهادة أخرى
+Upload || تحميل
+Uploading || تحميل
+Add || أضف جرعات 
+Disable maintenance || تعطيل الصيانة
+Enable maintenance || تمكين الصيانة
+Drain mode || وضع الصرف
+Cut mode || وضع القطع
+Edit || تعديل
+Configure || ضبط
+Save || توفير
+Add Variable || إضافة متغير
+Bring || احضر
+Export || تصدير
+All data || كل المعلومات
+Only selected || تم تحديدها فقط
+Apply || تقديم الطلب
+Create || خلق
+Cancel || إلغاء
+Submit || إرسال
+New Service || خدمة جديدة
+New Zone || منطقة جديدة
+New Route || طريق جديد
+Basic || أساسي
+Advanced || المتقدم
+Generate || توليد
+Generating || توليد
+Delete || حذف
+Bring Up || ارفع
+Bring down || يجلب
+Restart || إعادة تشغيل
+Restarting || إعادة تشغيل
+Start || بداية
+Stop || توقف
+Unset || غير مصلد
+Enable || تمكين
+Disable || تعطيل
+Remove || حذف
+Download || تحميل
+Downloading || تحميل
+Update || تحديث
+New Rule || قانون جديد
+Next || التالى
+Back || الخلف
+Generate Random MAC || توليد عشوائية MAC
+Destroy || هدم
+Test Email || اختبار البريد الإلكتروني
+Generate Random Key || توليد مفتاح عشوائي
+Upload Certificate || شهادة إيداع
+Delete Certificate || حذف الشهادة
+List || قائمة
+Menu || القائمة الرئيسية
+Modify || عدل
+Show || عرض
+Action || الحالة
+Test || اختبار
+Schedule || جدول
+Upgrade || تحديث
+View || عرض
+Info || معلومات
+Test Connectivity || اختبار الاتصال
+Show certificate || إظهار الشهادة
+Force Changes || تغييرات القوة
+Page Not Found || الصفحة غير موجودة
+The page you were looking for doesn't exist || الصفحة التي تبحث عنها غير موجودة
+Take me home || خذنى إلى المنزل
+Status || الحالة
+Actions || الإجراءات
+Name || الإسم
+ID ||  ID
+Alias || الاسم المستعار
+IP ||  IP
+Interface || السطح البيني
+Priority || درجة الأهمية
+Port || ميناء
+Weight || الوزن
+Max. Conns || ماكس. Conns
+Name || الإسم
+Virtual IP || IP الظاهري
+Vitual Port || ميناء الفعلي
+Virtual IP and Port || IP الظاهري والمنفذ
+Default TCP port health check || افتراضي فحص منفذ TCP
+Health Checks for backend || الشيكات الصحية للوظيفه
+Default Name Server || اسم الخادم الافتراضي
+Type || نوع
+Data || Data (البيانات)
+Profile || التعريف
+HTTPS Parameters || معلمات HTTPS
+Ciphers || الأصفار
+Custom ciphers || الأصفار المخصصة
+Protocol type || نوع البروتوكول
+NAT type || نوع NAT
+Rewrite location headers || أعد كتابة رؤوس الموقع
+HTTP verbs accepted || الأفعال HTTP مقبولة
+Ignore 100 continue || تجاهل 100 متابعة
+Backend connection timeout || الخلفية انقطاع الاتصال
+Backend response timeout || مهلة استجابة الخلفية
+Frequency to check resurrected backends || تردد للتحقق من الخلفيات التي أعيد إنشاؤها
+Client request timeout || طلب العميل مهلة
+Message Error || رسالة خطأ
+Request Headers || طلب الرؤوس
+Response Headers || رؤوس الاستجابة
+Persistence || إصرار
+Persistence session time to live || وقت الجلسة المثابرة للعيش
+TTL || TTL
+Persistence session identifier || معرف جلسة المثابرة
+Virtual IP || IP الظاهري
+Load balancing Scheduler || تحميل موازنة المجدول
+Algorithm || خوارزمية
+Round Robin || جولة روبن
+Virtual Host || استضافة افتراضية
+URL Pattern || نمط عنوان URL
+Least Response || استجابة أقل
+HTTPS Backends || HTTPS الخلفية
+STS Header || رأس STS
+Timeout || مهلة
+Redirect || إعادة توجيه
+Redirect URL || إعادة توجيه URL
+Redirect Type || نوع إعادة التوجيه
+Redirect Code || رمز إعادة التوجيه
+Cookie Insert || ملف تعريف الارتباط إدراج
+Cookie Name || اسم ملف تعريف الارتباط
+Cookie Domain || نطاق ملفات تعريف الارتباط
+Cookie Path || مسار ملفات تعريف الارتباط
+Cookie TTL || ملف تعريف الارتباط TTL
+Locality || مكان
+Country || الدولة
+State/Province || الدولة / مقاطعة
+Common Name || اسم شائع
+Organization || منظمة
+Division || تقسيم
+E-mail Address || عنوان البريد الإلكتروني
+File || قم بتقديم
+Issuer || المصدر
+Creation || خلق
+Expiration || انتهاء
+Certificate || شهادة
+Established Conns || أنشئت كونز
+Pending Conns || معلقة كونز
+Service || اختار نوع الكشف اوالخدمه
+Session ID || الدورة ID
+Backend ID || معرف الخلفية
+Requests || طلبات الصداقة
+Failed REQ || فشل REQ
+Failed RES || فشل RES
+Truncated Resp TC || تم اقتطاع Resp TC
+Extended DNS Big || تمديد DNS كبير
+Extended DNS TC || تمديد DNS TC
+No Error || لا خطأ
+Refused || رفض
+Non-existent Domain || مجال غير موجود
+Notimp || Notimp
+Bad Version || إصدار سيء
+Format Error || خطأ في التنسيق
+Dropped || إسقاط
+V6 ||  V6
+Extended DNS || DNS الموسعة
+Extended DNS-ClientSub || تمديد DNS- ClientSub
+Client || جديد
+Listerner || Listerner
+Value || القيمة
+Custom IP || IP مخصص
+Policy || سياسة
+Remote URL || URL البعيد
+Frequency || تردد
+Rule || قاعدة
+Limit RST request per source IP || الحد من طلب RST لكل مصدر IP
+Total connections per source IP || مجموع الاتصالات لكل مصدر IP
+Limit Burst || الحد من انفجار
+Total connections limit per source IP || مجموع الاتصالات الحد لكل مصدر IP
+Hits || المشاهدات
+Time || الوقت: 
+Log level || تسجيل مستوى
+Only logging || تسجيل فقط
+Local traffic || حركة المرور المحلية
+Queue size || حجم قائمة الانتظار
+Max. Threads || ماكس. الخيوط
+Cache size || حجم ذاكرة التخزين المؤقت
+Cache time || وقت الكاش
+Check Request Body || تحقق طلب الجسم
+Check Response Body || تحقق استجابة الجسم
+Request Body Limit || طلب الحد الأساسي
+Default Phase || المرحلة الافتراضية
+Default Log || السجل الافتراضي
+Rules || قواعد
+Rule Type || نوع القاعدة
+Mark || علامة
+Phase || مرحلة
+Resolution || دقة الشاشة 
+Rule ID || معرف القاعدة
+Skip || تخطى
+Skip after || تخطي بعد
+Execute || تنفيذ
+Description || الوصف
+Interval || الفاصلة
+Cut connections || قطع الاتصالات
+Command || أمر
+MAC || ماك
+Netmask || قناع الشبكة
+Farms || المزارع
+Gateway || بوابة
+IP Address || عنوان IP
+CIDR || CIDR
+Mode || موضة
+Slaves || العبيد
+Parent Interface || واجهة الأم
+Address || العنوان
+Host || مضيف
+Date || التاريخ
+Alert || إنذار
+Password || كلمة المرور
+Log || سجل
+ZAPI Permissions || أذونات ZAPI
+GUI Permissions || أذونات واجهة المستخدم الرسومية
+Role || الدور
+Rules Date || تاريخ القواعد
+Scheduled || المقرر
+Variable || متغير
+Variable's argument || حجة المتغير
+Ignore this <i>variable</i> for the match || تجاهل هذا <i>متغير</i> من اجل المباراة
+Count elements of <i>variables</i> || عد عناصر <i>المتغيرات</i>
+Variables || المتغيرات
+Transformations || التحولات
+Operating || التشغيل
+Multi Match || مباراة متعددة
+Not Match || لا يتطابق
+Operator || المُشغل 
+Module || وحدة
+Floating IP || عائم IP
+Interfaces || واجهات
+Group || تجمع
+Virtual Interface || واجهة افتراضية
+URL || URL
+From || السعر
+Table || طاولة
+To || إلى
+Route || طريق
+Via || بواسطة
+Backend Alias || الخلفية الاسم المستعار
+Version || الإصدار
+System || نظام
+Failback || الإعادة بعد الفشل
+Check Interval || تحقق الفاصل الزمني
+Node || العقدة
+Message || يرجى ترك رسالتك هنا
+Hostname || اسم المضيف
+No {{param}} found || لم يتم العثور على {{param}}
+Edit || تعديل
+Global || عالمي
+Services || الخدمات
+Select a {{param}} || اختر {{param}}
+Resources || المصادر
+Backends || الخلفيات
+Strict Transport Security || أمن النقل الدقيق
+Farms Stats || إحصائيات المزارع
+Copy to clipboard || نسخ إلى الحافظة
+Hide nodes || إخفاء العقد
+Show nodes || إظهار العقد
+Hide backends || إخفاء الخلفية
+Show backends || تظهر الخلفية
+Hide graphs || إخفاء الرسوم البيانية
+Show graphs || عرض الرسوم البيانية
+Sessions || دورات
+Clients || الراضون
+Servers || خوادم
+Extended || ممتد
+Nodes || العقد
+Number of lines || عدد الخطوط
+View All || عرض المزيد
+View Less || عرض أقل
+Valid || صالح
+Expired || انتهت
+Near to expire || على وشك الانتهاء
+True || صواب
+False || خطأ
+No configured || لا تكوين
+In use by bonding interface || قيد الاستخدام من خلال واجهة الترابط
+The cluster service interface has to be changed or disabled before to be able to modify this interface || يجب تغيير واجهة خدمة نظام المجموعة أو تعطيلها قبل التمكن من تعديل هذه الواجهة
+Enabled || تمكين
+Disabled || معاق
+Needed restart || مطلوب إعادة التشغيل
+Critical || حرج
+Problem || المشكلة
+Maintenance || الصيانة
+Master || ماستر
+Backup || دعم
+Not configured || لم يقم
+Undefined || غير محدد
+Daily Graph || الرسم البياني اليومي
+Weekly Graph || الرسم البياني الأسبوعي
+Monthly Graph || الرسم البياني الشهري
+Yearly Graph || الرسم البياني السنوي
+Documentation || الوثائق
+Reload farmguardian list || تحديث قائمة farmguardian
+Cookie || كوكي
+Zones || المناطق
+System Stats || إحصائيات النظام
+CPU || وحدة المعالجة المركزية‏:
+Memory || مكبر الصوت : يدعم، مع دعم ميكروفون مدمج لمنع الضوضاء 
+Load || حمل
+Cores || الألوان
+Traffic In || حركة المرور في
+Traffic Out || حركة المرور خارج
+Nothing || لا شيء
+Custom || عرف
+All interfaces || جميع الواجهات
+All farms || جميع المزارع
+Default State || الدولة الافتراضية
+Up ||  Up
+Down || إلى أسفل
+Installed and updated || تم التثبيت والتحديث
+Not installed || غير مثبت
+Updates available || التحديثات المتوفرة
+Interface || السطح البيني
+Type || نوع
+Zone || المنطقة
+Transformation || تحول
+Backend || الخلفية
+Condition || حالة
+Domain || نطاق
+Resource || مورد
+Graph || رسم بياني
+Session || جلسة
+IP alias || الاسم المستعار IP
+Interface alias || الاسم المستعار واجهة
+Backup || دعم
+Farm || مزرعة
+Header || رأس
+Pattern || نمط
+Source || مصدر
+Blacklist || القائمة السوداء
+Farmguardian || Farmguardian
+Package || فئة الإشتراك
+DoS rule || هل يحكم
+RBL rule || حكم RBL
+WAF ruleset || قواعد WAF
+VLAN || VLAN
+Routing Rule || قاعدة التوجيه
+Routing Table || جدول التوجيه
+Needed restart || مطلوب إعادة التشغيل
+There're changes that need to be applied, restart the farm to apply them! || هناك تغييرات تحتاج إلى تطبيق ، أعد تشغيل المزرعة لتطبيقها!
+Close || اغلاق
+The <strong> factory reset </strong> has been completed successfully. || الجمعية  <strong> ضبط المصنع </strong> تم الانتهاء بنجاح.
+The interface <strong> {{name}} </strong> has been updated successfully. || واجهة <strong> {{name}} </strong> تم تحديثه بنجاح.
+The <strong>HTTP Service</strong> has been updated successfully. || الجمعية  <strong>خدمة HTTP</strong> تم تحديثه بنجاح.
+An error has occurred on the server, try again later || لقد حدث خطأ على الخادم ، أعد المحاولة لاحقًا
+Connection to web server failed || فشل الاتصال بخادم الويب
+An unexpected error has occurred || لقد حدث خطأ غير متوقع
+System Information || نظام المعلومات
+ZEVENET Version || نسخة ZEVENET
+Appliance Version || إصدار الأجهزة
+Kernel Version || إصدار النواة
+System Date || تاريخ النظام
+NIC Traffic || حركة المرور NIC
+Total number of connections in realtime. || إجمالي عدد الاتصالات في الوقت الحقيقي.
+Connections || تكنولوجيا فائقة فنون عالية  : يوفر لك Apple Pencil طريقة مثالية للتعبير عن أفكارك كلما زارك الإلهام. استخدمه لتدوين الملاحظات أو الرسم بالألوان المائية أو تصميم مبنى في موقع العمل. وستجد العديد من التطبيقات في App Store التي تسمح لك بإنجاز المزيد مع Apple Pencil. ومهما كان ما تريد إنجازه، فإن Apple Pencil من السهل استخدامه ومن الصعب تركه.
+Professional Products || المنتجات المهنية
+Professional Services || خدمات مهنية
+No Virtual Interfaces || لا واجهات افتراضية
+No VLANs || لا شبكات محلية ظاهرية
+Create DSLB Farm || إنشاء مزرعة DSLB
+Create Virtual interface || إنشاء واجهة افتراضية
+Create GSLB Farm || إنشاء مزرعة GSLB
+Generate CSR || توليد المسؤولية الاجتماعية للشركات
+Create LSLB Farm || إنشاء مزرعة LSLB
+Upload SSL Certificate || تحميل شهادة SSL
+Create Blacklist || إنشاء قائمة سوداء
+Create DoS rule || قم بإنشاء قاعدة DoS
+Create RBL rule || إنشاء قاعدة RBL
+Create WAF ruleset || إنشاء قواعد WAF
+Create Rule || إنشاء قاعدة
+Create Farmguardian || إنشاء Farmguardian
+Create Bonding interface || إنشاء واجهة الربط
+Create VLAN interface || إنشاء واجهة VLAN
+Upload Backup || تحميل النسخ الاحتياطي
+Create Backup || إنشاء نسخة احتياطية
+Create User || إنشاء مستخدم
+Create Group || إنشاء المجموعة
+Create Role || خلق دور
+Create Route || إنشاء الطريق
+is required || مطلوب
+is not valid, it only is possible alphanumeric characters and dash (-). || غير صالح ، إنه ممكن فقط الأحرف الأبجدية الرقمية وشرطة (-).
+Only editable when the farm is down. || فقط للتحرير عندما تكون المزرعة معطلة.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || المنفذ الظاهري غير صالح ، فمن الممكن تحديد منفذ واحد أو عدة منافذ أو نطاقات من المنافذ (على سبيل المثال: 80 أو 80,81 أو 80: 90)
+has to be greater than 0 || يجب أن يكون أكبر من 0
+Redirect should be a URL (http(s)://...) || يجب أن يكون إعادة التوجيه عنوان URL (http (s): // ...)
+Country can only have two characters. || يمكن أن تحتوي الدولة على حرفين فقط.
+E-mail has to be a valid email || البريد الإلكتروني يجب أن يكون بريدًا إلكترونيًا صالحًا
+The password does not match || كلمة المرور غير متطابقة
+has to be a value between {{min}} and {{max}} || يجب أن تكون قيمة بين {{min}} و {{max}}
+Global Settings || إعدادات العالمية
+IPDS Settings || إعدادات IPDS
+Advanced Settings || إعدادات متقدمة
+Domains Settings || إعدادات المجالات
+Rules Settings || إعدادات القواعد
+Blacklists rules || قواعد القوائم السوداء
+DoS rules || قواعد الخدمة
+RBL rules || قواعد RBL
+WAF rulesets || قواعد WAF
+Services Settings || إعدادات الخدمات
+Zones Settings || إعدادات المناطق
+Global Filter || تصفية العالمية
+Refresh || تحديث
+Seconds || ثواني
+per second || في الثانية
+Refresh status every || تحديث الحالة كل
+Refresh stats every || تحديث احصائيات كل
+Not refresh || ليس التحديث
+Farms Settings || إعدادات المزارع
+Minutes || دقيقة
+Hours || ساعات
+Monday || الإثنين
+Tuesday || الثلاثاء
+Wednesday || الأربعاء
+Thursday || الخميس
+Friday || الجمعة
+Saturday || السبت
+Sunday || الأحد
+Deny || تنكر
+Allow || السماح
+Daily || Daily
+Weekly || أسبوعيا
+Monthly || شهرياً
+entries || مقالات
+threads || المواضيع
+Sort || تصنيف حسب:
+SORT MODE: Drag and drop the service to the desired position. || SORT MODE: سحب وإسقاط الخدمة إلى الموضع المطلوب.
+The farm will be restarted automatically. || سيتم إعادة تشغيل المزرعة تلقائيًا.
+bytes || بايت
+Default is || الافتراضي هو
+Optional || اختياري
+days || أيام
+Go to || توجّه إلى 
+Edit in form mode || تحرير في وضع النموذج
+Edit in raw mode || تحرير في الوضع الخام
+Create in form mode || إنشاء في وضع النموذج
+Create in raw mode || إنشاء في الوضع الخام
+Available certificates || الشهادات المتاحة
+Enabled certificates || الشهادات الممكّنة
+Search certificate || شهادة البحث
+Available blacklists || القوائم السوداء المتاحة
+Enabled blacklists || قوائم سوداء ممكّنة
+Search blacklist || البحث في القائمة السوداء
+Available DoS rules || قواعد DoS المتاحة
+Enabled DoS rules || قواعد DoS الممكنة
+Search DoS rule || بحث DoS القاعدة
+Available RBL rules || قواعد RBL المتاحة
+Enabled RBL rules || قواعد RBL الممكنة
+Search RBL rule || بحث حكم RBL
+Available WAF rulesets || قواعد WAF المتاحة
+Enabled WAF rulesets || قواعد WAF الممكّنة
+Search WAF ruleset || البحث في قواعد WAF
+Available farms || المزارع المتاحة
+Enabled farms || المزارع الممكّنة
+Search farm || بحث مزرعة
+Available domains || المجالات المتاحة
+Enabled domains || المجالات الممكنة
+Search domain || مجال البحث
+Enabled rules || القواعد الممكّنة
+Disabled rules || قواعد المعوقين
+Search rule || قاعدة البحث
+Available NICs || بطاقات NIC المتاحة
+Enabled NICs || بطاقات NIC الممكّنة
+Search NIC || بحث NIC
+Search slaves || بحث العبيد
+Slaves NICs || العبيد بطاقات NIC
+Available users || المستخدمين المتاحة
+Enabled users || المستخدمين تمكين
+Search user || بحث المستخدم
+Available interfaces || واجهات المتاحة
+Enabled interfaces || واجهات تمكين
+Search interface || واجهة البحث
+Managed interfaces || واجهات المدارة
+Unmanaged interfaces || واجهات غير المدارة
+Search interface || واجهة البحث
+LSLB Farm List || قائمة مزرعة LSLB
+GSLB Farm List || قائمة مزرعة GSLB
+DSLB Farm List || قائمة مزرعة DSLB
+Copy farm || نسخة المزرعة
+Farm to copy || مزرعة لنسخ
+Select the farm to copy || حدد المزرعة لنسخها
+Weight: connection linear dispatching by weight || الوزن: اتصال خطي الإرسال حسب الوزن
+Priority: connections always to the most prio available || الأولوية: الاتصالات دائمًا مع معظم المنتجات المتاحة
+Source Hash: Hash per Source IP and Source Port || تجزئة المصدر: تجزئة لكل مصدر IP و منفذ مصدر
+Simple Source Hash: Hash per Source IP only || تجزئة مصدر بسيط: تجزئة لكل مصدر IP فقط
+Symmetric Hash: Round trip hash per IP and Port || هاش متماثل: تجول ذهابا وإيابا لكل IP والميناء
+Round Robin: Sequential backend selection || جولة روبن: اختيار الخلفية المتسلسلة
+Least Connections: connections to the least open conns available || اتصالات الأقل: اتصالات إلى أقل conns المتاحة
+Disabled || معاق
+Enabled || تمكين
+Enabled and compare backends || تمكين ومقارنة الخلفية
+No persistence || لا استمرار
+IP: Source IP || IP: مصدر IP
+Port: Source Por || ميناء: المصدر بور
+MAC: Source MAC || MAC: مصدر MAC
+Source IP and Source Port || مصدر IP ومصدر المنفذ
+Source IP and Destination Port || مصدر IP ومنفذ الوجهة
+No persistence || لا استمرار
+IP: Client address || IP: عنوان العميل
+BASIC: Basic authentication || الأساسية: المصادقة الأساسية
+URL: A request parameter || عنوان URL: معلمة طلب
+PARM: An URI parameter || PARM: معلمة URI
+COOKIE: A certain cookie || كوكي: ملف تعريف ارتباط معين
+HEADER: A certain request header || العنوان: رأس طلب معين
+The farm has been updated successfully || تم تحديث المزرعة بنجاح
+The farm <strong> {{param}} </strong> has been deleted successfully. || المزرعة <strong> {{param}} </strong> تم حذفه بنجاح
+The farm <strong> {{param}} </strong> has been started successfully. || المزرعة <strong> {{param}} </strong> تم البدء بنجاح
+The farm <strong> {{param}} </strong> has been restarted successfully. || المزرعة <strong> {{param}} </strong> تم اعادة التشغيل بنجاح.
+The farm <strong> {{param}} </strong> has been stopped successfully. || المزرعة <strong> {{param}} </strong> تم ايقافه بنجاح
+The farm <strong> {{param}} </strong> has been created successfully. || المزرعة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The backend has been created successfully. || تم إنشاء الواجهة الخلفية بنجاح.
+The backend has been updated successfully. || تم تحديث الخلفية بنجاح.
+The backend <strong> {{param}} </strong> has been deleted successfully. || الخلفية <strong> {{param}} </strong> تم حذفه بنجاح
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || الخلفية <strong> {{param}} </strong> تم وضعه في الصيانة بنجاح.
+The backend <strong> {{param}} </strong> has been upped successfully. || الخلفية <strong> {{param}} </strong> لقد تم زيادة بنجاح.
+Backends with high priority value <strong> {{param}} </strong> will not be used. || خلفية مع قيمة أولوية عالية <strong> {{param}} </strong> لن يتم استخدامها.
+The resource has been created successfully. || تم إنشاء المورد بنجاح.
+The resource has been updated successfully. || تم تحديث المورد بنجاح.
+The backend <strong> {{param}} </strong> has been deleted successfully. || الخلفية <strong> {{param}} </strong> تم حذفه بنجاح
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || شهادة SSL <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || شهادة SSL <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || شهادة SSL <strong> {{param}} </strong> تم الفرز بنجاح.
+The service <strong> {{param}} </strong> has been created successfully. || الخدمة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The service <strong> {{param}} </strong> has been updated successfully. || الخدمة <strong> {{param}} </strong> تم تحديثه بنجاح.
+The service <strong> {{param}} </strong> has been deleted successfully. || الخدمة <strong> {{param}} </strong> تم حذفه بنجاح
+The service <strong> {{param}} </strong> has been moved successfully. || الخدمة <strong> {{param}} </strong> لقد تم نقل بنجاح.
+The farmguardians list has been reloaded successfully. || تم إعادة تحميل قائمة farmguardians بنجاح.
+The farmguardian has been disabled successfully. || تم تعطيل farmguardian بنجاح.
+The farmguardian has been changed to {{param}} successfully. || تم تغيير farmguardian إلى {{param}} بنجاح.
+The zone <strong> {{param}} </strong> has been created successfully. || المنطقة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The zone <strong> {{param}} </strong> has been updated successfully. || المنطقة <strong> {{param}} </strong> تم تحديثه بنجاح.
+The zone <strong> {{param}} </strong> has been deleted successfully. || المنطقة <strong> {{param}} </strong> تم حذفه بنجاح
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || القائمة السوداء <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || القائمة السوداء <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || القاعدة DoS <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || القاعدة DoS <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || حكم RBL <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || حكم RBL <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || قواعد WAF <strong> {{param}} </strong> تم الفرز بنجاح.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || قواعد WAF <strong> {{param}} </strong> تمت إضافة المزرعة بنجاح.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || قواعد WAF <strong> {{param}} </strong> تمت إزالة المزرعة بنجاح.
+The profile has been changed to {{param}} successfully. || تم تغيير ملف التعريف إلى {{param}} بنجاح.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || تم تغيير الخوارزمية إلى خوارزمية الوزن ، نظرًا لأن خوارزمية الاتصالات الأقل غير مسموح بها مع نوع NAT المحدد. يمكنك اختيار خوارزمية أخرى من علامة تبويب الخدمات.
+The request header has been saved successfully. || تم حفظ رأس الطلب بنجاح.
+The request header has been deleted successfully. || تم حذف رأس الطلب بنجاح.
+The request header pattern has been saved successfully. || تم حفظ نموذج رأس الطلب بنجاح.
+The request header pattern has been deleted successfully. || تم حذف نموذج رأس الطلب بنجاح.
+The response header has been saved successfully. || تم حفظ رأس الاستجابة بنجاح.
+The response header has been deleted successfully. || تم حذف رأس الاستجابة بنجاح.
+The response header pattern has been saved successfully. || تم حفظ نمط رأس الاستجابة بنجاح.
+The response header pattern has been deleted successfully. || تم حذف نمط رأس الاستجابة بنجاح.
+The service has to have one backend at least. || يجب أن يكون للخدمة خلفية واحدة على الأقل.
+Are you sure you want to delete the farm {{param}}? || هل أنت متأكد من أنك تريد حذف المزرعة {{param}}؟
+Are you sure you want to delete the selected farms? || هل أنت متأكد من أنك تريد حذف المزارع المحددة؟
+Are you sure you want to delete the service {{param}}? || هل أنت متأكد من أنك تريد حذف الخدمة {{param}}؟
+Are you sure you want to delete the zone {{param}}? || هل أنت متأكد من أنك تريد حذف المنطقة {{param}}؟
+Are you sure you want to delete the selected resources? || هل أنت متأكد من أنك تريد حذف الموارد المحددة؟
+Are you sure you want to delete the resource {{param}}? || هل أنت متأكد من أنك تريد حذف المورد {{param}}؟
+Are you sure you want to delete the backend {{param}}? || هل أنت متأكد من أنك تريد حذف الواجهة الخلفية {{param}}؟
+Are you sure you want to delete the selected backends? || هل أنت متأكد من أنك تريد حذف الخلفية المحددة؟
+Are you sure you want to delete the request header with ID {{id}}? || هل أنت متأكد من أنك تريد حذف رأس الطلب بالكود {{id}}؟
+Are you sure you want to delete the request header pattern with ID {{id}}? || هل أنت متأكد من أنك تريد حذف نمط رأس الطلب بالكود {{id}}؟
+Are you sure you want to delete the selected request headers? || هل أنت متأكد من أنك تريد حذف رؤوس الطلبات المحددة؟
+Are you sure you want to delete the selected request headers patterns? || هل تريد بالتأكيد حذف أنماط رؤوس الطلبات المحددة؟
+Are you sure you want to delete the response header with ID {{id}}? || هل تريد بالتأكيد حذف رأس الاستجابة بالكود {{id}}؟
+Are you sure you want to delete the response header pattern with ID {{id}}? || هل أنت متأكد من أنك تريد حذف نمط رأس الاستجابة بالكود {{id}}؟
+Are you sure you want to delete the selected response headers? || هل أنت متأكد من أنك تريد حذف رؤوس الاستجابة المحددة؟
+Are you sure you want to delete the selected response headers patterns? || هل أنت متأكد من أنك تريد حذف أنماط رؤوس الاستجابة المحددة؟
+Are you sure you want to delete the {{param}} blacklist? || هل تريد بالتأكيد حذف القائمة السوداء {{param}}؟
+Are you sure you want to delete the selected blacklists? || هل أنت متأكد من أنك تريد حذف القوائم السوداء المحددة؟
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || سيتم حذف بوابة الواجهة {{param}} واستبدالها لهذه المزرعة. هل ترغب في الاستمرار؟
+SSL Certificate list || قائمة شهادات SSL
+Choose one certificate || اختيار شهادة واحدة
+Choose one or more files || اختر ملفًا واحدًا أو أكثر
+Selected files || الملفات المختارة
+Descriptive text, this name will be used to identify this certificate. || نص وصفي ، سيتم استخدام هذا الاسم لتحديد هذه الشهادة.
+City where your organization is located. || المدينة التي تقع فيها مؤسستك.
+Country (two characters) where your organization is located. || البلد (حرفين) حيث توجد مؤسستك.
+State or province where your organization is located. || الولاية أو المقاطعة التي تقع فيها منظمتك.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || FQDN للخادم. مثال: domain.com أو mail.domain.com أو * .domain.com.
+The full legal name of your organization/company (ex.: ZEVENET Co.) || الاسم القانوني الكامل لمؤسستك / شركتك (مثل: شركة ZEVENET)
+Your department; such as 'IT','Web', 'Office', etc. || قسمك؛ مثل &quot;تكنولوجيا المعلومات&quot; ، &quot;الويب&quot; ، &quot;المكتب&quot; ، إلخ.
+Your email address || عنوان بريدك  الإلكتروني
+The CSR <strong> {{param}} </strong> has been generated successfully. || المسؤولية الاجتماعية للشركات <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || الشهادة <strong> {{param}} </strong> تم الرفع بنجاح
+The certificate <strong> {{param}} </strong> has been deleted successfully. || الشهادة <strong> {{param}} </strong> تم حذفه بنجاح
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || الشهادة <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
+Are you sure you want to delete the certificate {{param}}? || هل أنت متأكد من أنك تريد حذف الشهادة {{param}}؟
+Are you sure you want to delete the selected certificates? || هل أنت متأكد من أنك تريد حذف الشهادات المحددة؟
+Updates || التحديثات
+Update list || قائمة التحديث
+Period time || وقت الفترة
+Exact time || الوقت بالضبط
+Daily every || كل يوم
+Day of the week || يوم من الاسبوع
+Day of the month || يوم من الشهر
+Sources || مصادر
+DoS rules IPDS || هل قواعد IPDS
+RBL rules IPDS || قواعد RBL IPDS
+Copy rule || نسخة القاعدة
+Rule to copy || حكم للنسخ
+Ruleset to copy || Ruleset لنسخ
+Select the rule to copy || حدد القاعدة لنسخها
+Select the ruleset to copy || حدد مجموعة القواعد لنسخها
+Custom Domain List || قائمة المجال المخصص
+Preloaded Domain List || قائمة المجال المحملة مسبقا
+WAF rulesets IPDS || قواعد WAF IPDS
+Default Action || حدث اساسي
+Disable Rules || تعطيل القواعد
+IPDS Package Updates || تحديثات حزمة IPDS
+Conditions || <font><font><font><font>الحالات</font></font></font></font>
+Flow || التدفق
+WAF File List || قائمة ملف WAF
+WAF file || ملف WAF
+Content File || ملف المحتوى
+Select files || اختيار الملفات
+Select a file || حدد ملف
+Select transformations || حدد التحولات
+Connection limit per second. || حد الاتصال في الثانية الواحدة.
+Total connections limit per source IP. || مجموع الاتصالات الحد لكل مصدر IP.
+Check bogus TCP flags. || تحقق الأعلام TCP وهمية.
+Limit RST request per second. || حد طلب RST في الثانية.
+Allow: Finish the WAF processing and complete the HTTP transaction || السماح: إنهاء معالجة WAF وإكمال معاملة HTTP
+Pass: Continue executing the rules || تمرير: متابعة تنفيذ القواعد
+Deny: Cut the request and not execute rules left || الرفض: قص الطلب وعدم تنفيذ القواعد المتبقية
+Redirect: The client received a URL to redirect || إعادة التوجيه: تلقى العميل عنوان URL لإعادة التوجيه
+Default action: The default action of this ruleset || الإجراء الافتراضي: الإجراء الافتراضي لمجموعة القواعد هذه
+Request headers are received || يتم استلام رؤوس الطلب
+Request body is received || تم استلام نص الطلب
+Response headers are received || يتم تلقي رؤوس الاستجابة
+Response body is received || تلقي استجابة الجسم
+Before than logging || قبل التسجيل
+LUA Script || لوا النصي
+Data file || ملف البيانات
+It is a collection with the values of arguments in a request. || إنها مجموعة تحتوي على قيم الوسائط في الطلب.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || إنها مجموعة تحتوي على قيم الوسائط في طلب JSON. سيكون هذا المتغير متاحًا في حالة قيام WAF بتوزيع وسيطات JSON ، لذلك ، يجب تمكين مجموعة القواعد REQUEST-901-INITIALIZATION.
+The total size of the request parameters. The files are excluded. || الحجم الكلي لمعلمات الطلب. يتم استبعاد الملفات.
+It is a collection with the names of the arguments in a request. || إنها مجموعة بها أسماء الوسائط في الطلب.
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || أنه يحتوي على أسماء الملفات في ملفات المستخدم. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
+It is the total size of the files in a request. Only when the data is multipart/form-data. || هذا هو الحجم الكلي للملفات في الطلب. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || إنها قائمة بأسماء الملفات المستخدمة لتحميل الملفات. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || أنه يحتوي على قائمة أحجام الملفات الفردية. فقط عندما تكون البيانات متعددة الأجزاء / البيانات.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || هذا المتغير هو 1 إذا كان تنسيق نص الطلب غير صحيح بالنسبة إلى JSON أو XML ، وإلا فإنه يحتوي على القيمة 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || هذا هو طلب الجسم الخام. إذا كان الطلب لا يحتوي على رأس &quot;application / x-www-form-urlencoded&quot; ، فمن الضروري استخدام &quot;ctl: forceRequestBodyVariable&quot; في مرحلة REQUEST_HEADER.
+It is the number of bytes of the request body. || هذا هو عدد بايتات نص الطلب.
+It is a list with all request cookies values. || إنها قائمة بكل قيم طلب ملفات تعريف الارتباط.
+It is a list with all request cookies names. || إنها قائمة بجميع أسماء ملفات تعريف الارتباط للطلب.
+This variable has all the request headers. || يحتوي هذا المتغير على كل رؤوس الطلبات.
+This variable has a list with the request headers names. || يحتوي هذا المتغير على قائمة بأسماء رؤوس الطلب.
+It is the request method. || هذه هي طريقة الطلب.
+This variable holds the request HTTP version protocol. || يحتوي هذا المتغير على بروتوكول إصدار طلب HTTP.
+It is the URI request path. The virtual host is excluded. || هذا هو مسار طلب URI. المضيف الظاهري مستبعد.
+It is the information before than the URI path. || إنها المعلومات قبل مسار URI.
+It is the full request. || هذا هو الطلب الكامل.
+It is the number of bytes that full request can have. || هو عدد البايتات التي يمكن أن يكون الطلب الكامل عليها.
+It is the raw body response. || هذا هو استجابة الجسم الخام.
+It is the number of bytes of the response body. || إنه عدد بايتات نص الاستجابة.
+This variable has all response headers. || يحتوي هذا المتغير على كل رؤوس الاستجابة.
+This variable has a list with the response headers names. || يحتوي هذا المتغير على قائمة بأسماء رؤوس الاستجابة.
+This variable holds the response HTTP version protocol. || هذا المتغير يحمل استجابة بروتوكول HTTP الإصدار.
+It is the response HTTP code. || هذا هو استجابة رمز HTTP.
+It is the IP address of the client. || هذا هو عنوان IP للعميل.
+It is the port where the client initializes the connection. || هذا هو المنفذ حيث العميل تهيئة الاتصال.
+It is the name of the authenticated user. || إنه اسم المستخدم المصادق عليه.
+It is the server time. The format is hours:minutes:seconds. || إنه وقت الخادم. التنسيق هو الساعات: دقيقة: ثانية.
+It is the number of milliseconds since the beginning of the current transaction. || هو عدد المللي ثانية منذ بداية المعاملة الحالية.
+It is the field filename in a multipart request. || هذا هو اسم الحقل في طلب متعدد الأجزاء.
+It is the field name in a multipart request. || هذا هو اسم الحقل في طلب متعدد الأجزاء.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || هذه هي القيمة المطابقة في عملية المطابقة الأخيرة. لا تحتاج هذه القيمة إلى خيار الالتقاط ولكن يتم استبدالها في كل عملية مطابقة.
+It is a list of all matched values. || إنها قائمة بجميع القيم المتطابقة.
+It is the IP address of the server. || هذا هو عنوان IP للخادم.
+It is the virtual host, it gets from the request URI. || هذا هو المضيف الظاهري ، فإنه يحصل من طلب URI.
+It is the environment variables of the WAF. || هذا هو متغيرات البيئة من WAF.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || إنها مجموعة من المتغيرات للمعاملة الحالية. ستتم إزالة هذه المتغيرات عندما تنتهي المعاملة. تقوم متغيرات TX: 0-TX: 9 بحفظ القيم التي تم التقاطها باستخدام معاملات strRegex أو strPhrases.
+Decodes a Base64-encoded string. || فك شفرة سلسلة ترميز Base64.
+Decodes a Base64-encoded string ignoring invalid characters. || يقوم بترميز سلسلة ترميز Base64 متجاهلاً الأحرف غير الصحيحة.
+Decodes SQL hex data. || فك شفرة بيانات SQL السداسية.
+Encodes using Base64 encoding. || يشفر باستخدام ترميز Base64.
+Avoids the problem related with the escaped command line. || يتجنب المشكلة المتعلقة بسطر الأوامر النجاة.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || يحول أيًا من أحرف المسافة البيضاء (0x20، \\f، \\t، \\n، \\r، \\v، 0xa0) إلى مسافات (ASCII 0x20) ، مع ضغط العديد من أحرف المسافات المتتالية في واحد.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || يقوم بترميز الأحرف المشفرة باستخدام قواعد الهروب CSS 2.x. تستخدم هذه الوظيفة ما يصل إلى وحدتي بايت فقط في عملية فك التشفير ، مما يعني أنه من المفيد الكشف عن أحرف ASCII المشفرة باستخدام تشفير CSS (الذي لن يتم تشفيره عادةً) ، أو لمقاومة التهرب ، وهو مزيج من الشرطة المائلة للخلف وغير - الأحرف السداسية عشرية (على سبيل المثال ، ja \\vascript تعادل javascript).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || يقوم بترميز تسلسل هروب ANSI C: \\a، \\b، \\f، \\n، \\r، \\t، \\v، \\، \\؟، \\&quot;، \\&quot;، \\xHH (ست عشري) ، \\0OOO ​​(ثماني). يتم ترك ترميزات غير صالحة في الإخراج.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || يقوم بترميز السلسلة التي تم تشفيرها باستخدام نفس الخوارزمية كتلك المستخدمة في hexEncode (انظر الإدخال التالي).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || تشفير السلسلة (ربما تحتوي على أحرف ثنائية) عن طريق استبدال كل بايت إدخال بحرفين سداسي عشري. على سبيل المثال ، يتم ترميز xyz كـ 78797a.
+Decodes the characters encoded as HTML entities. || يقوم بترميز الحروف المشفرة ككيانات HTML.
+Decodes JavaScript escape sequences. || يشترط تسلسل جافا سكريبت الهروب.
+Looks up the length of the input string in bytes, placing it (as string) in output. || يبحث عن طول سلسلة الإدخال بالبايت ، ووضعها (كسلسلة) في الإخراج.
+Converts all characters to lowercase using the current C locale. || يحول كل الحروف إلى أحرف صغيرة باستخدام لغة C الحالية.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || يحسب تجزئة MD5 من البيانات في الإدخال. التجزئة المحسوبة في شكل ثنائي خام وقد تحتاج إلى ترميز في النص المراد طباعته (أو تسجيله). تستخدم وظائف تجزئة عادة في تركيبة مع hexEncode.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || ليست وظيفة تحويل فعلية ، ولكن تعليمة لإزالة وظائف التحويل السابقة المرتبطة بالقاعدة الحالية.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || يزيل خطوط مائلة متعددة ، والمراجع الذاتية للدليل ، والمراجع الخلفية للدليل (باستثناء عندما يكون في بداية الإدخال) من سلسلة الإدخال.
+Same as normalizePath, but first converts backslash characters to forward slashes. || مثل normalizePath ، لكن أولاً يحول الأحرف المائلة للخلف إلى الأمام مائلة.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || يحسب حتى تماثل بيانات بت 7 باستبدال بت 8th من كل بايت الهدف مع بت التماثل المحسوبة.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || يحسب التماثل الفردي لبيانات 7-bit لاستبدال بت 8th من كل بايت الهدف مع بت التماثل المحسوب.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || يحسب تكافؤ صفر في بيانات 7-bit لاستبدال بت 8th من كل بايت الهدف بت بت تعادل صفري ، مما يسمح بفحص بيانات 7 بت متساوية / فردية مثل بيانات ASCII7.
+Removes all NUL bytes from input. || يزيل كل بايت NUL من الإدخال.
+Removes all whitespace characters from the input. || يزيل كل حروف المسافة البيضاء من المدخلات.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || يستبدل كل تواجد تعليق على النمط C (/ * ... * /) بمسافة واحدة (لن يتم ضغط تكرارات متعددة متتالية). سيتم أيضًا استبدال التعليقات غير المنتهية بمسافة (ASCII 0x20). ومع ذلك ، لن يتم تنفيذ الإنهاء المستقل للتعليق (* /).
+Removes common comments chars (/*, */, –, #). || يزيل أحرف التعليقات الشائعة (/ * ، * / ، - ، #).
+Replaces NUL bytes in input with space characters (ASCII 0x20). || يستبدل NUL بايت في الإدخال بأحرف المسافات (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || فك شفرة سلسلة الإدخال المشفرة بعنوان URL. لا يتم تحويل الترميزات غير الصالحة (أي تلك التي تستخدم أحرفًا غير سداسية أو تلك الموجودة في نهاية السلسلة ولديها بايت أو اثنتان) ، ولكن لا يتم رفع أي خطأ.
+Converts all characters to uppercase using the current C locale. || يحول كل الحروف إلى أحرف كبيرة باستخدام لغة C الحالية.
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || مثل urlDecode ، ولكن مع دعم الترميز٪ u الخاص بـ Microsoft.
+Encodes input string using URL encoding. || يشفر سلسلة الإدخال باستخدام ترميز URL.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || يحول كل تسلسل أحرف UTF-8 إلى Unicode. وهذا يساعد على تطبيع المدخلات خاصة بالنسبة للغات غير الإنجليزية التي تقلل من الإيجابيات الكاذبة والسلبيات الخاطئة.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || يحسب تجزئة SHA1 من سلسلة الإدخال. التجزئة المحسوبة في شكل ثنائي خام وقد تحتاج إلى ترميز في النص المراد طباعته (أو تسجيله). تستخدم وظائف تجزئة عادة في تركيبة مع hexEncode.
+Removes whitespace from the left side of the input string. || يزيل مسافة بيضاء من الجانب الأيسر من سلسلة الإدخال.
+Removes whitespace from the right side of the input string. || يزيل مسافة بيضاء من الجانب الأيمن من سلسلة الإدخال.
+Removes whitespace from both the left and right sides of the input string. || يزيل مسافة بيضاء من كلا الجانبين الأيسر والأيمن من سلسلة الإدخال.
+The rule will match if any of the variables begin with the value of operating. || سوف تتطابق القاعدة إذا كان أي من المتغيرات يبدأ بقيمة التشغيل.
+The rule will match if any of the variables contain the value of operating. || ستطابق القاعدة إذا كان أي من المتغيرات يحتوي على قيمة التشغيل.
+The rule will match if any of the variables contain a word as the string one. || ستطابق القاعدة إذا كان أي من المتغيرات يحتوي على كلمة مثل السلسلة واحدة.
+The rule will match if any of the variables end with the value of operating. || ستطابق القاعدة إذا كان أي من المتغيرات ينتهي بقيمة التشغيل.
+The rule will match if any of the variables match with the value of operating. || ستطابق القاعدة إذا تطابق أي من المتغيرات مع قيمة التشغيل.
+The rule will match if any of the variables match with the value of operating. || ستطابق القاعدة إذا تطابق أي من المتغيرات مع قيمة التشغيل.
+The rule will match if any of the variables is identical to the value of operating. || ستطابق القاعدة إذا كان أي من المتغيرات مطابقًا لقيمة التشغيل.
+The rule will match if any of the variables match in the regular expression used in operating. || ستطابق القاعدة إذا تطابق أي من المتغيرات في التعبير العادي المستخدم في التشغيل.
+The rule will match if any of the variables match in any of the values of the list operating. || ستطابق القاعدة إذا تطابق أي من المتغيرات في أي من قيم القائمة العاملة.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || هو نفسه الذي strPhrases المشغل ولكن التشغيل هو ملف حيث يتم تعريفه على أنه قائمة من العبارات.
+The rule will match if any of the variables is equal to the number used in operating. || ستطابق القاعدة إذا كان أي من المتغيرات يساوي الرقم المستخدم في التشغيل.
+The rule will match if any of the variables is greater or equal to the number used in operating. || ستطابق القاعدة إذا كان أي من المتغيرات أكبر أو يساوي الرقم المستخدم في التشغيل.
+The rule will match if any of the variables is greater than the number used in operating. || ستطابق القاعدة إذا كان أي من المتغيرات أكبر من الرقم المستخدم في التشغيل.
+The rule will match if any of the variables is lower or equal to the number used in operating. || ستطابق القاعدة إذا كان أي من المتغيرات أقل أو يساوي العدد المستخدم في التشغيل.
+The rule will match if any of the variables is lower than the number used in operating. || ستطابق القاعدة إذا كان أي من المتغيرات أقل من الرقم المستخدم في التشغيل.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || يتم تطبيق الكشف عن حقن SQL إلى قائمة المتغيرات. هذا المشغل لا يتوقع أي تشغيل.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || يتم تطبيق الكشف عن حقن XSS على قائمة المتغيرات. هذا المشغل لا يتوقع أي تشغيل.
+Try to match the IP or network segments of operating with the list of variables. || حاول أن تطابق مقاطع IP أو شبكة التشغيل مع قائمة المتغيرات.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || هو نفس عامل التشغيل ipMatch ، لكن هذا يحاول مطابقة المتغيرات مع ملف مع قائمة عناوين IP وشبكات الشبكة.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || يتحقق من أن عدد بايتات المتغيرات موجود في إحدى قيم التشغيل. مثال على التشغيل هو &quot;10 ، 13 ، 32-126&quot;.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || التحقق من صحة البيانات المشفرة. يجب استخدام عامل التشغيل هذا فقط للبيانات التي لا تقوم بترميز البيانات بشكل شائع أو يتم ترميز البيانات عدة مرات.
+It validates that variables are UTF-8. This operator does not expect any operating. || يتحقق من صحة أن المتغيرات هي UTF-8. هذا المشغل لا يتوقع أي تشغيل.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || يتم التحقق مما إذا كانت المتغيرات هي رقم بطاقة الائتمان. تقبل هذه المعلمة تعبيرًا عاديًا كعمل ، إذا كانت مطابقة ، فتطبق بطاقة الائتمان التي تم التحقق منها.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || إنه يتحقق مما إذا كانت المتغيرات هي رقم الضمان الاجتماعي الأمريكي. تقبل هذه المعلمة تعبيرًا عاديًا كعمل ، إذا كانت مطابقة ، فإنها تنطبق على التحقق من SSN.
+It returns true always, forcing a match. || يعود صحيحًا دائمًا ، مما يفرض تطابقًا.
+It returns false always, forcing a non-match. || تقوم بإرجاع false دومًا ، مما يؤدي إلى عدم تطابق.
+A word is delimited by characters different to (a-z, 0-9 and '_') || يتم تحديد كلمة بأحرف مختلفة عن (az ، 0-9 و '_')
+Can be a list of strings split by the character , || يمكن أن تكون قائمة من السلاسل المقسومة على الحرف ،
+Can be a list of strings split by the character |, || يمكن أن تكون قائمة بالسلاسل المقسومة على الحرف | ،
+Can be a list of strings split by a blank space || يمكن أن تكون قائمة من السلاسل المقسمة بمساحة فارغة
+Can be a list of IPs or network segments split by the character , || يمكن أن تكون قائمة عناوين IP أو مقاطع الشبكة مقسومة على الحرف ،
+Can be a list of IPs ranges split by the character , || يمكن أن تكون قائمة نطاقات عناوين IP مقسمة حسب الحرف ،
+Can be selected more than one file. || يمكن اختيار أكثر من ملف واحد.
+It uses the PCRE engine, optional field. || يستخدم محرك PCRE ، الحقل الاختياري.
+It uses the PCRE engine, optional field. || يستخدم محرك PCRE ، الحقل الاختياري.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || ويستخدم محرك PCRE. يتم استخدام التعبير (؟ i) لمطابقة استخدام غير متحسسة لحالة الأحرف.
+This operator does not expect any operating. || هذا المشغل لا يتوقع أي تشغيل.
+String. || خيط.
+Number. || عدد.
+The <strong> {{param}} </strong> blacklist has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء القائمة السوداء بنجاح.
+The <strong> {{param}} </strong> blacklist has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف القائمة السوداء بنجاح.
+The <strong> {{param}} </strong> blacklist has been stopped successfully. || الجمعية  <strong> {{param}} </strong> تم إيقاف القائمة السوداء بنجاح.
+The <strong> {{param}} </strong> blacklist has been started successfully. || الجمعية  <strong> {{param}} </strong> القائمة السوداء قد بدأت بنجاح.
+The <strong> {{param}} </strong> blacklist has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث القائمة السوداء بنجاح.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || المزرعة <strong> {{param}} </strong> تمت إضافته إلى القائمة السوداء بنجاح.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة القائمة السوداء بنجاح.
+The <strong> {{param}} </strong> DoS rule has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة DoS بنجاح.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف قاعدة DoS بنجاح.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. || الجمعية  <strong> {{param}} </strong> تم إيقاف حكم DoS بنجاح.
+The <strong> {{param}} </strong> DoS rule has been started successfully. || الجمعية  <strong> {{param}} </strong> لقد بدأ حكم DoS بنجاح.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || المزرعة <strong> {{param}} </strong> تمت إضافة قاعدة DoS بنجاح.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة قاعدة DoS بنجاح.
+The source has been created successfully || تم إنشاء المصدر بنجاح
+The source has been updated successfully || تم تحديث المصدر بنجاح
+The source <strong> {{param}} </strong> has been deleted successfully. || المصدر <strong> {{param}} </strong> تم حذفه بنجاح
+The <strong> {{param}} </strong> RBL rule has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة RBL بنجاح.
+The <strong> {{param}} </strong> RBL rule has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث قاعدة RBL بنجاح.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف قاعدة RBL بنجاح.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. || الجمعية  <strong> {{param}} </strong> تم إيقاف قاعدة RBL بنجاح.
+The <strong> {{param}} </strong> RBL rule has been started successfully. || الجمعية  <strong> {{param}} </strong> تم بدء حكم RBL بنجاح.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || المزرعة <strong> {{param}} </strong> تمت إضافة قاعدة RBL بنجاح.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة قاعدة RBL بنجاح.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || المجال <strong> {{param}} </strong> تمت إضافة قاعدة RBL بنجاح.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || المجال <strong> {{param}} </strong> تمت إزالة قاعدة RBL بنجاح.
+The domain <strong> {{param}} </strong> has been created successfully || المجال <strong> {{param}} </strong> تم إنشاؤه بنجاح
+The domain has been updated successfully || تم تحديث المجال بنجاح
+The domain <strong> {{param}} </strong> has been deleted successfully. || المجال <strong> {{param}} </strong> تم حذفه بنجاح
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء قواعد WAF بنجاح.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف مجموعة قواعد WAF بنجاح.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. || الجمعية  <strong> {{param}} </strong> تم إيقاف قواعد WAF بنجاح.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. || الجمعية  <strong> {{param}} </strong> تم بدء تشغيل مجموعة قواعد WAF بنجاح.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث مجموعة قواعد WAF بنجاح.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || المزرعة <strong> {{param}} </strong> تمت إضافة قواعد مجموعة WAF بنجاح.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة مجموعة قواعد WAF بنجاح.
+The rule <strong> {{param}} </strong> has been created successfully. || القاعدة <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The rule <strong> {{param}} </strong> has been moved successfully. || القاعدة <strong> {{param}} </strong> لقد تم نقل بنجاح.
+The rule <strong> {{param}} </strong> has been deleted successfully. || القاعدة <strong> {{param}} </strong> تم حذفه بنجاح
+The rule <strong> {{param}} </strong> has been updated successfully || القاعدة <strong> {{param}} </strong> تم تحديثه بنجاح
+The match has been created successfully || تم إنشاء المباراة بنجاح
+The match <strong> {{param}} </strong> has been deleted successfully. || المباراة <strong> {{param}} </strong> تم حذفه بنجاح
+The WAF file <strong> {{param}} </strong> has been created successfully. || ملف WAF <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || ملف WAF <strong> {{param}} </strong> تم حذفه بنجاح
+The WAF file <strong> {{param}} </strong> has been updated successfully. || ملف WAF <strong> {{param}} </strong> تم تحديثه بنجاح.
+The <strong> IPDS package </strong> has been scheduled successfully. || الجمعية  <strong> حزمة IPDS </strong> تم جدولة بنجاح.
+The <strong> IPDS package </strong> has been upgraded successfully. || الجمعية  <strong> حزمة IPDS </strong> تمت ترقيته بنجاح.
+Are you sure you want to delete the {{param}} blacklist? || هل تريد بالتأكيد حذف القائمة السوداء {{param}}؟
+Are you sure you want to delete the selected blacklists? || هل أنت متأكد من أنك تريد حذف القوائم السوداء المحددة؟
+Are you sure you want to delete the {{param}} DoS rule? || هل أنت متأكد من أنك تريد حذف قاعدة {{param}} DoS؟
+Are you sure you want to delete the selected DoS rules? || هل أنت متأكد من أنك تريد حذف قواعد DoS المحددة؟
+Are you sure you want to delete the source {{param}}? || هل أنت متأكد من أنك تريد حذف المصدر {{param}}؟
+Are you sure you want to delete the selected sources? || هل أنت متأكد من أنك تريد حذف المصادر المحددة؟
+Are you sure you want to delete the {{param}} RBL rule? || هل أنت متأكد من أنك تريد حذف القاعدة {{param}} RBL؟
+Are you sure you want to delete the selected RBL rules? || هل أنت متأكد من أنك تريد حذف قواعد RBL المحددة؟
+Are you sure you want to delete the domain {{param}}? || هل أنت متأكد من أنك تريد حذف النطاق {{param}}؟
+Are you sure you want to delete the selected domains? || هل تريد بالتأكيد حذف النطاقات المحددة؟
+Are you sure you want to delete the {{param}} WAF ruleset? || هل أنت متأكد من أنك تريد حذف مجموعة قواعد {WAF {{param}}؟
+Are you sure you want to delete the selected rulesets? || هل أنت متأكد من أنك تريد حذف القواعد المحددة؟
+'Are you sure you want to delete the rule {{param}}? || هل أنت متأكد أنك تريد حذف القاعدة {{param}}؟
+Are you sure you want to delete the match {{param}}? || هل أنت متأكد من أنك تريد حذف التطابق {{param}}؟
+Are you sure you want to delete the selected matches? || هل تريد بالتأكيد حذف التطابقات المحددة؟
+Are you sure you want to delete the file {{param}}? || هل أنت متأكد أنك تريد حذف الملف {{param}}؟
+Are you sure you want to delete the selected files? || هل أنت متأكد من أنك تريد حذف الملفات المحددة؟
+System Graphs || الرسوم البيانية للنظام
+Interfaces Graphs || واجهات الرسوم البيانية
+Farms Graph || الرسم البياني للمزارع
+Farms Stats || إحصائيات المزارع
+System Stats || إحصائيات النظام
+Network Stats || احصائيات الشبكة
+Copy farmguardian || نسخة فارقجارديان
+Farmguardian to copy || Farmguardian لنسخ
+Select the farmguardian to copy || حدد farmguardian لنسخ
+Total Memory || إجمالي الذاكرة
+Free Memory || ذاكرة حرة
+Used Memory || الذاكرة المستخدمة
+Buffers || مخازن
+Cached || مؤقتا
+Total Swap || إجمالي المبادلة
+Free Swap || مبادلة مجانية
+Used Swap || تستخدم مبادلة
+Cached Swap || مخزنة مؤقتا مبادلة
+Idle || الخمول
+Usage || الأستعمال
+Iowait || Iowait
+Irq || IRQ
+Nice || لطيف
+Softirq || Softirq
+Sys || SYS
+User || المستخدم 
+Last minute || اللحظة الأخيرة
+Last 5 minutes || آخر 5 دقائق
+Last 15 minutes || آخر 15 دقائق
+Are you sure you want to delete the {{param}} farmguardian? || هل أنت متأكد من رغبتك في حذف {farm} {guardian}؟
+Are you sure you want to delete the selected farmguardians? || هل أنت متأكد أنك تريد حذف المزارعون المختارون؟
+The <strong> {{param}} </strong> farmguardian has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء farmguardian بنجاح.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف farmguardian بنجاح.
+The <strong> {{param}} </strong> farmguardian has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث farmguardian بنجاح.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || المزرعة <strong> {{param}} </strong> تمت إضافة إلى farmguardian بنجاح.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة إلى farmguardian بنجاح.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || المزرعة <strong> {{param}} with the service {{param2}} </strong> تمت إضافة إلى farmguardian بنجاح.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || المزرعة <strong> {{param}} with the service {{param2}} </strong> تمت إزالة إلى farmguardian بنجاح.
+NIC List || قائمة NIC
+Bonding Interface List || قائمة واجهة الترابط
+Select the slaves || اختر العبيد
+VLAN Interface List || قائمة واجهة VLAN
+VLAN ID || معرف VLAN
+VLAN tag || علامة VLAN
+Virtual Interface List || قائمة واجهة افتراضية
+Virtual interface name || اسم الواجهة الافتراضية
+Virtual interface tag || علامة واجهة افتراضية
+Floating IP List || قائمة IP العائمة
+IPv4 Gateway || بوابة IPv4
+IPv6 Gateway || بوابة IPv6
+IPv4 Gateway Settings || إعدادات بوابة IPv4
+IPv6 Gateway Settings || إعدادات بوابة IPv6
+Backends Aliases || الخلفية الأسماء المستعارة
+Interfaces Aliases || واجهات الأسماء المستعارة
+Routing Rule List || قائمة قاعدة التوجيه
+Routing Table List || قائمة جدول التوجيه
+Priority should be a value between {{min}} and {{max}} || يجب أن تكون الأولوية قيمة بين {{min}} و {{max}}
+Configure table {{param}} || تكوين الجدول {{param}}
+Available Routes || الطرق المتاحة
+Routing table for the outputs of the interface {{param}}. || جدول التوجيه لمخرجات الواجهة {{param}}.
+Should be a IP address or CIDR || يجب أن يكون عنوان IP أو CIDR
+Should be a IP address (IPv4/IPv6) || يجب أن يكون عنوان IP (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}? || هل تريد بالتأكيد إلغاء بطاقة واجهة الشبكة {{param}}؟
+Are you sure you want to unset the selected NIC? || هل أنت متأكد من أنك تريد إلغاء تعيين NIC المحدد؟
+Are you sure you want to unset the Bonding {{param}}? || هل أنت متأكد من أنك تريد إلغاء تعيين Bonding {{param}}؟
+Are you sure you want to unset the selected Bondings? || هل أنت متأكد من أنك تريد إلغاء تعيين الروابط المحددة؟
+Are you sure you want to delete the Bonding {{param}}? || هل أنت متأكد من أنك تريد حذف Bonding {{param}}؟
+Are you sure you want to delete the selected Bondings? || هل أنت متأكد من أنك تريد حذف الروابط المحددة؟
+Are you sure you want to delete the VLAN {{param}}? || هل أنت متأكد من أنك تريد حذف VLAN {{param}}؟
+Are you sure you want to delete the selected VLANs? || هل تريد بالتأكيد حذف شبكات محلية ظاهرية محددة؟
+Are you sure you want to delete the Virtual interface {{param}}? || هل تريد بالتأكيد حذف الواجهة الظاهرية {{param}}؟
+Are you sure you want to delete the selected Virtual interfaces? || هل تريد بالتأكيد حذف الواجهات الظاهرية المحددة؟
+Are you sure you want to unset the Floating IP of {{param}}? || هل أنت متأكد من أنك تريد إلغاء تعيين عنوان IP العائم لـ {{param}}؟
+Are you sure you want to unset the selected Floating IPs? || هل أنت متأكد من أنك تريد إلغاء تعيين عناوين IP العائمة المحددة؟
+Are you sure you want to unset the gateway for {{param}}? || هل أنت متأكد من أنك تريد إلغاء تعيين العبارة لـ {{param}}؟
+Are you sure you want to delete the alias {{param}}? || هل تريد بالتأكيد حذف الاسم المستعار {{param}}؟
+Are you sure you want to delete the selected aliases? || هل تريد بالتأكيد حذف الأسماء المستعارة المحددة؟
+Are you sure you want to delete the routing rule {{param}}? || هل أنت متأكد من أنك تريد حذف قاعدة التوجيه {{param}}؟
+Are you sure you want to delete the selected routing rules? || هل أنت متأكد من أنك تريد حذف قواعد التوجيه المحددة؟
+Are you sure you want to delete the route {{param}}? || هل أنت متأكد من أنك تريد حذف المسار {{param}}؟
+Are you sure you want to delete the selected routes? || هل أنت متأكد من أنك تريد حذف المسارات المحددة؟
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. || الجمعية  <strong> {{param}} </strong> لقد تم تكوين NIC بنجاح.
+The <strong> {{param}} </strong> NIC is up. || الجمعية  <strong> {{param}} </strong> NIC هو ما يصل.
+The <strong> {{param}} </strong> NIC is down. || الجمعية  <strong> {{param}} </strong> NIC معطلة.
+The <strong> {{param}} </strong> NIC has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث NIC بنجاح.
+The <strong> {{param}} </strong> NIC has updated the alias successfully. || الجمعية  <strong> {{param}} </strong> قام NIC بتحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Bonding has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء الربط بنجاح.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. || الجمعية  <strong> {{param}} </strong> الرابطة لم يتم تكوينها بنجاح.
+The <strong> {{param}} </strong> Bonding is up. || الجمعية  <strong> {{param}} </strong> الترابط هو ما يصل.
+The <strong> {{param}} </strong> Bonding is down. || الجمعية  <strong> {{param}} </strong> الترابط لأسفل.
+The <strong> {{param}} </strong> Bonding has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث Bonding بنجاح.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. || الجمعية  <strong> {{param}} </strong> قام Bonding بتحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Bonding has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف الربط بنجاح.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. || الجمعية  <strong> {{param}} </strong> تم إضافة الرقيق إلى Bonding بنجاح.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. || الجمعية  <strong> {{param}} </strong> تم إزالة العبد من Bonding بنجاح.
+The <strong> {{param}} </strong> VLAN has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء شبكة محلية ظاهرية بنجاح.
+The <strong> {{param}} </strong> VLAN is up. || الجمعية  <strong> {{param}} </strong> شبكة محلية ظاهرية متروك.
+The <strong> {{param}} </strong> VLAN is down. || الجمعية  <strong> {{param}} </strong> شبكة محلية ظاهرية معطلة.
+The <strong> {{param}} </strong> VLAN has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث VLAN بنجاح.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. || الجمعية  <strong> {{param}} </strong> قام VLAN بتحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> VLAN has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف VLAN بنجاح.
+The <strong> {{param}} </strong> Virtual interface has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء واجهة افتراضية بنجاح.
+The <strong> {{param}} </strong> Virtual interface is up. || الجمعية  <strong> {{param}} </strong> واجهة افتراضية هو ما يصل.
+The <strong> {{param}} </strong> Virtual interface is down. || الجمعية  <strong> {{param}} </strong> الواجهة الافتراضية معطلة.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث الواجهة الافتراضية بنجاح.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. || الجمعية  <strong> {{param}} </strong> قامت الواجهة الافتراضية بتحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف الواجهة الافتراضية بنجاح.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. || الجمعية  <strong> {{param}} </strong> العائمة IP قد تم تكوينه بنجاح.
+The <strong> {{param}} </strong> Floating IP is up. || الجمعية  <strong> {{param}} </strong> العائمة الملكية الفكرية هو ما يصل.
+The <strong> {{param}} </strong> Floating IP is down. || الجمعية  <strong> {{param}} </strong> IP العائم هو أسفل.
+The <strong> {{param}} </strong> Floating IP has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث IP العائم بنجاح.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. || الجمعية  <strong> {{param}} </strong> قام Floating IP بتحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف IP العائم بنجاح.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || بوابة ل <strong> {{param}} </strong> تم تكوينه بنجاح.
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || بوابة ل <strong> {{param}} </strong> تم تحديثه بنجاح.
+The <strong> {{param}} </strong> Alias has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Alias has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> Alias has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف الاسم المستعار بنجاح.
+The <strong> {{param}} </strong> routing rule has been deleted successfully. || الجمعية  <strong> {{param}} </strong> تم حذف قاعدة التوجيه بنجاح.
+The <strong> {{param}} </strong> routing rule has been updated successfully. || الجمعية  <strong> {{param}} </strong> تم تحديث قاعدة التوجيه بنجاح.
+The <strong> {{param}} </strong> routing rule has been created successfully. || الجمعية  <strong> {{param}} </strong> تم إنشاء قاعدة التوجيه بنجاح.
+The route <strong> {{param}} </strong> has been deleted successfully. || الطريق <strong> {{param}} </strong> تم حذفه بنجاح
+The route <strong> {{param}} </strong> has been updated successfully. || الطريق <strong> {{param}} </strong> تم تحديثه بنجاح.
+The route <strong> {{param}} </strong> has been created successfully. || الطريق <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+To remove a route you must select it first. || لإزالة مسار ، يجب تحديده أولاً.
+The route {{param}} cannot be removed because it is a system route. || لا يمكن إزالة المسار {{param}} لأنه مسار نظام.
+The interface <strong> {{param}} </strong> has been disabled. || واجهة <strong> {{param}} </strong> تم تعطيل.
+The interface <strong> {{param}} </strong> has been enabled. || واجهة <strong> {{param}} </strong> تم تمكين.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. || الجمعية  <strong> {{param}} </strong> الرقيق لا يمكن إزالتها. يجب أن يكون للرابطة عبدا واحدا على الأقل.
+HTTP Service || خدمة HTTP
+SSH Service || خدمة SSH
+SNMP Service || خدمة SNMP
+The physical interface where is running GUI service || الواجهة الفعلية حيث يتم تشغيل خدمة واجهة المستخدم الرسومية
+If the cluster is up you only can select the cluster interface or all || إذا كانت الكتلة في وضع التشغيل ، فيمكنك فقط تحديد واجهة المجموعة أو الكل
+HTTPS Port where is running GUI service || منفذ HTTPS حيث يتم تشغيل خدمة GUI
+The physical interface where is running SSH service || الواجهة الفعلية حيث يتم تشغيل خدمة SSH
+SSH Port where is running SSH service || ميناء SSH حيث يتم تشغيل خدمة SSH
+Enable SNMP || تمكين SNMP
+The physical interface where is running SNMP service || الواجهة الفعلية حيث يتم تشغيل خدمة SNMP
+SNMP Port where is running SNMP service || SNMP Port حيث يقوم بتشغيل خدمة SNMP
+Community name || اسم المجتمع
+IP or subnet with access || IP أو الشبكة الفرعية مع الوصول
+Primary server || الخادم الرئيسي
+Secondary Server || الخادم الثانوي
+NTP server || الخادم NTP
+NTP Service || خدمة NTP
+Proxy Service || خدمة الوكيل
+DNS Service || خدمة DNS
+Configure cluster || تكوين الكتلة
+Local IP || IP المحلي
+Remote IP || الملكية الفكرية عن بعد
+Remote Node Password || كلمة السر عن بعد العقدة
+Confirm Password || تأكيد كلمة المرور
+Backup List || قائمة النسخ الاحتياطي
+Backup file || ملف النسخ الاحتياطي
+Choose one file || اختيار ملف واحد
+Alerts Service || خدمة التنبيهات
+Alerts || التنبيهات
+Email Notifications || اشعارات البريد الالكتروني
+Mail Server || خادم البريد
+Mail User || مستخدم البريد
+TLS || TLS
+Backends Alert || تنبيه الخلفي
+Cluster Alert || تنبيه الكتلة
+Prefix Subject || البادئة الموضوع
+Avoid flapping time || تجنب الخفقان الوقت
+The time that alerts wait when backend is flapping || الوقت الذي تنبيهات الانتظار عندما الخلفية ترفرف
+User Settings || إعدادات المستخدم
+ZAPI Key || مفتاح ZAPI
+Change Password || تغيير كلمة المرور
+Current password || كلمة المرور الحالية
+New password || كلمة السر الجديدة
+Repeat new password || كرر كلمة المرور الجديدة
+Log List || قائمة السجل
+Log view || عرض السجل
+When this action is executed a file with system information will be downloaded. || عند تنفيذ هذا الإجراء ، سيتم تنزيل ملف به معلومات النظام.
+This action may take several seconds, you can continue browsing the GUI. || قد يستغرق هذا الإجراء عدة ثوان ، يمكنك متابعة تصفح واجهة المستخدم الرسومية.
+Select an interface which won't be deleted || حدد واجهة لن يتم حذفها
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || سيؤدي هذا الإجراء إلى تدمير جميع التكوينات ، باستثناء الواجهة المحددة والنسخ الاحتياطية وشهادة التنشيط.
+The current credentials for user root will not be modified. || لن يتم تعديل بيانات الاعتماد الحالية لجذر المستخدم.
+User List || قائمة المستخدم
+Group List || قائمة المجموعة
+Role List || قائمة الدور
+Role Settings || إعدادات الدور
+Show all permissions || إظهار جميع الأذونات
+Hide all permissions || إخفاء جميع الأذونات
+Show permissions || إظهار الأذونات
+Hide permissions || إخفاء الأذونات
+LDAP Server || خادم LDAP
+Base DN || قاعدة DN
+Bind DN || ربط DN
+Scope || مجال
+Bind Password || ربط كلمة المرور
+Filter || تصنيف 
+Global Services || الخدمات العالمية
+Enable session replication || تمكين النسخ المتماثل جلسة
+Enable Duplicated network || تمكين الشبكة المكررة
+Enable ARP announce || تمكين إعلان ARP
+Custom Routes || طرق مخصصة
+System Routes || طرق النظام
+Use proxy of new generation || استخدام وكيل الجيل الجديد
+Validation Systems || أنظمة التحقق من الصحة
+AWS Credentials || أوراق اعتماد AWS
+Access Key || مفتاح الوصول
+Secret Key || المفتاح السري
+Region || Region
+SSL Certificate || شهادة SSL
+RBAC User || مستخدم RBAC
+RBAC Group || مجموعة RBAC
+RBAC Role || دور RBAC
+Network Virtual Interface || واجهة الشبكة الافتراضية
+System Service || خدمة النظام
+Notification || اشعارات
+Host or URL allowed || المضيف أو URL المسموح به
+It will not be used if the HOST/URL field contains a URL || لن يتم استخدامه إذا كان حقل HOST / URL يحتوي على عنوان URL
+Filter used to get the LDAP field that contains the user ID to log in || التصفية المستخدمة للحصول على حقل LDAP الذي يحتوي على معرف المستخدم لتسجيل الدخول
+The Search Request will be performed against the entry specified as the search base DN. || سيتم تنفيذ &quot;طلب البحث&quot; مقابل الإدخال المحدد كقاعدة البحث DN.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || سيتم تنفيذ &quot;طلب البحث&quot; مقابل الإدخالات التي تعتبر مرؤوسًا فوريًا للإدخال المحدد كقاعدة البحث DN.
+The Search Request will be performed against the search base and all entries below || سيتم تنفيذ طلب البحث مقابل قاعدة البحث وجميع الإدخالات أدناه
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || عنوان واجهة المستخدم الرسومية للإدارة الجديد هو {{param}} يرجى إعادة الاتصال بـ واجهة المستخدم الرسومية في عنوان URL الجديد.
+The <strong> HTTP service </strong> has been updated successfully. || الجمعية  <strong> خدمة HTTP </strong> تم تحديثه بنجاح.
+The <strong> SSH service </strong> has been updated successfully. || الجمعية  <strong> خدمة SSH </strong> تم تحديثه بنجاح.
+The <strong> SNMP service </strong> has been updated successfully. || الجمعية  <strong> خدمة SNMP </strong> تم تحديثه بنجاح.
+The <strong> global services </strong> have been updated successfully || الجمعية  <strong> خدمات عالمية </strong> تم تحديثها بنجاح
+The <strong> DNS service </strong> has been updated successfully. || الجمعية  <strong> خدمة DNS </strong> تم تحديثه بنجاح.
+The <strong> NTP service </strong> has been updated successfully. || الجمعية  <strong> خدمة NTP </strong> تم تحديثه بنجاح.
+The <strong> Proxy service </strong> has been updated successfully. || الجمعية  <strong> خدمة الوكيل </strong> تم تحديثه بنجاح.
+The backup <strong> {{param}} </strong> has been deleted successfully. || النسخ الاحتياطي <strong> {{param}} </strong> تم حذفه بنجاح
+The backup <strong> {{param}} </strong> has been applied successfully. || النسخ الاحتياطي <strong> {{param}} </strong> تم تطبيقه بنجاح.
+The backup <strong> {{param}} </strong> has been downloaded successfully. || النسخ الاحتياطي <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
+The backup <strong> {{param}} </strong> has been uploaded successfully. || النسخ الاحتياطي <strong> {{param}} </strong> تم الرفع بنجاح
+The backup <strong> {{param}} </strong> has been created successfully. || النسخ الاحتياطي <strong> {{param}} </strong> تم إنشاؤه بنجاح.
+The <strong> backends alert </strong> has been applied successfully. || الجمعية  <strong> التأخير الخلفي </strong> تم تطبيقه بنجاح.
+The <strong> cluster alert </strong> has been applied successfully. || الجمعية  <strong> تنبيه الكتلة </strong> تم تطبيقه بنجاح.
+The configuration of email has been updated successfully. || تم تحديث تكوين البريد الإلكتروني بنجاح.
+The alert has been updated successfully. || تم تحديث التنبيه بنجاح.
+The test email has been sent successfully. || تم إرسال البريد الإلكتروني للاختبار بنجاح.
+The user has been updated successfully. || تم تحديث المستخدم بنجاح.
+The log <strong> {{param}} </strong> has been downloaded successfully. || السجل <strong> {{param}} </strong> وقد تم تحميلها بنجاح.
+The <strong> Support Save </strong> has been downloaded successfully. || الجمعية  <strong> دعم حفظ </strong> وقد تم تحميلها بنجاح.
+The user <strong> {{param}} </strong> has been deleted successfully. || المستخدم <strong> {{param}} </strong> تم حذفه بنجاح
+The user {{param}} has been created successfully. || تم إنشاء المستخدم {{param}} بنجاح.
+The user {{param}} has been updated successfully. || تم تحديث المستخدم {{param}} بنجاح.
+The group <strong> {{param}} </strong> has been deleted successfully. || المجموعة <strong> {{param}} </strong> تم حذفه بنجاح
+The group {{param}} has been created successfully. || تم إنشاء المجموعة {{param}} بنجاح.
+The group {{param}} has been updated successfully. || تم تحديث المجموعة {{param}} بنجاح.
+The user <strong> {{param}} </strong> has been added to the group successfully. || المستخدم <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
+The user <strong> {{param}} </strong> has been removed to the group successfully. || المستخدم <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
+The farm <strong> {{param}} </strong> has been added to the group successfully. || المزرعة <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || المزرعة <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
+The interface <strong> {{param}} </strong> has been added to the group successfully. || واجهة <strong> {{param}} </strong> تمت إضافة المجموعة بنجاح.
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || واجهة <strong> {{param}} </strong> تمت إزالة المجموعة بنجاح.
+The role <strong> {{param}} </strong> has been deleted successfully. || دور <strong> {{param}} </strong> تم حذفه بنجاح
+The role {{param}} has been created successfully. || تم إنشاء الدور {{param}} بنجاح.
+The role {{param}} has been updated successfully. || تم تحديث الدور {{param}} بنجاح.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || تم تكوين خادم LDAP. من فضلك ، اختبر الاتصال للتأكد من صحة التكوين.
+The connectivity test has been done successfully. || تم اختبار الاتصال بنجاح.
+The validation system <strong> {{param}} </strong> has been enabled successfully. || نظام التحقق من الصحة <strong> {{param}} </strong> تم تمكين بنجاح.
+The validation system <strong> {{param}} </strong> has been disabled successfully. || نظام التحقق من الصحة <strong> {{param}} </strong> تم تعطيل بنجاح.
+The cluster has been created successfully. || تم إنشاء الكتلة بنجاح.
+The cluster has been updated successfully. || تم تحديث الكتلة بنجاح.
+The cluster has been destroyed successfully. || تم تدمير الكتلة بنجاح.
+The <strong>local node</strong> has been put in maintenance successfully. || الجمعية  <strong>العقدة المحلية</strong> تم وضعه في الصيانة بنجاح.
+The <strong>local node</strong> has been enabled successfully. || الجمعية  <strong>العقدة المحلية</strong> تم تمكين بنجاح.
+The AWS credentials have been configured successfully. || تم تكوين بيانات اعتماد AWS بنجاح.
+The Azure credentials have been configured successfully. || تم تكوين بيانات اعتماد Azure بنجاح.
+Are you sure you want to delete the backup {{param}}? || هل أنت متأكد من أنك تريد حذف النسخة الاحتياطية {{param}}؟
+Are you sure you want to delete the selected backups? || هل أنت متأكد من أنك تريد حذف النسخ الاحتياطية المحددة؟
+Are you sure you want to delete the user {{param}}? || هل أنت متأكد من أنك تريد حذف المستخدم {{param}}؟
+Are you sure you want to delete the selected users? || هل تريد بالتأكيد حذف المستخدمين المحددين؟
+Are you sure you want to delete the group {{param}}? || هل أنت متأكد من أنك تريد حذف المجموعة {{param}}؟
+Are you sure you want to delete the selected groups? || هل أنت متأكد من أنك تريد حذف المجموعات المحددة؟
+Are you sure you want to delete the role {{param}}? || هل أنت متأكد من أنك تريد حذف الدور {{param}}؟
+Are you sure you want to delete the selected roles? || هل أنت متأكد من أنك تريد حذف الأدوار المحددة؟
+Are you sure you want to destroy the cluster? || هل أنت متأكد أنك تريد تدمير الكتلة؟
+Dashboard || لوحة التحكم
+News || الأخبار
+LSLB || LSLB
+Farms || المزارع
+SSL Certificates || شهادة SSL
+Generate csr || توليد CSR
+Stats || احصائيات
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || الإعدادات
+Blacklists || القوائم السوداء
+DoS || دوس
+RBL || RBL
+Rules || قواعد
+Domains || المجالات
+WAF || WAF
+Rulesets || Rulesets
+Files || ملفات
+Monitoring || مراقبة
+Graphs || الرسوم البيانية
+Farmguardians || Farmguardians
+Network || شبكة
+NIC || NIC
+Bonding || الرابطة
+VLAN || VLAN
+Virtual Interfaces || واجهات افتراضية
+Floating IPs || عناوين IP العائمة
+Gateway || بوابة
+Aliases || الأسماء المستعارة
+Routing || التوجيه
+Tables || الجداول
+System || نظام
+RBAC || RBAC
+Users || المستخدمين
+Groups || مجموعات
+Roles || الأدوار
+Local Services || الخدمات المحلية
+Remote Services || الخدمات عن بعد
+Cluster || كتلة
+Backups || النسخ الاحتياطي
+Notifications || الإشعارات
+User || المستخدم 
+Logs || سجلات
+Activation Certificate || شهادة التنشيط
+License || رخصة الخصوصية
+SupportSave || SupportSave
+Factory Reset || اعدادات المصنع

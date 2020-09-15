@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| Entre com seu nome de usuário e senha
-Success!|| Sucesso!
-Username|| Nome de utilizador
-User should be the real one!|| O usuário deve ser o verdadeiro!
-Password should contains from {{min}} to {{max}} characters|| A senha deve conter de {{min}} a {{max}} caracteres
-Sign In|| Entrar
-Logging out, please wait...|| Terminando sessão, aguarde ...
-Package list to upgrade|| Lista de pacotes para atualização
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| Para atualizar o sistema, execute em um shell o seguinte comando: 'checkupgrades -i'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * Essas informações são atualizadas diariamente, se você deseja forçar a execução da verificação <code>checkupgrades</code> da linha de comando.
-No activation certificate|| Sem certificado de ativação
-There isn't a valid ZEVENET certificate file, please request a new one|| Não há um arquivo de certificado ZEVENET válido, solicite um novo
-Certificate Key|| Chave do certificado
-Activation Certificate file|| Arquivo de certificado de ativação
-Activation Data|| Dados de Ativação
-Copy data to the clipboard|| Copiar dados para a área de transferência
-Activation Certificate|| Certificado de Ativação
-Select an activation certificate|| Selecione um certificado de ativação
-Upload Activation Certificate|| Carregar certificado de ativação
-No Support|| Sem suporte
-Certificate expired|| Certificado expirado
-Support expired|| Suporte expirado
-Certificate expires in {{param}} {{param2}}|| O certificado expira em {{param}} {{param2}}
-Support expires in {{param}} {{param2}}|| O suporte expira em {{param}} {{param2}}
-The activation certificate has been uploaded successfully.|| O certificado de ativação foi enviado com sucesso.
-The Activation Certificate has been deleted successfully.|| O certificado de ativação foi excluído com sucesso.
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| Tem certeza de que deseja excluir o certificado de ativação \\n Se você o excluir, perderá o acesso à GUI, até o upload de outro certificado
-Upload|| Escolher arquivo
-Uploading|| Upload
-Add|| Adicionar
-Disable maintenance|| Desativar a manutenção
-Enable maintenance|| Ativar manutenção
-Drain mode|| Modo de drenagem
-Cut mode|| Modo de corte
-Edit|| Editar
-Configure|| configurar
-Save|| Salvar
-Add Variable|| Adicionar variável
-Bring|| Trazer
-Export|| exportação
-All data|| Todos os dados
-Only selected|| Apenas selecionado
-Apply|| Inscrever-se
-Create|| Create
-Cancel|| Cancelar
-Submit|| Enviar
-New Service|| Novo serviço
-New Zone|| Nova Zona
-New Route|| Nova Rota
-Basic|| Basic
-Advanced|| Avançado
-Generate|| Gerar
-Generating|| Gerando
-Delete|| Excluir
-Bring Up|| Levantar a questão
-Bring down|| Trazer para baixo
-Restart|| Restart
-Restarting|| Reiniciando
-Start|| Inscreva-se
-Stop|| parar
-Unset|| Desviar
-Enable|| permitir
-Disable|| incapacitar
-Remove|| Eliminar
-Download|| Baixar
-Downloading|| Download
-Update|| atualizar
-New Rule|| Nova regra
-Next|| Próximo
-Back|| Voltar
-Generate Random MAC|| Gerar MAC aleatório
-Destroy|| Destruir
-Test Email|| E-mail de teste
-Generate Random Key|| Gerar Chave Aleatória
-Upload Certificate|| Carregar Certificado
-Delete Certificate|| Excluir certificado
-List|| Lista
-Menu|| Menu
-Modify|| modificar
-Show|| Show
-Action|| Açao Social
-Test|| teste
-Schedule|| Programação do dia
-Upgrade|| Atualizar
-View|| Ver
-Info|| Informação
-Test Connectivity|| Testar conectividade
-Show certificate|| Mostrar certificado
-Force Changes|| Forçar alterações
-Page Not Found|| Page Not Found
-The page you were looking for doesn't exist|| A página que você estava procurando não existe
-Take me home|| Me leve pra casa
-Status|| Status
-Actions|| Ações
-Name|| Nome
-ID||  ID
-Alias|| aliás
-IP||  IP
-Interface|| Interface
-Priority|| Prioridade
-Port|| Porta
-Weight|| Peso
-Max. Conns|| Max. Conns
-Name|| Nome
-Virtual IP|| IP virtual
-Vitual Port|| Porto Vitual
-Virtual IP and Port|| IP virtual e porta
-Default TCP port health check|| Verificação de integridade da porta TCP padrão
-Health Checks for backend|| Verificações de integridade para back-end
-Default Name Server|| Servidor de nomes padrão
-Type|| Tipo
-Data|| Dados
-Profile|| Perfil
-HTTPS Parameters|| Parâmetros HTTPS
-Ciphers|| Cifras
-Custom ciphers|| Cifras personalizadas
-Protocol type|| Tipo de protocolo
-NAT type|| Tipo NAT
-Rewrite location headers|| Reescrever cabeçalhos de localização
-HTTP verbs accepted|| Verbos HTTP aceitos
-Ignore 100 continue|| Ignorar 100 continuar
-Backend connection timeout|| Tempo limite da conexão de back-end
-Backend response timeout|| Tempo limite de resposta de back-end
-Frequency to check resurrected backends|| Frequência para verificar back-ends ressuscitados
-Client request timeout|| Tempo limite da solicitação do cliente
-Message Error|| Erro de mensagem
-Request Headers|| Cabeçalhos de solicitação
-Response Headers|| Cabeçalhos de resposta
-Persistence|| Persistência
-Persistence session time to live|| Tempo de sessão de persistência para viver
-TTL|| TTL
-Persistence session identifier|| Identificador da sessão de persistência
-Virtual IP|| IP virtual
-Load balancing Scheduler|| Agendador de balanceamento de carga
-Algorithm|| Algoritmo
-Round Robin|| Round Robin
-Virtual Host|| Host Virtual
-URL Pattern|| Padrão de URL
-Least Response|| Menos Resposta
-HTTPS Backends|| Back-ends HTTPS
-STS Header|| Cabeçalho STS
-Timeout|| Timeout
-Redirect|| Redirecionar
-Redirect URL|| URL de redirecionamento
-Redirect Type|| Tipo de redirecionamento
-Redirect Code|| Código de redirecionamento
-Cookie Insert|| Inserção de cookie
-Cookie Name|| Nome do cookie
-Cookie Domain|| Domínio do cookie
-Cookie Path|| Caminho do bolinho
-Cookie TTL|| Cookie TTL
-Locality|| Localidade
-Country|| País
-State/Province|| Estado / Província
-Common Name|| Nome comum
-Organization|| Organização"
-Division|| Divisão
-E-mail Address|| E-mail
-File|| Envie o
-Issuer|| Emissora
-Creation|| Criação
-Expiration|| Expiration
-Certificate|| certificado
-Established Conns|| Conexões estabelecidas
-Pending Conns|| Conexões pendentes
-Service|| serviço
-Session ID|| ID da sessão
-Backend ID|| ID de back-end
-Requests|| pedidos
-Failed REQ|| REQ com falha
-Failed RES|| RES com falha
-Truncated Resp TC|| TC de Resp Truncado
-Extended DNS Big|| DNS estendido grande
-Extended DNS TC|| TC de DNS estendido
-No Error|| Nenhum erro
-Refused|| Recusou
-Non-existent Domain|| Domínio inexistente
-Notimp|| Notimp
-Bad Version|| Versão ruim
-Format Error|| Erro de formato
-Dropped|| Caiu
-V6||  V6
-Extended DNS|| DNS estendido
-Extended DNS-ClientSub|| DNS-ClientSub estendido
-Client|| Cliente
-Listerner|| Listerner
-Value|| Valor
-Custom IP|| IP personalizado
-Policy|| Política
-Remote URL|| URL remoto
-Frequency|| Frequência
-Rule|| Regra
-Limit RST request per source IP|| Limitar a solicitação RST por IP de origem
-Total connections per source IP|| Total de conexões por IP de origem
-Limit Burst|| Limite de explosão
-Total connections limit per source IP|| Limite total de conexões por IP de origem
-Hits|| acessos
-Time|| Horário
-Log level|| Nível de log
-Only logging|| Apenas registro
-Local traffic|| Tráfego local
-Queue size|| Tamanho da fila
-Max. Threads|| Max. Tópicos
-Cache size|| Tamanho da memória cache
-Cache time|| Tempo de cache
-Check Request Body|| Organismo de solicitação de verificação
-Check Response Body|| Verificar corpo de resposta
-Request Body Limit|| Limite do corpo da solicitação
-Default Phase|| Fase padrão
-Default Log|| Log padrão
-Rules|| Regras
-Rule Type|| Tipo de regra
-Mark|| Marca
-Phase|| Fase
-Resolution|| Resolução
-Rule ID|| ID da regra
-Skip|| pular
-Skip after|| Pular depois
-Execute|| Execução
-Description|| Descrição
-Interval|| Intervalo
-Cut connections|| Cortar conexões
-Command|| comando
-MAC|| MAC
-Netmask|| Máscara de rede
-Farms|| Fazendas
-Gateway|| porta de entrada
-IP Address|| Endereço IP
-CIDR|| CIDR
-Mode|| Modo
-Slaves|| Escravos
-Parent Interface|| Interface pai
-Address|| Endereço
-Host|| hospedagem
-Date|| Data
-Alert|| Alertar
-Password|| Senha
-Log|| Registro
-ZAPI Permissions|| Permissões ZAPI
-GUI Permissions|| Permissões da GUI
-Role|| Papel
-Rules Date|| Data de regras
-Scheduled|| Programado
-Variable|| Variável
-Variable's argument|| Argumento da variável
-Ignore this <i>variable</i> for the match|| Ignore isso <i>variável</i> para a partida
-Count elements of <i>variables</i>|| Contar elementos de <i>variáveis</i>
-Variables|| Variáveis
-Transformations|| Transformações
-Operating|| Operativo
-Multi Match|| Multi Match
-Not Match|| Não combina
-Operator|| operador
-Module|| Módulo
-Floating IP|| IP flutuante
-Interfaces|| Interfaces
-Group|| Grupo
-Virtual Interface|| Interface Virtual
-URL|| URL
-From|| A partir de
-Table|| mesa
-To|| Para
-Route|| Rota
-Via|| Através da
-Backend Alias|| Alias ​​de back-end
-Version|| Versão
-System|| Sistema
-Failback|| Failback
-Check Interval|| Verifique o intervalo
-Node|| Nó
-Message|| Mensagem
-Hostname|| hostname
-No {{param}} found|| Nenhum {{param}} encontrado
-Edit|| Editar
-Global|| Global
-Services|| Serviços
-Select a {{param}}|| Selecione um {{param}}
-Resources|| Recursos
-Backends|| Backends
-Strict Transport Security|| Segurança estrita de transporte
-Farms Stats|| Fazendas Estatísticas
-Copy to clipboard|| Copiar para área de transferência
-Hide nodes|| Ocultar nós
-Show nodes|| Mostrar nós
-Hide backends|| Ocultar back-end
-Show backends|| Mostrar back-end
-Hide graphs|| Ocultar gráficos
-Show graphs|| Mostrar gráficos
-Sessions|| Sessões
-Clients|| Clientes
-Servers|| servidores
-Extended|| Alargado
-Nodes|| Nodes
-Number of lines|| Número de linhas
-View All|| Ver todos
-View Less|| Visualizar menos
-Valid|| Válido
-Expired|| Expirado
-Near to expire|| Perto de expirar
-True|| Verdadeiro
-False|| Falso
-No configured|| Não configurado
-In use by bonding interface|| Em uso pela interface de ligação
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| A interface do serviço de cluster deve ser alterada ou desativada antes para poder modificar essa interface
-Enabled|| ativado
-Disabled|| inválido
-Needed restart|| Reinício necessário
-Critical|| Crítico
-Problem|| Problema
-Maintenance|| Manutenção
-Master|| Mestre
-Backup|| backup
-Not configured|| Não configurado
-Undefined|| Indefinido
-Daily Graph|| Gráfico diário
-Weekly Graph|| Gráfico semanal
-Monthly Graph|| Gráfico Mensal
-Yearly Graph|| Gráfico Anual
-Documentation|| Documentação
-Reload farmguardian list|| Atualizar lista de farmguardian
-Cookie|| Cookie
-Zones|| Zonas
-System Stats|| Estatísticas do sistema
-CPU|| CPU
-Memory|| memória
-Load|| Ver
-Cores|| Núcleos
-Traffic In|| Tráfego em
-Traffic Out|| Tráfego para fora
-Nothing|| Nada
-Custom|| personalizadas
-All interfaces|| Todas as interfaces
-All farms|| Todas as fazendas
-Default State|| Estado padrão
-Up||  Up
-Down|| Para baixo
-Installed and updated|| Instalado e atualizado
-Not installed|| Não instalado
-Updates available|| Atualizações disponíveis
-Interface|| Interface
-Type|| Tipo
-Zone|| Zona
-Transformation|| Transformação
-Backend|| Backend
-Condition|| Condição
-Domain|| Domínio
-Resource|| Recurso
-Graph|| Gráfico
-Session|| Sessão
-IP alias|| Alias ​​de IP
-Interface alias|| Alias ​​da interface
-Backup|| backup
-Farm|| Fazenda
-Header|| cabeçalho
-Pattern|| padrão
-Source|| fonte
-Blacklist|| Blacklist
-Farmguardian|| Farmguardian
-Package|| Pacote
-DoS rule|| Regra de DoS
-RBL rule|| Regra RBL
-WAF ruleset|| Conjunto de regras WAF
-VLAN|| VLAN
-Routing Rule|| Regra de roteamento
-Routing Table|| Tabela de roteamento
-Needed restart|| Reinício necessário
-There're changes that need to be applied, restart the farm to apply them!|| Há alterações que precisam ser aplicadas, reinicie o farm para aplicá-las!
-Close|| Fechar
-The <strong> factory reset </strong> has been completed successfully.|| A <strong> reset de fábrica </strong> foi concluído com sucesso.
-The interface <strong> {{name}} </strong> has been updated successfully.|| A interface <strong> {{name}} </strong> foi atualizado com sucesso.
-The <strong>HTTP Service</strong> has been updated successfully.|| A <strong>Serviço HTTP</strong> foi atualizado com sucesso.
-An error has occurred on the server, try again later|| Ocorreu um erro no servidor, tente novamente mais tarde
-Connection to web server failed|| Falha na conexão com o servidor da web
-An unexpected error has occurred|| Ocorreu um erro inesperado
-System Information|| Informações do sistema
-ZEVENET Version|| Versão ZEVENET
-Appliance Version|| Versão do aparelho
-Kernel Version|| Versão do Kernel
-System Date|| Data do sistema
-NIC Traffic|| Tráfego NIC
-Total number of connections in realtime.|| Número total de conexões em tempo real.
-Connections|| Coneções
-Professional Products|| Produtos Profissionais
-Professional Services|| Serviços profissionais
-No Virtual Interfaces|| Sem interfaces virtuais
-No VLANs|| Sem VLANs
-Create DSLB Farm|| Criar um farm DSLB
-Create Virtual interface|| Criar interface virtual
-Create GSLB Farm|| Criar farm GSLB
-Generate CSR|| Gerar CSR
-Create LSLB Farm|| Criar farm LSLB
-Upload SSL Certificate|| Carregar Certificado SSL
-Create Blacklist|| Criar lista negra
-Create DoS rule|| Criar regra DoS
-Create RBL rule|| Criar regra RBL
-Create WAF ruleset|| Criar conjunto de regras WAF
-Create Rule|| Criar regra
-Create Farmguardian|| Criar Farmguardian
-Create Bonding interface|| Criar interface de ligação
-Create VLAN interface|| Crie uma interface VLAN
-Upload Backup|| Carregar Backup
-Create Backup|| Criar backup
-Create User|| Criar Usuário
-Create Group|| Criar grupo
-Create Role|| Criar papel
-Create Route|| Criar rota
-is required|| É necessário
-is not valid, it only is possible alphanumeric characters and dash (-).|| não é válido, só é possível caracteres alfanuméricos e traço (-).
-Only editable when the farm is down.|| Apenas editável quando o farm está inativo.
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| A porta virtual não é válida, é possível definir uma única porta, várias portas ou intervalos de portas (por exemplo: 80 ou 80,81 ou 80: 90)
-has to be greater than 0|| tem que ser maior que 0
-Redirect should be a URL (http(s)://...)|| O redirecionamento deve ser um URL (http (s): //…)
-Country can only have two characters.|| O país pode ter apenas dois caracteres.
-E-mail has to be a valid email|| O email deve ser um email válido
-The password does not match|| A senha não corresponde
-has to be a value between {{min}} and {{max}}|| deve ser um valor entre {{min}} e {{max}}
-Global Settings|| Configurações globais
-IPDS Settings|| Configurações de IPDS
-Advanced Settings|| Configurações avançadas
-Domains Settings|| Configurações de Domínios
-Rules Settings|| Configurações de regras
-Blacklists rules|| Regras das listas negras
-DoS rules|| Regras de DoS
-RBL rules|| Regras RBL
-WAF rulesets|| Conjuntos de regras WAF
-Services Settings|| Configurações de serviços
-Zones Settings|| Configurações de zonas
-Global Filter|| Filtro global
-Refresh|| refrescar
-Seconds|| segundos
-per second|| por segundo
-Refresh status every|| Atualizar status a cada
-Refresh stats every|| Atualizar estatísticas a cada
-Not refresh|| Não atualizar
-Farms Settings|| Configurações de farms
-Minutes|| atas
-Hours|| horas
-Monday|| Segunda-feira
-Tuesday|| Terça-feira
-Wednesday|| Quarta-feira
-Thursday|| Quinta-feira
-Friday|| FRATERNIDADE
-Saturday|| Sábado
-Sunday|| Domingo
-Deny|| negar
-Allow|| permitir
-Daily|| Diariamente
-Weekly|| Semanal
-Monthly|| Mensal
-entries|| entradas
-threads|| tópicos
-Sort|| tipo
-SORT MODE: Drag and drop the service to the desired position.|| MODO DE CLASSIFICAÇÃO: Arraste e solte o serviço na posição desejada.
-The farm will be restarted automatically.|| O farm será reiniciado automaticamente.
-bytes|| bytes
-Default is|| O padrão é
-Optional|| Opcional
-days|| dias
-Go to|| Vá para
-Edit in form mode|| Editar no modo de formulário
-Edit in raw mode|| Editar no modo bruto
-Create in form mode|| Criar no modo de formulário
-Create in raw mode|| Criar no modo bruto
-Available certificates|| Certificados disponíveis
-Enabled certificates|| Certificados habilitados
-Search certificate|| Pesquisar certificado
-Available blacklists|| Listas negras disponíveis
-Enabled blacklists|| Listas negras ativadas
-Search blacklist|| Pesquisar lista negra
-Available DoS rules|| Regras de DoS disponíveis
-Enabled DoS rules|| Regras de DoS ativadas
-Search DoS rule|| Regra de DoS de pesquisa
-Available RBL rules|| Regras RBL disponíveis
-Enabled RBL rules|| Regras RBL ativadas
-Search RBL rule|| Regra RBL de pesquisa
-Available WAF rulesets|| Conjuntos de regras WAF disponíveis
-Enabled WAF rulesets|| Conjuntos de regras WAF ativados
-Search WAF ruleset|| Pesquisar conjunto de regras WAF
-Available farms|| Fazendas disponíveis
-Enabled farms|| Farms ativados
-Search farm|| Pesquisa farm
-Available domains|| Domínios disponíveis
-Enabled domains|| Domínios ativados
-Search domain|| Pesquisar domínio
-Enabled rules|| Regras ativadas
-Disabled rules|| Regras desativadas
-Search rule|| Regra de pesquisa
-Available NICs|| NICs disponíveis
-Enabled NICs|| NICs ativadas
-Search NIC|| Pesquisar NIC
-Search slaves|| Pesquisar escravos
-Slaves NICs|| NICs escravos
-Available users|| Usuários disponíveis
-Enabled users|| Usuários habilitados
-Search user|| Pesquisar usuário
-Available interfaces|| Interfaces disponíveis
-Enabled interfaces|| Interfaces ativadas
-Search interface|| Interface de pesquisa
-Managed interfaces|| Interfaces gerenciadas
-Unmanaged interfaces|| Interfaces não gerenciadas
-Search interface|| Interface de pesquisa
-LSLB Farm List|| Lista de Fazendas LSLB
-GSLB Farm List|| Lista GSLB Farm
-DSLB Farm List|| Lista de Fazendas DSLB
-Copy farm|| Copiar farm
-Farm to copy|| Fazenda para copiar
-Select the farm to copy|| Selecione o farm para copiar
-Weight: connection linear dispatching by weight|| Peso: conexão linear de despacho por peso
-Priority: connections always to the most prio available|| Prioridade: conexões sempre ao mais disponível
-Source Hash: Hash per Source IP and Source Port|| Hash de Origem: Hash por IP de Origem e Porta de Origem
-Simple Source Hash: Hash per Source IP only|| Hash de Origem Simples: Hash por Somente IP de Origem
-Symmetric Hash: Round trip hash per IP and Port|| Hash simétrico: hash de ida e volta por IP e porta
-Round Robin: Sequential backend selection|| Round Robin: seleção sequencial de back-end
-Least Connections: connections to the least open conns available|| Menos conexões: conexões com os menos abertos disponíveis
-Disabled|| inválido
-Enabled|| ativado
-Enabled and compare backends|| Habilitado e comparar back-end
-No persistence|| Sem persistência
-IP: Source IP|| IP: IP de origem
-Port: Source Por|| Porta: Fonte Por
-MAC: Source MAC|| MAC: MAC de origem
-Source IP and Source Port|| IP de Origem e Porta de Origem
-Source IP and Destination Port|| IP de origem e porta de destino
-No persistence|| Sem persistência
-IP: Client address|| IP: endereço do cliente
-BASIC: Basic authentication|| BASIC: autenticação básica
-URL: A request parameter|| URL: um parâmetro de solicitação
-PARM: An URI parameter|| PARM: um parâmetro de URI
-COOKIE: A certain cookie|| COOKIE: um determinado cookie
-HEADER: A certain request header|| CABEÇALHO: um determinado cabeçalho de solicitação
-The farm has been updated successfully|| O farm foi atualizado com sucesso
-The farm <strong> {{param}} </strong> has been deleted successfully.|| A Fazenda <strong> {{param}} </strong> foi eliminado com sucesso.
-The farm <strong> {{param}} </strong> has been started successfully.|| A Fazenda <strong> {{param}} </strong> foi iniciado com sucesso.
-The farm <strong> {{param}} </strong> has been restarted successfully.|| A Fazenda <strong> {{param}} </strong> foi reiniciado com sucesso.
-The farm <strong> {{param}} </strong> has been stopped successfully.|| A Fazenda <strong> {{param}} </strong> foi parado com sucesso.
-The farm <strong> {{param}} </strong> has been created successfully.|| A Fazenda <strong> {{param}} </strong> foi criado com sucesso.
-The backend has been created successfully.|| O back-end foi criado com sucesso.
-The backend has been updated successfully.|| O back-end foi atualizado com sucesso.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| O backend <strong> {{param}} </strong> foi eliminado com sucesso.
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| O backend <strong> {{param}} </strong> foi colocado em manutenção com sucesso.
-The backend <strong> {{param}} </strong> has been upped successfully.|| O backend <strong> {{param}} </strong> foi atualizado com sucesso.
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| Back-end com alto valor de prioridade <strong> {{param}} </strong> não será usado.
-The resource has been created successfully.|| O recurso foi criado com sucesso.
-The resource has been updated successfully.|| O recurso foi atualizado com sucesso.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| O backend <strong> {{param}} </strong> foi eliminado com sucesso.
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| O certificado SSL <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| O certificado SSL <strong> {{param}} </strong> foi removido do farm com sucesso.
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| O certificado SSL <strong> {{param}} </strong> foi classificado com sucesso.
-The service <strong> {{param}} </strong> has been created successfully.|| O serviço <strong> {{param}} </strong> foi criado com sucesso.
-The service <strong> {{param}} </strong> has been updated successfully.|| O serviço <strong> {{param}} </strong> foi atualizado com sucesso.
-The service <strong> {{param}} </strong> has been deleted successfully.|| O serviço <strong> {{param}} </strong> foi eliminado com sucesso.
-The service <strong> {{param}} </strong> has been moved successfully.|| O serviço <strong> {{param}} </strong> foi movido com sucesso.
-The farmguardians list has been reloaded successfully.|| A lista de guardas agrícolas foi recarregada com sucesso.
-The farmguardian has been disabled successfully.|| O guardião da fazenda foi desativado com sucesso.
-The farmguardian has been changed to {{param}} successfully.|| O guardião da fazenda foi alterado para {{param}} com sucesso.
-The zone <strong> {{param}} </strong> has been created successfully.|| A zona <strong> {{param}} </strong> foi criado com sucesso.
-The zone <strong> {{param}} </strong> has been updated successfully.|| A zona <strong> {{param}} </strong> foi atualizado com sucesso.
-The zone <strong> {{param}} </strong> has been deleted successfully.|| A zona <strong> {{param}} </strong> foi eliminado com sucesso.
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| A lista negra <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| A lista negra <strong> {{param}} </strong> foi removido do farm com sucesso.
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| A regra de DoS <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| A regra de DoS <strong> {{param}} </strong> foi removido do farm com sucesso.
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| A regra da RBL <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| A regra da RBL <strong> {{param}} </strong> foi removido do farm com sucesso.
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| O conjunto de regras WAF <strong> {{param}} </strong> foi classificado com sucesso.
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| O conjunto de regras WAF <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| O conjunto de regras WAF <strong> {{param}} </strong> foi removido do farm com sucesso.
-The profile has been changed to {{param}} successfully.|| O perfil foi alterado para {{param}} com sucesso.
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| O algoritmo foi alterado para o algoritmo de ponderação, porque o menor algoritmo do Connections não é permitido com o tipo de NAT selecionado. Você pode escolher outro algoritmo na guia serviços.
-The request header has been saved successfully.|| O cabeçalho da solicitação foi salvo com sucesso.
-The request header has been deleted successfully.|| O cabeçalho da solicitação foi excluído com sucesso.
-The request header pattern has been saved successfully.|| O padrão do cabeçalho da solicitação foi salvo com sucesso.
-The request header pattern has been deleted successfully.|| O padrão do cabeçalho da solicitação foi excluído com sucesso.
-The response header has been saved successfully.|| O cabeçalho da resposta foi salvo com sucesso.
-The response header has been deleted successfully.|| O cabeçalho da resposta foi excluído com sucesso.
-The response header pattern has been saved successfully.|| O padrão do cabeçalho de resposta foi salvo com sucesso.
-The response header pattern has been deleted successfully.|| O padrão do cabeçalho de resposta foi excluído com sucesso.
-The service has to have one backend at least.|| O serviço deve ter pelo menos um back-end.
-Are you sure you want to delete the farm {{param}}?|| Tem certeza de que deseja excluir o farm {{param}}?
-Are you sure you want to delete the selected farms?|| Tem certeza de que deseja excluir os farms selecionados?
-Are you sure you want to delete the service {{param}}?|| Tem certeza de que deseja excluir o serviço {{param}}?
-Are you sure you want to delete the zone {{param}}?|| Tem certeza de que deseja excluir a zona {{param}}?
-Are you sure you want to delete the selected resources?|| Tem certeza de que deseja excluir os recursos selecionados?
-Are you sure you want to delete the resource {{param}}?|| Tem certeza de que deseja excluir o recurso {{param}}?
-Are you sure you want to delete the backend {{param}}?|| Tem certeza de que deseja excluir o backend {{param}}?
-Are you sure you want to delete the selected backends?|| Tem certeza de que deseja excluir os back-ends selecionados?
-Are you sure you want to delete the request header with ID {{id}}?|| Tem certeza de que deseja excluir o cabeçalho da solicitação com o ID {{id}}?
-Are you sure you want to delete the request header pattern with ID {{id}}?|| Tem certeza de que deseja excluir o padrão do cabeçalho da solicitação com o ID {{id}}?
-Are you sure you want to delete the selected request headers?|| Tem certeza de que deseja excluir os cabeçalhos de solicitação selecionados?
-Are you sure you want to delete the selected request headers patterns?|| Tem certeza de que deseja excluir os padrões de cabeçalhos de solicitação selecionados?
-Are you sure you want to delete the response header with ID {{id}}?|| Tem certeza de que deseja excluir o cabeçalho da resposta com o ID {{id}}?
-Are you sure you want to delete the response header pattern with ID {{id}}?|| Tem certeza de que deseja excluir o padrão do cabeçalho de resposta com o ID {{id}}?
-Are you sure you want to delete the selected response headers?|| Tem certeza de que deseja excluir os cabeçalhos de resposta selecionados?
-Are you sure you want to delete the selected response headers patterns?|| Tem certeza de que deseja excluir os padrões de cabeçalhos de resposta selecionados?
-Are you sure you want to delete the {{param}} blacklist?|| Tem certeza de que deseja excluir a lista negra {{param}}?
-Are you sure you want to delete the selected blacklists?|| Tem certeza de que deseja excluir as listas negras selecionadas?
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| O gateway da interface {{param}} será excluído e substituído para este farm. Você deseja continuar?
-SSL Certificate list|| Lista de certificados SSL
-Choose one certificate|| Escolha um certificado
-Choose one or more files|| Escolha um ou mais arquivos
-Selected files|| Arquivos selecionados
-Descriptive text, this name will be used to identify this certificate.|| Texto descritivo, esse nome será usado para identificar este certificado.
-City where your organization is located.|| Cidade onde sua organização está localizada.
-Country (two characters) where your organization is located.|| País (dois caracteres) em que sua organização está localizada.
-State or province where your organization is located.|| Estado ou província onde sua organização está localizada.
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN do servidor. Exemplo: domain.com, mail.domain.com ou * .domain.com.
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| O nome legal completo da sua organização / empresa (por exemplo: ZEVENET Co.)
-Your department; such as 'IT','Web', 'Office', etc.|| Seu departamento; tais como 'IT', 'Web', 'Office', etc.
-Your email address|| Seu endereço de email
-The CSR <strong> {{param}} </strong> has been generated successfully.|| O CSR <strong> {{param}} </strong> foi gerado com sucesso.
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| O certificado <strong> {{param}} </strong> foi enviado com sucesso.
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| O certificado <strong> {{param}} </strong> foi eliminado com sucesso.
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| O certificado <strong> {{param}} </strong> Foi baixado com sucesso.
-Are you sure you want to delete the certificate {{param}}?|| Tem certeza de que deseja excluir o certificado {{param}}?
-Are you sure you want to delete the selected certificates?|| Tem certeza de que deseja excluir os certificados selecionados?
-Updates|| atualizações
-Update list|| Atualizar lista
-Period time|| Período de tempo
-Exact time|| Tempo exato
-Daily every|| Diariamente a cada
-Day of the week|| Dia da semana
-Day of the month|| Dia do mês
-Sources|| Fontes
-DoS rules IPDS|| DoS governa IPDS
-RBL rules IPDS|| Regras da RBL IPDS
-Copy rule|| Regra de cópia
-Rule to copy|| Regra para copiar
-Ruleset to copy|| Conjunto de regras para copiar
-Select the rule to copy|| Selecione a regra para copiar
-Select the ruleset to copy|| Selecione o conjunto de regras para copiar
-Custom Domain List|| Lista de Domínios Personalizados
-Preloaded Domain List|| Lista de domínios pré-carregados
-WAF rulesets IPDS|| Conjuntos de regras WAF IPDS
-Default Action|| Ação padrão
-Disable Rules|| Desativar Regras
-IPDS Package Updates|| Atualizações do pacote IPDS
-Conditions|| condições
-Flow|| Fluxo
-WAF File List|| Lista de arquivos WAF
-WAF file|| Arquivo WAF
-Content File|| Arquivo de Conteúdo
-Select files|| Selecione os arquivos
-Select a file|| Selecione um arquivo
-Select transformations|| Selecionar transformações
-Connection limit per second.|| Limite de conexão por segundo.
-Total connections limit per source IP.|| Limite total de conexões por IP de origem.
-Check bogus TCP flags.|| Verifique bandeiras TCP falsas.
-Limit RST request per second.|| Limite a solicitação de RST por segundo.
-Allow: Finish the WAF processing and complete the HTTP transaction|| Permitir: finalize o processamento WAF e conclua a transação HTTP
-Pass: Continue executing the rules|| Aprovado: Continue executando as regras
-Deny: Cut the request and not execute rules left|| Negar: corte a solicitação e não execute as regras restantes
-Redirect: The client received a URL to redirect|| Redirecionar: o cliente recebeu um URL para redirecionar
-Default action: The default action of this ruleset|| Ação padrão: a ação padrão deste conjunto de regras
-Request headers are received|| Cabeçalhos de solicitação são recebidos
-Request body is received|| O corpo da solicitação é recebido
-Response headers are received|| Cabeçalhos de resposta são recebidos
-Response body is received|| Corpo de resposta é recebido
-Before than logging|| Antes do que logar
-LUA Script|| Script LUA
-Data file|| Arquivo de dados
-It is a collection with the values of arguments in a request.|| É uma coleção com os valores de argumentos em uma solicitação.
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| É uma coleção com os valores de argumentos em uma solicitação JSON. Esta variável estará disponível no caso de o WAF analisar os argumentos JSON, para isso, o conjunto de regras REQUEST-901-INITIALIZATION deve ser ativado.
-The total size of the request parameters. The files are excluded.|| O tamanho total dos parâmetros de solicitação. Os arquivos são excluídos.
-It is a collection with the names of the arguments in a request.|| É uma coleção com os nomes dos argumentos em uma solicitação.
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| Ele contém os nomes dos arquivos no arquivo do usuário. Somente quando os dados são multipartes / dados de formulário.
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| É o tamanho total dos arquivos em uma solicitação. Somente quando os dados são multipartes / dados de formulário.
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| É uma lista de nomes de arquivos usados ​​para carregar os arquivos. Somente quando os dados são multipartes / dados de formulário.
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| Ele contém uma lista de tamanhos de arquivos individuais. Somente quando os dados são multipartes / dados de formulário.
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| Essa variável é 1 se o formato do corpo da solicitação não estiver correto para um JSON ou XML, caso contrário, ele terá o valor 0.
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| É o pedido de corpo bruto. Se a solicitação não tiver o cabeçalho &quot;application / x-www-form-urlencoded&quot;, será necessário usar &quot;ctl: forceRequestBodyVariable&quot; na fase REQUEST_HEADER.
-It is the number of bytes of the request body.|| É o número de bytes do corpo da solicitação.
-It is a list with all request cookies values.|| É uma lista com todos os valores de cookies de solicitação.
-It is a list with all request cookies names.|| É uma lista com todos os nomes de cookies de solicitação.
-This variable has all the request headers.|| Essa variável tem todos os cabeçalhos de solicitação.
-This variable has a list with the request headers names.|| Essa variável possui uma lista com os nomes dos cabeçalhos da solicitação.
-It is the request method.|| É o método de solicitação.
-This variable holds the request HTTP version protocol.|| Essa variável contém o protocolo de versão HTTP da solicitação.
-It is the URI request path. The virtual host is excluded.|| É o caminho da solicitação de URI. O host virtual é excluído.
-It is the information before than the URI path.|| É a informação anterior ao caminho do URI.
-It is the full request.|| É o pedido completo.
-It is the number of bytes that full request can have.|| É o número de bytes que a solicitação completa pode ter.
-It is the raw body response.|| É a resposta do corpo cru.
-It is the number of bytes of the response body.|| É o número de bytes do corpo da resposta.
-This variable has all response headers.|| Esta variável tem todos os cabeçalhos de resposta.
-This variable has a list with the response headers names.|| Essa variável possui uma lista com os nomes dos cabeçalhos de resposta.
-This variable holds the response HTTP version protocol.|| Esta variável contém o protocolo da versão HTTP de resposta.
-It is the response HTTP code.|| É o código HTTP de resposta.
-It is the IP address of the client.|| É o endereço IP do cliente.
-It is the port where the client initializes the connection.|| É a porta em que o cliente inicializa a conexão.
-It is the name of the authenticated user.|| É o nome do usuário autenticado.
-It is the server time. The format is hours:minutes:seconds.|| É a hora do servidor. O formato é horas: minutos: segundos.
-It is the number of milliseconds since the beginning of the current transaction.|| É o número de milissegundos desde o início da transação atual.
-It is the field filename in a multipart request.|| É o nome do arquivo de campo em uma solicitação multipartes.
-It is the field name in a multipart request.|| É o nome do campo em uma solicitação multipartes.
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| É o valor correspondente na última operação de correspondência. Esse valor não precisa da opção de captura, mas é substituído em cada operação de correspondência.
-It is a list of all matched values.|| É uma lista de todos os valores correspondentes.
-It is the IP address of the server.|| É o endereço IP do servidor.
-It is the virtual host, it gets from the request URI.|| É o host virtual, ele recebe do URI da solicitação.
-It is the environment variables of the WAF.|| São as variáveis ​​de ambiente do WAF.
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| É uma coleção de variáveis ​​para a transação atual. Essas variáveis ​​serão removidas quando a transação terminar. As variáveis ​​TX: 0-TX: 9 salva os valores capturados com os operadores strRegex ou strPhrases.
-Decodes a Base64-encoded string.|| Decodifica uma string codificada em Base64.
-Decodes a Base64-encoded string ignoring invalid characters.|| Decodifica uma string codificada em Base64, ignorando caracteres inválidos.
-Decodes SQL hex data.|| Decodifica dados hexadecimais SQL.
-Encodes using Base64 encoding.|| Codifica usando a codificação Base64.
-Avoids the problem related with the escaped command line.|| Evita o problema relacionado à linha de comando de escape.
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| Converte qualquer um dos caracteres de espaço em branco (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) em espaços (ASCII 0x20), compactando vários caracteres de espaço consecutivos em um.
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| Decodifica caracteres codificados usando as regras de escape do CSS 2.x. Essa função usa apenas até dois bytes no processo de decodificação, o que significa que é útil descobrir caracteres ASCII codificados usando a codificação CSS (que normalmente não seria codificada) ou combater a evasão, que é uma combinação de barra invertida e não caracteres hexadecimais (por exemplo, ja \\vascript é equivalente a javascript).
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| Decodifica as seqüências de escape ANSI C: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (hexadecimal), \\0OOO ​​(octal). Codificações inválidas são deixadas na saída.
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| Decodifica uma string que foi codificada usando o mesmo algoritmo usado em hexEncode (veja a entrada seguinte).
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| Codifica cadeia (possivelmente contendo caracteres binários) substituindo cada byte de entrada por dois caracteres hexadecimais. Por exemplo, xyz é codificado como 78797a.
-Decodes the characters encoded as HTML entities.|| Decodifica os caracteres codificados como entidades HTML.
-Decodes JavaScript escape sequences.|| Decodifica seqüências de escape do JavaScript.
-Looks up the length of the input string in bytes, placing it (as string) in output.|| Procura o comprimento da string de entrada em bytes, colocando-a (como string) na saída.
-Converts all characters to lowercase using the current C locale.|| Converte todos os caracteres em minúsculas usando a localidade C atual.
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Calcula um hash MD5 a partir dos dados na entrada. O hash calculado está no formato binário bruto e pode precisar ser codificado no texto a ser impresso (ou registrado). As funções de hash são comumente usadas em combinação com o hexEncode.
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| Não é uma função de transformação real, mas uma instrução para remover funções de transformação anteriores associadas à regra atual.
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| Remove várias barras, referências próprias do diretório e referências posteriores do diretório (exceto quando no início da entrada) da sequência de entrada.
-Same as normalizePath, but first converts backslash characters to forward slashes.|| O mesmo que normalizePath, mas primeiro converte os caracteres de barra invertida em barras.
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Calcula a paridade par dos dados 7-bit, substituindo o bit 8 de cada byte alvo pelo bit de paridade calculado.
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Calcula a paridade ímpar de dados 7-bit, substituindo o 8th bit de cada byte de destino pelo bit de paridade calculado.
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| Calcula a paridade zero de dados 7-bit, substituindo o bit 8 de cada byte de destino por um bit de paridade zero, que permite a inspeção de dados 7-bit de paridade par / ímpar como dados ASCII7.
-Removes all NUL bytes from input.|| Remove todos os bytes NUL da entrada.
-Removes all whitespace characters from the input.|| Remove todos os caracteres de espaço em branco da entrada.
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| Substitui cada ocorrência de um comentário no estilo C (/ *… * /) por um único espaço (várias ocorrências consecutivas das quais não serão compactadas). Comentários não terminados também serão substituídos por espaço (ASCII 0x20). No entanto, uma rescisão autônoma de um comentário (* /) não será acionada.
-Removes common comments chars (/*, */, –, #).|| Remove caracteres de comentários comuns (/ *, * /, -, #).
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| Substitui os bytes NUL na entrada por caracteres de espaço (ASCII 0x20).
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| Decodifica uma string de entrada codificada por URL. Codificações inválidas (ou seja, aquelas que usam caracteres não hexadecimais, ou aquelas que estão no final da cadeia e têm um ou dois bytes ausentes) não são convertidas, mas nenhum erro é gerado.
-Converts all characters to uppercase using the current C locale.|| Converte todos os caracteres em maiúsculas usando a localidade C atual.
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| Como o urlDecode, mas com suporte para a codificação% u específica da Microsoft.
-Encodes input string using URL encoding.|| Codifica a string de entrada usando a codificação de URL.
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| Converte todas as seqüências de caracteres UTF-8 em Unicode. Isso ajuda a normalização de entrada, especialmente para idiomas que não o inglês, minimizando falsos positivos e falsos negativos.
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Calcula um hash SHA1 da string de entrada. O hash calculado está em formato binário bruto e pode precisar ser codificado no texto a ser impresso (ou registrado). Funções de hash são comumente usadas em combinação com hexEncode.
-Removes whitespace from the left side of the input string.|| Remove espaços em branco do lado esquerdo da string de entrada.
-Removes whitespace from the right side of the input string.|| Remove espaços em branco do lado direito da string de entrada.
-Removes whitespace from both the left and right sides of the input string.|| Remove o espaço em branco dos lados esquerdo e direito da string de entrada.
-The rule will match if any of the variables begin with the value of operating.|| A regra corresponderá se qualquer uma das variáveis ​​começar com o valor de operação.
-The rule will match if any of the variables contain the value of operating.|| A regra corresponderá se alguma das variáveis ​​contiver o valor de operação.
-The rule will match if any of the variables contain a word as the string one.|| A regra corresponderá se alguma das variáveis ​​contiver uma palavra como a sequência uma.
-The rule will match if any of the variables end with the value of operating.|| A regra corresponderá se qualquer uma das variáveis ​​terminar com o valor de operação.
-The rule will match if any of the variables match with the value of operating.|| A regra corresponderá se alguma das variáveis ​​corresponder ao valor de operação.
-The rule will match if any of the variables match with the value of operating.|| A regra corresponderá se alguma das variáveis ​​corresponder ao valor de operação.
-The rule will match if any of the variables is identical to the value of operating.|| A regra corresponderá se qualquer uma das variáveis ​​for idêntica ao valor de operação.
-The rule will match if any of the variables match in the regular expression used in operating.|| A regra corresponderá se alguma das variáveis ​​corresponder à expressão regular usada na operação.
-The rule will match if any of the variables match in any of the values of the list operating.|| A regra corresponderá se qualquer uma das variáveis ​​corresponder em qualquer um dos valores da lista em operação.
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| É o mesmo que o operador digita, mas a operação é um arquivo em que é definido como uma lista de frases.
-The rule will match if any of the variables is equal to the number used in operating.|| A regra corresponderá se alguma das variáveis ​​for igual ao número usado na operação.
-The rule will match if any of the variables is greater or equal to the number used in operating.|| A regra corresponderá se qualquer uma das variáveis ​​for maior ou igual ao número usado na operação.
-The rule will match if any of the variables is greater than the number used in operating.|| A regra corresponderá se alguma das variáveis ​​for maior que o número usado na operação.
-The rule will match if any of the variables is lower or equal to the number used in operating.|| A regra corresponderá se qualquer uma das variáveis ​​for menor ou igual ao número usado na operação.
-The rule will match if any of the variables is lower than the number used in operating.|| A regra corresponderá se alguma das variáveis ​​for menor que o número usado na operação.
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| Aplica a detecção de injeção SQL à lista de variáveis. Este operador não espera nenhum funcionamento.
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| Aplica a detecção de injeção de XSS à lista de variáveis. Este operador não espera nenhum funcionamento.
-Try to match the IP or network segments of operating with the list of variables.|| Tente combinar os segmentos de rede ou IP da operação com a lista de variáveis.
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| É o mesmo que o operador ipMatch, mas isso tenta a correspondência das variáveis ​​em um arquivo com uma lista de IPs e segmentos de rede.
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| Ele verifica se o número de bytes das variáveis ​​está em um dos valores operacionais. Um exemplo de operação é “10, 13, 32-126”.
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| Valida dados codificados. Esse operador deve ser usado apenas para dados que não codificam dados comumente ou para dados codificados várias vezes.
-It validates that variables are UTF-8. This operator does not expect any operating.|| Ele valida que as variáveis ​​são UTF-8. Este operador não espera nenhuma operação.
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| Ele verifica se as variáveis ​​são um número de cartão de crédito. Esse parâmetro aceita uma expressão regular como operacional, se corresponder a ele, aplica o cartão de crédito verificado.
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| Ele verifica se as variáveis ​​são um número de segurança social dos EUA. Este parâmetro aceita uma expressão regular como operacional, se corresponder, aplica a verificação SSN.
-It returns true always, forcing a match.|| Ele retorna verdadeiro sempre, forçando um jogo.
-It returns false always, forcing a non-match.|| Ele retorna sempre falso, forçando um não-jogo.
-A word is delimited by characters different to (a-z, 0-9 and '_')|| Uma palavra é delimitada por caracteres diferentes de (az, 0-9 e '_')
-Can be a list of strings split by the character ,|| Pode ser uma lista de cadeias de caracteres divididas pelo caractere,
-Can be a list of strings split by the character |,|| Pode ser uma lista de seqüências de caracteres divididas pelo caractere |,
-Can be a list of strings split by a blank space|| Pode ser uma lista de seqüências de caracteres divididas por um espaço em branco
-Can be a list of IPs or network segments split by the character ,|| Pode ser uma lista de IPs ou segmentos de rede divididos pelo caractere,
-Can be a list of IPs ranges split by the character ,|| Pode ser uma lista de intervalos de IPs divididos pelo caractere,
-Can be selected more than one file.|| Pode ser selecionado mais de um arquivo.
-It uses the PCRE engine, optional field.|| Ele usa o mecanismo PCRE, campo opcional.
-It uses the PCRE engine, optional field.|| Ele usa o mecanismo PCRE, campo opcional.
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| Ele usa o mecanismo PCRE. A expressão (? I) é usada para corresponder usando maiúsculas e minúsculas.
-This operator does not expect any operating.|| Este operador não espera nenhuma operação.
-String.|| Corda.
-Number.|| Número.
-The <strong> {{param}} </strong> blacklist has been created successfully.|| A <strong> {{param}} </strong> lista negra foi criada com sucesso.
-The <strong> {{param}} </strong> blacklist has been deleted successfully.|| A <strong> {{param}} </strong> lista negra foi excluída com sucesso.
-The <strong> {{param}} </strong> blacklist has been stopped successfully.|| A <strong> {{param}} </strong> lista negra foi interrompida com sucesso.
-The <strong> {{param}} </strong> blacklist has been started successfully.|| A <strong> {{param}} </strong> lista negra foi iniciada com sucesso.
-The <strong> {{param}} </strong> blacklist has been updated successfully.|| A <strong> {{param}} </strong> lista negra foi atualizada com sucesso.
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado à lista negra com sucesso.
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| A Fazenda <strong> {{param}} </strong> foi removido da lista negra com sucesso.
-The <strong> {{param}} </strong> DoS rule has been created successfully.|| A <strong> {{param}} </strong> A regra de DoS foi criada com sucesso.
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| A <strong> {{param}} </strong> A regra de DoS foi excluída com sucesso.
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| A <strong> {{param}} </strong> A regra de DoS foi interrompida com sucesso.
-The <strong> {{param}} </strong> DoS rule has been started successfully.|| A <strong> {{param}} </strong> A regra de DoS foi iniciada com sucesso.
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado à regra DoS com êxito.
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| A Fazenda <strong> {{param}} </strong> foi removido da regra DoS com sucesso.
-The source has been created successfully|| A fonte foi criada com sucesso
-The source has been updated successfully|| A fonte foi atualizada com sucesso
-The source <strong> {{param}} </strong> has been deleted successfully.|| A fonte <strong> {{param}} </strong> foi eliminado com sucesso.
-The <strong> {{param}} </strong> RBL rule has been created successfully.|| A <strong> {{param}} </strong> A regra RBL foi criada com sucesso.
-The <strong> {{param}} </strong> RBL rule has been updated successfully.|| A <strong> {{param}} </strong> A regra RBL foi atualizada com sucesso.
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| A <strong> {{param}} </strong> A regra RBL foi excluída com sucesso.
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| A <strong> {{param}} </strong> A regra RBL foi interrompida com sucesso.
-The <strong> {{param}} </strong> RBL rule has been started successfully.|| A <strong> {{param}} </strong> A regra RBL foi iniciada com sucesso.
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado à regra RBL com êxito.
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| A Fazenda <strong> {{param}} </strong> foi removido da regra RBL com êxito.
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| O domínio <strong> {{param}} </strong> foi adicionado à regra RBL com êxito.
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| O domínio <strong> {{param}} </strong> foi removido da regra RBL com êxito.
-The domain <strong> {{param}} </strong> has been created successfully|| O domínio <strong> {{param}} </strong> foi criado com sucesso
-The domain has been updated successfully|| O domínio foi atualizado com sucesso
-The domain <strong> {{param}} </strong> has been deleted successfully.|| O domínio <strong> {{param}} </strong> foi eliminado com sucesso.
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| A <strong> {{param}} </strong> O conjunto de regras WAF foi criado com sucesso.
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| A <strong> {{param}} </strong> O conjunto de regras WAF foi excluído com sucesso.
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| A <strong> {{param}} </strong> O conjunto de regras WAF foi interrompido com sucesso.
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| A <strong> {{param}} </strong> O conjunto de regras WAF foi iniciado com sucesso.
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| A <strong> {{param}} </strong> O conjunto de regras WAF foi atualizado com sucesso.
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado ao conjunto de regras WAF com êxito.
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| A Fazenda <strong> {{param}} </strong> foi removido do conjunto de regras WAF com êxito.
-The rule <strong> {{param}} </strong> has been created successfully.|| A regra <strong> {{param}} </strong> foi criado com sucesso.
-The rule <strong> {{param}} </strong> has been moved successfully.|| A regra <strong> {{param}} </strong> foi movido com sucesso.
-The rule <strong> {{param}} </strong> has been deleted successfully.|| A regra <strong> {{param}} </strong> foi eliminado com sucesso.
-The rule <strong> {{param}} </strong> has been updated successfully|| A regra <strong> {{param}} </strong> foi atualizado com sucesso
-The match has been created successfully|| A partida foi criada com sucesso
-The match <strong> {{param}} </strong> has been deleted successfully.|| A partida <strong> {{param}} </strong> foi eliminado com sucesso.
-The WAF file <strong> {{param}} </strong> has been created successfully.|| O arquivo WAF <strong> {{param}} </strong> foi criado com sucesso.
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| O arquivo WAF <strong> {{param}} </strong> foi eliminado com sucesso.
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| O arquivo WAF <strong> {{param}} </strong> foi atualizado com sucesso.
-The <strong> IPDS package </strong> has been scheduled successfully.|| A <strong> Pacote IPDS </strong> foi agendado com sucesso.
-The <strong> IPDS package </strong> has been upgraded successfully.|| A <strong> Pacote IPDS </strong> foi atualizado com sucesso.
-Are you sure you want to delete the {{param}} blacklist?|| Tem certeza de que deseja excluir a lista negra {{param}}?
-Are you sure you want to delete the selected blacklists?|| Tem certeza de que deseja excluir as listas negras selecionadas?
-Are you sure you want to delete the {{param}} DoS rule?|| Tem certeza de que deseja excluir a regra do {{param}} DoS?
-Are you sure you want to delete the selected DoS rules?|| Tem certeza de que deseja excluir as regras de DoS selecionadas?
-Are you sure you want to delete the source {{param}}?|| Tem certeza de que deseja excluir a fonte {{param}}?
-Are you sure you want to delete the selected sources?|| Tem certeza de que deseja excluir as fontes selecionadas?
-Are you sure you want to delete the {{param}} RBL rule?|| Tem certeza de que deseja excluir a regra RBL {{param}}?
-Are you sure you want to delete the selected RBL rules?|| Tem certeza de que deseja excluir as regras RBL selecionadas?
-Are you sure you want to delete the domain {{param}}?|| Tem certeza de que deseja excluir o domínio {{param}}?
-Are you sure you want to delete the selected domains?|| Tem certeza de que deseja excluir os domínios selecionados?
-Are you sure you want to delete the {{param}} WAF ruleset?|| Tem certeza de que deseja excluir o conjunto de regras {{param}} WAF?
-Are you sure you want to delete the selected rulesets?|| Tem certeza de que deseja excluir os conjuntos de regras selecionados?
-'Are you sure you want to delete the rule {{param}}?|| 'Tem certeza de que deseja excluir a regra {{param}}?
-Are you sure you want to delete the match {{param}}?|| Tem certeza de que deseja excluir a correspondência {{param}}?
-Are you sure you want to delete the selected matches?|| Tem certeza de que deseja excluir as correspondências selecionadas?
-Are you sure you want to delete the file {{param}}?|| Tem certeza de que deseja excluir o arquivo {{param}}?
-Are you sure you want to delete the selected files?|| Tem certeza de que deseja excluir os arquivos selecionados?
-System Graphs|| Gráficos do sistema
-Interfaces Graphs|| Gráficos de interfaces
-Farms Graph|| Gráfico de fazendas
-Farms Stats|| Fazendas Estatísticas
-System Stats|| Estatísticas do sistema
-Network Stats|| Estatísticas da rede
-Copy farmguardian|| Copiar farmguardian
-Farmguardian to copy|| Farmguardian para copiar
-Select the farmguardian to copy|| Selecione o guardião da fazenda para copiar
-Total Memory|| memória total
-Free Memory|| Memória livre
-Used Memory|| Memoria usada
-Buffers|| Buffers
-Cached|| Em cache
-Total Swap|| Troca Total
-Free Swap|| Troca grátis
-Used Swap|| Troca Usada
-Cached Swap|| Troca em cache
-Idle|| inativo
-Usage|| Uso
-Iowait|| Iowait
-Irq|| Irq
-Nice|| agradável
-Softirq|| Softirq
-Sys|| Sys
-User|| Usuário
-Last minute|| último momento
-Last 5 minutes|| Últimos minutos 5
-Last 15 minutes|| Últimos minutos 15
-Are you sure you want to delete the {{param}} farmguardian?|| Tem certeza de que deseja excluir o {{param}} farmguardian?
-Are you sure you want to delete the selected farmguardians?|| Tem certeza de que deseja excluir os guardas da fazenda selecionados?
-The <strong> {{param}} </strong> farmguardian has been created successfully.|| A <strong> {{param}} </strong> O farmguardian foi criado com sucesso.
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| A <strong> {{param}} </strong> O farmguardian foi deletado com sucesso.
-The <strong> {{param}} </strong> farmguardian has been updated successfully.|| A <strong> {{param}} </strong> farmguardian foi atualizado com sucesso.
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado ao farmguardian com sucesso.
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| A Fazenda <strong> {{param}} </strong> foi removido para o farmguardian com sucesso.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| A Fazenda <strong> {{param}} with the service {{param2}} </strong> foi adicionado ao farmguardian com sucesso.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| A Fazenda <strong> {{param}} with the service {{param2}} </strong> foi removido para o farmguardian com sucesso.
-NIC List|| Lista de NICs
-Bonding Interface List|| Lista de interface de ligação
-Select the slaves|| Selecione os escravos
-VLAN Interface List|| Lista de interfaces VLAN
-VLAN ID|| ID da VLAN
-VLAN tag|| Tag de VLAN
-Virtual Interface List|| Lista de Interface Virtual
-Virtual interface name|| Nome da interface virtual
-Virtual interface tag|| Etiqueta da interface virtual
-Floating IP List|| Lista de IP flutuante
-IPv4 Gateway|| Gateway IPv4
-IPv6 Gateway|| Gateway IPv6
-IPv4 Gateway Settings|| Configurações do gateway IPv4
-IPv6 Gateway Settings|| Configurações do gateway IPv6
-Backends Aliases|| Backends Aliases
-Interfaces Aliases|| Aliases de interfaces
-Routing Rule List|| Lista de regras de roteamento
-Routing Table List|| Lista de tabelas de roteamento
-Priority should be a value between {{min}} and {{max}}|| Prioridade deve ser um valor entre {{min}} e {{max}}
-Configure table {{param}}|| Configurar tabela {{param}}
-Available Routes|| Rotas disponíveis
-Routing table for the outputs of the interface {{param}}.|| Tabela de roteamento para as saídas da interface {{param}}.
-Should be a IP address or CIDR|| Deve ser um endereço IP ou CIDR
-Should be a IP address (IPv4/IPv6)|| Deve ser um endereço IP (IPv4 / IPv6)
-Are you sure you want to unset the NIC {{param}}?|| Tem certeza de que deseja desarmar a NIC {{param}}?
-Are you sure you want to unset the selected NIC?|| Tem certeza de que deseja desabilitar a NIC selecionada?
-Are you sure you want to unset the Bonding {{param}}?|| Tem certeza de que deseja desativar a ligação {{param}}?
-Are you sure you want to unset the selected Bondings?|| Tem certeza de que deseja desarmar as ligações selecionadas?
-Are you sure you want to delete the Bonding {{param}}?|| Tem certeza de que deseja excluir a ligação {{param}}?
-Are you sure you want to delete the selected Bondings?|| Tem certeza de que deseja excluir as ligações selecionadas?
-Are you sure you want to delete the VLAN {{param}}?|| Tem certeza de que deseja excluir a VLAN {{param}}?
-Are you sure you want to delete the selected VLANs?|| Tem certeza de que deseja excluir as VLANs selecionadas?
-Are you sure you want to delete the Virtual interface {{param}}?|| Tem certeza de que deseja excluir a interface virtual {{param}}?
-Are you sure you want to delete the selected Virtual interfaces?|| Tem certeza de que deseja excluir as interfaces virtuais selecionadas?
-Are you sure you want to unset the Floating IP of {{param}}?|| Tem certeza de que deseja desativar o IP flutuante de {{param}}?
-Are you sure you want to unset the selected Floating IPs?|| Tem certeza de que deseja desconfigurar os IPs flutuantes selecionados?
-Are you sure you want to unset the gateway for {{param}}?|| Tem certeza de que deseja desarmar o gateway para {{param}}?
-Are you sure you want to delete the alias {{param}}?|| Tem certeza de que deseja excluir o alias {{param}}?
-Are you sure you want to delete the selected aliases?|| Tem certeza de que deseja excluir os aliases selecionados?
-Are you sure you want to delete the routing rule {{param}}?|| Tem certeza de que deseja excluir a regra de roteamento {{param}}?
-Are you sure you want to delete the selected routing rules?|| Tem certeza de que deseja excluir as regras de roteamento selecionadas?
-Are you sure you want to delete the route {{param}}?|| Tem certeza de que deseja excluir a rota {{param}}?
-Are you sure you want to delete the selected routes?|| Tem certeza de que deseja excluir as rotas selecionadas?
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| A <strong> {{param}} </strong> NIC foi desconfigurado com sucesso.
-The <strong> {{param}} </strong> NIC is up.|| A <strong> {{param}} </strong> A placa de rede está ativada.
-The <strong> {{param}} </strong> NIC is down.|| A <strong> {{param}} </strong> A placa de rede está inoperante.
-The <strong> {{param}} </strong> NIC has been updated successfully.|| A <strong> {{param}} </strong> NIC foi atualizado com sucesso.
-The <strong> {{param}} </strong> NIC has updated the alias successfully.|| A <strong> {{param}} </strong> A NIC atualizou o alias com sucesso.
-The <strong> {{param}} </strong> Bonding has been created successfully.|| A <strong> {{param}} </strong> A ligação foi criada com sucesso.
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| A <strong> {{param}} </strong> A ligação foi desconfigurada com sucesso.
-The <strong> {{param}} </strong> Bonding is up.|| A <strong> {{param}} </strong> A ligação acabou.
-The <strong> {{param}} </strong> Bonding is down.|| A <strong> {{param}} </strong> A ligação está inoperante.
-The <strong> {{param}} </strong> Bonding has been updated successfully.|| A <strong> {{param}} </strong> A ligação foi atualizada com sucesso.
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| A <strong> {{param}} </strong> A ligação atualizou o alias com sucesso.
-The <strong> {{param}} </strong> Bonding has been deleted successfully.|| A <strong> {{param}} </strong> A ligação foi excluída com sucesso.
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| A <strong> {{param}} </strong> escravo foi adicionado à ligação com sucesso.
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| A <strong> {{param}} </strong> escravo foi removido da ligação com sucesso.
-The <strong> {{param}} </strong> VLAN has been created successfully.|| A <strong> {{param}} </strong> A VLAN foi criada com sucesso.
-The <strong> {{param}} </strong> VLAN is up.|| A <strong> {{param}} </strong> VLAN está ativo.
-The <strong> {{param}} </strong> VLAN is down.|| A <strong> {{param}} </strong> A VLAN está inativa.
-The <strong> {{param}} </strong> VLAN has been updated successfully.|| A <strong> {{param}} </strong> A VLAN foi atualizada com sucesso.
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| A <strong> {{param}} </strong> A VLAN atualizou o alias com sucesso.
-The <strong> {{param}} </strong> VLAN has been deleted successfully.|| A <strong> {{param}} </strong> A VLAN foi excluída com sucesso.
-The <strong> {{param}} </strong> Virtual interface has been created successfully.|| A <strong> {{param}} </strong> Interface virtual foi criada com sucesso.
-The <strong> {{param}} </strong> Virtual interface is up.|| A <strong> {{param}} </strong> A interface virtual está ativa.
-The <strong> {{param}} </strong> Virtual interface is down.|| A <strong> {{param}} </strong> A interface virtual está inativa.
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| A <strong> {{param}} </strong> A interface virtual foi atualizada com sucesso.
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| A <strong> {{param}} </strong> A interface virtual atualizou o alias com sucesso.
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| A <strong> {{param}} </strong> A interface virtual foi excluída com sucesso.
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| A <strong> {{param}} </strong> O IP flutuante foi desconfigurado com sucesso.
-The <strong> {{param}} </strong> Floating IP is up.|| A <strong> {{param}} </strong> IP flutuante está ativo.
-The <strong> {{param}} </strong> Floating IP is down.|| A <strong> {{param}} </strong> O IP flutuante está inoperante.
-The <strong> {{param}} </strong> Floating IP has been updated successfully.|| A <strong> {{param}} </strong> IP flutuante foi atualizado com sucesso.
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| A <strong> {{param}} </strong> IP flutuante atualizou o alias com sucesso.
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| A <strong> {{param}} </strong> IP flutuante foi excluído com sucesso.
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| O Gateway para <strong> {{param}} </strong> foi desconfigurado com sucesso.
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| O Gateway para <strong> {{param}} </strong> foi atualizado com sucesso.
-The <strong> {{param}} </strong> Alias has been created successfully.|| A <strong> {{param}} </strong> O alias foi criado com sucesso.
-The <strong> {{param}} </strong> Alias has been updated successfully.|| A <strong> {{param}} </strong> O alias foi atualizado com sucesso.
-The <strong> {{param}} </strong> Alias has been deleted successfully.|| A <strong> {{param}} </strong> O alias foi excluído com sucesso.
-The <strong> {{param}} </strong> routing rule has been deleted successfully.|| A <strong> {{param}} </strong> regra de roteamento foi excluída com sucesso.
-The <strong> {{param}} </strong> routing rule has been updated successfully.|| A <strong> {{param}} </strong> regra de roteamento foi atualizada com sucesso.
-The <strong> {{param}} </strong> routing rule has been created successfully.|| A <strong> {{param}} </strong> regra de roteamento foi criada com sucesso.
-The route <strong> {{param}} </strong> has been deleted successfully.|| O percurso <strong> {{param}} </strong> foi eliminado com sucesso.
-The route <strong> {{param}} </strong> has been updated successfully.|| O percurso <strong> {{param}} </strong> foi atualizado com sucesso.
-The route <strong> {{param}} </strong> has been created successfully.|| O percurso <strong> {{param}} </strong> foi criado com sucesso.
-To remove a route you must select it first.|| Para remover uma rota, você deve selecioná-la primeiro.
-The route {{param}} cannot be removed because it is a system route.|| A rota {{param}} não pode ser removida porque é uma rota do sistema.
-The interface <strong> {{param}} </strong> has been disabled.|| A interface <strong> {{param}} </strong> foi desativado.
-The interface <strong> {{param}} </strong> has been enabled.|| A interface <strong> {{param}} </strong> foi ativado.
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| A <strong> {{param}} </strong> escravo não pode ser removido. A ligação deve ter pelo menos um escravo.
-HTTP Service|| Serviço HTTP
-SSH Service|| Serviço SSH
-SNMP Service|| Serviço SNMP
-The physical interface where is running GUI service|| A interface física onde está executando o serviço da GUI
-If the cluster is up you only can select the cluster interface or all|| Se o cluster estiver ativo, você poderá selecionar apenas a interface do cluster ou todos os
-HTTPS Port where is running GUI service|| Porta HTTPS em que está executando o serviço de GUI
-The physical interface where is running SSH service|| A interface física onde está executando o serviço SSH
-SSH Port where is running SSH service|| Porta SSH onde está executando o serviço SSH
-Enable SNMP|| Ativar SNMP
-The physical interface where is running SNMP service|| A interface física em que o serviço SNMP está sendo executado
-SNMP Port where is running SNMP service|| Porta SNMP onde está executando o serviço SNMP
-Community name|| Nome da comunidade
-IP or subnet with access|| IP ou sub-rede com acesso
-Primary server|| Servidor principal
-Secondary Server|| Servidor Secundário
-NTP server|| NTP servidor
-NTP Service|| Serviço NTP
-Proxy Service|| Serviço Proxy
-DNS Service|| Serviço DNS
-Configure cluster|| Configurar cluster
-Local IP|| IP local
-Remote IP|| IP remoto
-Remote Node Password|| Senha do Nó Remoto
-Confirm Password|| Confirmar Password
-Backup List|| Lista de Backup
-Backup file|| Arquivo de backup
-Choose one file|| Escolha um arquivo
-Alerts Service|| Serviço de alertas
-Alerts|| Alertas
-Email Notifications|| Notificações por e-mail
-Mail Server|| Servidor de e-mail
-Mail User|| Usuário de email
-TLS|| TLS
-Backends Alert|| Alerta de back-end
-Cluster Alert|| Alerta de cluster
-Prefix Subject|| Prefixo Assunto
-Avoid flapping time|| Evite bater o tempo
-The time that alerts wait when backend is flapping|| O tempo que os alertas aguardam quando o back-end está batendo
-User Settings|| Configurações do Usuário
-ZAPI Key|| Chave ZAPI
-Change Password|| Alterar senha
-Current password|| Senha atual
-New password|| Nova senha
-Repeat new password|| Repita a nova senha
-Log List|| Lista de registro
-Log view|| Visualização de log
-When this action is executed a file with system information will be downloaded.|| Quando esta ação é executada, um arquivo com informações do sistema será baixado.
-This action may take several seconds, you can continue browsing the GUI.|| Essa ação pode levar vários segundos, você pode continuar navegando na GUI.
-Select an interface which won't be deleted|| Selecione uma interface que não será excluída
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| Esta ação destruirá toda a configuração, exceto a interface selecionada, os backups e o certificado de ativação.
-The current credentials for user root will not be modified.|| As credenciais atuais para a raiz do usuário não serão modificadas.
-User List|| Lista de usuários
-Group List|| Lista de Grupos
-Role List|| Lista de Funções
-Role Settings|| Configurações de função
-Show all permissions|| Mostrar todas as permissões
-Hide all permissions|| Ocultar todas as permissões
-Show permissions|| Mostrar permissões
-Hide permissions|| Ocultar permissões
-LDAP Server|| Servidor LDAP
-Base DN|| DN base
-Bind DN|| DN da ligação
-Scope|| Objetivo
-Bind Password|| Senha de Ligação
-Filter|| filtros
-Global Services|| Serviços globais
-Enable session replication|| Ativar replicação de sessão
-Enable Duplicated network|| Ativar rede duplicada
-Enable ARP announce|| Ativar anúncio ARP
-Custom Routes|| Rotas personalizadas
-System Routes|| Rotas do sistema
-Use proxy of new generation|| Usar proxy de nova geração
-Validation Systems|| Sistemas de Validação
-AWS Credentials|| Credenciais da AWS
-Access Key|| Chave de acesso
-Secret Key|| Chave Secreta
-Region|| Região
-SSL Certificate|| Certificado SSL
-RBAC User|| Usuário RBAC
-RBAC Group|| Grupo RBAC
-RBAC Role|| Papel RBAC
-Network Virtual Interface|| Interface virtual de rede
-System Service|| Serviço de Sistema
-Notification|| Notificação
-Host or URL allowed|| Host ou URL permitido
-It will not be used if the HOST/URL field contains a URL|| Não será usado se o campo HOST / URL contiver um URL
-Filter used to get the LDAP field that contains the user ID to log in|| Filtro usado para obter o campo LDAP que contém o ID do usuário para efetuar login
-The Search Request will be performed against the entry specified as the search base DN.|| A solicitação de pesquisa será realizada com base na entrada especificada como o DN da base de pesquisa.
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| A solicitação de pesquisa será realizada com entradas subordinadas imediatas à entrada especificada como o DN da base de pesquisa.
-The Search Request will be performed against the search base and all entries below|| A solicitação de pesquisa será realizada na base de pesquisa e em todas as entradas abaixo
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| O novo endereço da GUI de gerenciamento é {{param}}, reconecte-se à GUI no novo URL.
-The <strong> HTTP service </strong> has been updated successfully.|| A <strong> Serviço HTTP </strong> foi atualizado com sucesso.
-The <strong> SSH service </strong> has been updated successfully.|| A <strong> Serviço SSH </strong> foi atualizado com sucesso.
-The <strong> SNMP service </strong> has been updated successfully.|| A <strong> Serviço SNMP </strong> foi atualizado com sucesso.
-The <strong> global services </strong> have been updated successfully|| A <strong> serviços globais </strong> foram atualizados com sucesso
-The <strong> DNS service </strong> has been updated successfully.|| A <strong> Serviço DNS </strong> foi atualizado com sucesso.
-The <strong> NTP service </strong> has been updated successfully.|| A <strong> Serviço NTP </strong> foi atualizado com sucesso.
-The <strong> Proxy service </strong> has been updated successfully.|| A <strong> Serviço de proxy </strong> foi atualizado com sucesso.
-The backup <strong> {{param}} </strong> has been deleted successfully.|| O backup <strong> {{param}} </strong> foi eliminado com sucesso.
-The backup <strong> {{param}} </strong> has been applied successfully.|| O backup <strong> {{param}} </strong> foi aplicado com sucesso.
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| O backup <strong> {{param}} </strong> Foi baixado com sucesso.
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| O backup <strong> {{param}} </strong> foi enviado com sucesso.
-The backup <strong> {{param}} </strong> has been created successfully.|| O backup <strong> {{param}} </strong> foi criado com sucesso.
-The <strong> backends alert </strong> has been applied successfully.|| A <strong> alerta de back-end </strong> foi aplicado com sucesso.
-The <strong> cluster alert </strong> has been applied successfully.|| A <strong> alerta de cluster </strong> foi aplicado com sucesso.
-The configuration of email has been updated successfully.|| A configuração do email foi atualizada com sucesso.
-The alert has been updated successfully.|| O alerta foi atualizado com sucesso.
-The test email has been sent successfully.|| O email de teste foi enviado com sucesso.
-The user has been updated successfully.|| O usuário foi atualizado com sucesso.
-The log <strong> {{param}} </strong> has been downloaded successfully.|| O registro <strong> {{param}} </strong> Foi baixado com sucesso.
-The <strong> Support Save </strong> has been downloaded successfully.|| A <strong> Suporte Salvar </strong> Foi baixado com sucesso.
-The user <strong> {{param}} </strong> has been deleted successfully.|| O utilizador <strong> {{param}} </strong> foi eliminado com sucesso.
-The user {{param}} has been created successfully.|| O usuário {{param}} foi criado com sucesso.
-The user {{param}} has been updated successfully.|| O usuário {{param}} foi atualizado com sucesso.
-The group <strong> {{param}} </strong> has been deleted successfully.|| o grupo <strong> {{param}} </strong> foi eliminado com sucesso.
-The group {{param}} has been created successfully.|| O grupo {{param}} foi criado com sucesso.
-The group {{param}} has been updated successfully.|| O grupo {{param}} foi atualizado com sucesso.
-The user <strong> {{param}} </strong> has been added to the group successfully.|| O utilizador <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| O utilizador <strong> {{param}} </strong> foi removido para o grupo com sucesso.
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| A Fazenda <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| A Fazenda <strong> {{param}} </strong> foi removido para o grupo com sucesso.
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| A interface <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| A interface <strong> {{param}} </strong> foi removido para o grupo com sucesso.
-The role <strong> {{param}} </strong> has been deleted successfully.|| O papel <strong> {{param}} </strong> foi eliminado com sucesso.
-The role {{param}} has been created successfully.|| A função {{param}} foi criada com sucesso.
-The role {{param}} has been updated successfully.|| A função {{param}} foi atualizada com sucesso.
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| O servidor LDAP foi configurado. Por favor, teste a conectividade para confirmar se a configuração está correta.
-The connectivity test has been done successfully.|| O teste de conectividade foi realizado com sucesso.
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| O sistema de validação <strong> {{param}} </strong> foi ativado com sucesso.
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| O sistema de validação <strong> {{param}} </strong> foi desativado com sucesso.
-The cluster has been created successfully.|| O cluster foi criado com sucesso.
-The cluster has been updated successfully.|| O cluster foi atualizado com sucesso.
-The cluster has been destroyed successfully.|| O cluster foi destruído com sucesso.
-The <strong>local node</strong> has been put in maintenance successfully.|| A <strong>nó local</strong> foi colocado em manutenção com sucesso.
-The <strong>local node</strong> has been enabled successfully.|| A <strong>nó local</strong> foi ativado com sucesso.
-The AWS credentials have been configured successfully.|| As credenciais da AWS foram configuradas com sucesso.
-The Azure credentials have been configured successfully.|| As credenciais do Azure foram configuradas com sucesso.
-Are you sure you want to delete the backup {{param}}?|| Tem certeza de que deseja excluir o backup {{param}}?
-Are you sure you want to delete the selected backups?|| Tem certeza de que deseja excluir os backups selecionados?
-Are you sure you want to delete the user {{param}}?|| Tem certeza de que deseja excluir o usuário {{param}}?
-Are you sure you want to delete the selected users?|| Tem certeza de que deseja excluir os usuários selecionados?
-Are you sure you want to delete the group {{param}}?|| Tem certeza de que deseja excluir o grupo {{param}}?
-Are you sure you want to delete the selected groups?|| Tem certeza de que deseja excluir os grupos selecionados?
-Are you sure you want to delete the role {{param}}?|| Tem certeza de que deseja excluir a função {{param}}?
-Are you sure you want to delete the selected roles?|| Tem certeza de que deseja excluir as funções selecionadas?
-Are you sure you want to destroy the cluster?|| Tem certeza de que deseja destruir o cluster?
-Dashboard|| Dashboard
-News|| Notícias
-LSLB|| LSLB
-Farms|| Fazendas
-SSL Certificates|| Certificados SSL
-Generate csr|| Gerar csr
-Stats|| Estatísticas
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| Configurações
-Blacklists|| As listas negras
-DoS|| DoS
-RBL|| RBL
-Rules|| Regras
-Domains|| domínios
-WAF|| WAF
-Rulesets|| Conjuntos de Regras
-Files|| Arquivos
-Monitoring|| Monitoramento
-Graphs|| Gráficos
-Farmguardians|| Farmguardians
-Network|| Conecte-se 
-NIC|| NIC
-Bonding|| Bonding
-VLAN|| VLAN
-Virtual Interfaces|| Interfaces Virtuais
-Floating IPs|| IP flutuantes
-Gateway|| porta de entrada
-Aliases|| Alias
-Routing|| Roteamento
-Tables|| tabelas
-System|| Sistema
-RBAC|| RBAC
-Users|| usuários
-Groups|| grupos
-Roles|| papéis
-Local Services|| Serviços locais
-Remote Services|| Serviços Remotos
-Cluster|| Agrupar
-Backups|| backups
-Notifications|| Notificações
-User|| Usuário
-Logs|| Logs
-Activation Certificate|| Certificado de Ativação
-License|| licença
-SupportSave|| Suporte
-Factory Reset|| Reajuste de fábrica
+Sign in with your username and password || Entre com seu nome de usuário e senha
+Success! || Sucesso!
+Username || Nome de utilizador
+User should be the real one! || O usuário deve ser o verdadeiro!
+Password should contains from {{min}} to {{max}} characters || A senha deve conter de {{min}} a {{max}} caracteres
+Sign In || Entrar
+Logging out, please wait... || Terminando sessão, aguarde ...
+Package list to upgrade || Lista de pacotes para atualização
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || Para atualizar o sistema, execute em um shell o seguinte comando: 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * Essas informações são atualizadas diariamente, se você deseja forçar a execução da verificação <code>checkupgrades</code> da linha de comando.
+No activation certificate || Sem certificado de ativação
+There isn't a valid ZEVENET certificate file, please request a new one || Não há um arquivo de certificado ZEVENET válido, solicite um novo
+Certificate Key || Chave do certificado
+Activation Certificate file || Arquivo de certificado de ativação
+Activation Data || Dados de Ativação
+Copy data to the clipboard || Copiar dados para a área de transferência
+Activation Certificate || Certificado de Ativação
+Select an activation certificate || Selecione um certificado de ativação
+Upload Activation Certificate || Carregar certificado de ativação
+No Support || Sem suporte
+Certificate expired || Certificado expirado
+Support expired || Suporte expirado
+Certificate expires in {{param}} {{param2}} || O certificado expira em {{param}} {{param2}}
+Support expires in {{param}} {{param2}} || O suporte expira em {{param}} {{param2}}
+The activation certificate has been uploaded successfully. || O certificado de ativação foi enviado com sucesso.
+The Activation Certificate has been deleted successfully. || O certificado de ativação foi excluído com sucesso.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || Tem certeza de que deseja excluir o certificado de ativação \\n Se você o excluir, perderá o acesso à GUI, até o upload de outro certificado
+Upload || Escolher arquivo
+Uploading || Upload
+Add || Adicionar
+Disable maintenance || Desativar a manutenção
+Enable maintenance || Ativar manutenção
+Drain mode || Modo de drenagem
+Cut mode || Modo de corte
+Edit || Editar
+Configure || configurar
+Save || Salvar
+Add Variable || Adicionar variável
+Bring || Trazer
+Export || exportação
+All data || Todos os dados
+Only selected || Apenas selecionado
+Apply || Inscrever-se
+Create || Create
+Cancel || Cancelar
+Submit || Enviar
+New Service || Novo serviço
+New Zone || Nova Zona
+New Route || Nova Rota
+Basic || Basic
+Advanced || Avançado
+Generate || Gerar
+Generating || Gerando
+Delete || Excluir
+Bring Up || Levantar a questão
+Bring down || Trazer para baixo
+Restart || Restart
+Restarting || Reiniciando
+Start || Inscreva-se
+Stop || parar
+Unset || Desviar
+Enable || permitir
+Disable || incapacitar
+Remove || Eliminar
+Download || Baixar
+Downloading || Download
+Update || atualizar
+New Rule || Nova regra
+Next || Próximo
+Back || Voltar
+Generate Random MAC || Gerar MAC aleatório
+Destroy || Destruir
+Test Email || E-mail de teste
+Generate Random Key || Gerar Chave Aleatória
+Upload Certificate || Carregar Certificado
+Delete Certificate || Excluir certificado
+List || Lista
+Menu || Menu
+Modify || modificar
+Show || Show
+Action || Açao Social
+Test || teste
+Schedule || Programação do dia
+Upgrade || Atualizar
+View || Ver
+Info || Informação
+Test Connectivity || Testar conectividade
+Show certificate || Mostrar certificado
+Force Changes || Forçar alterações
+Page Not Found || Page Not Found
+The page you were looking for doesn't exist || A página que você estava procurando não existe
+Take me home || Me leve pra casa
+Status || Status
+Actions || Ações
+Name || Nome
+ID ||  ID
+Alias || aliás
+IP ||  IP
+Interface || Interface
+Priority || Prioridade
+Port || Porta
+Weight || Peso
+Max. Conns || Max. Conns
+Name || Nome
+Virtual IP || IP virtual
+Vitual Port || Porto Vitual
+Virtual IP and Port || IP virtual e porta
+Default TCP port health check || Verificação de integridade da porta TCP padrão
+Health Checks for backend || Verificações de integridade para back-end
+Default Name Server || Servidor de nomes padrão
+Type || Tipo
+Data || Dados
+Profile || Perfil
+HTTPS Parameters || Parâmetros HTTPS
+Ciphers || Cifras
+Custom ciphers || Cifras personalizadas
+Protocol type || Tipo de protocolo
+NAT type || Tipo NAT
+Rewrite location headers || Reescrever cabeçalhos de localização
+HTTP verbs accepted || Verbos HTTP aceitos
+Ignore 100 continue || Ignorar 100 continuar
+Backend connection timeout || Tempo limite da conexão de back-end
+Backend response timeout || Tempo limite de resposta de back-end
+Frequency to check resurrected backends || Frequência para verificar back-ends ressuscitados
+Client request timeout || Tempo limite da solicitação do cliente
+Message Error || Erro de mensagem
+Request Headers || Cabeçalhos de solicitação
+Response Headers || Cabeçalhos de resposta
+Persistence || Persistência
+Persistence session time to live || Tempo de sessão de persistência para viver
+TTL || TTL
+Persistence session identifier || Identificador da sessão de persistência
+Virtual IP || IP virtual
+Load balancing Scheduler || Agendador de balanceamento de carga
+Algorithm || Algoritmo
+Round Robin || Round Robin
+Virtual Host || Host Virtual
+URL Pattern || Padrão de URL
+Least Response || Menos Resposta
+HTTPS Backends || Back-ends HTTPS
+STS Header || Cabeçalho STS
+Timeout || Timeout
+Redirect || Redirecionar
+Redirect URL || URL de redirecionamento
+Redirect Type || Tipo de redirecionamento
+Redirect Code || Código de redirecionamento
+Cookie Insert || Inserção de cookie
+Cookie Name || Nome do cookie
+Cookie Domain || Domínio do cookie
+Cookie Path || Caminho do bolinho
+Cookie TTL || Cookie TTL
+Locality || Localidade
+Country || País
+State/Province || Estado / Província
+Common Name || Nome comum
+Organization || Organização"
+Division || Divisão
+E-mail Address || E-mail
+File || Envie o
+Issuer || Emissora
+Creation || Criação
+Expiration || Expiration
+Certificate || certificado
+Established Conns || Conexões estabelecidas
+Pending Conns || Conexões pendentes
+Service || serviço
+Session ID || ID da sessão
+Backend ID || ID de back-end
+Requests || pedidos
+Failed REQ || REQ com falha
+Failed RES || RES com falha
+Truncated Resp TC || TC de Resp Truncado
+Extended DNS Big || DNS estendido grande
+Extended DNS TC || TC de DNS estendido
+No Error || Nenhum erro
+Refused || Recusou
+Non-existent Domain || Domínio inexistente
+Notimp || Notimp
+Bad Version || Versão ruim
+Format Error || Erro de formato
+Dropped || Caiu
+V6 ||  V6
+Extended DNS || DNS estendido
+Extended DNS-ClientSub || DNS-ClientSub estendido
+Client || Cliente
+Listerner || Listerner
+Value || Valor
+Custom IP || IP personalizado
+Policy || Política
+Remote URL || URL remoto
+Frequency || Frequência
+Rule || Regra
+Limit RST request per source IP || Limitar a solicitação RST por IP de origem
+Total connections per source IP || Total de conexões por IP de origem
+Limit Burst || Limite de explosão
+Total connections limit per source IP || Limite total de conexões por IP de origem
+Hits || acessos
+Time || Horário
+Log level || Nível de log
+Only logging || Apenas registro
+Local traffic || Tráfego local
+Queue size || Tamanho da fila
+Max. Threads || Max. Tópicos
+Cache size || Tamanho da memória cache
+Cache time || Tempo de cache
+Check Request Body || Organismo de solicitação de verificação
+Check Response Body || Verificar corpo de resposta
+Request Body Limit || Limite do corpo da solicitação
+Default Phase || Fase padrão
+Default Log || Log padrão
+Rules || Regras
+Rule Type || Tipo de regra
+Mark || Marca
+Phase || Fase
+Resolution || Resolução
+Rule ID || ID da regra
+Skip || pular
+Skip after || Pular depois
+Execute || Execução
+Description || Descrição
+Interval || Intervalo
+Cut connections || Cortar conexões
+Command || comando
+MAC || MAC
+Netmask || Máscara de rede
+Farms || Fazendas
+Gateway || porta de entrada
+IP Address || Endereço IP
+CIDR || CIDR
+Mode || Modo
+Slaves || Escravos
+Parent Interface || Interface pai
+Address || Endereço
+Host || hospedagem
+Date || Data
+Alert || Alertar
+Password || Senha
+Log || Registro
+ZAPI Permissions || Permissões ZAPI
+GUI Permissions || Permissões da GUI
+Role || Papel
+Rules Date || Data de regras
+Scheduled || Programado
+Variable || Variável
+Variable's argument || Argumento da variável
+Ignore this <i>variable</i> for the match || Ignore isso <i>variável</i> para a partida
+Count elements of <i>variables</i> || Contar elementos de <i>variáveis</i>
+Variables || Variáveis
+Transformations || Transformações
+Operating || Operativo
+Multi Match || Multi Match
+Not Match || Não combina
+Operator || operador
+Module || Módulo
+Floating IP || IP flutuante
+Interfaces || Interfaces
+Group || Grupo
+Virtual Interface || Interface Virtual
+URL || URL
+From || A partir de
+Table || mesa
+To || Para
+Route || Rota
+Via || Através da
+Backend Alias || Alias ​​de back-end
+Version || Versão
+System || Sistema
+Failback || Failback
+Check Interval || Verifique o intervalo
+Node || Nó
+Message || Mensagem
+Hostname || hostname
+No {{param}} found || Nenhum {{param}} encontrado
+Edit || Editar
+Global || Global
+Services || Serviços
+Select a {{param}} || Selecione um {{param}}
+Resources || Recursos
+Backends || Backends
+Strict Transport Security || Segurança estrita de transporte
+Farms Stats || Fazendas Estatísticas
+Copy to clipboard || Copiar para área de transferência
+Hide nodes || Ocultar nós
+Show nodes || Mostrar nós
+Hide backends || Ocultar back-end
+Show backends || Mostrar back-end
+Hide graphs || Ocultar gráficos
+Show graphs || Mostrar gráficos
+Sessions || Sessões
+Clients || Clientes
+Servers || servidores
+Extended || Alargado
+Nodes || Nodes
+Number of lines || Número de linhas
+View All || Ver todos
+View Less || Visualizar menos
+Valid || Válido
+Expired || Expirado
+Near to expire || Perto de expirar
+True || Verdadeiro
+False || Falso
+No configured || Não configurado
+In use by bonding interface || Em uso pela interface de ligação
+The cluster service interface has to be changed or disabled before to be able to modify this interface || A interface do serviço de cluster deve ser alterada ou desativada antes para poder modificar essa interface
+Enabled || ativado
+Disabled || inválido
+Needed restart || Reinício necessário
+Critical || Crítico
+Problem || Problema
+Maintenance || Manutenção
+Master || Mestre
+Backup || backup
+Not configured || Não configurado
+Undefined || Indefinido
+Daily Graph || Gráfico diário
+Weekly Graph || Gráfico semanal
+Monthly Graph || Gráfico Mensal
+Yearly Graph || Gráfico Anual
+Documentation || Documentação
+Reload farmguardian list || Atualizar lista de farmguardian
+Cookie || Cookie
+Zones || Zonas
+System Stats || Estatísticas do sistema
+CPU || CPU
+Memory || memória
+Load || Ver
+Cores || Núcleos
+Traffic In || Tráfego em
+Traffic Out || Tráfego para fora
+Nothing || Nada
+Custom || personalizadas
+All interfaces || Todas as interfaces
+All farms || Todas as fazendas
+Default State || Estado padrão
+Up ||  Up
+Down || Para baixo
+Installed and updated || Instalado e atualizado
+Not installed || Não instalado
+Updates available || Atualizações disponíveis
+Interface || Interface
+Type || Tipo
+Zone || Zona
+Transformation || Transformação
+Backend || Backend
+Condition || Condição
+Domain || Domínio
+Resource || Recurso
+Graph || Gráfico
+Session || Sessão
+IP alias || Alias ​​de IP
+Interface alias || Alias ​​da interface
+Backup || backup
+Farm || Fazenda
+Header || cabeçalho
+Pattern || padrão
+Source || fonte
+Blacklist || Blacklist
+Farmguardian || Farmguardian
+Package || Pacote
+DoS rule || Regra de DoS
+RBL rule || Regra RBL
+WAF ruleset || Conjunto de regras WAF
+VLAN || VLAN
+Routing Rule || Regra de roteamento
+Routing Table || Tabela de roteamento
+Needed restart || Reinício necessário
+There're changes that need to be applied, restart the farm to apply them! || Há alterações que precisam ser aplicadas, reinicie o farm para aplicá-las!
+Close || Fechar
+The <strong> factory reset </strong> has been completed successfully. || A <strong> reset de fábrica </strong> foi concluído com sucesso.
+The interface <strong> {{name}} </strong> has been updated successfully. || A interface <strong> {{name}} </strong> foi atualizado com sucesso.
+The <strong>HTTP Service</strong> has been updated successfully. || A <strong>Serviço HTTP</strong> foi atualizado com sucesso.
+An error has occurred on the server, try again later || Ocorreu um erro no servidor, tente novamente mais tarde
+Connection to web server failed || Falha na conexão com o servidor da web
+An unexpected error has occurred || Ocorreu um erro inesperado
+System Information || Informações do sistema
+ZEVENET Version || Versão ZEVENET
+Appliance Version || Versão do aparelho
+Kernel Version || Versão do Kernel
+System Date || Data do sistema
+NIC Traffic || Tráfego NIC
+Total number of connections in realtime. || Número total de conexões em tempo real.
+Connections || Coneções
+Professional Products || Produtos Profissionais
+Professional Services || Serviços profissionais
+No Virtual Interfaces || Sem interfaces virtuais
+No VLANs || Sem VLANs
+Create DSLB Farm || Criar um farm DSLB
+Create Virtual interface || Criar interface virtual
+Create GSLB Farm || Criar farm GSLB
+Generate CSR || Gerar CSR
+Create LSLB Farm || Criar farm LSLB
+Upload SSL Certificate || Carregar Certificado SSL
+Create Blacklist || Criar lista negra
+Create DoS rule || Criar regra DoS
+Create RBL rule || Criar regra RBL
+Create WAF ruleset || Criar conjunto de regras WAF
+Create Rule || Criar regra
+Create Farmguardian || Criar Farmguardian
+Create Bonding interface || Criar interface de ligação
+Create VLAN interface || Crie uma interface VLAN
+Upload Backup || Carregar Backup
+Create Backup || Criar backup
+Create User || Criar Usuário
+Create Group || Criar grupo
+Create Role || Criar papel
+Create Route || Criar rota
+is required || É necessário
+is not valid, it only is possible alphanumeric characters and dash (-). || não é válido, só é possível caracteres alfanuméricos e traço (-).
+Only editable when the farm is down. || Apenas editável quando o farm está inativo.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || A porta virtual não é válida, é possível definir uma única porta, várias portas ou intervalos de portas (por exemplo: 80 ou 80,81 ou 80: 90)
+has to be greater than 0 || tem que ser maior que 0
+Redirect should be a URL (http(s)://...) || O redirecionamento deve ser um URL (http (s): //…)
+Country can only have two characters. || O país pode ter apenas dois caracteres.
+E-mail has to be a valid email || O email deve ser um email válido
+The password does not match || A senha não corresponde
+has to be a value between {{min}} and {{max}} || deve ser um valor entre {{min}} e {{max}}
+Global Settings || Configurações globais
+IPDS Settings || Configurações de IPDS
+Advanced Settings || Configurações avançadas
+Domains Settings || Configurações de Domínios
+Rules Settings || Configurações de regras
+Blacklists rules || Regras das listas negras
+DoS rules || Regras de DoS
+RBL rules || Regras RBL
+WAF rulesets || Conjuntos de regras WAF
+Services Settings || Configurações de serviços
+Zones Settings || Configurações de zonas
+Global Filter || Filtro global
+Refresh || refrescar
+Seconds || segundos
+per second || por segundo
+Refresh status every || Atualizar status a cada
+Refresh stats every || Atualizar estatísticas a cada
+Not refresh || Não atualizar
+Farms Settings || Configurações de farms
+Minutes || atas
+Hours || horas
+Monday || Segunda-feira
+Tuesday || Terça-feira
+Wednesday || Quarta-feira
+Thursday || Quinta-feira
+Friday || FRATERNIDADE
+Saturday || Sábado
+Sunday || Domingo
+Deny || negar
+Allow || permitir
+Daily || Diariamente
+Weekly || Semanal
+Monthly || Mensal
+entries || entradas
+threads || tópicos
+Sort || tipo
+SORT MODE: Drag and drop the service to the desired position. || MODO DE CLASSIFICAÇÃO: Arraste e solte o serviço na posição desejada.
+The farm will be restarted automatically. || O farm será reiniciado automaticamente.
+bytes || bytes
+Default is || O padrão é
+Optional || Opcional
+days || dias
+Go to || Vá para
+Edit in form mode || Editar no modo de formulário
+Edit in raw mode || Editar no modo bruto
+Create in form mode || Criar no modo de formulário
+Create in raw mode || Criar no modo bruto
+Available certificates || Certificados disponíveis
+Enabled certificates || Certificados habilitados
+Search certificate || Pesquisar certificado
+Available blacklists || Listas negras disponíveis
+Enabled blacklists || Listas negras ativadas
+Search blacklist || Pesquisar lista negra
+Available DoS rules || Regras de DoS disponíveis
+Enabled DoS rules || Regras de DoS ativadas
+Search DoS rule || Regra de DoS de pesquisa
+Available RBL rules || Regras RBL disponíveis
+Enabled RBL rules || Regras RBL ativadas
+Search RBL rule || Regra RBL de pesquisa
+Available WAF rulesets || Conjuntos de regras WAF disponíveis
+Enabled WAF rulesets || Conjuntos de regras WAF ativados
+Search WAF ruleset || Pesquisar conjunto de regras WAF
+Available farms || Fazendas disponíveis
+Enabled farms || Farms ativados
+Search farm || Pesquisa farm
+Available domains || Domínios disponíveis
+Enabled domains || Domínios ativados
+Search domain || Pesquisar domínio
+Enabled rules || Regras ativadas
+Disabled rules || Regras desativadas
+Search rule || Regra de pesquisa
+Available NICs || NICs disponíveis
+Enabled NICs || NICs ativadas
+Search NIC || Pesquisar NIC
+Search slaves || Pesquisar escravos
+Slaves NICs || NICs escravos
+Available users || Usuários disponíveis
+Enabled users || Usuários habilitados
+Search user || Pesquisar usuário
+Available interfaces || Interfaces disponíveis
+Enabled interfaces || Interfaces ativadas
+Search interface || Interface de pesquisa
+Managed interfaces || Interfaces gerenciadas
+Unmanaged interfaces || Interfaces não gerenciadas
+Search interface || Interface de pesquisa
+LSLB Farm List || Lista de Fazendas LSLB
+GSLB Farm List || Lista GSLB Farm
+DSLB Farm List || Lista de Fazendas DSLB
+Copy farm || Copiar farm
+Farm to copy || Fazenda para copiar
+Select the farm to copy || Selecione o farm para copiar
+Weight: connection linear dispatching by weight || Peso: conexão linear de despacho por peso
+Priority: connections always to the most prio available || Prioridade: conexões sempre ao mais disponível
+Source Hash: Hash per Source IP and Source Port || Hash de Origem: Hash por IP de Origem e Porta de Origem
+Simple Source Hash: Hash per Source IP only || Hash de Origem Simples: Hash por Somente IP de Origem
+Symmetric Hash: Round trip hash per IP and Port || Hash simétrico: hash de ida e volta por IP e porta
+Round Robin: Sequential backend selection || Round Robin: seleção sequencial de back-end
+Least Connections: connections to the least open conns available || Menos conexões: conexões com os menos abertos disponíveis
+Disabled || inválido
+Enabled || ativado
+Enabled and compare backends || Habilitado e comparar back-end
+No persistence || Sem persistência
+IP: Source IP || IP: IP de origem
+Port: Source Por || Porta: Fonte Por
+MAC: Source MAC || MAC: MAC de origem
+Source IP and Source Port || IP de Origem e Porta de Origem
+Source IP and Destination Port || IP de origem e porta de destino
+No persistence || Sem persistência
+IP: Client address || IP: endereço do cliente
+BASIC: Basic authentication || BASIC: autenticação básica
+URL: A request parameter || URL: um parâmetro de solicitação
+PARM: An URI parameter || PARM: um parâmetro de URI
+COOKIE: A certain cookie || COOKIE: um determinado cookie
+HEADER: A certain request header || CABEÇALHO: um determinado cabeçalho de solicitação
+The farm has been updated successfully || O farm foi atualizado com sucesso
+The farm <strong> {{param}} </strong> has been deleted successfully. || A Fazenda <strong> {{param}} </strong> foi eliminado com sucesso.
+The farm <strong> {{param}} </strong> has been started successfully. || A Fazenda <strong> {{param}} </strong> foi iniciado com sucesso.
+The farm <strong> {{param}} </strong> has been restarted successfully. || A Fazenda <strong> {{param}} </strong> foi reiniciado com sucesso.
+The farm <strong> {{param}} </strong> has been stopped successfully. || A Fazenda <strong> {{param}} </strong> foi parado com sucesso.
+The farm <strong> {{param}} </strong> has been created successfully. || A Fazenda <strong> {{param}} </strong> foi criado com sucesso.
+The backend has been created successfully. || O back-end foi criado com sucesso.
+The backend has been updated successfully. || O back-end foi atualizado com sucesso.
+The backend <strong> {{param}} </strong> has been deleted successfully. || O backend <strong> {{param}} </strong> foi eliminado com sucesso.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || O backend <strong> {{param}} </strong> foi colocado em manutenção com sucesso.
+The backend <strong> {{param}} </strong> has been upped successfully. || O backend <strong> {{param}} </strong> foi atualizado com sucesso.
+Backends with high priority value <strong> {{param}} </strong> will not be used. || Back-end com alto valor de prioridade <strong> {{param}} </strong> não será usado.
+The resource has been created successfully. || O recurso foi criado com sucesso.
+The resource has been updated successfully. || O recurso foi atualizado com sucesso.
+The backend <strong> {{param}} </strong> has been deleted successfully. || O backend <strong> {{param}} </strong> foi eliminado com sucesso.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || O certificado SSL <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || O certificado SSL <strong> {{param}} </strong> foi removido do farm com sucesso.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || O certificado SSL <strong> {{param}} </strong> foi classificado com sucesso.
+The service <strong> {{param}} </strong> has been created successfully. || O serviço <strong> {{param}} </strong> foi criado com sucesso.
+The service <strong> {{param}} </strong> has been updated successfully. || O serviço <strong> {{param}} </strong> foi atualizado com sucesso.
+The service <strong> {{param}} </strong> has been deleted successfully. || O serviço <strong> {{param}} </strong> foi eliminado com sucesso.
+The service <strong> {{param}} </strong> has been moved successfully. || O serviço <strong> {{param}} </strong> foi movido com sucesso.
+The farmguardians list has been reloaded successfully. || A lista de guardas agrícolas foi recarregada com sucesso.
+The farmguardian has been disabled successfully. || O guardião da fazenda foi desativado com sucesso.
+The farmguardian has been changed to {{param}} successfully. || O guardião da fazenda foi alterado para {{param}} com sucesso.
+The zone <strong> {{param}} </strong> has been created successfully. || A zona <strong> {{param}} </strong> foi criado com sucesso.
+The zone <strong> {{param}} </strong> has been updated successfully. || A zona <strong> {{param}} </strong> foi atualizado com sucesso.
+The zone <strong> {{param}} </strong> has been deleted successfully. || A zona <strong> {{param}} </strong> foi eliminado com sucesso.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || A lista negra <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || A lista negra <strong> {{param}} </strong> foi removido do farm com sucesso.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || A regra de DoS <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || A regra de DoS <strong> {{param}} </strong> foi removido do farm com sucesso.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || A regra da RBL <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || A regra da RBL <strong> {{param}} </strong> foi removido do farm com sucesso.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || O conjunto de regras WAF <strong> {{param}} </strong> foi classificado com sucesso.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || O conjunto de regras WAF <strong> {{param}} </strong> foi adicionado ao farm com sucesso.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || O conjunto de regras WAF <strong> {{param}} </strong> foi removido do farm com sucesso.
+The profile has been changed to {{param}} successfully. || O perfil foi alterado para {{param}} com sucesso.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || O algoritmo foi alterado para o algoritmo de ponderação, porque o menor algoritmo do Connections não é permitido com o tipo de NAT selecionado. Você pode escolher outro algoritmo na guia serviços.
+The request header has been saved successfully. || O cabeçalho da solicitação foi salvo com sucesso.
+The request header has been deleted successfully. || O cabeçalho da solicitação foi excluído com sucesso.
+The request header pattern has been saved successfully. || O padrão do cabeçalho da solicitação foi salvo com sucesso.
+The request header pattern has been deleted successfully. || O padrão do cabeçalho da solicitação foi excluído com sucesso.
+The response header has been saved successfully. || O cabeçalho da resposta foi salvo com sucesso.
+The response header has been deleted successfully. || O cabeçalho da resposta foi excluído com sucesso.
+The response header pattern has been saved successfully. || O padrão do cabeçalho de resposta foi salvo com sucesso.
+The response header pattern has been deleted successfully. || O padrão do cabeçalho de resposta foi excluído com sucesso.
+The service has to have one backend at least. || O serviço deve ter pelo menos um back-end.
+Are you sure you want to delete the farm {{param}}? || Tem certeza de que deseja excluir o farm {{param}}?
+Are you sure you want to delete the selected farms? || Tem certeza de que deseja excluir os farms selecionados?
+Are you sure you want to delete the service {{param}}? || Tem certeza de que deseja excluir o serviço {{param}}?
+Are you sure you want to delete the zone {{param}}? || Tem certeza de que deseja excluir a zona {{param}}?
+Are you sure you want to delete the selected resources? || Tem certeza de que deseja excluir os recursos selecionados?
+Are you sure you want to delete the resource {{param}}? || Tem certeza de que deseja excluir o recurso {{param}}?
+Are you sure you want to delete the backend {{param}}? || Tem certeza de que deseja excluir o backend {{param}}?
+Are you sure you want to delete the selected backends? || Tem certeza de que deseja excluir os back-ends selecionados?
+Are you sure you want to delete the request header with ID {{id}}? || Tem certeza de que deseja excluir o cabeçalho da solicitação com o ID {{id}}?
+Are you sure you want to delete the request header pattern with ID {{id}}? || Tem certeza de que deseja excluir o padrão do cabeçalho da solicitação com o ID {{id}}?
+Are you sure you want to delete the selected request headers? || Tem certeza de que deseja excluir os cabeçalhos de solicitação selecionados?
+Are you sure you want to delete the selected request headers patterns? || Tem certeza de que deseja excluir os padrões de cabeçalhos de solicitação selecionados?
+Are you sure you want to delete the response header with ID {{id}}? || Tem certeza de que deseja excluir o cabeçalho da resposta com o ID {{id}}?
+Are you sure you want to delete the response header pattern with ID {{id}}? || Tem certeza de que deseja excluir o padrão do cabeçalho de resposta com o ID {{id}}?
+Are you sure you want to delete the selected response headers? || Tem certeza de que deseja excluir os cabeçalhos de resposta selecionados?
+Are you sure you want to delete the selected response headers patterns? || Tem certeza de que deseja excluir os padrões de cabeçalhos de resposta selecionados?
+Are you sure you want to delete the {{param}} blacklist? || Tem certeza de que deseja excluir a lista negra {{param}}?
+Are you sure you want to delete the selected blacklists? || Tem certeza de que deseja excluir as listas negras selecionadas?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || O gateway da interface {{param}} será excluído e substituído para este farm. Você deseja continuar?
+SSL Certificate list || Lista de certificados SSL
+Choose one certificate || Escolha um certificado
+Choose one or more files || Escolha um ou mais arquivos
+Selected files || Arquivos selecionados
+Descriptive text, this name will be used to identify this certificate. || Texto descritivo, esse nome será usado para identificar este certificado.
+City where your organization is located. || Cidade onde sua organização está localizada.
+Country (two characters) where your organization is located. || País (dois caracteres) em que sua organização está localizada.
+State or province where your organization is located. || Estado ou província onde sua organização está localizada.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || FQDN do servidor. Exemplo: domain.com, mail.domain.com ou * .domain.com.
+The full legal name of your organization/company (ex.: ZEVENET Co.) || O nome legal completo da sua organização / empresa (por exemplo: ZEVENET Co.)
+Your department; such as 'IT','Web', 'Office', etc. || Seu departamento; tais como 'IT', 'Web', 'Office', etc.
+Your email address || Seu endereço de email
+The CSR <strong> {{param}} </strong> has been generated successfully. || O CSR <strong> {{param}} </strong> foi gerado com sucesso.
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || O certificado <strong> {{param}} </strong> foi enviado com sucesso.
+The certificate <strong> {{param}} </strong> has been deleted successfully. || O certificado <strong> {{param}} </strong> foi eliminado com sucesso.
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || O certificado <strong> {{param}} </strong> Foi baixado com sucesso.
+Are you sure you want to delete the certificate {{param}}? || Tem certeza de que deseja excluir o certificado {{param}}?
+Are you sure you want to delete the selected certificates? || Tem certeza de que deseja excluir os certificados selecionados?
+Updates || atualizações
+Update list || Atualizar lista
+Period time || Período de tempo
+Exact time || Tempo exato
+Daily every || Diariamente a cada
+Day of the week || Dia da semana
+Day of the month || Dia do mês
+Sources || Fontes
+DoS rules IPDS || DoS governa IPDS
+RBL rules IPDS || Regras da RBL IPDS
+Copy rule || Regra de cópia
+Rule to copy || Regra para copiar
+Ruleset to copy || Conjunto de regras para copiar
+Select the rule to copy || Selecione a regra para copiar
+Select the ruleset to copy || Selecione o conjunto de regras para copiar
+Custom Domain List || Lista de Domínios Personalizados
+Preloaded Domain List || Lista de domínios pré-carregados
+WAF rulesets IPDS || Conjuntos de regras WAF IPDS
+Default Action || Ação padrão
+Disable Rules || Desativar Regras
+IPDS Package Updates || Atualizações do pacote IPDS
+Conditions || condições
+Flow || Fluxo
+WAF File List || Lista de arquivos WAF
+WAF file || Arquivo WAF
+Content File || Arquivo de Conteúdo
+Select files || Selecione os arquivos
+Select a file || Selecione um arquivo
+Select transformations || Selecionar transformações
+Connection limit per second. || Limite de conexão por segundo.
+Total connections limit per source IP. || Limite total de conexões por IP de origem.
+Check bogus TCP flags. || Verifique bandeiras TCP falsas.
+Limit RST request per second. || Limite a solicitação de RST por segundo.
+Allow: Finish the WAF processing and complete the HTTP transaction || Permitir: finalize o processamento WAF e conclua a transação HTTP
+Pass: Continue executing the rules || Aprovado: Continue executando as regras
+Deny: Cut the request and not execute rules left || Negar: corte a solicitação e não execute as regras restantes
+Redirect: The client received a URL to redirect || Redirecionar: o cliente recebeu um URL para redirecionar
+Default action: The default action of this ruleset || Ação padrão: a ação padrão deste conjunto de regras
+Request headers are received || Cabeçalhos de solicitação são recebidos
+Request body is received || O corpo da solicitação é recebido
+Response headers are received || Cabeçalhos de resposta são recebidos
+Response body is received || Corpo de resposta é recebido
+Before than logging || Antes do que logar
+LUA Script || Script LUA
+Data file || Arquivo de dados
+It is a collection with the values of arguments in a request. || É uma coleção com os valores de argumentos em uma solicitação.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || É uma coleção com os valores de argumentos em uma solicitação JSON. Esta variável estará disponível no caso de o WAF analisar os argumentos JSON, para isso, o conjunto de regras REQUEST-901-INITIALIZATION deve ser ativado.
+The total size of the request parameters. The files are excluded. || O tamanho total dos parâmetros de solicitação. Os arquivos são excluídos.
+It is a collection with the names of the arguments in a request. || É uma coleção com os nomes dos argumentos em uma solicitação.
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || Ele contém os nomes dos arquivos no arquivo do usuário. Somente quando os dados são multipartes / dados de formulário.
+It is the total size of the files in a request. Only when the data is multipart/form-data. || É o tamanho total dos arquivos em uma solicitação. Somente quando os dados são multipartes / dados de formulário.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || É uma lista de nomes de arquivos usados ​​para carregar os arquivos. Somente quando os dados são multipartes / dados de formulário.
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || Ele contém uma lista de tamanhos de arquivos individuais. Somente quando os dados são multipartes / dados de formulário.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || Essa variável é 1 se o formato do corpo da solicitação não estiver correto para um JSON ou XML, caso contrário, ele terá o valor 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || É o pedido de corpo bruto. Se a solicitação não tiver o cabeçalho &quot;application / x-www-form-urlencoded&quot;, será necessário usar &quot;ctl: forceRequestBodyVariable&quot; na fase REQUEST_HEADER.
+It is the number of bytes of the request body. || É o número de bytes do corpo da solicitação.
+It is a list with all request cookies values. || É uma lista com todos os valores de cookies de solicitação.
+It is a list with all request cookies names. || É uma lista com todos os nomes de cookies de solicitação.
+This variable has all the request headers. || Essa variável tem todos os cabeçalhos de solicitação.
+This variable has a list with the request headers names. || Essa variável possui uma lista com os nomes dos cabeçalhos da solicitação.
+It is the request method. || É o método de solicitação.
+This variable holds the request HTTP version protocol. || Essa variável contém o protocolo de versão HTTP da solicitação.
+It is the URI request path. The virtual host is excluded. || É o caminho da solicitação de URI. O host virtual é excluído.
+It is the information before than the URI path. || É a informação anterior ao caminho do URI.
+It is the full request. || É o pedido completo.
+It is the number of bytes that full request can have. || É o número de bytes que a solicitação completa pode ter.
+It is the raw body response. || É a resposta do corpo cru.
+It is the number of bytes of the response body. || É o número de bytes do corpo da resposta.
+This variable has all response headers. || Esta variável tem todos os cabeçalhos de resposta.
+This variable has a list with the response headers names. || Essa variável possui uma lista com os nomes dos cabeçalhos de resposta.
+This variable holds the response HTTP version protocol. || Esta variável contém o protocolo da versão HTTP de resposta.
+It is the response HTTP code. || É o código HTTP de resposta.
+It is the IP address of the client. || É o endereço IP do cliente.
+It is the port where the client initializes the connection. || É a porta em que o cliente inicializa a conexão.
+It is the name of the authenticated user. || É o nome do usuário autenticado.
+It is the server time. The format is hours:minutes:seconds. || É a hora do servidor. O formato é horas: minutos: segundos.
+It is the number of milliseconds since the beginning of the current transaction. || É o número de milissegundos desde o início da transação atual.
+It is the field filename in a multipart request. || É o nome do arquivo de campo em uma solicitação multipartes.
+It is the field name in a multipart request. || É o nome do campo em uma solicitação multipartes.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || É o valor correspondente na última operação de correspondência. Esse valor não precisa da opção de captura, mas é substituído em cada operação de correspondência.
+It is a list of all matched values. || É uma lista de todos os valores correspondentes.
+It is the IP address of the server. || É o endereço IP do servidor.
+It is the virtual host, it gets from the request URI. || É o host virtual, ele recebe do URI da solicitação.
+It is the environment variables of the WAF. || São as variáveis ​​de ambiente do WAF.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || É uma coleção de variáveis ​​para a transação atual. Essas variáveis ​​serão removidas quando a transação terminar. As variáveis ​​TX: 0-TX: 9 salva os valores capturados com os operadores strRegex ou strPhrases.
+Decodes a Base64-encoded string. || Decodifica uma string codificada em Base64.
+Decodes a Base64-encoded string ignoring invalid characters. || Decodifica uma string codificada em Base64, ignorando caracteres inválidos.
+Decodes SQL hex data. || Decodifica dados hexadecimais SQL.
+Encodes using Base64 encoding. || Codifica usando a codificação Base64.
+Avoids the problem related with the escaped command line. || Evita o problema relacionado à linha de comando de escape.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || Converte qualquer um dos caracteres de espaço em branco (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) em espaços (ASCII 0x20), compactando vários caracteres de espaço consecutivos em um.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || Decodifica caracteres codificados usando as regras de escape do CSS 2.x. Essa função usa apenas até dois bytes no processo de decodificação, o que significa que é útil descobrir caracteres ASCII codificados usando a codificação CSS (que normalmente não seria codificada) ou combater a evasão, que é uma combinação de barra invertida e não caracteres hexadecimais (por exemplo, ja \\vascript é equivalente a javascript).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || Decodifica as seqüências de escape ANSI C: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (hexadecimal), \\0OOO ​​(octal). Codificações inválidas são deixadas na saída.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || Decodifica uma string que foi codificada usando o mesmo algoritmo usado em hexEncode (veja a entrada seguinte).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || Codifica cadeia (possivelmente contendo caracteres binários) substituindo cada byte de entrada por dois caracteres hexadecimais. Por exemplo, xyz é codificado como 78797a.
+Decodes the characters encoded as HTML entities. || Decodifica os caracteres codificados como entidades HTML.
+Decodes JavaScript escape sequences. || Decodifica seqüências de escape do JavaScript.
+Looks up the length of the input string in bytes, placing it (as string) in output. || Procura o comprimento da string de entrada em bytes, colocando-a (como string) na saída.
+Converts all characters to lowercase using the current C locale. || Converte todos os caracteres em minúsculas usando a localidade C atual.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || Calcula um hash MD5 a partir dos dados na entrada. O hash calculado está no formato binário bruto e pode precisar ser codificado no texto a ser impresso (ou registrado). As funções de hash são comumente usadas em combinação com o hexEncode.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || Não é uma função de transformação real, mas uma instrução para remover funções de transformação anteriores associadas à regra atual.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || Remove várias barras, referências próprias do diretório e referências posteriores do diretório (exceto quando no início da entrada) da sequência de entrada.
+Same as normalizePath, but first converts backslash characters to forward slashes. || O mesmo que normalizePath, mas primeiro converte os caracteres de barra invertida em barras.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || Calcula a paridade par dos dados 7-bit, substituindo o bit 8 de cada byte alvo pelo bit de paridade calculado.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || Calcula a paridade ímpar de dados 7-bit, substituindo o 8th bit de cada byte de destino pelo bit de paridade calculado.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || Calcula a paridade zero de dados 7-bit, substituindo o bit 8 de cada byte de destino por um bit de paridade zero, que permite a inspeção de dados 7-bit de paridade par / ímpar como dados ASCII7.
+Removes all NUL bytes from input. || Remove todos os bytes NUL da entrada.
+Removes all whitespace characters from the input. || Remove todos os caracteres de espaço em branco da entrada.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || Substitui cada ocorrência de um comentário no estilo C (/ *… * /) por um único espaço (várias ocorrências consecutivas das quais não serão compactadas). Comentários não terminados também serão substituídos por espaço (ASCII 0x20). No entanto, uma rescisão autônoma de um comentário (* /) não será acionada.
+Removes common comments chars (/*, */, –, #). || Remove caracteres de comentários comuns (/ *, * /, -, #).
+Replaces NUL bytes in input with space characters (ASCII 0x20). || Substitui os bytes NUL na entrada por caracteres de espaço (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || Decodifica uma string de entrada codificada por URL. Codificações inválidas (ou seja, aquelas que usam caracteres não hexadecimais, ou aquelas que estão no final da cadeia e têm um ou dois bytes ausentes) não são convertidas, mas nenhum erro é gerado.
+Converts all characters to uppercase using the current C locale. || Converte todos os caracteres em maiúsculas usando a localidade C atual.
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || Como o urlDecode, mas com suporte para a codificação% u específica da Microsoft.
+Encodes input string using URL encoding. || Codifica a string de entrada usando a codificação de URL.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || Converte todas as seqüências de caracteres UTF-8 em Unicode. Isso ajuda a normalização de entrada, especialmente para idiomas que não o inglês, minimizando falsos positivos e falsos negativos.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || Calcula um hash SHA1 da string de entrada. O hash calculado está em formato binário bruto e pode precisar ser codificado no texto a ser impresso (ou registrado). Funções de hash são comumente usadas em combinação com hexEncode.
+Removes whitespace from the left side of the input string. || Remove espaços em branco do lado esquerdo da string de entrada.
+Removes whitespace from the right side of the input string. || Remove espaços em branco do lado direito da string de entrada.
+Removes whitespace from both the left and right sides of the input string. || Remove o espaço em branco dos lados esquerdo e direito da string de entrada.
+The rule will match if any of the variables begin with the value of operating. || A regra corresponderá se qualquer uma das variáveis ​​começar com o valor de operação.
+The rule will match if any of the variables contain the value of operating. || A regra corresponderá se alguma das variáveis ​​contiver o valor de operação.
+The rule will match if any of the variables contain a word as the string one. || A regra corresponderá se alguma das variáveis ​​contiver uma palavra como a sequência uma.
+The rule will match if any of the variables end with the value of operating. || A regra corresponderá se qualquer uma das variáveis ​​terminar com o valor de operação.
+The rule will match if any of the variables match with the value of operating. || A regra corresponderá se alguma das variáveis ​​corresponder ao valor de operação.
+The rule will match if any of the variables match with the value of operating. || A regra corresponderá se alguma das variáveis ​​corresponder ao valor de operação.
+The rule will match if any of the variables is identical to the value of operating. || A regra corresponderá se qualquer uma das variáveis ​​for idêntica ao valor de operação.
+The rule will match if any of the variables match in the regular expression used in operating. || A regra corresponderá se alguma das variáveis ​​corresponder à expressão regular usada na operação.
+The rule will match if any of the variables match in any of the values of the list operating. || A regra corresponderá se qualquer uma das variáveis ​​corresponder em qualquer um dos valores da lista em operação.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || É o mesmo que o operador digita, mas a operação é um arquivo em que é definido como uma lista de frases.
+The rule will match if any of the variables is equal to the number used in operating. || A regra corresponderá se alguma das variáveis ​​for igual ao número usado na operação.
+The rule will match if any of the variables is greater or equal to the number used in operating. || A regra corresponderá se qualquer uma das variáveis ​​for maior ou igual ao número usado na operação.
+The rule will match if any of the variables is greater than the number used in operating. || A regra corresponderá se alguma das variáveis ​​for maior que o número usado na operação.
+The rule will match if any of the variables is lower or equal to the number used in operating. || A regra corresponderá se qualquer uma das variáveis ​​for menor ou igual ao número usado na operação.
+The rule will match if any of the variables is lower than the number used in operating. || A regra corresponderá se alguma das variáveis ​​for menor que o número usado na operação.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || Aplica a detecção de injeção SQL à lista de variáveis. Este operador não espera nenhum funcionamento.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || Aplica a detecção de injeção de XSS à lista de variáveis. Este operador não espera nenhum funcionamento.
+Try to match the IP or network segments of operating with the list of variables. || Tente combinar os segmentos de rede ou IP da operação com a lista de variáveis.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || É o mesmo que o operador ipMatch, mas isso tenta a correspondência das variáveis ​​em um arquivo com uma lista de IPs e segmentos de rede.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || Ele verifica se o número de bytes das variáveis ​​está em um dos valores operacionais. Um exemplo de operação é “10, 13, 32-126”.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || Valida dados codificados. Esse operador deve ser usado apenas para dados que não codificam dados comumente ou para dados codificados várias vezes.
+It validates that variables are UTF-8. This operator does not expect any operating. || Ele valida que as variáveis ​​são UTF-8. Este operador não espera nenhuma operação.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || Ele verifica se as variáveis ​​são um número de cartão de crédito. Esse parâmetro aceita uma expressão regular como operacional, se corresponder a ele, aplica o cartão de crédito verificado.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || Ele verifica se as variáveis ​​são um número de segurança social dos EUA. Este parâmetro aceita uma expressão regular como operacional, se corresponder, aplica a verificação SSN.
+It returns true always, forcing a match. || Ele retorna verdadeiro sempre, forçando um jogo.
+It returns false always, forcing a non-match. || Ele retorna sempre falso, forçando um não-jogo.
+A word is delimited by characters different to (a-z, 0-9 and '_') || Uma palavra é delimitada por caracteres diferentes de (az, 0-9 e '_')
+Can be a list of strings split by the character , || Pode ser uma lista de cadeias de caracteres divididas pelo caractere,
+Can be a list of strings split by the character |, || Pode ser uma lista de seqüências de caracteres divididas pelo caractere |,
+Can be a list of strings split by a blank space || Pode ser uma lista de seqüências de caracteres divididas por um espaço em branco
+Can be a list of IPs or network segments split by the character , || Pode ser uma lista de IPs ou segmentos de rede divididos pelo caractere,
+Can be a list of IPs ranges split by the character , || Pode ser uma lista de intervalos de IPs divididos pelo caractere,
+Can be selected more than one file. || Pode ser selecionado mais de um arquivo.
+It uses the PCRE engine, optional field. || Ele usa o mecanismo PCRE, campo opcional.
+It uses the PCRE engine, optional field. || Ele usa o mecanismo PCRE, campo opcional.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || Ele usa o mecanismo PCRE. A expressão (? I) é usada para corresponder usando maiúsculas e minúsculas.
+This operator does not expect any operating. || Este operador não espera nenhuma operação.
+String. || Corda.
+Number. || Número.
+The <strong> {{param}} </strong> blacklist has been created successfully. || A <strong> {{param}} </strong> lista negra foi criada com sucesso.
+The <strong> {{param}} </strong> blacklist has been deleted successfully. || A <strong> {{param}} </strong> lista negra foi excluída com sucesso.
+The <strong> {{param}} </strong> blacklist has been stopped successfully. || A <strong> {{param}} </strong> lista negra foi interrompida com sucesso.
+The <strong> {{param}} </strong> blacklist has been started successfully. || A <strong> {{param}} </strong> lista negra foi iniciada com sucesso.
+The <strong> {{param}} </strong> blacklist has been updated successfully. || A <strong> {{param}} </strong> lista negra foi atualizada com sucesso.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado à lista negra com sucesso.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || A Fazenda <strong> {{param}} </strong> foi removido da lista negra com sucesso.
+The <strong> {{param}} </strong> DoS rule has been created successfully. || A <strong> {{param}} </strong> A regra de DoS foi criada com sucesso.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. || A <strong> {{param}} </strong> A regra de DoS foi excluída com sucesso.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. || A <strong> {{param}} </strong> A regra de DoS foi interrompida com sucesso.
+The <strong> {{param}} </strong> DoS rule has been started successfully. || A <strong> {{param}} </strong> A regra de DoS foi iniciada com sucesso.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado à regra DoS com êxito.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || A Fazenda <strong> {{param}} </strong> foi removido da regra DoS com sucesso.
+The source has been created successfully || A fonte foi criada com sucesso
+The source has been updated successfully || A fonte foi atualizada com sucesso
+The source <strong> {{param}} </strong> has been deleted successfully. || A fonte <strong> {{param}} </strong> foi eliminado com sucesso.
+The <strong> {{param}} </strong> RBL rule has been created successfully. || A <strong> {{param}} </strong> A regra RBL foi criada com sucesso.
+The <strong> {{param}} </strong> RBL rule has been updated successfully. || A <strong> {{param}} </strong> A regra RBL foi atualizada com sucesso.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. || A <strong> {{param}} </strong> A regra RBL foi excluída com sucesso.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. || A <strong> {{param}} </strong> A regra RBL foi interrompida com sucesso.
+The <strong> {{param}} </strong> RBL rule has been started successfully. || A <strong> {{param}} </strong> A regra RBL foi iniciada com sucesso.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado à regra RBL com êxito.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || A Fazenda <strong> {{param}} </strong> foi removido da regra RBL com êxito.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || O domínio <strong> {{param}} </strong> foi adicionado à regra RBL com êxito.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || O domínio <strong> {{param}} </strong> foi removido da regra RBL com êxito.
+The domain <strong> {{param}} </strong> has been created successfully || O domínio <strong> {{param}} </strong> foi criado com sucesso
+The domain has been updated successfully || O domínio foi atualizado com sucesso
+The domain <strong> {{param}} </strong> has been deleted successfully. || O domínio <strong> {{param}} </strong> foi eliminado com sucesso.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. || A <strong> {{param}} </strong> O conjunto de regras WAF foi criado com sucesso.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. || A <strong> {{param}} </strong> O conjunto de regras WAF foi excluído com sucesso.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. || A <strong> {{param}} </strong> O conjunto de regras WAF foi interrompido com sucesso.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. || A <strong> {{param}} </strong> O conjunto de regras WAF foi iniciado com sucesso.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. || A <strong> {{param}} </strong> O conjunto de regras WAF foi atualizado com sucesso.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado ao conjunto de regras WAF com êxito.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || A Fazenda <strong> {{param}} </strong> foi removido do conjunto de regras WAF com êxito.
+The rule <strong> {{param}} </strong> has been created successfully. || A regra <strong> {{param}} </strong> foi criado com sucesso.
+The rule <strong> {{param}} </strong> has been moved successfully. || A regra <strong> {{param}} </strong> foi movido com sucesso.
+The rule <strong> {{param}} </strong> has been deleted successfully. || A regra <strong> {{param}} </strong> foi eliminado com sucesso.
+The rule <strong> {{param}} </strong> has been updated successfully || A regra <strong> {{param}} </strong> foi atualizado com sucesso
+The match has been created successfully || A partida foi criada com sucesso
+The match <strong> {{param}} </strong> has been deleted successfully. || A partida <strong> {{param}} </strong> foi eliminado com sucesso.
+The WAF file <strong> {{param}} </strong> has been created successfully. || O arquivo WAF <strong> {{param}} </strong> foi criado com sucesso.
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || O arquivo WAF <strong> {{param}} </strong> foi eliminado com sucesso.
+The WAF file <strong> {{param}} </strong> has been updated successfully. || O arquivo WAF <strong> {{param}} </strong> foi atualizado com sucesso.
+The <strong> IPDS package </strong> has been scheduled successfully. || A <strong> Pacote IPDS </strong> foi agendado com sucesso.
+The <strong> IPDS package </strong> has been upgraded successfully. || A <strong> Pacote IPDS </strong> foi atualizado com sucesso.
+Are you sure you want to delete the {{param}} blacklist? || Tem certeza de que deseja excluir a lista negra {{param}}?
+Are you sure you want to delete the selected blacklists? || Tem certeza de que deseja excluir as listas negras selecionadas?
+Are you sure you want to delete the {{param}} DoS rule? || Tem certeza de que deseja excluir a regra do {{param}} DoS?
+Are you sure you want to delete the selected DoS rules? || Tem certeza de que deseja excluir as regras de DoS selecionadas?
+Are you sure you want to delete the source {{param}}? || Tem certeza de que deseja excluir a fonte {{param}}?
+Are you sure you want to delete the selected sources? || Tem certeza de que deseja excluir as fontes selecionadas?
+Are you sure you want to delete the {{param}} RBL rule? || Tem certeza de que deseja excluir a regra RBL {{param}}?
+Are you sure you want to delete the selected RBL rules? || Tem certeza de que deseja excluir as regras RBL selecionadas?
+Are you sure you want to delete the domain {{param}}? || Tem certeza de que deseja excluir o domínio {{param}}?
+Are you sure you want to delete the selected domains? || Tem certeza de que deseja excluir os domínios selecionados?
+Are you sure you want to delete the {{param}} WAF ruleset? || Tem certeza de que deseja excluir o conjunto de regras {{param}} WAF?
+Are you sure you want to delete the selected rulesets? || Tem certeza de que deseja excluir os conjuntos de regras selecionados?
+'Are you sure you want to delete the rule {{param}}? || 'Tem certeza de que deseja excluir a regra {{param}}?
+Are you sure you want to delete the match {{param}}? || Tem certeza de que deseja excluir a correspondência {{param}}?
+Are you sure you want to delete the selected matches? || Tem certeza de que deseja excluir as correspondências selecionadas?
+Are you sure you want to delete the file {{param}}? || Tem certeza de que deseja excluir o arquivo {{param}}?
+Are you sure you want to delete the selected files? || Tem certeza de que deseja excluir os arquivos selecionados?
+System Graphs || Gráficos do sistema
+Interfaces Graphs || Gráficos de interfaces
+Farms Graph || Gráfico de fazendas
+Farms Stats || Fazendas Estatísticas
+System Stats || Estatísticas do sistema
+Network Stats || Estatísticas da rede
+Copy farmguardian || Copiar farmguardian
+Farmguardian to copy || Farmguardian para copiar
+Select the farmguardian to copy || Selecione o guardião da fazenda para copiar
+Total Memory || memória total
+Free Memory || Memória livre
+Used Memory || Memoria usada
+Buffers || Buffers
+Cached || Em cache
+Total Swap || Troca Total
+Free Swap || Troca grátis
+Used Swap || Troca Usada
+Cached Swap || Troca em cache
+Idle || inativo
+Usage || Uso
+Iowait || Iowait
+Irq || Irq
+Nice || agradável
+Softirq || Softirq
+Sys || Sys
+User || Usuário
+Last minute || último momento
+Last 5 minutes || Últimos minutos 5
+Last 15 minutes || Últimos minutos 15
+Are you sure you want to delete the {{param}} farmguardian? || Tem certeza de que deseja excluir o {{param}} farmguardian?
+Are you sure you want to delete the selected farmguardians? || Tem certeza de que deseja excluir os guardas da fazenda selecionados?
+The <strong> {{param}} </strong> farmguardian has been created successfully. || A <strong> {{param}} </strong> O farmguardian foi criado com sucesso.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. || A <strong> {{param}} </strong> O farmguardian foi deletado com sucesso.
+The <strong> {{param}} </strong> farmguardian has been updated successfully. || A <strong> {{param}} </strong> farmguardian foi atualizado com sucesso.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado ao farmguardian com sucesso.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || A Fazenda <strong> {{param}} </strong> foi removido para o farmguardian com sucesso.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || A Fazenda <strong> {{param}} with the service {{param2}} </strong> foi adicionado ao farmguardian com sucesso.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || A Fazenda <strong> {{param}} with the service {{param2}} </strong> foi removido para o farmguardian com sucesso.
+NIC List || Lista de NICs
+Bonding Interface List || Lista de interface de ligação
+Select the slaves || Selecione os escravos
+VLAN Interface List || Lista de interfaces VLAN
+VLAN ID || ID da VLAN
+VLAN tag || Tag de VLAN
+Virtual Interface List || Lista de Interface Virtual
+Virtual interface name || Nome da interface virtual
+Virtual interface tag || Etiqueta da interface virtual
+Floating IP List || Lista de IP flutuante
+IPv4 Gateway || Gateway IPv4
+IPv6 Gateway || Gateway IPv6
+IPv4 Gateway Settings || Configurações do gateway IPv4
+IPv6 Gateway Settings || Configurações do gateway IPv6
+Backends Aliases || Backends Aliases
+Interfaces Aliases || Aliases de interfaces
+Routing Rule List || Lista de regras de roteamento
+Routing Table List || Lista de tabelas de roteamento
+Priority should be a value between {{min}} and {{max}} || Prioridade deve ser um valor entre {{min}} e {{max}}
+Configure table {{param}} || Configurar tabela {{param}}
+Available Routes || Rotas disponíveis
+Routing table for the outputs of the interface {{param}}. || Tabela de roteamento para as saídas da interface {{param}}.
+Should be a IP address or CIDR || Deve ser um endereço IP ou CIDR
+Should be a IP address (IPv4/IPv6) || Deve ser um endereço IP (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}? || Tem certeza de que deseja desarmar a NIC {{param}}?
+Are you sure you want to unset the selected NIC? || Tem certeza de que deseja desabilitar a NIC selecionada?
+Are you sure you want to unset the Bonding {{param}}? || Tem certeza de que deseja desativar a ligação {{param}}?
+Are you sure you want to unset the selected Bondings? || Tem certeza de que deseja desarmar as ligações selecionadas?
+Are you sure you want to delete the Bonding {{param}}? || Tem certeza de que deseja excluir a ligação {{param}}?
+Are you sure you want to delete the selected Bondings? || Tem certeza de que deseja excluir as ligações selecionadas?
+Are you sure you want to delete the VLAN {{param}}? || Tem certeza de que deseja excluir a VLAN {{param}}?
+Are you sure you want to delete the selected VLANs? || Tem certeza de que deseja excluir as VLANs selecionadas?
+Are you sure you want to delete the Virtual interface {{param}}? || Tem certeza de que deseja excluir a interface virtual {{param}}?
+Are you sure you want to delete the selected Virtual interfaces? || Tem certeza de que deseja excluir as interfaces virtuais selecionadas?
+Are you sure you want to unset the Floating IP of {{param}}? || Tem certeza de que deseja desativar o IP flutuante de {{param}}?
+Are you sure you want to unset the selected Floating IPs? || Tem certeza de que deseja desconfigurar os IPs flutuantes selecionados?
+Are you sure you want to unset the gateway for {{param}}? || Tem certeza de que deseja desarmar o gateway para {{param}}?
+Are you sure you want to delete the alias {{param}}? || Tem certeza de que deseja excluir o alias {{param}}?
+Are you sure you want to delete the selected aliases? || Tem certeza de que deseja excluir os aliases selecionados?
+Are you sure you want to delete the routing rule {{param}}? || Tem certeza de que deseja excluir a regra de roteamento {{param}}?
+Are you sure you want to delete the selected routing rules? || Tem certeza de que deseja excluir as regras de roteamento selecionadas?
+Are you sure you want to delete the route {{param}}? || Tem certeza de que deseja excluir a rota {{param}}?
+Are you sure you want to delete the selected routes? || Tem certeza de que deseja excluir as rotas selecionadas?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. || A <strong> {{param}} </strong> NIC foi desconfigurado com sucesso.
+The <strong> {{param}} </strong> NIC is up. || A <strong> {{param}} </strong> A placa de rede está ativada.
+The <strong> {{param}} </strong> NIC is down. || A <strong> {{param}} </strong> A placa de rede está inoperante.
+The <strong> {{param}} </strong> NIC has been updated successfully. || A <strong> {{param}} </strong> NIC foi atualizado com sucesso.
+The <strong> {{param}} </strong> NIC has updated the alias successfully. || A <strong> {{param}} </strong> A NIC atualizou o alias com sucesso.
+The <strong> {{param}} </strong> Bonding has been created successfully. || A <strong> {{param}} </strong> A ligação foi criada com sucesso.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. || A <strong> {{param}} </strong> A ligação foi desconfigurada com sucesso.
+The <strong> {{param}} </strong> Bonding is up. || A <strong> {{param}} </strong> A ligação acabou.
+The <strong> {{param}} </strong> Bonding is down. || A <strong> {{param}} </strong> A ligação está inoperante.
+The <strong> {{param}} </strong> Bonding has been updated successfully. || A <strong> {{param}} </strong> A ligação foi atualizada com sucesso.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. || A <strong> {{param}} </strong> A ligação atualizou o alias com sucesso.
+The <strong> {{param}} </strong> Bonding has been deleted successfully. || A <strong> {{param}} </strong> A ligação foi excluída com sucesso.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. || A <strong> {{param}} </strong> escravo foi adicionado à ligação com sucesso.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. || A <strong> {{param}} </strong> escravo foi removido da ligação com sucesso.
+The <strong> {{param}} </strong> VLAN has been created successfully. || A <strong> {{param}} </strong> A VLAN foi criada com sucesso.
+The <strong> {{param}} </strong> VLAN is up. || A <strong> {{param}} </strong> VLAN está ativo.
+The <strong> {{param}} </strong> VLAN is down. || A <strong> {{param}} </strong> A VLAN está inativa.
+The <strong> {{param}} </strong> VLAN has been updated successfully. || A <strong> {{param}} </strong> A VLAN foi atualizada com sucesso.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. || A <strong> {{param}} </strong> A VLAN atualizou o alias com sucesso.
+The <strong> {{param}} </strong> VLAN has been deleted successfully. || A <strong> {{param}} </strong> A VLAN foi excluída com sucesso.
+The <strong> {{param}} </strong> Virtual interface has been created successfully. || A <strong> {{param}} </strong> Interface virtual foi criada com sucesso.
+The <strong> {{param}} </strong> Virtual interface is up. || A <strong> {{param}} </strong> A interface virtual está ativa.
+The <strong> {{param}} </strong> Virtual interface is down. || A <strong> {{param}} </strong> A interface virtual está inativa.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. || A <strong> {{param}} </strong> A interface virtual foi atualizada com sucesso.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. || A <strong> {{param}} </strong> A interface virtual atualizou o alias com sucesso.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. || A <strong> {{param}} </strong> A interface virtual foi excluída com sucesso.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. || A <strong> {{param}} </strong> O IP flutuante foi desconfigurado com sucesso.
+The <strong> {{param}} </strong> Floating IP is up. || A <strong> {{param}} </strong> IP flutuante está ativo.
+The <strong> {{param}} </strong> Floating IP is down. || A <strong> {{param}} </strong> O IP flutuante está inoperante.
+The <strong> {{param}} </strong> Floating IP has been updated successfully. || A <strong> {{param}} </strong> IP flutuante foi atualizado com sucesso.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. || A <strong> {{param}} </strong> IP flutuante atualizou o alias com sucesso.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. || A <strong> {{param}} </strong> IP flutuante foi excluído com sucesso.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || O Gateway para <strong> {{param}} </strong> foi desconfigurado com sucesso.
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || O Gateway para <strong> {{param}} </strong> foi atualizado com sucesso.
+The <strong> {{param}} </strong> Alias has been created successfully. || A <strong> {{param}} </strong> O alias foi criado com sucesso.
+The <strong> {{param}} </strong> Alias has been updated successfully. || A <strong> {{param}} </strong> O alias foi atualizado com sucesso.
+The <strong> {{param}} </strong> Alias has been deleted successfully. || A <strong> {{param}} </strong> O alias foi excluído com sucesso.
+The <strong> {{param}} </strong> routing rule has been deleted successfully. || A <strong> {{param}} </strong> regra de roteamento foi excluída com sucesso.
+The <strong> {{param}} </strong> routing rule has been updated successfully. || A <strong> {{param}} </strong> regra de roteamento foi atualizada com sucesso.
+The <strong> {{param}} </strong> routing rule has been created successfully. || A <strong> {{param}} </strong> regra de roteamento foi criada com sucesso.
+The route <strong> {{param}} </strong> has been deleted successfully. || O percurso <strong> {{param}} </strong> foi eliminado com sucesso.
+The route <strong> {{param}} </strong> has been updated successfully. || O percurso <strong> {{param}} </strong> foi atualizado com sucesso.
+The route <strong> {{param}} </strong> has been created successfully. || O percurso <strong> {{param}} </strong> foi criado com sucesso.
+To remove a route you must select it first. || Para remover uma rota, você deve selecioná-la primeiro.
+The route {{param}} cannot be removed because it is a system route. || A rota {{param}} não pode ser removida porque é uma rota do sistema.
+The interface <strong> {{param}} </strong> has been disabled. || A interface <strong> {{param}} </strong> foi desativado.
+The interface <strong> {{param}} </strong> has been enabled. || A interface <strong> {{param}} </strong> foi ativado.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. || A <strong> {{param}} </strong> escravo não pode ser removido. A ligação deve ter pelo menos um escravo.
+HTTP Service || Serviço HTTP
+SSH Service || Serviço SSH
+SNMP Service || Serviço SNMP
+The physical interface where is running GUI service || A interface física onde está executando o serviço da GUI
+If the cluster is up you only can select the cluster interface or all || Se o cluster estiver ativo, você poderá selecionar apenas a interface do cluster ou todos os
+HTTPS Port where is running GUI service || Porta HTTPS em que está executando o serviço de GUI
+The physical interface where is running SSH service || A interface física onde está executando o serviço SSH
+SSH Port where is running SSH service || Porta SSH onde está executando o serviço SSH
+Enable SNMP || Ativar SNMP
+The physical interface where is running SNMP service || A interface física em que o serviço SNMP está sendo executado
+SNMP Port where is running SNMP service || Porta SNMP onde está executando o serviço SNMP
+Community name || Nome da comunidade
+IP or subnet with access || IP ou sub-rede com acesso
+Primary server || Servidor principal
+Secondary Server || Servidor Secundário
+NTP server || NTP servidor
+NTP Service || Serviço NTP
+Proxy Service || Serviço Proxy
+DNS Service || Serviço DNS
+Configure cluster || Configurar cluster
+Local IP || IP local
+Remote IP || IP remoto
+Remote Node Password || Senha do Nó Remoto
+Confirm Password || Confirmar Password
+Backup List || Lista de Backup
+Backup file || Arquivo de backup
+Choose one file || Escolha um arquivo
+Alerts Service || Serviço de alertas
+Alerts || Alertas
+Email Notifications || Notificações por e-mail
+Mail Server || Servidor de e-mail
+Mail User || Usuário de email
+TLS || TLS
+Backends Alert || Alerta de back-end
+Cluster Alert || Alerta de cluster
+Prefix Subject || Prefixo Assunto
+Avoid flapping time || Evite bater o tempo
+The time that alerts wait when backend is flapping || O tempo que os alertas aguardam quando o back-end está batendo
+User Settings || Configurações do Usuário
+ZAPI Key || Chave ZAPI
+Change Password || Alterar senha
+Current password || Senha atual
+New password || Nova senha
+Repeat new password || Repita a nova senha
+Log List || Lista de registro
+Log view || Visualização de log
+When this action is executed a file with system information will be downloaded. || Quando esta ação é executada, um arquivo com informações do sistema será baixado.
+This action may take several seconds, you can continue browsing the GUI. || Essa ação pode levar vários segundos, você pode continuar navegando na GUI.
+Select an interface which won't be deleted || Selecione uma interface que não será excluída
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || Esta ação destruirá toda a configuração, exceto a interface selecionada, os backups e o certificado de ativação.
+The current credentials for user root will not be modified. || As credenciais atuais para a raiz do usuário não serão modificadas.
+User List || Lista de usuários
+Group List || Lista de Grupos
+Role List || Lista de Funções
+Role Settings || Configurações de função
+Show all permissions || Mostrar todas as permissões
+Hide all permissions || Ocultar todas as permissões
+Show permissions || Mostrar permissões
+Hide permissions || Ocultar permissões
+LDAP Server || Servidor LDAP
+Base DN || DN base
+Bind DN || DN da ligação
+Scope || Objetivo
+Bind Password || Senha de Ligação
+Filter || filtros
+Global Services || Serviços globais
+Enable session replication || Ativar replicação de sessão
+Enable Duplicated network || Ativar rede duplicada
+Enable ARP announce || Ativar anúncio ARP
+Custom Routes || Rotas personalizadas
+System Routes || Rotas do sistema
+Use proxy of new generation || Usar proxy de nova geração
+Validation Systems || Sistemas de Validação
+AWS Credentials || Credenciais da AWS
+Access Key || Chave de acesso
+Secret Key || Chave Secreta
+Region || Região
+SSL Certificate || Certificado SSL
+RBAC User || Usuário RBAC
+RBAC Group || Grupo RBAC
+RBAC Role || Papel RBAC
+Network Virtual Interface || Interface virtual de rede
+System Service || Serviço de Sistema
+Notification || Notificação
+Host or URL allowed || Host ou URL permitido
+It will not be used if the HOST/URL field contains a URL || Não será usado se o campo HOST / URL contiver um URL
+Filter used to get the LDAP field that contains the user ID to log in || Filtro usado para obter o campo LDAP que contém o ID do usuário para efetuar login
+The Search Request will be performed against the entry specified as the search base DN. || A solicitação de pesquisa será realizada com base na entrada especificada como o DN da base de pesquisa.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || A solicitação de pesquisa será realizada com entradas subordinadas imediatas à entrada especificada como o DN da base de pesquisa.
+The Search Request will be performed against the search base and all entries below || A solicitação de pesquisa será realizada na base de pesquisa e em todas as entradas abaixo
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || O novo endereço da GUI de gerenciamento é {{param}}, reconecte-se à GUI no novo URL.
+The <strong> HTTP service </strong> has been updated successfully. || A <strong> Serviço HTTP </strong> foi atualizado com sucesso.
+The <strong> SSH service </strong> has been updated successfully. || A <strong> Serviço SSH </strong> foi atualizado com sucesso.
+The <strong> SNMP service </strong> has been updated successfully. || A <strong> Serviço SNMP </strong> foi atualizado com sucesso.
+The <strong> global services </strong> have been updated successfully || A <strong> serviços globais </strong> foram atualizados com sucesso
+The <strong> DNS service </strong> has been updated successfully. || A <strong> Serviço DNS </strong> foi atualizado com sucesso.
+The <strong> NTP service </strong> has been updated successfully. || A <strong> Serviço NTP </strong> foi atualizado com sucesso.
+The <strong> Proxy service </strong> has been updated successfully. || A <strong> Serviço de proxy </strong> foi atualizado com sucesso.
+The backup <strong> {{param}} </strong> has been deleted successfully. || O backup <strong> {{param}} </strong> foi eliminado com sucesso.
+The backup <strong> {{param}} </strong> has been applied successfully. || O backup <strong> {{param}} </strong> foi aplicado com sucesso.
+The backup <strong> {{param}} </strong> has been downloaded successfully. || O backup <strong> {{param}} </strong> Foi baixado com sucesso.
+The backup <strong> {{param}} </strong> has been uploaded successfully. || O backup <strong> {{param}} </strong> foi enviado com sucesso.
+The backup <strong> {{param}} </strong> has been created successfully. || O backup <strong> {{param}} </strong> foi criado com sucesso.
+The <strong> backends alert </strong> has been applied successfully. || A <strong> alerta de back-end </strong> foi aplicado com sucesso.
+The <strong> cluster alert </strong> has been applied successfully. || A <strong> alerta de cluster </strong> foi aplicado com sucesso.
+The configuration of email has been updated successfully. || A configuração do email foi atualizada com sucesso.
+The alert has been updated successfully. || O alerta foi atualizado com sucesso.
+The test email has been sent successfully. || O email de teste foi enviado com sucesso.
+The user has been updated successfully. || O usuário foi atualizado com sucesso.
+The log <strong> {{param}} </strong> has been downloaded successfully. || O registro <strong> {{param}} </strong> Foi baixado com sucesso.
+The <strong> Support Save </strong> has been downloaded successfully. || A <strong> Suporte Salvar </strong> Foi baixado com sucesso.
+The user <strong> {{param}} </strong> has been deleted successfully. || O utilizador <strong> {{param}} </strong> foi eliminado com sucesso.
+The user {{param}} has been created successfully. || O usuário {{param}} foi criado com sucesso.
+The user {{param}} has been updated successfully. || O usuário {{param}} foi atualizado com sucesso.
+The group <strong> {{param}} </strong> has been deleted successfully. || o grupo <strong> {{param}} </strong> foi eliminado com sucesso.
+The group {{param}} has been created successfully. || O grupo {{param}} foi criado com sucesso.
+The group {{param}} has been updated successfully. || O grupo {{param}} foi atualizado com sucesso.
+The user <strong> {{param}} </strong> has been added to the group successfully. || O utilizador <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
+The user <strong> {{param}} </strong> has been removed to the group successfully. || O utilizador <strong> {{param}} </strong> foi removido para o grupo com sucesso.
+The farm <strong> {{param}} </strong> has been added to the group successfully. || A Fazenda <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || A Fazenda <strong> {{param}} </strong> foi removido para o grupo com sucesso.
+The interface <strong> {{param}} </strong> has been added to the group successfully. || A interface <strong> {{param}} </strong> foi adicionado ao grupo com sucesso.
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || A interface <strong> {{param}} </strong> foi removido para o grupo com sucesso.
+The role <strong> {{param}} </strong> has been deleted successfully. || O papel <strong> {{param}} </strong> foi eliminado com sucesso.
+The role {{param}} has been created successfully. || A função {{param}} foi criada com sucesso.
+The role {{param}} has been updated successfully. || A função {{param}} foi atualizada com sucesso.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || O servidor LDAP foi configurado. Por favor, teste a conectividade para confirmar se a configuração está correta.
+The connectivity test has been done successfully. || O teste de conectividade foi realizado com sucesso.
+The validation system <strong> {{param}} </strong> has been enabled successfully. || O sistema de validação <strong> {{param}} </strong> foi ativado com sucesso.
+The validation system <strong> {{param}} </strong> has been disabled successfully. || O sistema de validação <strong> {{param}} </strong> foi desativado com sucesso.
+The cluster has been created successfully. || O cluster foi criado com sucesso.
+The cluster has been updated successfully. || O cluster foi atualizado com sucesso.
+The cluster has been destroyed successfully. || O cluster foi destruído com sucesso.
+The <strong>local node</strong> has been put in maintenance successfully. || A <strong>nó local</strong> foi colocado em manutenção com sucesso.
+The <strong>local node</strong> has been enabled successfully. || A <strong>nó local</strong> foi ativado com sucesso.
+The AWS credentials have been configured successfully. || As credenciais da AWS foram configuradas com sucesso.
+The Azure credentials have been configured successfully. || As credenciais do Azure foram configuradas com sucesso.
+Are you sure you want to delete the backup {{param}}? || Tem certeza de que deseja excluir o backup {{param}}?
+Are you sure you want to delete the selected backups? || Tem certeza de que deseja excluir os backups selecionados?
+Are you sure you want to delete the user {{param}}? || Tem certeza de que deseja excluir o usuário {{param}}?
+Are you sure you want to delete the selected users? || Tem certeza de que deseja excluir os usuários selecionados?
+Are you sure you want to delete the group {{param}}? || Tem certeza de que deseja excluir o grupo {{param}}?
+Are you sure you want to delete the selected groups? || Tem certeza de que deseja excluir os grupos selecionados?
+Are you sure you want to delete the role {{param}}? || Tem certeza de que deseja excluir a função {{param}}?
+Are you sure you want to delete the selected roles? || Tem certeza de que deseja excluir as funções selecionadas?
+Are you sure you want to destroy the cluster? || Tem certeza de que deseja destruir o cluster?
+Dashboard || Dashboard
+News || Notícias
+LSLB || LSLB
+Farms || Fazendas
+SSL Certificates || Certificados SSL
+Generate csr || Gerar csr
+Stats || Estatísticas
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || Configurações
+Blacklists || As listas negras
+DoS || DoS
+RBL || RBL
+Rules || Regras
+Domains || domínios
+WAF || WAF
+Rulesets || Conjuntos de Regras
+Files || Arquivos
+Monitoring || Monitoramento
+Graphs || Gráficos
+Farmguardians || Farmguardians
+Network || Conecte-se 
+NIC || NIC
+Bonding || Bonding
+VLAN || VLAN
+Virtual Interfaces || Interfaces Virtuais
+Floating IPs || IP flutuantes
+Gateway || porta de entrada
+Aliases || Alias
+Routing || Roteamento
+Tables || tabelas
+System || Sistema
+RBAC || RBAC
+Users || usuários
+Groups || grupos
+Roles || papéis
+Local Services || Serviços locais
+Remote Services || Serviços Remotos
+Cluster || Agrupar
+Backups || backups
+Notifications || Notificações
+User || Usuário
+Logs || Logs
+Activation Certificate || Certificado de Ativação
+License || licença
+SupportSave || Suporte
+Factory Reset || Reajuste de fábrica

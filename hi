@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| अपने उपयोगकर्ता नाम और पासवर्ड के साथ साइन इन करें
-Success!|| सफलता!
-Username|| उपयोगकर्ता नाम
-User should be the real one!|| उपयोगकर्ता वास्तविक होना चाहिए!
-Password should contains from {{min}} to {{max}} characters|| पासवर्ड में {{min}} से लेकर {{max}} अक्षर तक होने चाहिए
-Sign In|| साइन इन करें
-Logging out, please wait...|| लॉग आउट, कृपया प्रतीक्षा करें ...
-Package list to upgrade|| उन्नयन के लिए पैकेज सूची
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| सिस्टम को अपग्रेड करने के लिए, कृपया निम्नलिखित कमांड में एक शेल निष्पादित करें: 'चेकअपग्रेडेस -आई'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * यह जानकारी दैनिक रूप से अपडेट की जाती है, यदि आप चेक रन को बाध्य करना चाहते हैं <code>checkupgrades</code> कमांड लाइन से।
-No activation certificate|| कोई सक्रियण प्रमाणपत्र नहीं
-There isn't a valid ZEVENET certificate file, please request a new one|| कोई मान्य ZEVENET प्रमाणपत्र फ़ाइल नहीं है, कृपया एक नया अनुरोध करें
-Certificate Key|| प्रमाणपत्र कुंजी
-Activation Certificate file|| सक्रियण प्रमाणपत्र फ़ाइल
-Activation Data|| सक्रियण डेटा
-Copy data to the clipboard|| क्लिपबोर्ड पर डेटा कॉपी करें
-Activation Certificate|| सक्रियण प्रमाण पत्र
-Select an activation certificate|| एक सक्रियण प्रमाणपत्र चुनें
-Upload Activation Certificate|| सक्रियण प्रमाणपत्र अपलोड करें
-No Support|| समर्थन नहीं
-Certificate expired|| प्रमाणपत्र समाप्त हो गया
-Support expired|| समर्थन समाप्त हो गया
-Certificate expires in {{param}} {{param2}}|| प्रमाणपत्र {{param}} {{param2}} में समाप्त हो रहा है
-Support expires in {{param}} {{param2}}|| {{Param}} {{param2}} में समय सीमा समाप्त
-The activation certificate has been uploaded successfully.|| सक्रियण प्रमाणपत्र सफलतापूर्वक अपलोड किया गया है।
-The Activation Certificate has been deleted successfully.|| सक्रियण प्रमाणपत्र सफलतापूर्वक हटा दिया गया है।
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| क्या आप सक्रियण प्रमाणपत्र हटाना चाहते हैं \\n यदि आप इसे हटाते हैं तो आप GUI तक पहुँच खो देंगे, जब तक कि दूसरा प्रमाण पत्र अपलोड न हो जाए
-Upload|| अपलोड
-Uploading|| अपलोड हो रहा है
-Add|| जोड़ना
-Disable maintenance|| रखरखाव अक्षम करें
-Enable maintenance|| रखरखाव सक्षम करें
-Drain mode|| नाली मोड
-Cut mode|| कट मोड
-Edit|| संपादित करें
-Configure|| कॉन्फ़िगर
-Save|| सहेजें
-Add Variable|| चर जोड़ें
-Bring|| लाना
-Export|| निर्यात
-All data|| सभी डेटा
-Only selected|| केवल चयनित
-Apply|| लागू करें
-Create|| बनाएं
-Cancel|| रद्द करना
-Submit|| सब्मिट
-New Service|| नई सेवा
-New Zone|| नया क्षेत्र
-New Route|| नया मार्ग
-Basic|| बुनियादी
-Advanced|| उन्नत
-Generate|| उत्पन्न
-Generating|| उत्पादक
-Delete|| मिटाना
-Bring Up|| लाना
-Bring down|| निचे लाओ
-Restart|| पुनः प्रारंभ
-Restarting|| पुन: प्रारंभ हो
-Start|| प्रारंभ
-Stop|| रुकें
-Unset|| अनसेट
-Enable|| सक्षम
-Disable|| अक्षम
-Remove|| हटाना
-Download|| डाउनलोड
-Downloading|| डाउनलोडिंग
-Update|| अपडेट
-New Rule|| नए नियम
-Next|| आगामी
-Back|| वापस
-Generate Random MAC|| रैंडम मैक उत्पन्न करें
-Destroy|| नष्ट
-Test Email|| ईमेल का परीक्षण करें
-Generate Random Key|| रैंडम कुंजी उत्पन्न करें
-Upload Certificate|| अपलोड प्रमाणपत्र
-Delete Certificate|| प्रमाण पत्र हटाएं
-List|| सूची
-Menu|| मेन्यू
-Modify|| सुधारे
-Show|| दिखाना
-Action|| कार्य
-Test|| परीक्षण
-Schedule|| अनुसूची
-Upgrade|| नवीनीकरण
-View|| राय
-Info|| जानकारी
-Test Connectivity|| टेस्ट कनेक्टिविटी
-Show certificate|| प्रमाण पत्र दिखाएं
-Force Changes|| बल परिवर्तन
-Page Not Found|| पृष्ठ नहीं मिला
-The page you were looking for doesn't exist|| आप जिस पृष्ठ की तलाश कर रहे थे वह मौजूद नहीं है
-Take me home|| मुझे घर ले चलो
-Status|| स्थिति
-Actions|| क्रियाएँ
-Name|| नाम
-ID||  ID
-Alias|| उर्फ
-IP||  IP
-Interface|| इंटरफेस
-Priority|| प्राथमिकता
-Port|| बंदरगाह
-Weight|| वजन
-Max. Conns|| मैक्स। Conns
-Name|| नाम
-Virtual IP|| वर्चुअल आईपी
-Vitual Port|| विटियल पोर्ट
-Virtual IP and Port|| वर्चुअल आईपी और पोर्ट
-Default TCP port health check|| डिफ़ॉल्ट टीसीपी पोर्ट स्वास्थ्य जांच
-Health Checks for backend|| बैकएंड के लिए स्वास्थ्य जांच
-Default Name Server|| डिफ़ॉल्ट नाम सर्वर
-Type|| प्रकार
-Data|| जानकारी
-Profile|| प्रोफाइल
-HTTPS Parameters|| HTTPS पैरामीटर
-Ciphers|| सिफर
-Custom ciphers|| कस्टम सिफर
-Protocol type|| प्रोटोकॉल प्रकार
-NAT type|| NAT प्रकार
-Rewrite location headers|| स्थान हेडर को फिर से लिखें
-HTTP verbs accepted|| HTTP क्रियाओं को स्वीकार किया
-Ignore 100 continue|| 100 को अनदेखा करना जारी रखें
-Backend connection timeout|| बैकएंड कनेक्शन टाइमआउट
-Backend response timeout|| बैकएंड रिस्पांस टाइमआउट
-Frequency to check resurrected backends|| पुनर्जीवित बैकेंड की जांच करने की आवृत्ति
-Client request timeout|| ग्राहक अनुरोध समयबाह्य
-Message Error|| संदेश त्रुटि
-Request Headers|| अनुरोध हेड
-Response Headers|| रिस्पांस हेडर
-Persistence|| हठ
-Persistence session time to live|| जीवन निर्वाह का समय
-TTL|| टीटीएल
-Persistence session identifier|| दृढ़ता सत्र पहचानकर्ता
-Virtual IP|| वर्चुअल आईपी
-Load balancing Scheduler|| लोड संतुलन समयबद्धक
-Algorithm|| कलन विधि
-Round Robin|| आवेदनपत्र
-Virtual Host|| वर्चुअल होस्ट
-URL Pattern|| URL पैटर्न
-Least Response|| कम से कम प्रतिक्रिया
-HTTPS Backends|| HTTPS बैकेंड
-STS Header|| एसटीएस हैडर
-Timeout|| मध्यांतर
-Redirect|| पुन: निर्देशित
-Redirect URL|| रीडायरेक्ट URL
-Redirect Type|| पुनर्निर्देशित प्रकार
-Redirect Code|| अनुप्रेषित कोड
-Cookie Insert|| कुकी डालें
-Cookie Name|| कुकी नाम
-Cookie Domain|| कुकी डोमेन
-Cookie Path|| कुकी पथ
-Cookie TTL|| कुकी टीटीएल
-Locality|| लोकैलिटी
-Country|| देश
-State/Province|| राज्य / प्रांत
-Common Name|| साधारण नाम
-Organization|| संगठन"
-Division|| विभाजन
-E-mail Address|| ईमेल पता
-File|| पट्टिका
-Issuer|| जारीकर्ता
-Creation|| निर्माण
-Expiration|| समाप्ति
-Certificate|| प्रमाणपत्र
-Established Conns|| स्थापित शंकु
-Pending Conns|| लंबित शंकु
-Service|| सर्विस
-Session ID|| सत्र आईडी
-Backend ID|| बैकएंड आईडी
-Requests|| अनुरोधों
-Failed REQ|| विफल रहा
-Failed RES|| आरईएस फेल हो गया
-Truncated Resp TC|| छंटनी की गई प्रतिक्रिया टीसी
-Extended DNS Big|| विस्तारित DNS बड़ा
-Extended DNS TC|| विस्तारित DNS टीसी
-No Error|| कोई ग़लती नहीं
-Refused|| से इनकार कर दिया
-Non-existent Domain|| गैर-मौजूद डोमेन
-Notimp|| Notimp
-Bad Version|| खराब संस्करण
-Format Error|| प्रारूप में त्रुटि
-Dropped|| गिरा
-V6||  V6
-Extended DNS|| विस्तारित DNS
-Extended DNS-ClientSub|| विस्तारित DNS-ClientSub
-Client|| ग्राहक
-Listerner|| Listerner
-Value|| वैल्यू 
-Custom IP|| कस्टम आईपी
-Policy|| नीति
-Remote URL|| दूरस्थ URL
-Frequency|| आवृत्ति
-Rule|| नियम
-Limit RST request per source IP|| स्रोत IP प्रति RST अनुरोध सीमित करें
-Total connections per source IP|| स्रोत आईपी प्रति कुल कनेक्शन
-Limit Burst|| सीमा तोड़ दो
-Total connections limit per source IP|| स्रोत आईपी प्रति कुल कनेक्शन सीमा
-Hits|| हिट्स
-Time|| पहर
-Log level|| छांटने का स्तर
-Only logging|| केवल लॉगिंग है
-Local traffic|| स्थानीय यातायात
-Queue size|| कतार का आकार
-Max. Threads|| मैक्स। धागे
-Cache size|| कैचे आकार
-Cache time|| कैश समय
-Check Request Body|| अनुरोध बॉडी की जाँच करें
-Check Response Body|| रिस्पांस बॉडी की जांच करें
-Request Body Limit|| शारीरिक सीमा का अनुरोध करें
-Default Phase|| डिफ़ॉल्ट चरण
-Default Log|| डिफ़ॉल्ट लॉग
-Rules|| नियम
-Rule Type|| नियम प्रकार
-Mark|| मार्क
-Phase|| चरण
-Resolution|| संकल्प
-Rule ID|| नियम आईडी
-Skip|| स्किप
-Skip after|| के बाद छोड़ दें
-Execute|| निष्पादित करना
-Description|| विवरण
-Interval|| अंतराल
-Cut connections|| कनेक्शन काटें
-Command|| आदेश
-MAC|| मैक
-Netmask|| netmask
-Farms|| फार्म
-Gateway|| प्रवेश द्वार
-IP Address|| आईपी ​​एड्रेस
-CIDR|| सीआईडीआर
-Mode|| मोड
-Slaves|| गुलाम
-Parent Interface|| जनक इंटरफ़ेस
-Address|| पता
-Host|| मेजबान
-Date|| तारीख
-Alert|| चेतावनी
-Password|| पासवर्ड
-Log|| लॉग इन
-ZAPI Permissions|| ZAPI अनुमतियाँ
-GUI Permissions|| जीयूआई अनुमतियाँ
-Role|| भूमिका
-Rules Date|| नियम तिथि
-Scheduled|| अनुसूचित
-Variable|| परिवर्तनीय
-Variable's argument|| चर का तर्क
-Ignore this <i>variable</i> for the match|| इस पर ध्यान मत दें <i>परिवर्तनशील</i> मैच के लिए
-Count elements of <i>variables</i>|| के तत्वों को गिनें <i>चर</i>
-Variables|| चर
-Transformations|| परिवर्तनों
-Operating|| परिचालन
-Multi Match|| मल्टी मैच
-Not Match|| मेल नहीं करता
-Operator|| ऑपरेटर
-Module|| मॉड्यूल
-Floating IP|| फ्लोटिंग आई.पी.
-Interfaces|| इंटरफेस
-Group|| समूह
-Virtual Interface|| वर्चुअल इंटरफ़ेस
-URL|| यूआरएल
-From|| से
-Table|| तालिका
-To|| सेवा मेरे
-Route|| मार्ग
-Via|| के माध्यम से
-Backend Alias|| बैकएंड अलियास
-Version|| संस्करण
-System|| प्रणाली
-Failback|| फेलबैक
-Check Interval|| अंतराल की जाँच करें
-Node|| आसंधि
-Message|| संदेश
-Hostname|| मेजबाननाम
-No {{param}} found|| कोई {{परम}} नहीं मिला
-Edit|| संपादित करें
-Global|| वैश्विक
-Services|| सेवा
-Select a {{param}}|| {{Param}} का चयन करें
-Resources|| रिसोर्सेज 
-Backends|| backends
-Strict Transport Security|| सख्त परिवहन सुरक्षा
-Farms Stats|| खेतों के आँकड़े
-Copy to clipboard|| क्लिपबोर्ड पर कॉपी करें
-Hide nodes|| नोड छिपाएं
-Show nodes|| नोड्स दिखाएं
-Hide backends|| बैकएंड छिपाएं
-Show backends|| बैकएंड दिखाओ
-Hide graphs|| रेखांकन छिपाएँ
-Show graphs|| रेखांकन दिखाएं
-Sessions|| सत्र
-Clients|| ग्राहक
-Servers|| सर्वर
-Extended|| विस्तृत
-Nodes|| नोड्स
-Number of lines|| लाइनों की संख्या
-View All|| सभी को देखें
-View Less|| कम देखें
-Valid|| वैध
-Expired|| समय सीमा समाप्त
-Near to expire|| समाप्त होने के करीब
-True|| यह सच है
-False|| झूठा
-No configured|| कोई कॉन्फ़िगर नहीं किया गया
-In use by bonding interface|| संबंध इंटरफ़ेस द्वारा उपयोग में
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| इस इंटरफ़ेस को संशोधित करने में सक्षम होने से पहले क्लस्टर सेवा इंटरफ़ेस को परिवर्तित या अक्षम करना होगा
-Enabled|| सक्षम
-Disabled|| विकलांग
-Needed restart|| पुनः आरंभ करने की आवश्यकता है
-Critical|| आलोचनात्मक
-Problem|| मुसीबत
-Maintenance|| रखरखाव
-Master|| स्वामी
-Backup|| बैकअप
-Not configured|| कॉन्फ़िगर नहीं
-Undefined|| अपरिभाषित
-Daily Graph|| दैनिक ग्राफ़
-Weekly Graph|| साप्ताहिक ग्राफ
-Monthly Graph|| मासिक ग्राफ
-Yearly Graph|| वार्षिक ग्राफ
-Documentation|| प्रलेखन
-Reload farmguardian list|| रीलोडेड फ़सल गार्डियन सूची
-Cookie|| कुकी
-Zones|| जोन
-System Stats|| सिस्टम आँकड़े
-CPU|| सी पी यू
-Memory|| याद
-Load|| भार
-Cores|| कोर
-Traffic In|| यातायात में
-Traffic Out|| ट्रैफिक आउट
-Nothing|| कुछ नहीं
-Custom|| रिवाज
-All interfaces|| सभी इंटरफेस
-All farms|| सभी खेतों
-Default State|| डिफ़ॉल्ट स्थिति
-Up||  Up
-Down|| नीचे
-Installed and updated|| स्थापित और अद्यतन
-Not installed|| स्थापित नहीं है
-Updates available|| अद्यतन उपलब्ध
-Interface|| इंटरफेस
-Type|| प्रकार
-Zone|| क्षेत्र
-Transformation|| परिवर्तन
-Backend|| बैकएण्ड
-Condition|| शर्त
-Domain|| डोमेन
-Resource|| संसाधन
-Graph|| ग्राफ
-Session|| अधिवेशन
-IP alias|| आईपी ​​उर्फ
-Interface alias|| इंटरफ़ेस उपनाम
-Backup|| बैकअप
-Farm|| खेत
-Header|| हैडर
-Pattern|| पैटर्न
-Source|| स्रोत
-Blacklist|| काला सूची में डालना
-Farmguardian|| Farmguardian
-Package|| पैकेज
-DoS rule|| DoS नियम
-RBL rule|| आरबीएल नियम
-WAF ruleset|| WAF नियम
-VLAN|| VLAN
-Routing Rule|| रूल नियम
-Routing Table|| मर्गदर्शक सारणी
-Needed restart|| पुनः आरंभ करने की आवश्यकता है
-There're changes that need to be applied, restart the farm to apply them!|| ऐसे परिवर्तन हैं जिन्हें लागू करने की आवश्यकता है, उन्हें लागू करने के लिए खेत को फिर से शुरू करें!
-Close|| समापन
-The <strong> factory reset </strong> has been completed successfully.|| पिछली कक्षा का  <strong> नए यंत्र जैसी सेटिंग </strong> सफलतापूर्वक पूरा कर लिया गया है।
-The interface <strong> {{name}} </strong> has been updated successfully.|| अंतरपटल <strong> {{name}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong>HTTP Service</strong> has been updated successfully.|| पिछली कक्षा का  <strong>HTTP सेवा</strong> सफलतापूर्वक अपडेट कर दिया गया है।
-An error has occurred on the server, try again later|| सर्वर पर एक त्रुटि हुई है, बाद में पुन: प्रयास करें
-Connection to web server failed|| वेब सर्वर से कनेक्शन विफल रहा
-An unexpected error has occurred|| एक अनपेक्षित त्रुटि हो गई है
-System Information|| सिस्टम जानकारी
-ZEVENET Version|| ZEVENET संस्करण
-Appliance Version|| उपकरण संस्करण
-Kernel Version|| कर्नेल संस्करण
-System Date|| सिस्टम का दिनांक
-NIC Traffic|| एनआईसी ट्रैफिक
-Total number of connections in realtime.|| रीयलटाइम में कुल कनेक्शन की संख्या।
-Connections|| कनेक्शन
-Professional Products|| व्यावसायिक उत्पाद
-Professional Services|| व्यवसायी सेवाए
-No Virtual Interfaces|| कोई वर्चुअल इंटरफेस नहीं
-No VLANs|| कोई वीएलएएन नहीं
-Create DSLB Farm|| डीएसएलबी फार्म बनाएं
-Create Virtual interface|| वर्चुअल इंटरफ़ेस बनाएँ
-Create GSLB Farm|| GSLB फार्म बनाएँ
-Generate CSR|| CSR उत्पन्न करें
-Create LSLB Farm|| LSLB फार्म बनाएँ
-Upload SSL Certificate|| SSL प्रमाणपत्र अपलोड करें
-Create Blacklist|| ब्लैकलिस्ट बनाएं
-Create DoS rule|| DoS नियम बनाएँ
-Create RBL rule|| RBL नियम बनाएँ
-Create WAF ruleset|| WAF नियम बनाएं
-Create Rule|| नियम बनाएं
-Create Farmguardian|| फार्मगार्डियन बनाएं
-Create Bonding interface|| संबंध इंटरफ़ेस बनाएँ
-Create VLAN interface|| VLAN इंटरफ़ेस बनाएँ
-Upload Backup|| बैकअप अपलोड करें
-Create Backup|| बैकअप बनाएं
-Create User|| प्रयोक्ता बनाएँ
-Create Group|| समूह बनाना
-Create Role|| भूमिका बनाएँ
-Create Route|| रूट बनाएं
-is required|| आवश्यकता है
-is not valid, it only is possible alphanumeric characters and dash (-).|| मान्य नहीं है, यह केवल अल्फ़ान्यूमेरिक वर्ण और डैश (-) संभव है।
-Only editable when the farm is down.|| खेत नीचे होने पर ही संपादन योग्य।
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| वर्चुअल पोर्ट मान्य नहीं है, एकल पोर्ट, कई पोर्ट या पोर्ट की श्रेणी को परिभाषित करना संभव है (उदा: 80 या 80,81 या 80: 90)
-has to be greater than 0|| 0 से अधिक होना चाहिए
-Redirect should be a URL (http(s)://...)|| रीडायरेक्ट URL होना चाहिए (http (s): //…)
-Country can only have two characters.|| देश में केवल दो वर्ण हो सकते हैं।
-E-mail has to be a valid email|| ई-मेल के लिए एक वैध ईमेल होना चाहिए
-The password does not match|| पासवर्ड मेल नहीं खाता है
-has to be a value between {{min}} and {{max}}|| {{min}} और {{max}} के बीच का मान होना चाहिए
-Global Settings|| वैश्विक व्यवस्था
-IPDS Settings|| आईपीडीएस सेटिंग्स
-Advanced Settings|| उन्नत सेटिंग्स
-Domains Settings|| डोमेन सेटिंग्स
-Rules Settings|| नियम सेटिंग्स
-Blacklists rules|| ब्लैकलिस्ट नियम
-DoS rules|| DoS नियम
-RBL rules|| आरबीएल नियम
-WAF rulesets|| WAF नियम
-Services Settings|| सेवाएँ सेटिंग्स
-Zones Settings|| जोन सेटिंग्स
-Global Filter|| ग्लोबल फ़िल्टर
-Refresh|| ताज़ा करना
-Seconds|| सेकंड
-per second|| प्रति सेकंड
-Refresh status every|| हर स्थिति को ताज़ा करें
-Refresh stats every|| हर ताज़ा आँकड़े
-Not refresh|| रिफ्रेश नहीं
-Farms Settings|| फार्म सेटिंग्स
-Minutes|| मिनटों
-Hours|| घंटे
-Monday|| सोमवार
-Tuesday|| मंगलवार
-Wednesday|| बुधवार
-Thursday|| बृहस्पतिवार
-Friday|| शुक्रवार
-Saturday|| शनिवार
-Sunday|| रविवार
-Deny|| Deny
-Allow|| अनुमति देना
-Daily|| दैनिक
-Weekly|| साप्ताहिक
-Monthly|| मासिक
-entries|| प्रविष्टियों
-threads|| धागे
-Sort|| तरह
-SORT MODE: Drag and drop the service to the desired position.|| SORT MODE: इच्छित स्थान पर सेवा को खींचें और छोड़ें।
-The farm will be restarted automatically.|| खेत अपने आप फिर से चालू हो जाएगा।
-bytes|| बाइट्स
-Default is|| डिफ़ॉल्ट है
-Optional|| ऐच्छिक
-days|| दिन
-Go to|| करने के लिए जाओ
-Edit in form mode|| फॉर्म मोड में संपादित करें
-Edit in raw mode|| कच्चे मोड में संपादित करें
-Create in form mode|| फॉर्म मोड में बनाएं
-Create in raw mode|| कच्चे मोड में बनाएँ
-Available certificates|| उपलब्ध प्रमाण पत्र
-Enabled certificates|| सक्षम प्रमाण पत्र
-Search certificate|| प्रमाण पत्र खोजें
-Available blacklists|| उपलब्ध ब्लैक लिस्ट
-Enabled blacklists|| सक्षम कालाकारों
-Search blacklist|| काली सूची में खोजें
-Available DoS rules|| उपलब्ध DoS नियम
-Enabled DoS rules|| सक्षम DoS नियम
-Search DoS rule|| DoS नियम खोजें
-Available RBL rules|| उपलब्ध आरबीएल नियम
-Enabled RBL rules|| सक्षम RBL नियम
-Search RBL rule|| RBL नियम खोजें
-Available WAF rulesets|| उपलब्ध WAF नियम
-Enabled WAF rulesets|| सक्षम WAF नियम
-Search WAF ruleset|| WAF नियम खोजें
-Available farms|| उपलब्ध खेतों
-Enabled farms|| सक्षम खेतों
-Search farm|| खोज खेत
-Available domains|| उपलब्ध डोमेन
-Enabled domains|| सक्षम डोमेन
-Search domain|| डोमेन खोजें
-Enabled rules|| सक्षम नियम
-Disabled rules|| विकलांग नियम
-Search rule|| नियम खोजें
-Available NICs|| उपलब्ध एनआईसी
-Enabled NICs|| सक्षम एनआईसी
-Search NIC|| एनआईसी खोजें
-Search slaves|| गुलामों की तलाश करो
-Slaves NICs|| दास एनआईसी
-Available users|| उपलब्ध उपयोगकर्ता
-Enabled users|| सक्षम उपयोगकर्ता
-Search user|| उपयोगकर्ता खोजें
-Available interfaces|| उपलब्ध इंटरफेस
-Enabled interfaces|| सक्षम इंटरफेस
-Search interface|| खोज इंटरफ़ेस
-Managed interfaces|| प्रबंधित इंटरफेस
-Unmanaged interfaces|| अव्यवस्थित इंटरफेस
-Search interface|| खोज इंटरफ़ेस
-LSLB Farm List|| एलएसएलबी फार्म लिस्ट
-GSLB Farm List|| जीएसएलबी फार्म लिस्ट
-DSLB Farm List|| डीएसएलबी फार्म लिस्ट
-Copy farm|| खेत की नकल
-Farm to copy|| नकल करने के लिए खेत
-Select the farm to copy|| कॉपी करने के लिए खेत का चयन करें
-Weight: connection linear dispatching by weight|| वजन: कनेक्शन रैखिक वजन द्वारा भेजना
-Priority: connections always to the most prio available|| प्राथमिकता: हमेशा उपलब्ध सबसे बेशकीमती के लिए कनेक्शन
-Source Hash: Hash per Source IP and Source Port|| सोर्स हैश: हैश प्रति सोर्स आईपी और सोर्स पोर्ट
-Simple Source Hash: Hash per Source IP only|| सरल स्रोत हैश: केवल स्रोत आईपी प्रति हैश
-Symmetric Hash: Round trip hash per IP and Port|| सममित हैश: गोल यात्रा हैश प्रति आईपी और पोर्ट
-Round Robin: Sequential backend selection|| राउंड रॉबिन: अनुक्रमिक बैकएंड चयन
-Least Connections: connections to the least open conns available|| कम से कम कनेक्शन: उपलब्ध कम से कम खुले कनेक्शन के कनेक्शन
-Disabled|| विकलांग
-Enabled|| सक्षम
-Enabled and compare backends|| सक्षम और बैकएंड की तुलना करें
-No persistence|| कोई दृढ़ता नहीं
-IP: Source IP|| आईपी: स्रोत आईपी
-Port: Source Por|| पोर्ट: स्रोत पोर
-MAC: Source MAC|| मैक: स्रोत मैक
-Source IP and Source Port|| स्रोत आईपी और स्रोत पोर्ट
-Source IP and Destination Port|| स्रोत आईपी और गंतव्य बंदरगाह
-No persistence|| कोई दृढ़ता नहीं
-IP: Client address|| आईपी: क्लाइंट का पता
-BASIC: Basic authentication|| बुनियादी: मूल प्रमाणीकरण
-URL: A request parameter|| URL: एक अनुरोध पैरामीटर
-PARM: An URI parameter|| PARM: एक URI पैरामीटर
-COOKIE: A certain cookie|| कूकी: एक निश्चित कुकी
-HEADER: A certain request header|| हेडर: एक निश्चित अनुरोध हैडर
-The farm has been updated successfully|| खेत को सफलतापूर्वक अपडेट किया गया है
-The farm <strong> {{param}} </strong> has been deleted successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The farm <strong> {{param}} </strong> has been started successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक शुरू किया गया है।
-The farm <strong> {{param}} </strong> has been restarted successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक पुनः आरंभ किया गया है।
-The farm <strong> {{param}} </strong> has been stopped successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक रोक दिया गया है।
-The farm <strong> {{param}} </strong> has been created successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The backend has been created successfully.|| बैकएंड को सफलतापूर्वक बनाया गया है।
-The backend has been updated successfully.|| बैकएंड को सफलतापूर्वक अपडेट किया गया है।
-The backend <strong> {{param}} </strong> has been deleted successfully.|| बैकेंड <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| बैकेंड <strong> {{param}} </strong> सफलतापूर्वक रखरखाव में डाल दिया गया है।
-The backend <strong> {{param}} </strong> has been upped successfully.|| बैकेंड <strong> {{param}} </strong> सफलतापूर्वक काटा गया है।
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| उच्च प्राथमिकता मूल्य के साथ समर्थन करता है <strong> {{param}} </strong> उपयोग नहीं किया जाएगा।
-The resource has been created successfully.|| संसाधन सफलतापूर्वक बनाया गया है।
-The resource has been updated successfully.|| संसाधन को सफलतापूर्वक अपडेट कर दिया गया है।
-The backend <strong> {{param}} </strong> has been deleted successfully.|| बैकेंड <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक हल किया गया है।
-The service <strong> {{param}} </strong> has been created successfully.|| सेवा <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The service <strong> {{param}} </strong> has been updated successfully.|| सेवा <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The service <strong> {{param}} </strong> has been deleted successfully.|| सेवा <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The service <strong> {{param}} </strong> has been moved successfully.|| सेवा <strong> {{param}} </strong> सफलतापूर्वक स्थानांतरित कर दिया गया है।
-The farmguardians list has been reloaded successfully.|| फार्मगार्डियन सूची को सफलतापूर्वक लोड किया गया है।
-The farmguardian has been disabled successfully.|| फ़ार्मगार्डियन को सफलतापूर्वक अक्षम कर दिया गया है।
-The farmguardian has been changed to {{param}} successfully.|| फार्मगार्डियन को सफलतापूर्वक {{param}} में बदल दिया गया है।
-The zone <strong> {{param}} </strong> has been created successfully.|| ज़ोन <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The zone <strong> {{param}} </strong> has been updated successfully.|| ज़ोन <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The zone <strong> {{param}} </strong> has been deleted successfully.|| ज़ोन <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| कालीसूची <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| कालीसूची <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| DoS नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| DoS नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| आरबीएल नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| आरबीएल नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| WAF नियम <strong> {{param}} </strong> सफलतापूर्वक हल किया गया है।
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| WAF नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| WAF नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
-The profile has been changed to {{param}} successfully.|| प्रोफ़ाइल को सफलतापूर्वक {{param}} में बदल दिया गया है।
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| एल्गोरिथ्म को वजन एल्गोरिथ्म में बदल दिया गया है, क्योंकि कम से कम कनेक्शन एल्गोरिथ्म को चयनित NAT प्रकार के साथ अनुमति नहीं है। आप सेवाओं टैब से एक और एल्गोरिथ्म चुन सकते हैं।
-The request header has been saved successfully.|| अनुरोध शीर्षलेख को सफलतापूर्वक सहेजा गया है।
-The request header has been deleted successfully.|| अनुरोध शीर्षलेख सफलतापूर्वक हटा दिया गया है।
-The request header pattern has been saved successfully.|| अनुरोध शीर्ष लेख पैटर्न सफलतापूर्वक सहेजा गया है।
-The request header pattern has been deleted successfully.|| अनुरोध शीर्ष लेख पैटर्न सफलतापूर्वक हटा दिया गया है।
-The response header has been saved successfully.|| प्रतिक्रिया शीर्षलेख को सफलतापूर्वक सहेजा गया है।
-The response header has been deleted successfully.|| प्रतिक्रिया शीर्षलेख को सफलतापूर्वक हटा दिया गया है।
-The response header pattern has been saved successfully.|| प्रतिक्रिया हेडर पैटर्न को सफलतापूर्वक सहेजा गया है।
-The response header pattern has been deleted successfully.|| प्रतिक्रिया शीर्ष लेख पैटर्न सफलतापूर्वक हटा दिया गया है।
-The service has to have one backend at least.|| सेवा में कम से कम एक बैकेंड होना चाहिए।
-Are you sure you want to delete the farm {{param}}?|| क्या आप वाकई {{param}} खेत को हटाना चाहते हैं?
-Are you sure you want to delete the selected farms?|| क्या आप वाकई चयनित फ़ार्मों को हटाना चाहते हैं?
-Are you sure you want to delete the service {{param}}?|| क्या आप वाकई {{param}} सेवा को हटाना चाहते हैं?
-Are you sure you want to delete the zone {{param}}?|| क्या आप वाकई {{param}} क्षेत्र को हटाना चाहते हैं?
-Are you sure you want to delete the selected resources?|| क्या आप वाकई चयनित संसाधनों को हटाना चाहते हैं?
-Are you sure you want to delete the resource {{param}}?|| क्या आप वाकई {{param}} संसाधन को हटाना चाहते हैं?
-Are you sure you want to delete the backend {{param}}?|| क्या आप वाकई {{param}} बैकएंड को हटाना चाहते हैं?
-Are you sure you want to delete the selected backends?|| क्या आप वाकई चयनित बैकेंड को हटाना चाहते हैं?
-Are you sure you want to delete the request header with ID {{id}}?|| क्या आप वाकई आईडी {{आईडी}} के साथ अनुरोध हेडर को हटाना चाहते हैं?
-Are you sure you want to delete the request header pattern with ID {{id}}?|| क्या आप वाकई आईडी {{आईडी}} के साथ अनुरोध हेडर पैटर्न हटाना चाहते हैं?
-Are you sure you want to delete the selected request headers?|| क्या आप वाकई चयनित अनुरोध शीर्षलेख हटाना चाहते हैं?
-Are you sure you want to delete the selected request headers patterns?|| क्या आप वाकई चयनित अनुरोध हेडर पैटर्न हटाना चाहते हैं?
-Are you sure you want to delete the response header with ID {{id}}?|| क्या आप वाकई आईडी {{आईडी}} के साथ प्रतिक्रिया हेडर को हटाना चाहते हैं?
-Are you sure you want to delete the response header pattern with ID {{id}}?|| क्या आप वाकई आईडी {{आईडी}} के साथ प्रतिक्रिया हेडर पैटर्न को हटाना चाहते हैं?
-Are you sure you want to delete the selected response headers?|| क्या आप वाकई चयनित हेडर को हटाना चाहते हैं?
-Are you sure you want to delete the selected response headers patterns?|| क्या आप वाकई चयनित प्रतिक्रिया शीर्षलेख पैटर्न हटाना चाहते हैं?
-Are you sure you want to delete the {{param}} blacklist?|| क्या आप वाकई {{param}} को ब्लैकलिस्ट करना चाहते हैं?
-Are you sure you want to delete the selected blacklists?|| क्या आप वाकई चयनित ब्लैकलिस्ट को हटाना चाहते हैं?
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| इंटरफ़ेस का गेटवे {{param}} हटा दिया जाएगा और इस खेत को बदल दिया जाएगा। क्या आप जारी रखना चाहते हैं?
-SSL Certificate list|| एसएसएल प्रमाणपत्र सूची
-Choose one certificate|| एक प्रमाण पत्र चुनें
-Choose one or more files|| एक या अधिक फाइलें चुनें
-Selected files|| चयनित फ़ाइलें
-Descriptive text, this name will be used to identify this certificate.|| वर्णनात्मक पाठ, इस नाम का उपयोग इस प्रमाण पत्र की पहचान करने के लिए किया जाएगा।
-City where your organization is located.|| शहर जहां आपका संगठन स्थित है।
-Country (two characters) where your organization is located.|| देश (दो अक्षर) जहां आपका संगठन स्थित है।
-State or province where your organization is located.|| राज्य या प्रांत जहां आपका संगठन स्थित है।
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| सर्वर का FQDN। उदाहरण: domain.com, mail.domain.com, या * .domain.com।
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| आपके संगठन / कंपनी का पूर्ण कानूनी नाम (उदा .: ZEVENET Co.)
-Your department; such as 'IT','Web', 'Office', etc.|| आपका विभाग; जैसे 'आईटी', 'वेब', 'ऑफिस', आदि।
-Your email address|| आपका ईमेल पता
-The CSR <strong> {{param}} </strong> has been generated successfully.|| सीएसआर <strong> {{param}} </strong> सफलतापूर्वक उत्पन्न किया गया है।
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक अपलोड किया गया है।
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
-Are you sure you want to delete the certificate {{param}}?|| क्या आप वाकई {{param}} प्रमाणपत्र को हटाना चाहते हैं?
-Are you sure you want to delete the selected certificates?|| क्या आप वाकई चयनित प्रमाणपत्र हटाना चाहते हैं?
-Updates|| अपडेट
-Update list|| अद्यतन सूची
-Period time|| अवधि समय
-Exact time|| सही समय
-Daily every|| हर रोज
-Day of the week|| हफ्ते का दिन
-Day of the month|| महीने का दिन
-Sources|| सूत्रों का कहना है
-DoS rules IPDS|| DoS आईपीडीएस नियम
-RBL rules IPDS|| आरबीएल आईपीडीएस के नियम
-Copy rule|| नियम की प्रति
-Rule to copy|| नकल करने का नियम
-Ruleset to copy|| कॉपी करने का नियम
-Select the rule to copy|| कॉपी करने के लिए नियम का चयन करें
-Select the ruleset to copy|| कॉपी करने के लिए नियम का चयन करें
-Custom Domain List|| कस्टम डोमेन सूची
-Preloaded Domain List|| प्रीलोडेड डोमेन सूची
-WAF rulesets IPDS|| WAF ने IPDS को नियंत्रित किया
-Default Action|| डिफ़ॉल्ट क्रिया
-Disable Rules|| नियमों को अक्षम करें
-IPDS Package Updates|| आईपीडीएस पैकेज अपडेट
-Conditions|| स्थितियां
-Flow|| फ्लो
-WAF File List|| WAF फ़ाइल सूची
-WAF file|| WAF फ़ाइल
-Content File|| सामग्री फ़ाइल
-Select files|| फ़ाइलें चुनें
-Select a file|| किसी फाइल का चयन करें
-Select transformations|| परिवर्तनों का चयन करें
-Connection limit per second.|| कनेक्शन सीमा प्रति सेकंड।
-Total connections limit per source IP.|| स्रोत आईपी प्रति कुल कनेक्शन सीमा।
-Check bogus TCP flags.|| फर्जी टीसीपी झंडे की जाँच करें।
-Limit RST request per second.|| प्रति सेकंड RST अनुरोध सीमित करें।
-Allow: Finish the WAF processing and complete the HTTP transaction|| अनुमति दें: WAF प्रसंस्करण समाप्त करें और HTTP लेनदेन को पूरा करें
-Pass: Continue executing the rules|| पास: नियमों को निष्पादित करना जारी रखें
-Deny: Cut the request and not execute rules left|| इनकार: अनुरोध में कटौती करें और बचे नियमों को निष्पादित न करें
-Redirect: The client received a URL to redirect|| रीडायरेक्ट: क्लाइंट को रीडायरेक्ट करने के लिए एक URL प्राप्त हुआ
-Default action: The default action of this ruleset|| डिफ़ॉल्ट क्रिया: इस नियम की डिफ़ॉल्ट क्रिया
-Request headers are received|| अनुरोध हेडर प्राप्त होते हैं
-Request body is received|| अनुरोध शरीर प्राप्त होता है
-Response headers are received|| प्रतिक्रिया हेडर प्राप्त होते हैं
-Response body is received|| रिस्पांस बॉडी मिली है
-Before than logging|| लॉग इन करने से पहले
-LUA Script|| LUA स्क्रिप्ट
-Data file|| डेटा फ़ाइल
-It is a collection with the values of arguments in a request.|| यह एक अनुरोध में तर्कों के मूल्यों के साथ एक संग्रह है।
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| यह एक JSON अनुरोध में तर्कों के मूल्यों के साथ एक संग्रह है। यह वैरिएबल उस स्थिति में उपलब्ध होगा, जब WAF JSON तर्क देता है, इसके लिए, नियम सेट REQUEST-901-INITIALIZATION सक्षम होना चाहिए।
-The total size of the request parameters. The files are excluded.|| अनुरोध मापदंडों का कुल आकार। फाइलों को बाहर रखा गया है।
-It is a collection with the names of the arguments in a request.|| यह एक अनुरोध में तर्कों के नाम के साथ एक संग्रह है।
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| इसमें उपयोगकर्ता फ़ाइल में फ़ाइल नाम शामिल हैं। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| यह अनुरोध में फ़ाइलों का कुल आकार है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| यह फाइल को अपलोड करने के लिए उपयोग किए जाने वाले फ़ाइलनामों की एक सूची है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| इसमें अलग-अलग फ़ाइल आकारों की एक सूची है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| यह चर 1 है यदि अनुरोध निकाय प्रारूप JSON या XML के लिए सही नहीं है, अन्यथा इसका मान 0 है।
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| यह कच्चे शरीर का अनुरोध है। यदि अनुरोध में &quot;एप्लिकेशन / x-www-form-urlencoded&quot; हेडर नहीं है, तो REQUEST_HEADER चरण में &quot;ctl: forceRequestBodyVariable&quot; का उपयोग करना आवश्यक है।
-It is the number of bytes of the request body.|| यह अनुरोध निकाय के बाइट्स की संख्या है।
-It is a list with all request cookies values.|| यह सभी अनुरोध कुकीज़ मूल्यों के साथ एक सूची है।
-It is a list with all request cookies names.|| यह सभी अनुरोध कुकीज़ नामों के साथ एक सूची है।
-This variable has all the request headers.|| इस चर में सभी अनुरोध शीर्षलेख हैं।
-This variable has a list with the request headers names.|| इस चर में अनुरोध शीर्षलेख नामों के साथ एक सूची है।
-It is the request method.|| यह अनुरोध विधि है।
-This variable holds the request HTTP version protocol.|| यह चर अनुरोध HTTP संस्करण प्रोटोकॉल रखता है।
-It is the URI request path. The virtual host is excluded.|| यह यूआरआई अनुरोध पथ है। वर्चुअल होस्ट को बाहर रखा गया है।
-It is the information before than the URI path.|| यह URI पथ से पहले की जानकारी है।
-It is the full request.|| यह पूरी रिक्वेस्ट है।
-It is the number of bytes that full request can have.|| यह बाइट्स की संख्या है जो पूर्ण अनुरोध हो सकती है।
-It is the raw body response.|| यह कच्चे शरीर की प्रतिक्रिया है।
-It is the number of bytes of the response body.|| यह प्रतिक्रिया शरीर के बाइट्स की संख्या है।
-This variable has all response headers.|| इस चर में सभी प्रतिक्रिया शीर्षलेख हैं।
-This variable has a list with the response headers names.|| इस चर की प्रतिक्रिया हेडर नामों के साथ एक सूची है।
-This variable holds the response HTTP version protocol.|| यह चर प्रतिक्रिया HTTP संस्करण प्रोटोकॉल रखती है।
-It is the response HTTP code.|| यह प्रतिक्रिया HTTP कोड है।
-It is the IP address of the client.|| यह क्लाइंट का आईपी एड्रेस है।
-It is the port where the client initializes the connection.|| यह पोर्ट है जहां क्लाइंट कनेक्शन को इनिशियलाइज़ करता है।
-It is the name of the authenticated user.|| यह प्रमाणित उपयोगकर्ता का नाम है।
-It is the server time. The format is hours:minutes:seconds.|| यह सर्वर समय है। प्रारूप घंटे: मिनट: सेकंड है।
-It is the number of milliseconds since the beginning of the current transaction.|| यह वर्तमान लेनदेन की शुरुआत से मिलीसेकंड की संख्या है।
-It is the field filename in a multipart request.|| यह एक मल्टीपार्ट अनुरोध में फ़ील्ड फ़ाइल नाम है।
-It is the field name in a multipart request.|| यह मल्टीपार्ट अनुरोध में फ़ील्ड नाम है।
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| यह पिछले मैच के संचालन में मिलान मूल्य है। इस मान को कैप्चर विकल्प की आवश्यकता नहीं है लेकिन इसे प्रत्येक मैच ऑपरेशन में बदल दिया जाता है।
-It is a list of all matched values.|| यह सभी मिलान किए गए मूल्यों की एक सूची है।
-It is the IP address of the server.|| यह सर्वर का आईपी एड्रेस है।
-It is the virtual host, it gets from the request URI.|| यह वर्चुअल होस्ट है, यह अनुरोध URI से प्राप्त होता है।
-It is the environment variables of the WAF.|| यह WAF का पर्यावरण चर है।
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| यह वर्तमान लेनदेन के लिए चर का संग्रह है। लेनदेन समाप्त होने पर इन चरों को हटा दिया जाएगा। चर TX: 0-TX: 9 strRegex या strPreds ऑपरेटरों के साथ कैप्चर किए गए मानों को बचाता है।
-Decodes a Base64-encoded string.|| Base64- एन्कोडेड स्ट्रिंग को डिकोड करता है।
-Decodes a Base64-encoded string ignoring invalid characters.|| अमान्य वर्णों को अनदेखा करते हुए एक Base64- एन्कोडेड स्ट्रिंग को डिकोड करता है।
-Decodes SQL hex data.|| SQL हेक्स डेटा को डिकोड करता है।
-Encodes using Base64 encoding.|| Base64 एन्कोडिंग का उपयोग कर एन्कोड करता है।
-Avoids the problem related with the escaped command line.|| बची हुई कमांड लाइन से जुड़ी समस्या से बचा जाता है।
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| किसी भी व्हाट्सएप वर्ण (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) को रिक्त स्थान (ASCII 0x20) में कनवर्ट करता है, जिसमें कई लगातार अंतरिक्ष वर्णों को एक में संपीड़ित किया जाता है।
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| डिकोड वर्ण CSS 2.x एस्केप नियमों का उपयोग करके एन्कोड किया गया। यह फ़ंक्शन डिकोडिंग प्रक्रिया में केवल दो बाइट्स का उपयोग करता है, जिसका अर्थ है कि यह सीएसएस एन्कोडिंग का उपयोग करके एन्कोडेड वर्णों को उजागर करने के लिए उपयोगी है (जो सामान्य रूप से एन्कोडेड नहीं होगा), या चोरी का मुकाबला करने के लिए, जो बैकस्लैश और गैर का संयोजन है -xxecimal वर्ण (जैसे, ja \\वासस्क्रिप्ट जावास्क्रिप्ट के बराबर है)।
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| एएनएसआई सी से बचने के क्रम: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\', \\? \ xHH (हेक्साडेसिमल), \\0OOO ​​(ऑक्टल)। अमान्य एन्कोडिंग को आउटपुट में छोड़ दिया जाता है।
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| एक स्ट्रिंग को डिकोड करता है जिसे उसी एल्गोरिथ्म का उपयोग करके एन्कोड किया गया है जैसे कि हेक्सेनकोड में इस्तेमाल किया गया था (प्रवेश के बाद देखें)।
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| प्रत्येक हेक्साडेसिमल वर्णों के साथ प्रत्येक इनपुट बाइट को प्रतिस्थापित करके स्ट्रिंग (संभवतः बाइनरी वर्णों को शामिल करता है) को एन्कोड करता है। उदाहरण के लिए, xyz को 78797a के रूप में एन्कोड किया गया है।
-Decodes the characters encoded as HTML entities.|| HTML संस्थाओं के रूप में एन्कोड किए गए वर्णों को अस्वीकृत करता है।
-Decodes JavaScript escape sequences.|| डिकोड्स जावास्क्रिप्ट क्रम से बचते हैं।
-Looks up the length of the input string in bytes, placing it (as string) in output.|| बाइट्स में इनपुट स्ट्रिंग की लंबाई को देखता है, इसे आउटपुट में (स्ट्रिंग के रूप में) रखता है।
-Converts all characters to lowercase using the current C locale.|| वर्तमान सी लोकेल का उपयोग करके सभी वर्णों को नीचे करने के लिए परिवर्तित करता है।
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| इनपुट में डेटा से एक MD5 हैश की गणना करता है। गणना की गई हैश कच्चे द्विआधारी रूप में है और इसे मुद्रित (या लॉग) होने के लिए पाठ में एनकोड करना पड़ सकता है। हैश फंक्शन आमतौर पर हेक्सेनकोड के साथ संयोजन में उपयोग किया जाता है।
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| वास्तविक परिवर्तन फ़ंक्शन नहीं है, लेकिन वर्तमान नियम से जुड़े पिछले परिवर्तन कार्यों को हटाने के लिए एक निर्देश है।
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| इनपुट स्ट्रिंग से कई स्लैश, डायरेक्टरी सेल्फ-रेफरेंस और डाइरेक्टरी बैक-रेफरेंस (इनपुट की शुरुआत में छोड़कर) को हटा देता है।
-Same as normalizePath, but first converts backslash characters to forward slashes.|| NormalizePath के समान है, लेकिन पहले बैकलैश कैरेक्टर को फॉरवर्ड स्लैश में कनवर्ट करता है।
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| गणना लक्ष्य बिट के साथ प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8- बिट डेटा की समता की गणना करता है।
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| परिकलित बिट के साथ प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8-bit डेटा की विषम समता की गणना करता है।
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8- बिट डेटा की शून्य समता की गणना करता है, जो ASCIIXNXX डेटा के रूप में सम / विषम समता 7-बिट डेटा के निरीक्षण की अनुमति देता है।
-Removes all NUL bytes from input.|| इनपुट से सभी NUL बाइट्स निकालता है।
-Removes all whitespace characters from the input.|| इनपुट से सभी व्हाट्सएप पात्रों को हटाता है।
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| सी-स्टाइल टिप्पणी (/ * ... * /) की प्रत्येक घटना को एक ही स्थान के साथ प्रतिस्थापित करता है (जिनमें से कई लगातार घटनाएं संपीड़ित नहीं होंगी)। अलग-अलग टिप्पणियों को भी अंतरिक्ष (ASCII 0x20) से बदल दिया जाएगा। हालांकि, एक टिप्पणी (* /) के एक स्टैंडअलोन समाप्ति पर कार्रवाई नहीं की जाएगी।
-Removes common comments chars (/*, */, –, #).|| सामान्य टिप्पणी वर्ण हटाता है (/ *, * /, -, #)।
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| अंतरिक्ष वर्ण (ASCII 0x20) के साथ इनपुट में NUL बाइट्स को प्रतिस्थापित करता है।
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| URL-एन्कोडेड इनपुट स्ट्रिंग को डिकोड करता है। अमान्य एन्कोडिंग (यानी, जो गैर-हेक्साडेसिमल वर्णों का उपयोग करते हैं, या वे जो स्ट्रिंग के अंत में हैं और एक या दो बाइट्स गायब हैं) परिवर्तित नहीं होते हैं, लेकिन कोई त्रुटि नहीं उठाई जाती है।
-Converts all characters to uppercase using the current C locale.|| वर्तमान सी लोकेल का उपयोग करके सभी वर्णों को अपरकेस में परिवर्तित करता है।
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| UrlDecode की तरह, लेकिन Microsoft-विशिष्ट% u एन्कोडिंग के लिए समर्थन के साथ।
-Encodes input string using URL encoding.|| URL एन्कोडिंग का उपयोग करके इनपुट स्ट्रिंग को एन्कोड करता है।
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| सभी UTF-8 वर्ण क्रमों को यूनिकोड में रूपांतरित करता है। यह विशेष रूप से गैर-अंग्रेजी भाषाओं के लिए झूठी-सकारात्मक और झूठी-नकारात्मक को कम करने के लिए इनपुट सामान्यीकरण में मदद करता है।
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| इनपुट स्ट्रिंग से एक SHA1 हैश की गणना करता है। गणना की गई हैश कच्चे द्विआधारी रूप में है और इसे मुद्रित (या लॉग) होने के लिए पाठ में एनकोड करना पड़ सकता है। हैश फ़ंक्शंस आमतौर पर हेक्सेनकोड के साथ संयोजन में उपयोग किए जाते हैं।
-Removes whitespace from the left side of the input string.|| इनपुट स्ट्रिंग के बाईं ओर से व्हाट्सएप को हटाता है।
-Removes whitespace from the right side of the input string.|| इनपुट स्ट्रिंग के दाईं ओर से व्हाट्सएप को हटाता है।
-Removes whitespace from both the left and right sides of the input string.|| इनपुट स्ट्रिंग के बाएँ और दाएँ दोनों पक्षों से व्हाट्सएप को हटाता है।
-The rule will match if any of the variables begin with the value of operating.|| यदि संचालन के मूल्य के साथ कोई भी चर शुरू होता है तो नियम मेल खाएगा।
-The rule will match if any of the variables contain the value of operating.|| यदि कोई भी वैरिएबल ऑपरेटिंग का मान रखता है तो नियम मेल खाएगा।
-The rule will match if any of the variables contain a word as the string one.|| यदि कोई भी शब्द स्ट्रिंग के रूप में एक शब्द में है, तो नियम मेल खाएगा।
-The rule will match if any of the variables end with the value of operating.|| यदि संचालन के मूल्य के साथ कोई भी चर समाप्त होता है तो नियम मेल खाएगा।
-The rule will match if any of the variables match with the value of operating.|| यदि संचालन के मूल्य के साथ कोई भी चर मेल खाता है, तो नियम मेल खाएगा।
-The rule will match if any of the variables match with the value of operating.|| यदि संचालन के मूल्य के साथ कोई भी चर मेल खाता है, तो नियम मेल खाएगा।
-The rule will match if any of the variables is identical to the value of operating.|| यदि कोई भी चर परिचालन के मूल्य के समान है, तो नियम मेल खाएगा।
-The rule will match if any of the variables match in the regular expression used in operating.|| यदि ऑपरेटिंग में उपयोग की जाने वाली नियमित अभिव्यक्ति में कोई भी चर मेल खाता है तो नियम मेल खाएगा।
-The rule will match if any of the variables match in any of the values of the list operating.|| सूची के संचालन के मूल्यों में से कोई भी चर मेल खाता है तो नियम मेल खाएगा।
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| यह वही है जो ऑपरेटर strPhrases है लेकिन ऑपरेटिंग एक फाइल है जहां इसे वाक्यांशों की सूची के रूप में परिभाषित किया गया है।
-The rule will match if any of the variables is equal to the number used in operating.|| यदि कोई भी चर परिचालन में उपयोग की गई संख्या के बराबर है, तो नियम मेल खाएगा।
-The rule will match if any of the variables is greater or equal to the number used in operating.|| यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से अधिक या बराबर है, तो नियम मेल खाएगा।
-The rule will match if any of the variables is greater than the number used in operating.|| यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से अधिक है, तो नियम मेल खाएगा।
-The rule will match if any of the variables is lower or equal to the number used in operating.|| यदि कोई भी चर परिचालन में उपयोग की जाने वाली संख्या के बराबर या उससे कम है तो नियम मेल खाएगा।
-The rule will match if any of the variables is lower than the number used in operating.|| यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से कम है, तो नियम मेल खाएगा।
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| यह चर की सूची में SQL इंजेक्शन का पता लगाने पर लागू होता है। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| यह चर की सूची में XSS इंजेक्शन का पता लगाने पर लागू होता है। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
-Try to match the IP or network segments of operating with the list of variables.|| चर की सूची के साथ संचालन के आईपी या नेटवर्क सेगमेंट से मिलान करने का प्रयास करें।
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| यह ऑपरेटर ipMatch के समान है, लेकिन यह IPs और नेटवर्क सेगमेंट की सूची वाली फ़ाइल के विरुद्ध चर के मेल की कोशिश करता है।
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| यह जाँचता है कि चर के बाइट की संख्या ऑपरेटिंग मानों में से एक में है। संचालन का एक उदाहरण &quot;10, 13, 32-126&quot; है।
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| यह एन्कोडेड डेटा को मान्य करता है। इस ऑपरेटर का उपयोग केवल उन डेटा के लिए किया जाना चाहिए जो डेटा को आमतौर पर एन्कोड नहीं करते हैं या डेटा के लिए कई बार एन्कोडेड होते हैं।
-It validates that variables are UTF-8. This operator does not expect any operating.|| यह पुष्टि करता है कि चर UTF-8 हैं। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| यह सत्यापित करता है कि चर एक क्रेडिट कार्ड नंबर हैं। यह पैरामीटर संचालन के रूप में एक नियमित अभिव्यक्ति को स्वीकार करता है, यदि यह मेल खाता है तो यह सत्यापित किए गए क्रेडिट कार्ड पर लागू होता है।
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| यह सत्यापित करता है कि चर एक अमेरिकी सामाजिक सुरक्षा संख्या हैं। यह पैरामीटर ऑपरेटिंग के रूप में एक नियमित अभिव्यक्ति को स्वीकार करता है, यदि यह मेल खाता है तो यह एसएसएन सत्यापन लागू करता है।
-It returns true always, forcing a match.|| यह हमेशा सच होता है, एक मैच के लिए मजबूर करता है।
-It returns false always, forcing a non-match.|| यह हमेशा एक मैच के लिए मजबूर करने के लिए झूठे रिटर्न देता है।
-A word is delimited by characters different to (a-z, 0-9 and '_')|| किसी शब्द को वर्णों द्वारा अलग किया गया है (az, 0-9 और '_')
-Can be a list of strings split by the character ,|| चरित्र द्वारा विभाजित तार की एक सूची हो सकती है,
-Can be a list of strings split by the character |,|| चरित्र द्वारा विभाजित तार की एक सूची हो सकती है |
-Can be a list of strings split by a blank space|| रिक्त स्थान द्वारा विभाजित तार की एक सूची हो सकती है
-Can be a list of IPs or network segments split by the character ,|| चरित्र द्वारा विभाजित आईपी या नेटवर्क खंडों की सूची हो सकती है,
-Can be a list of IPs ranges split by the character ,|| चरित्र द्वारा विभाजित आईपी श्रेणियों की एक सूची हो सकती है,
-Can be selected more than one file.|| एक से अधिक फ़ाइल चुनी जा सकती हैं।
-It uses the PCRE engine, optional field.|| यह पीसीआरई इंजन, वैकल्पिक क्षेत्र का उपयोग करता है।
-It uses the PCRE engine, optional field.|| यह पीसीआरई इंजन, वैकल्पिक क्षेत्र का उपयोग करता है।
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| यह PCRE इंजन का उपयोग करता है। केस-असंवेदनशील का उपयोग करके अभिव्यक्ति (i) का उपयोग किया जाता है।
-This operator does not expect any operating.|| यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
-String.|| स्ट्रिंग।
-Number.|| नंबर.
-The <strong> {{param}} </strong> blacklist has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> blacklist has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> blacklist has been stopped successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक रोक दिया गया है।
-The <strong> {{param}} </strong> blacklist has been started successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक शुरू किया गया है।
-The <strong> {{param}} </strong> blacklist has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक अपडेट कर दिया गया है।
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| खेत <strong> {{param}} </strong> को ब्लैकलिस्ट में सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| खेत <strong> {{param}} </strong> ब्लैक लिस्ट को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> DoS rule has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक रोक दिया गया है।
-The <strong> {{param}} </strong> DoS rule has been started successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम सफलतापूर्वक शुरू किया गया है।
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| खेत <strong> {{param}} </strong> DoS नियम में सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| खेत <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक हटा दिया गया है।
-The source has been created successfully|| स्रोत सफलतापूर्वक बनाया गया है
-The source has been updated successfully|| स्रोत को सफलतापूर्वक अपडेट कर दिया गया है
-The source <strong> {{param}} </strong> has been deleted successfully.|| स्रोत <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> RBL rule has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> RBL नियम सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> RBL rule has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> RBL नियम को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक रोक दिया गया है।
-The <strong> {{param}} </strong> RBL rule has been started successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम सफलतापूर्वक शुरू किया गया है।
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| खेत <strong> {{param}} </strong> RBL नियम में सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| खेत <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक हटा दिया गया है।
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| डोमेन <strong> {{param}} </strong> RBL नियम में सफलतापूर्वक जोड़ा गया है।
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| डोमेन <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक हटा दिया गया है।
-The domain <strong> {{param}} </strong> has been created successfully|| डोमेन <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है
-The domain has been updated successfully|| डोमेन को सफलतापूर्वक अपडेट कर दिया गया है
-The domain <strong> {{param}} </strong> has been deleted successfully.|| डोमेन <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक रोक दिया गया है।
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक शुरू किया गया है।
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक अपडेट किया गया है।
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| खेत <strong> {{param}} </strong> WAF नियम में सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक WAF नियम को हटा दिया गया है।
-The rule <strong> {{param}} </strong> has been created successfully.|| नियम <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The rule <strong> {{param}} </strong> has been moved successfully.|| नियम <strong> {{param}} </strong> सफलतापूर्वक स्थानांतरित कर दिया गया है।
-The rule <strong> {{param}} </strong> has been deleted successfully.|| नियम <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The rule <strong> {{param}} </strong> has been updated successfully|| नियम <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है
-The match has been created successfully|| मैच सफलतापूर्वक बनाया गया है
-The match <strong> {{param}} </strong> has been deleted successfully.|| द मैच <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The WAF file <strong> {{param}} </strong> has been created successfully.|| WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> IPDS package </strong> has been scheduled successfully.|| पिछली कक्षा का  <strong> IPDS पैकेज </strong> सफलतापूर्वक शेड्यूल किया गया है।
-The <strong> IPDS package </strong> has been upgraded successfully.|| पिछली कक्षा का  <strong> IPDS पैकेज </strong> सफलतापूर्वक अपग्रेड किया गया है।
-Are you sure you want to delete the {{param}} blacklist?|| क्या आप वाकई {{param}} को ब्लैकलिस्ट करना चाहते हैं?
-Are you sure you want to delete the selected blacklists?|| क्या आप वाकई चयनित ब्लैकलिस्ट को हटाना चाहते हैं?
-Are you sure you want to delete the {{param}} DoS rule?|| क्या आप वाकई {{param}} DoS नियम को हटाना चाहते हैं?
-Are you sure you want to delete the selected DoS rules?|| क्या आप वाकई चयनित DoS नियमों को हटाना चाहते हैं?
-Are you sure you want to delete the source {{param}}?|| क्या आप वाकई {{param}} स्रोत को हटाना चाहते हैं?
-Are you sure you want to delete the selected sources?|| क्या आप वाकई चयनित स्रोतों को हटाना चाहते हैं?
-Are you sure you want to delete the {{param}} RBL rule?|| क्या आप वाकई {{param}} RBL नियम हटाना चाहते हैं?
-Are you sure you want to delete the selected RBL rules?|| क्या आप वाकई RBL नियमों को हटाना चाहते हैं?
-Are you sure you want to delete the domain {{param}}?|| क्या आप वाकई {{param}} डोमेन हटाना चाहते हैं?
-Are you sure you want to delete the selected domains?|| क्या आप वाकई चयनित डोमेन हटाना चाहते हैं?
-Are you sure you want to delete the {{param}} WAF ruleset?|| क्या आप वाकई {{param}} WAF नियमों को हटाना चाहते हैं?
-Are you sure you want to delete the selected rulesets?|| क्या आप वाकई चयनित नियमों को हटाना चाहते हैं?
-'Are you sure you want to delete the rule {{param}}?|| 'क्या आप वाकई {{param}} नियम को हटाना चाहते हैं?
-Are you sure you want to delete the match {{param}}?|| क्या आप वाकई {{param}} मैच हटाना चाहते हैं?
-Are you sure you want to delete the selected matches?|| क्या आप वाकई चयनित मैचों को हटाना चाहते हैं?
-Are you sure you want to delete the file {{param}}?|| क्या आप वाकई {{param}} फ़ाइल को हटाना चाहते हैं?
-Are you sure you want to delete the selected files?|| क्या आप वाकई चयनित फ़ाइलों को हटाना चाहते हैं?
-System Graphs|| सिस्टम रेखांकन
-Interfaces Graphs|| रेखांकन रेखांकन
-Farms Graph|| खेतों का ग्राफ
-Farms Stats|| खेतों के आँकड़े
-System Stats|| सिस्टम आँकड़े
-Network Stats|| नेटवर्क आँकड़े
-Copy farmguardian|| फार्मगार्डियन की नकल करें
-Farmguardian to copy|| नकल करने के लिए फार्मगार्डियन
-Select the farmguardian to copy|| कॉपी करने के लिए फार्मगार्डियन का चयन करें
-Total Memory|| कुल मेमोरी
-Free Memory|| फ्री मेमोरी
-Used Memory|| प्रयोग हुई मेमोरी
-Buffers|| बफ़र
-Cached|| कैश्ड
-Total Swap|| कुल स्वैप
-Free Swap|| फ्री स्वैप
-Used Swap|| प्रयुक्त स्वैप
-Cached Swap|| कैची स्वैप
-Idle|| निष्क्रिय
-Usage|| प्रयोग
-Iowait|| Iowait
-Irq|| IRQ
-Nice|| अच्छा
-Softirq|| Softirq
-Sys|| Sys
-User|| उपयोगकर्ता
-Last minute|| आखरी मिनट
-Last 5 minutes|| अंतिम 5 मिनट
-Last 15 minutes|| अंतिम 15 मिनट
-Are you sure you want to delete the {{param}} farmguardian?|| क्या आप वाकई {{param}} फार्मगार्डियन को हटाना चाहते हैं?
-Are you sure you want to delete the selected farmguardians?|| क्या आप वाकई चयनित फ़ार्मगार्डियन को हटाना चाहते हैं?
-The <strong> {{param}} </strong> farmguardian has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> farmguardian has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक अपडेट किया गया है।
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| खेत <strong> {{param}} </strong> फार्मगार्डियन के साथ सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| खेत <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक निकाल दिया गया है।
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| खेत <strong> {{param}} with the service {{param2}} </strong> फार्मगार्डियन के साथ सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| खेत <strong> {{param}} with the service {{param2}} </strong> फार्मगार्डियन को सफलतापूर्वक निकाल दिया गया है।
-NIC List|| एनआईसी सूची
-Bonding Interface List|| संबंध इंटरफ़ेस सूची
-Select the slaves|| दासों का चयन करें
-VLAN Interface List|| VLAN इंटरफ़ेस सूची
-VLAN ID|| वीएलएएन आईडी
-VLAN tag|| वीएलएएन टैग
-Virtual Interface List|| वर्चुअल इंटरफ़ेस सूची
-Virtual interface name|| वर्चुअल इंटरफ़ेस नाम
-Virtual interface tag|| वर्चुअल इंटरफ़ेस टैग
-Floating IP List|| अस्थायी आईपी सूची
-IPv4 Gateway|| IPv4 गेटवे
-IPv6 Gateway|| IPv6 गेटवे
-IPv4 Gateway Settings|| IPv4 गेटवे सेटिंग्स
-IPv6 Gateway Settings|| IPv6 गेटवे सेटिंग्स
-Backends Aliases|| उपनामों का समर्थन करता है
-Interfaces Aliases|| इंटरफेस एलियासेस
-Routing Rule List|| रूल नियम सूची
-Routing Table List|| रूटिंग टेबल सूची
-Priority should be a value between {{min}} and {{max}}|| प्राथमिकता {{min}} और {{max}} के बीच एक मान होनी चाहिए
-Configure table {{param}}|| तालिका {{param}} कॉन्फ़िगर करें
-Available Routes|| उपलब्ध मार्ग
-Routing table for the outputs of the interface {{param}}.|| इंटरफ़ेस {{param}} के आउटपुट के लिए रूटिंग टेबल।
-Should be a IP address or CIDR|| एक IP पता या CIDR होना चाहिए
-Should be a IP address (IPv4/IPv6)|| एक IP पता होना चाहिए (IPv4 / IPv6)
-Are you sure you want to unset the NIC {{param}}?|| क्या आप वाकई एनआईसी {{परम}} को हटाना चाहते हैं?
-Are you sure you want to unset the selected NIC?|| क्या आप सुनिश्चित हैं कि आप चयनित एनआईसी को परेशान करना चाहते हैं?
-Are you sure you want to unset the Bonding {{param}}?|| क्या आप सुनिश्चित हैं कि आप बॉन्डिंग {{परम}} को अनसेट करना चाहते हैं?
-Are you sure you want to unset the selected Bondings?|| क्या आप वाकई चयनित बॉन्डिंग को खोलना चाहते हैं?
-Are you sure you want to delete the Bonding {{param}}?|| क्या आप वाकई {{param}} बॉन्डिंग को हटाना चाहते हैं?
-Are you sure you want to delete the selected Bondings?|| क्या आप वाकई चयनित बॉन्डिंग को हटाना चाहते हैं?
-Are you sure you want to delete the VLAN {{param}}?|| क्या आप वाकई VLAN {{param}} को हटाना चाहते हैं?
-Are you sure you want to delete the selected VLANs?|| क्या आप वाकई चयनित VLANs को हटाना चाहते हैं?
-Are you sure you want to delete the Virtual interface {{param}}?|| क्या आप वाकई वर्चुअल इंटरफ़ेस {{param}} को हटाना चाहते हैं?
-Are you sure you want to delete the selected Virtual interfaces?|| क्या आप वाकई चयनित वर्चुअल इंटरफेस को हटाना चाहते हैं?
-Are you sure you want to unset the Floating IP of {{param}}?|| क्या आप वाकई {{param}} के फ़्लोटिंग आईपी को अनसेट करना चाहते हैं?
-Are you sure you want to unset the selected Floating IPs?|| क्या आप वाकई फ़्लोटिंग आईपी को अनसेट करना चाहते हैं?
-Are you sure you want to unset the gateway for {{param}}?|| क्या आप वाकई {{परम}} के प्रवेश द्वार को खोलना चाहते हैं?
-Are you sure you want to delete the alias {{param}}?|| क्या आप वाकई उर्फ ​​{{परम}} को हटाना चाहते हैं?
-Are you sure you want to delete the selected aliases?|| क्या आप वाकई चयनित उपनामों को हटाना चाहते हैं?
-Are you sure you want to delete the routing rule {{param}}?|| क्या आप वाकई रूटिंग नियम {{param}} को हटाना चाहते हैं?
-Are you sure you want to delete the selected routing rules?|| क्या आप वाकई चयनित रूटिंग नियमों को हटाना चाहते हैं?
-Are you sure you want to delete the route {{param}}?|| क्या आप वाकई {{param}} मार्ग को हटाना चाहते हैं?
-Are you sure you want to delete the selected routes?|| क्या आप वाकई चयनित मार्गों को हटाना चाहते हैं?
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी सफलतापूर्वक अपुष्ट किया गया है।
-The <strong> {{param}} </strong> NIC is up.|| पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी ऊपर है।
-The <strong> {{param}} </strong> NIC is down.|| पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी नीचे है।
-The <strong> {{param}} </strong> NIC has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी को सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> NIC has updated the alias successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
-The <strong> {{param}} </strong> Bonding has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग सफलतापूर्वक बनाई गई है।
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक अपुष्ट कर दिया गया है।
-The <strong> {{param}} </strong> Bonding is up.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग होती है।
-The <strong> {{param}} </strong> Bonding is down.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग नीचे है।
-The <strong> {{param}} </strong> Bonding has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
-The <strong> {{param}} </strong> Bonding has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> दास को सफलतापूर्वक बॉन्डिंग में जोड़ा गया है।
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> दास को सफलतापूर्वक बॉन्डिंग से निकाल दिया गया है।
-The <strong> {{param}} </strong> VLAN has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> VLAN is up.|| पिछली कक्षा का  <strong> {{param}} </strong> वीएलएएन है।
-The <strong> {{param}} </strong> VLAN is down.|| पिछली कक्षा का  <strong> {{param}} </strong> VLAN नीचे है।
-The <strong> {{param}} </strong> VLAN has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> वीएलएएन ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
-The <strong> {{param}} </strong> VLAN has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> Virtual interface has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> Virtual interface is up.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस है।
-The <strong> {{param}} </strong> Virtual interface is down.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस नीचे है।
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी सफलतापूर्वक अपुष्ट हो गया है।
-The <strong> {{param}} </strong> Floating IP is up.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी है।
-The <strong> {{param}} </strong> Floating IP is down.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी नीचे है।
-The <strong> {{param}} </strong> Floating IP has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी को सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी को सफलतापूर्वक हटा दिया गया है।
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| के लिए गेटवे <strong> {{param}} </strong> सफलतापूर्वक अपुष्ट कर दिया गया है।
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| के लिए गेटवे <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> {{param}} </strong> Alias has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> एलियास सफलतापूर्वक बनाया गया है।
-The <strong> {{param}} </strong> Alias has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> उपनाम को सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> Alias has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> एलियास को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> routing rule has been deleted successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम को सफलतापूर्वक हटा दिया गया है।
-The <strong> {{param}} </strong> routing rule has been updated successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम को सफलतापूर्वक अपडेट किया गया है।
-The <strong> {{param}} </strong> routing rule has been created successfully.|| पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम सफलतापूर्वक बनाया गया है।
-The route <strong> {{param}} </strong> has been deleted successfully.|| मार्ग <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The route <strong> {{param}} </strong> has been updated successfully.|| मार्ग <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The route <strong> {{param}} </strong> has been created successfully.|| मार्ग <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-To remove a route you must select it first.|| एक मार्ग को हटाने के लिए आपको पहले इसे चुनना होगा।
-The route {{param}} cannot be removed because it is a system route.|| मार्ग {{param}} को हटाया नहीं जा सकता क्योंकि यह एक सिस्टम मार्ग है।
-The interface <strong> {{param}} </strong> has been disabled.|| अंतरपटल <strong> {{param}} </strong> निष्क्रिय कर दिया गया।
-The interface <strong> {{param}} </strong> has been enabled.|| अंतरपटल <strong> {{param}} </strong> सक्षम किया गया है।
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| पिछली कक्षा का  <strong> {{param}} </strong> गुलाम को हटाया नहीं जा सकता। बॉन्डिंग में कम से कम एक गुलाम होना चाहिए।
-HTTP Service|| HTTP सेवा
-SSH Service|| SSH सेवा
-SNMP Service|| SNMP सेवा
-The physical interface where is running GUI service|| भौतिक इंटरफ़ेस जहाँ GUI सेवा चल रही है
-If the cluster is up you only can select the cluster interface or all|| यदि क्लस्टर ऊपर है, तो आप केवल क्लस्टर इंटरफ़ेस या सभी का चयन कर सकते हैं
-HTTPS Port where is running GUI service|| HTTPS पोर्ट जहां GUI सेवा चल रही है
-The physical interface where is running SSH service|| भौतिक इंटरफ़ेस जहाँ SSH सेवा चल रही है
-SSH Port where is running SSH service|| SSH पोर्ट जहां SSH सेवा चला रहा है
-Enable SNMP|| SNMP सक्षम करें
-The physical interface where is running SNMP service|| भौतिक इंटरफ़ेस जहाँ SNMP सेवा चल रही है
-SNMP Port where is running SNMP service|| SNMP पोर्ट जहाँ SNMP सेवा चल रही है
-Community name|| समुदाय का नाम
-IP or subnet with access|| पहुंच के साथ आईपी या सबनेट
-Primary server|| प्राथमिक सर्वर
-Secondary Server|| सेकेंडरी सर्वर
-NTP server|| NTP सर्वर
-NTP Service|| NTP सेवा
-Proxy Service|| प्रॉक्सी सेवा
-DNS Service|| डीएनएस सेवा
-Configure cluster|| क्लस्टर कॉन्फ़िगर करें
-Local IP|| स्थानीय आईपी
-Remote IP|| दूरदराज़ के आई. पी
-Remote Node Password|| रिमोट नोड पासवर्ड
-Confirm Password|| पासवर्ड की पुष्टि
-Backup List|| बैकअप सूची
-Backup file|| बैकअपफ़ाइल
-Choose one file|| एक फ़ाइल चुनें
-Alerts Service|| अलर्ट सेवा
-Alerts|| चेतावनियाँ
-Email Notifications|| ईमेल सूचनाएं
-Mail Server|| डाक सर्वर
-Mail User|| मेल उपयोगकर्ता
-TLS|| टीएलएस
-Backends Alert|| अलर्ट का समर्थन करता है
-Cluster Alert|| क्लस्टर चेतावनी
-Prefix Subject|| उपसर्ग विषय
-Avoid flapping time|| फड़फड़ाते समय से बचें
-The time that alerts wait when backend is flapping|| जब बैकएंड फ्लैप हो रहा है तो अलर्ट का समय प्रतीक्षा करता है
-User Settings|| उपयोगकर्ता सेटिंग
-ZAPI Key|| ZAPI कुंजी
-Change Password|| पासवर्ड बदलें
-Current password|| वर्तमान पासवर्ड
-New password|| नया पासवर्ड
-Repeat new password|| नया पासवर्ड दोहराएँ
-Log List|| लॉग लिस्ट
-Log view|| लॉग देखें
-When this action is executed a file with system information will be downloaded.|| जब इस क्रिया को निष्पादित किया जाता है, तो सिस्टम जानकारी के साथ एक फ़ाइल डाउनलोड की जाएगी।
-This action may take several seconds, you can continue browsing the GUI.|| इस क्रिया में कई सेकंड लग सकते हैं, आप GUI ब्राउज़ करना जारी रख सकते हैं।
-Select an interface which won't be deleted|| एक इंटरफ़ेस का चयन करें जिसे हटाया नहीं जाएगा
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| यह क्रिया चयनित इंटरफ़ेस, बैकअप और सक्रियण प्रमाणपत्र को छोड़कर सभी कॉन्फ़िगरेशन को नष्ट कर देगी।
-The current credentials for user root will not be modified.|| उपयोगकर्ता रूट के लिए वर्तमान क्रेडेंशियल्स को संशोधित नहीं किया जाएगा।
-User List|| उपयोक्ता सूची
-Group List|| समूह सूची
-Role List|| भूमिका सूची
-Role Settings|| भूमिका सेटिंग्स
-Show all permissions|| सभी अनुमतियां दिखाएं
-Hide all permissions|| सभी अनुमतियां छिपाएं
-Show permissions|| अनुमति दिखाएं
-Hide permissions|| अनुमतियाँ छिपाएँ
-LDAP Server|| LDAP सर्वर
-Base DN|| बेस डी.एन.
-Bind DN|| बाँध DN
-Scope|| विस्तार
-Bind Password|| बाइंड पासवर्ड
-Filter|| फ़िल्टर
-Global Services|| ग्लोबल सर्विसेज
-Enable session replication|| सत्र प्रतिकृति सक्षम करें
-Enable Duplicated network|| डुप्लिकेट नेटवर्क को सक्षम करें
-Enable ARP announce|| ARP घोषणा सक्षम करें
-Custom Routes|| कस्टम मार्ग
-System Routes|| सिस्टम रूट्स
-Use proxy of new generation|| नई पीढ़ी के प्रॉक्सी का उपयोग करें
-Validation Systems|| सत्यापन प्रणाली
-AWS Credentials|| AWS क्रेडेंशियल
-Access Key|| आगमन चाबी
-Secret Key|| गुप्त कुंजी
-Region|| क्षेत्र
-SSL Certificate|| एसएसएल प्रमाणपत्र
-RBAC User|| RBAC उपयोगकर्ता
-RBAC Group|| आरबीएसी ग्रुप
-RBAC Role|| आरबीएसी की भूमिका
-Network Virtual Interface|| नेटवर्क वर्चुअल इंटरफ़ेस
-System Service|| सिस्टम सेवा
-Notification|| अधिसूचना
-Host or URL allowed|| होस्ट या URL की अनुमति है
-It will not be used if the HOST/URL field contains a URL|| यदि HOST / URL फ़ील्ड में URL शामिल है तो इसका उपयोग नहीं किया जाएगा
-Filter used to get the LDAP field that contains the user ID to log in|| फ़िल्टर का उपयोग LDAP फ़ील्ड को प्राप्त करने के लिए होता है जिसमें लॉग इन करने के लिए उपयोगकर्ता ID होती है
-The Search Request will be performed against the entry specified as the search base DN.|| खोज अनुरोध डीएन के रूप में निर्दिष्ट प्रविष्टि के खिलाफ किया जाएगा।
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| खोज अनुरोध उन प्रविष्टियों के खिलाफ किया जाएगा जो खोज बेस डीएन के रूप में निर्दिष्ट प्रविष्टि के तत्काल अधीनस्थ हैं।
-The Search Request will be performed against the search base and all entries below|| खोज अनुरोध खोज आधार और सभी प्रविष्टियों के नीचे किया जाएगा
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| नया प्रबंधन GUI पता {{param}} है कृपया नए URL में GUI से पुनः कनेक्ट करें।
-The <strong> HTTP service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> HTTP सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> SSH service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> एसएसएच सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> SNMP service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> SNMP सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> global services </strong> have been updated successfully|| पिछली कक्षा का  <strong> वैश्विक सेवाएं </strong> सफलतापूर्वक अपडेट कर दिए गए हैं
-The <strong> DNS service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> डीएनएस सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> NTP service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> एनटीपी सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The <strong> Proxy service </strong> has been updated successfully.|| पिछली कक्षा का  <strong> प्रॉक्सी सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
-The backup <strong> {{param}} </strong> has been deleted successfully.|| बैकअप <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The backup <strong> {{param}} </strong> has been applied successfully.|| बैकअप <strong> {{param}} </strong> सफलतापूर्वक लागू किया गया है।
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| बैकअप <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| बैकअप <strong> {{param}} </strong> सफलतापूर्वक अपलोड किया गया है।
-The backup <strong> {{param}} </strong> has been created successfully.|| बैकअप <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
-The <strong> backends alert </strong> has been applied successfully.|| पिछली कक्षा का  <strong> चेतावनी देता है </strong> सफलतापूर्वक लागू किया गया है।
-The <strong> cluster alert </strong> has been applied successfully.|| पिछली कक्षा का  <strong> क्लस्टर चेतावनी </strong> सफलतापूर्वक लागू किया गया है।
-The configuration of email has been updated successfully.|| ईमेल का कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया है।
-The alert has been updated successfully.|| अलर्ट को सफलतापूर्वक अपडेट कर दिया गया है।
-The test email has been sent successfully.|| परीक्षण ईमेल सफलतापूर्वक भेजा गया है।
-The user has been updated successfully.|| उपयोगकर्ता को सफलतापूर्वक अपडेट किया गया है।
-The log <strong> {{param}} </strong> has been downloaded successfully.|| लकड़ी का लठा <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
-The <strong> Support Save </strong> has been downloaded successfully.|| पिछली कक्षा का  <strong> समर्थन बचाओ </strong> सफलतापूर्वक डाउनलोड किया गया है।
-The user <strong> {{param}} </strong> has been deleted successfully.|| उपभोक्ता <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The user {{param}} has been created successfully.|| उपयोगकर्ता {{param}} सफलतापूर्वक बनाया गया है।
-The user {{param}} has been updated successfully.|| उपयोगकर्ता {{param}} को सफलतापूर्वक अपडेट किया गया है।
-The group <strong> {{param}} </strong> has been deleted successfully.|| समूह <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The group {{param}} has been created successfully.|| समूह {{param}} सफलतापूर्वक बनाया गया है।
-The group {{param}} has been updated successfully.|| समूह {{param}} को सफलतापूर्वक अपडेट कर दिया गया है।
-The user <strong> {{param}} </strong> has been added to the group successfully.|| उपभोक्ता <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| उपभोक्ता <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| खेत <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| खेत <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| अंतरपटल <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| अंतरपटल <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
-The role <strong> {{param}} </strong> has been deleted successfully.|| भूमिका <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
-The role {{param}} has been created successfully.|| भूमिका {{परम}} सफलतापूर्वक बनाई गई है।
-The role {{param}} has been updated successfully.|| भूमिका {{param}} को सफलतापूर्वक अपडेट किया गया है।
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| LDAP सर्वर कॉन्फ़िगर किया गया है। कृपया कॉन्फ़िगरेशन के सही होने की पुष्टि करने के लिए कनेक्टिविटी का परीक्षण करें।
-The connectivity test has been done successfully.|| कनेक्टिविटी परीक्षण सफलतापूर्वक किया गया है।
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| सत्यापन प्रणाली <strong> {{param}} </strong> सफलतापूर्वक सक्षम किया गया है।
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| सत्यापन प्रणाली <strong> {{param}} </strong> सफलतापूर्वक अक्षम कर दिया गया है।
-The cluster has been created successfully.|| क्लस्टर सफलतापूर्वक बनाया गया है।
-The cluster has been updated successfully.|| क्लस्टर को सफलतापूर्वक अपडेट किया गया है।
-The cluster has been destroyed successfully.|| क्लस्टर सफलतापूर्वक नष्ट कर दिया गया है।
-The <strong>local node</strong> has been put in maintenance successfully.|| पिछली कक्षा का  <strong>स्थानीय नोड</strong> सफलतापूर्वक रखरखाव में डाल दिया गया है।
-The <strong>local node</strong> has been enabled successfully.|| पिछली कक्षा का  <strong>स्थानीय नोड</strong> सफलतापूर्वक सक्षम किया गया है।
-The AWS credentials have been configured successfully.|| AWS क्रेडेंशियल सफलतापूर्वक कॉन्फ़िगर किया गया है।
-The Azure credentials have been configured successfully.|| Azure क्रेडेंशियल्स को सफलतापूर्वक कॉन्फ़िगर किया गया है।
-Are you sure you want to delete the backup {{param}}?|| क्या आप वाकई {{param}} बैकअप हटाना चाहते हैं?
-Are you sure you want to delete the selected backups?|| क्या आप वाकई चयनित बैकअप को हटाना चाहते हैं?
-Are you sure you want to delete the user {{param}}?|| क्या आप वाकई {{param}} उपयोगकर्ता को हटाना चाहते हैं?
-Are you sure you want to delete the selected users?|| क्या आप वाकई चयनित उपयोगकर्ताओं को हटाना चाहते हैं?
-Are you sure you want to delete the group {{param}}?|| क्या आप वाकई {{param}} समूह को हटाना चाहते हैं?
-Are you sure you want to delete the selected groups?|| क्या आप वाकई चयनित समूहों को हटाना चाहते हैं?
-Are you sure you want to delete the role {{param}}?|| क्या आप वाकई {{param}} भूमिका को हटाना चाहते हैं?
-Are you sure you want to delete the selected roles?|| क्या आप वाकई चयनित भूमिकाओं को हटाना चाहते हैं?
-Are you sure you want to destroy the cluster?|| क्या आप वाकई क्लस्टर को नष्ट करना चाहते हैं?
-Dashboard|| डैशबोर्ड
-News|| समाचार
-LSLB|| LSLB
-Farms|| फार्म
-SSL Certificates|| SSL प्रमाणपत्र
-Generate csr|| सीएसआर उत्पन्न करें
-Stats|| आँकड़े
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| सेटिंग
-Blacklists|| ब्लैकलिस्ट
-DoS|| डॉस
-RBL|| आरबीएल
-Rules|| नियम
-Domains|| डोमेन
-WAF|| WAF
-Rulesets|| rulesets
-Files|| फ़ाइलें
-Monitoring|| निगरानी
-Graphs|| रेखाचित्र
-Farmguardians|| Farmguardians
-Network|| नेटवर्क
-NIC|| एनआईसी
-Bonding|| संबंध
-VLAN|| VLAN
-Virtual Interfaces|| वर्चुअल इंटरफेस
-Floating IPs|| अस्थायी आईपी
-Gateway|| प्रवेश द्वार
-Aliases|| फर्जी नाम
-Routing|| मार्ग
-Tables|| टेबल्स
-System|| प्रणाली
-RBAC|| RBAC
-Users|| उपयोगकर्ता
-Groups|| समूह
-Roles|| भूमिकाओं
-Local Services|| स्थानीय सेवाएँ
-Remote Services|| दूरस्थ सेवाएँ
-Cluster|| समूह
-Backups|| बैकअप
-Notifications|| सूचनाएं
-User|| उपयोगकर्ता
-Logs|| Logs
-Activation Certificate|| सक्रियण प्रमाण पत्र
-License|| लाइसेंस
-SupportSave|| SupportSave
-Factory Reset|| कारखाना रीसेट करें
+Sign in with your username and password || अपने उपयोगकर्ता नाम और पासवर्ड के साथ साइन इन करें
+Success! || सफलता!
+Username || उपयोगकर्ता नाम
+User should be the real one! || उपयोगकर्ता वास्तविक होना चाहिए!
+Password should contains from {{min}} to {{max}} characters || पासवर्ड में {{min}} से लेकर {{max}} अक्षर तक होने चाहिए
+Sign In || साइन इन करें
+Logging out, please wait... || लॉग आउट, कृपया प्रतीक्षा करें ...
+Package list to upgrade || उन्नयन के लिए पैकेज सूची
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || सिस्टम को अपग्रेड करने के लिए, कृपया निम्नलिखित कमांड में एक शेल निष्पादित करें: 'चेकअपग्रेडेस -आई'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * यह जानकारी दैनिक रूप से अपडेट की जाती है, यदि आप चेक रन को बाध्य करना चाहते हैं <code>checkupgrades</code> कमांड लाइन से।
+No activation certificate || कोई सक्रियण प्रमाणपत्र नहीं
+There isn't a valid ZEVENET certificate file, please request a new one || कोई मान्य ZEVENET प्रमाणपत्र फ़ाइल नहीं है, कृपया एक नया अनुरोध करें
+Certificate Key || प्रमाणपत्र कुंजी
+Activation Certificate file || सक्रियण प्रमाणपत्र फ़ाइल
+Activation Data || सक्रियण डेटा
+Copy data to the clipboard || क्लिपबोर्ड पर डेटा कॉपी करें
+Activation Certificate || सक्रियण प्रमाण पत्र
+Select an activation certificate || एक सक्रियण प्रमाणपत्र चुनें
+Upload Activation Certificate || सक्रियण प्रमाणपत्र अपलोड करें
+No Support || समर्थन नहीं
+Certificate expired || प्रमाणपत्र समाप्त हो गया
+Support expired || समर्थन समाप्त हो गया
+Certificate expires in {{param}} {{param2}} || प्रमाणपत्र {{param}} {{param2}} में समाप्त हो रहा है
+Support expires in {{param}} {{param2}} || {{Param}} {{param2}} में समय सीमा समाप्त
+The activation certificate has been uploaded successfully. || सक्रियण प्रमाणपत्र सफलतापूर्वक अपलोड किया गया है।
+The Activation Certificate has been deleted successfully. || सक्रियण प्रमाणपत्र सफलतापूर्वक हटा दिया गया है।
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || क्या आप सक्रियण प्रमाणपत्र हटाना चाहते हैं \\n यदि आप इसे हटाते हैं तो आप GUI तक पहुँच खो देंगे, जब तक कि दूसरा प्रमाण पत्र अपलोड न हो जाए
+Upload || अपलोड
+Uploading || अपलोड हो रहा है
+Add || जोड़ना
+Disable maintenance || रखरखाव अक्षम करें
+Enable maintenance || रखरखाव सक्षम करें
+Drain mode || नाली मोड
+Cut mode || कट मोड
+Edit || संपादित करें
+Configure || कॉन्फ़िगर
+Save || सहेजें
+Add Variable || चर जोड़ें
+Bring || लाना
+Export || निर्यात
+All data || सभी डेटा
+Only selected || केवल चयनित
+Apply || लागू करें
+Create || बनाएं
+Cancel || रद्द करना
+Submit || सब्मिट
+New Service || नई सेवा
+New Zone || नया क्षेत्र
+New Route || नया मार्ग
+Basic || बुनियादी
+Advanced || उन्नत
+Generate || उत्पन्न
+Generating || उत्पादक
+Delete || मिटाना
+Bring Up || लाना
+Bring down || निचे लाओ
+Restart || पुनः प्रारंभ
+Restarting || पुन: प्रारंभ हो
+Start || प्रारंभ
+Stop || रुकें
+Unset || अनसेट
+Enable || सक्षम
+Disable || अक्षम
+Remove || हटाना
+Download || डाउनलोड
+Downloading || डाउनलोडिंग
+Update || अपडेट
+New Rule || नए नियम
+Next || आगामी
+Back || वापस
+Generate Random MAC || रैंडम मैक उत्पन्न करें
+Destroy || नष्ट
+Test Email || ईमेल का परीक्षण करें
+Generate Random Key || रैंडम कुंजी उत्पन्न करें
+Upload Certificate || अपलोड प्रमाणपत्र
+Delete Certificate || प्रमाण पत्र हटाएं
+List || सूची
+Menu || मेन्यू
+Modify || सुधारे
+Show || दिखाना
+Action || कार्य
+Test || परीक्षण
+Schedule || अनुसूची
+Upgrade || नवीनीकरण
+View || राय
+Info || जानकारी
+Test Connectivity || टेस्ट कनेक्टिविटी
+Show certificate || प्रमाण पत्र दिखाएं
+Force Changes || बल परिवर्तन
+Page Not Found || पृष्ठ नहीं मिला
+The page you were looking for doesn't exist || आप जिस पृष्ठ की तलाश कर रहे थे वह मौजूद नहीं है
+Take me home || मुझे घर ले चलो
+Status || स्थिति
+Actions || क्रियाएँ
+Name || नाम
+ID ||  ID
+Alias || उर्फ
+IP ||  IP
+Interface || इंटरफेस
+Priority || प्राथमिकता
+Port || बंदरगाह
+Weight || वजन
+Max. Conns || मैक्स। Conns
+Name || नाम
+Virtual IP || वर्चुअल आईपी
+Vitual Port || विटियल पोर्ट
+Virtual IP and Port || वर्चुअल आईपी और पोर्ट
+Default TCP port health check || डिफ़ॉल्ट टीसीपी पोर्ट स्वास्थ्य जांच
+Health Checks for backend || बैकएंड के लिए स्वास्थ्य जांच
+Default Name Server || डिफ़ॉल्ट नाम सर्वर
+Type || प्रकार
+Data || जानकारी
+Profile || प्रोफाइल
+HTTPS Parameters || HTTPS पैरामीटर
+Ciphers || सिफर
+Custom ciphers || कस्टम सिफर
+Protocol type || प्रोटोकॉल प्रकार
+NAT type || NAT प्रकार
+Rewrite location headers || स्थान हेडर को फिर से लिखें
+HTTP verbs accepted || HTTP क्रियाओं को स्वीकार किया
+Ignore 100 continue || 100 को अनदेखा करना जारी रखें
+Backend connection timeout || बैकएंड कनेक्शन टाइमआउट
+Backend response timeout || बैकएंड रिस्पांस टाइमआउट
+Frequency to check resurrected backends || पुनर्जीवित बैकेंड की जांच करने की आवृत्ति
+Client request timeout || ग्राहक अनुरोध समयबाह्य
+Message Error || संदेश त्रुटि
+Request Headers || अनुरोध हेड
+Response Headers || रिस्पांस हेडर
+Persistence || हठ
+Persistence session time to live || जीवन निर्वाह का समय
+TTL || टीटीएल
+Persistence session identifier || दृढ़ता सत्र पहचानकर्ता
+Virtual IP || वर्चुअल आईपी
+Load balancing Scheduler || लोड संतुलन समयबद्धक
+Algorithm || कलन विधि
+Round Robin || आवेदनपत्र
+Virtual Host || वर्चुअल होस्ट
+URL Pattern || URL पैटर्न
+Least Response || कम से कम प्रतिक्रिया
+HTTPS Backends || HTTPS बैकेंड
+STS Header || एसटीएस हैडर
+Timeout || मध्यांतर
+Redirect || पुन: निर्देशित
+Redirect URL || रीडायरेक्ट URL
+Redirect Type || पुनर्निर्देशित प्रकार
+Redirect Code || अनुप्रेषित कोड
+Cookie Insert || कुकी डालें
+Cookie Name || कुकी नाम
+Cookie Domain || कुकी डोमेन
+Cookie Path || कुकी पथ
+Cookie TTL || कुकी टीटीएल
+Locality || लोकैलिटी
+Country || देश
+State/Province || राज्य / प्रांत
+Common Name || साधारण नाम
+Organization || संगठन"
+Division || विभाजन
+E-mail Address || ईमेल पता
+File || पट्टिका
+Issuer || जारीकर्ता
+Creation || निर्माण
+Expiration || समाप्ति
+Certificate || प्रमाणपत्र
+Established Conns || स्थापित शंकु
+Pending Conns || लंबित शंकु
+Service || सर्विस
+Session ID || सत्र आईडी
+Backend ID || बैकएंड आईडी
+Requests || अनुरोधों
+Failed REQ || विफल रहा
+Failed RES || आरईएस फेल हो गया
+Truncated Resp TC || छंटनी की गई प्रतिक्रिया टीसी
+Extended DNS Big || विस्तारित DNS बड़ा
+Extended DNS TC || विस्तारित DNS टीसी
+No Error || कोई ग़लती नहीं
+Refused || से इनकार कर दिया
+Non-existent Domain || गैर-मौजूद डोमेन
+Notimp || Notimp
+Bad Version || खराब संस्करण
+Format Error || प्रारूप में त्रुटि
+Dropped || गिरा
+V6 ||  V6
+Extended DNS || विस्तारित DNS
+Extended DNS-ClientSub || विस्तारित DNS-ClientSub
+Client || ग्राहक
+Listerner || Listerner
+Value || वैल्यू 
+Custom IP || कस्टम आईपी
+Policy || नीति
+Remote URL || दूरस्थ URL
+Frequency || आवृत्ति
+Rule || नियम
+Limit RST request per source IP || स्रोत IP प्रति RST अनुरोध सीमित करें
+Total connections per source IP || स्रोत आईपी प्रति कुल कनेक्शन
+Limit Burst || सीमा तोड़ दो
+Total connections limit per source IP || स्रोत आईपी प्रति कुल कनेक्शन सीमा
+Hits || हिट्स
+Time || पहर
+Log level || छांटने का स्तर
+Only logging || केवल लॉगिंग है
+Local traffic || स्थानीय यातायात
+Queue size || कतार का आकार
+Max. Threads || मैक्स। धागे
+Cache size || कैचे आकार
+Cache time || कैश समय
+Check Request Body || अनुरोध बॉडी की जाँच करें
+Check Response Body || रिस्पांस बॉडी की जांच करें
+Request Body Limit || शारीरिक सीमा का अनुरोध करें
+Default Phase || डिफ़ॉल्ट चरण
+Default Log || डिफ़ॉल्ट लॉग
+Rules || नियम
+Rule Type || नियम प्रकार
+Mark || मार्क
+Phase || चरण
+Resolution || संकल्प
+Rule ID || नियम आईडी
+Skip || स्किप
+Skip after || के बाद छोड़ दें
+Execute || निष्पादित करना
+Description || विवरण
+Interval || अंतराल
+Cut connections || कनेक्शन काटें
+Command || आदेश
+MAC || मैक
+Netmask || netmask
+Farms || फार्म
+Gateway || प्रवेश द्वार
+IP Address || आईपी ​​एड्रेस
+CIDR || सीआईडीआर
+Mode || मोड
+Slaves || गुलाम
+Parent Interface || जनक इंटरफ़ेस
+Address || पता
+Host || मेजबान
+Date || तारीख
+Alert || चेतावनी
+Password || पासवर्ड
+Log || लॉग इन
+ZAPI Permissions || ZAPI अनुमतियाँ
+GUI Permissions || जीयूआई अनुमतियाँ
+Role || भूमिका
+Rules Date || नियम तिथि
+Scheduled || अनुसूचित
+Variable || परिवर्तनीय
+Variable's argument || चर का तर्क
+Ignore this <i>variable</i> for the match || इस पर ध्यान मत दें <i>परिवर्तनशील</i> मैच के लिए
+Count elements of <i>variables</i> || के तत्वों को गिनें <i>चर</i>
+Variables || चर
+Transformations || परिवर्तनों
+Operating || परिचालन
+Multi Match || मल्टी मैच
+Not Match || मेल नहीं करता
+Operator || ऑपरेटर
+Module || मॉड्यूल
+Floating IP || फ्लोटिंग आई.पी.
+Interfaces || इंटरफेस
+Group || समूह
+Virtual Interface || वर्चुअल इंटरफ़ेस
+URL || यूआरएल
+From || से
+Table || तालिका
+To || सेवा मेरे
+Route || मार्ग
+Via || के माध्यम से
+Backend Alias || बैकएंड अलियास
+Version || संस्करण
+System || प्रणाली
+Failback || फेलबैक
+Check Interval || अंतराल की जाँच करें
+Node || आसंधि
+Message || संदेश
+Hostname || मेजबाननाम
+No {{param}} found || कोई {{परम}} नहीं मिला
+Edit || संपादित करें
+Global || वैश्विक
+Services || सेवा
+Select a {{param}} || {{Param}} का चयन करें
+Resources || रिसोर्सेज 
+Backends || backends
+Strict Transport Security || सख्त परिवहन सुरक्षा
+Farms Stats || खेतों के आँकड़े
+Copy to clipboard || क्लिपबोर्ड पर कॉपी करें
+Hide nodes || नोड छिपाएं
+Show nodes || नोड्स दिखाएं
+Hide backends || बैकएंड छिपाएं
+Show backends || बैकएंड दिखाओ
+Hide graphs || रेखांकन छिपाएँ
+Show graphs || रेखांकन दिखाएं
+Sessions || सत्र
+Clients || ग्राहक
+Servers || सर्वर
+Extended || विस्तृत
+Nodes || नोड्स
+Number of lines || लाइनों की संख्या
+View All || सभी को देखें
+View Less || कम देखें
+Valid || वैध
+Expired || समय सीमा समाप्त
+Near to expire || समाप्त होने के करीब
+True || यह सच है
+False || झूठा
+No configured || कोई कॉन्फ़िगर नहीं किया गया
+In use by bonding interface || संबंध इंटरफ़ेस द्वारा उपयोग में
+The cluster service interface has to be changed or disabled before to be able to modify this interface || इस इंटरफ़ेस को संशोधित करने में सक्षम होने से पहले क्लस्टर सेवा इंटरफ़ेस को परिवर्तित या अक्षम करना होगा
+Enabled || सक्षम
+Disabled || विकलांग
+Needed restart || पुनः आरंभ करने की आवश्यकता है
+Critical || आलोचनात्मक
+Problem || मुसीबत
+Maintenance || रखरखाव
+Master || स्वामी
+Backup || बैकअप
+Not configured || कॉन्फ़िगर नहीं
+Undefined || अपरिभाषित
+Daily Graph || दैनिक ग्राफ़
+Weekly Graph || साप्ताहिक ग्राफ
+Monthly Graph || मासिक ग्राफ
+Yearly Graph || वार्षिक ग्राफ
+Documentation || प्रलेखन
+Reload farmguardian list || रीलोडेड फ़सल गार्डियन सूची
+Cookie || कुकी
+Zones || जोन
+System Stats || सिस्टम आँकड़े
+CPU || सी पी यू
+Memory || याद
+Load || भार
+Cores || कोर
+Traffic In || यातायात में
+Traffic Out || ट्रैफिक आउट
+Nothing || कुछ नहीं
+Custom || रिवाज
+All interfaces || सभी इंटरफेस
+All farms || सभी खेतों
+Default State || डिफ़ॉल्ट स्थिति
+Up ||  Up
+Down || नीचे
+Installed and updated || स्थापित और अद्यतन
+Not installed || स्थापित नहीं है
+Updates available || अद्यतन उपलब्ध
+Interface || इंटरफेस
+Type || प्रकार
+Zone || क्षेत्र
+Transformation || परिवर्तन
+Backend || बैकएण्ड
+Condition || शर्त
+Domain || डोमेन
+Resource || संसाधन
+Graph || ग्राफ
+Session || अधिवेशन
+IP alias || आईपी ​​उर्फ
+Interface alias || इंटरफ़ेस उपनाम
+Backup || बैकअप
+Farm || खेत
+Header || हैडर
+Pattern || पैटर्न
+Source || स्रोत
+Blacklist || काला सूची में डालना
+Farmguardian || Farmguardian
+Package || पैकेज
+DoS rule || DoS नियम
+RBL rule || आरबीएल नियम
+WAF ruleset || WAF नियम
+VLAN || VLAN
+Routing Rule || रूल नियम
+Routing Table || मर्गदर्शक सारणी
+Needed restart || पुनः आरंभ करने की आवश्यकता है
+There're changes that need to be applied, restart the farm to apply them! || ऐसे परिवर्तन हैं जिन्हें लागू करने की आवश्यकता है, उन्हें लागू करने के लिए खेत को फिर से शुरू करें!
+Close || समापन
+The <strong> factory reset </strong> has been completed successfully. || पिछली कक्षा का  <strong> नए यंत्र जैसी सेटिंग </strong> सफलतापूर्वक पूरा कर लिया गया है।
+The interface <strong> {{name}} </strong> has been updated successfully. || अंतरपटल <strong> {{name}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong>HTTP Service</strong> has been updated successfully. || पिछली कक्षा का  <strong>HTTP सेवा</strong> सफलतापूर्वक अपडेट कर दिया गया है।
+An error has occurred on the server, try again later || सर्वर पर एक त्रुटि हुई है, बाद में पुन: प्रयास करें
+Connection to web server failed || वेब सर्वर से कनेक्शन विफल रहा
+An unexpected error has occurred || एक अनपेक्षित त्रुटि हो गई है
+System Information || सिस्टम जानकारी
+ZEVENET Version || ZEVENET संस्करण
+Appliance Version || उपकरण संस्करण
+Kernel Version || कर्नेल संस्करण
+System Date || सिस्टम का दिनांक
+NIC Traffic || एनआईसी ट्रैफिक
+Total number of connections in realtime. || रीयलटाइम में कुल कनेक्शन की संख्या।
+Connections || कनेक्शन
+Professional Products || व्यावसायिक उत्पाद
+Professional Services || व्यवसायी सेवाए
+No Virtual Interfaces || कोई वर्चुअल इंटरफेस नहीं
+No VLANs || कोई वीएलएएन नहीं
+Create DSLB Farm || डीएसएलबी फार्म बनाएं
+Create Virtual interface || वर्चुअल इंटरफ़ेस बनाएँ
+Create GSLB Farm || GSLB फार्म बनाएँ
+Generate CSR || CSR उत्पन्न करें
+Create LSLB Farm || LSLB फार्म बनाएँ
+Upload SSL Certificate || SSL प्रमाणपत्र अपलोड करें
+Create Blacklist || ब्लैकलिस्ट बनाएं
+Create DoS rule || DoS नियम बनाएँ
+Create RBL rule || RBL नियम बनाएँ
+Create WAF ruleset || WAF नियम बनाएं
+Create Rule || नियम बनाएं
+Create Farmguardian || फार्मगार्डियन बनाएं
+Create Bonding interface || संबंध इंटरफ़ेस बनाएँ
+Create VLAN interface || VLAN इंटरफ़ेस बनाएँ
+Upload Backup || बैकअप अपलोड करें
+Create Backup || बैकअप बनाएं
+Create User || प्रयोक्ता बनाएँ
+Create Group || समूह बनाना
+Create Role || भूमिका बनाएँ
+Create Route || रूट बनाएं
+is required || आवश्यकता है
+is not valid, it only is possible alphanumeric characters and dash (-). || मान्य नहीं है, यह केवल अल्फ़ान्यूमेरिक वर्ण और डैश (-) संभव है।
+Only editable when the farm is down. || खेत नीचे होने पर ही संपादन योग्य।
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || वर्चुअल पोर्ट मान्य नहीं है, एकल पोर्ट, कई पोर्ट या पोर्ट की श्रेणी को परिभाषित करना संभव है (उदा: 80 या 80,81 या 80: 90)
+has to be greater than 0 || 0 से अधिक होना चाहिए
+Redirect should be a URL (http(s)://...) || रीडायरेक्ट URL होना चाहिए (http (s): //…)
+Country can only have two characters. || देश में केवल दो वर्ण हो सकते हैं।
+E-mail has to be a valid email || ई-मेल के लिए एक वैध ईमेल होना चाहिए
+The password does not match || पासवर्ड मेल नहीं खाता है
+has to be a value between {{min}} and {{max}} || {{min}} और {{max}} के बीच का मान होना चाहिए
+Global Settings || वैश्विक व्यवस्था
+IPDS Settings || आईपीडीएस सेटिंग्स
+Advanced Settings || उन्नत सेटिंग्स
+Domains Settings || डोमेन सेटिंग्स
+Rules Settings || नियम सेटिंग्स
+Blacklists rules || ब्लैकलिस्ट नियम
+DoS rules || DoS नियम
+RBL rules || आरबीएल नियम
+WAF rulesets || WAF नियम
+Services Settings || सेवाएँ सेटिंग्स
+Zones Settings || जोन सेटिंग्स
+Global Filter || ग्लोबल फ़िल्टर
+Refresh || ताज़ा करना
+Seconds || सेकंड
+per second || प्रति सेकंड
+Refresh status every || हर स्थिति को ताज़ा करें
+Refresh stats every || हर ताज़ा आँकड़े
+Not refresh || रिफ्रेश नहीं
+Farms Settings || फार्म सेटिंग्स
+Minutes || मिनटों
+Hours || घंटे
+Monday || सोमवार
+Tuesday || मंगलवार
+Wednesday || बुधवार
+Thursday || बृहस्पतिवार
+Friday || शुक्रवार
+Saturday || शनिवार
+Sunday || रविवार
+Deny || Deny
+Allow || अनुमति देना
+Daily || दैनिक
+Weekly || साप्ताहिक
+Monthly || मासिक
+entries || प्रविष्टियों
+threads || धागे
+Sort || तरह
+SORT MODE: Drag and drop the service to the desired position. || SORT MODE: इच्छित स्थान पर सेवा को खींचें और छोड़ें।
+The farm will be restarted automatically. || खेत अपने आप फिर से चालू हो जाएगा।
+bytes || बाइट्स
+Default is || डिफ़ॉल्ट है
+Optional || ऐच्छिक
+days || दिन
+Go to || करने के लिए जाओ
+Edit in form mode || फॉर्म मोड में संपादित करें
+Edit in raw mode || कच्चे मोड में संपादित करें
+Create in form mode || फॉर्म मोड में बनाएं
+Create in raw mode || कच्चे मोड में बनाएँ
+Available certificates || उपलब्ध प्रमाण पत्र
+Enabled certificates || सक्षम प्रमाण पत्र
+Search certificate || प्रमाण पत्र खोजें
+Available blacklists || उपलब्ध ब्लैक लिस्ट
+Enabled blacklists || सक्षम कालाकारों
+Search blacklist || काली सूची में खोजें
+Available DoS rules || उपलब्ध DoS नियम
+Enabled DoS rules || सक्षम DoS नियम
+Search DoS rule || DoS नियम खोजें
+Available RBL rules || उपलब्ध आरबीएल नियम
+Enabled RBL rules || सक्षम RBL नियम
+Search RBL rule || RBL नियम खोजें
+Available WAF rulesets || उपलब्ध WAF नियम
+Enabled WAF rulesets || सक्षम WAF नियम
+Search WAF ruleset || WAF नियम खोजें
+Available farms || उपलब्ध खेतों
+Enabled farms || सक्षम खेतों
+Search farm || खोज खेत
+Available domains || उपलब्ध डोमेन
+Enabled domains || सक्षम डोमेन
+Search domain || डोमेन खोजें
+Enabled rules || सक्षम नियम
+Disabled rules || विकलांग नियम
+Search rule || नियम खोजें
+Available NICs || उपलब्ध एनआईसी
+Enabled NICs || सक्षम एनआईसी
+Search NIC || एनआईसी खोजें
+Search slaves || गुलामों की तलाश करो
+Slaves NICs || दास एनआईसी
+Available users || उपलब्ध उपयोगकर्ता
+Enabled users || सक्षम उपयोगकर्ता
+Search user || उपयोगकर्ता खोजें
+Available interfaces || उपलब्ध इंटरफेस
+Enabled interfaces || सक्षम इंटरफेस
+Search interface || खोज इंटरफ़ेस
+Managed interfaces || प्रबंधित इंटरफेस
+Unmanaged interfaces || अव्यवस्थित इंटरफेस
+Search interface || खोज इंटरफ़ेस
+LSLB Farm List || एलएसएलबी फार्म लिस्ट
+GSLB Farm List || जीएसएलबी फार्म लिस्ट
+DSLB Farm List || डीएसएलबी फार्म लिस्ट
+Copy farm || खेत की नकल
+Farm to copy || नकल करने के लिए खेत
+Select the farm to copy || कॉपी करने के लिए खेत का चयन करें
+Weight: connection linear dispatching by weight || वजन: कनेक्शन रैखिक वजन द्वारा भेजना
+Priority: connections always to the most prio available || प्राथमिकता: हमेशा उपलब्ध सबसे बेशकीमती के लिए कनेक्शन
+Source Hash: Hash per Source IP and Source Port || सोर्स हैश: हैश प्रति सोर्स आईपी और सोर्स पोर्ट
+Simple Source Hash: Hash per Source IP only || सरल स्रोत हैश: केवल स्रोत आईपी प्रति हैश
+Symmetric Hash: Round trip hash per IP and Port || सममित हैश: गोल यात्रा हैश प्रति आईपी और पोर्ट
+Round Robin: Sequential backend selection || राउंड रॉबिन: अनुक्रमिक बैकएंड चयन
+Least Connections: connections to the least open conns available || कम से कम कनेक्शन: उपलब्ध कम से कम खुले कनेक्शन के कनेक्शन
+Disabled || विकलांग
+Enabled || सक्षम
+Enabled and compare backends || सक्षम और बैकएंड की तुलना करें
+No persistence || कोई दृढ़ता नहीं
+IP: Source IP || आईपी: स्रोत आईपी
+Port: Source Por || पोर्ट: स्रोत पोर
+MAC: Source MAC || मैक: स्रोत मैक
+Source IP and Source Port || स्रोत आईपी और स्रोत पोर्ट
+Source IP and Destination Port || स्रोत आईपी और गंतव्य बंदरगाह
+No persistence || कोई दृढ़ता नहीं
+IP: Client address || आईपी: क्लाइंट का पता
+BASIC: Basic authentication || बुनियादी: मूल प्रमाणीकरण
+URL: A request parameter || URL: एक अनुरोध पैरामीटर
+PARM: An URI parameter || PARM: एक URI पैरामीटर
+COOKIE: A certain cookie || कूकी: एक निश्चित कुकी
+HEADER: A certain request header || हेडर: एक निश्चित अनुरोध हैडर
+The farm has been updated successfully || खेत को सफलतापूर्वक अपडेट किया गया है
+The farm <strong> {{param}} </strong> has been deleted successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The farm <strong> {{param}} </strong> has been started successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक शुरू किया गया है।
+The farm <strong> {{param}} </strong> has been restarted successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक पुनः आरंभ किया गया है।
+The farm <strong> {{param}} </strong> has been stopped successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक रोक दिया गया है।
+The farm <strong> {{param}} </strong> has been created successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The backend has been created successfully. || बैकएंड को सफलतापूर्वक बनाया गया है।
+The backend has been updated successfully. || बैकएंड को सफलतापूर्वक अपडेट किया गया है।
+The backend <strong> {{param}} </strong> has been deleted successfully. || बैकेंड <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || बैकेंड <strong> {{param}} </strong> सफलतापूर्वक रखरखाव में डाल दिया गया है।
+The backend <strong> {{param}} </strong> has been upped successfully. || बैकेंड <strong> {{param}} </strong> सफलतापूर्वक काटा गया है।
+Backends with high priority value <strong> {{param}} </strong> will not be used. || उच्च प्राथमिकता मूल्य के साथ समर्थन करता है <strong> {{param}} </strong> उपयोग नहीं किया जाएगा।
+The resource has been created successfully. || संसाधन सफलतापूर्वक बनाया गया है।
+The resource has been updated successfully. || संसाधन को सफलतापूर्वक अपडेट कर दिया गया है।
+The backend <strong> {{param}} </strong> has been deleted successfully. || बैकेंड <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || एसएसएल प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक हल किया गया है।
+The service <strong> {{param}} </strong> has been created successfully. || सेवा <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The service <strong> {{param}} </strong> has been updated successfully. || सेवा <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The service <strong> {{param}} </strong> has been deleted successfully. || सेवा <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The service <strong> {{param}} </strong> has been moved successfully. || सेवा <strong> {{param}} </strong> सफलतापूर्वक स्थानांतरित कर दिया गया है।
+The farmguardians list has been reloaded successfully. || फार्मगार्डियन सूची को सफलतापूर्वक लोड किया गया है।
+The farmguardian has been disabled successfully. || फ़ार्मगार्डियन को सफलतापूर्वक अक्षम कर दिया गया है।
+The farmguardian has been changed to {{param}} successfully. || फार्मगार्डियन को सफलतापूर्वक {{param}} में बदल दिया गया है।
+The zone <strong> {{param}} </strong> has been created successfully. || ज़ोन <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The zone <strong> {{param}} </strong> has been updated successfully. || ज़ोन <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The zone <strong> {{param}} </strong> has been deleted successfully. || ज़ोन <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || कालीसूची <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || कालीसूची <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || DoS नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || DoS नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || आरबीएल नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || आरबीएल नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || WAF नियम <strong> {{param}} </strong> सफलतापूर्वक हल किया गया है।
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || WAF नियम <strong> {{param}} </strong> सफलतापूर्वक खेत में जोड़ दिया गया है।
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || WAF नियम <strong> {{param}} </strong> सफलतापूर्वक खेत से निकाल दिया गया है।
+The profile has been changed to {{param}} successfully. || प्रोफ़ाइल को सफलतापूर्वक {{param}} में बदल दिया गया है।
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || एल्गोरिथ्म को वजन एल्गोरिथ्म में बदल दिया गया है, क्योंकि कम से कम कनेक्शन एल्गोरिथ्म को चयनित NAT प्रकार के साथ अनुमति नहीं है। आप सेवाओं टैब से एक और एल्गोरिथ्म चुन सकते हैं।
+The request header has been saved successfully. || अनुरोध शीर्षलेख को सफलतापूर्वक सहेजा गया है।
+The request header has been deleted successfully. || अनुरोध शीर्षलेख सफलतापूर्वक हटा दिया गया है।
+The request header pattern has been saved successfully. || अनुरोध शीर्ष लेख पैटर्न सफलतापूर्वक सहेजा गया है।
+The request header pattern has been deleted successfully. || अनुरोध शीर्ष लेख पैटर्न सफलतापूर्वक हटा दिया गया है।
+The response header has been saved successfully. || प्रतिक्रिया शीर्षलेख को सफलतापूर्वक सहेजा गया है।
+The response header has been deleted successfully. || प्रतिक्रिया शीर्षलेख को सफलतापूर्वक हटा दिया गया है।
+The response header pattern has been saved successfully. || प्रतिक्रिया हेडर पैटर्न को सफलतापूर्वक सहेजा गया है।
+The response header pattern has been deleted successfully. || प्रतिक्रिया शीर्ष लेख पैटर्न सफलतापूर्वक हटा दिया गया है।
+The service has to have one backend at least. || सेवा में कम से कम एक बैकेंड होना चाहिए।
+Are you sure you want to delete the farm {{param}}? || क्या आप वाकई {{param}} खेत को हटाना चाहते हैं?
+Are you sure you want to delete the selected farms? || क्या आप वाकई चयनित फ़ार्मों को हटाना चाहते हैं?
+Are you sure you want to delete the service {{param}}? || क्या आप वाकई {{param}} सेवा को हटाना चाहते हैं?
+Are you sure you want to delete the zone {{param}}? || क्या आप वाकई {{param}} क्षेत्र को हटाना चाहते हैं?
+Are you sure you want to delete the selected resources? || क्या आप वाकई चयनित संसाधनों को हटाना चाहते हैं?
+Are you sure you want to delete the resource {{param}}? || क्या आप वाकई {{param}} संसाधन को हटाना चाहते हैं?
+Are you sure you want to delete the backend {{param}}? || क्या आप वाकई {{param}} बैकएंड को हटाना चाहते हैं?
+Are you sure you want to delete the selected backends? || क्या आप वाकई चयनित बैकेंड को हटाना चाहते हैं?
+Are you sure you want to delete the request header with ID {{id}}? || क्या आप वाकई आईडी {{आईडी}} के साथ अनुरोध हेडर को हटाना चाहते हैं?
+Are you sure you want to delete the request header pattern with ID {{id}}? || क्या आप वाकई आईडी {{आईडी}} के साथ अनुरोध हेडर पैटर्न हटाना चाहते हैं?
+Are you sure you want to delete the selected request headers? || क्या आप वाकई चयनित अनुरोध शीर्षलेख हटाना चाहते हैं?
+Are you sure you want to delete the selected request headers patterns? || क्या आप वाकई चयनित अनुरोध हेडर पैटर्न हटाना चाहते हैं?
+Are you sure you want to delete the response header with ID {{id}}? || क्या आप वाकई आईडी {{आईडी}} के साथ प्रतिक्रिया हेडर को हटाना चाहते हैं?
+Are you sure you want to delete the response header pattern with ID {{id}}? || क्या आप वाकई आईडी {{आईडी}} के साथ प्रतिक्रिया हेडर पैटर्न को हटाना चाहते हैं?
+Are you sure you want to delete the selected response headers? || क्या आप वाकई चयनित हेडर को हटाना चाहते हैं?
+Are you sure you want to delete the selected response headers patterns? || क्या आप वाकई चयनित प्रतिक्रिया शीर्षलेख पैटर्न हटाना चाहते हैं?
+Are you sure you want to delete the {{param}} blacklist? || क्या आप वाकई {{param}} को ब्लैकलिस्ट करना चाहते हैं?
+Are you sure you want to delete the selected blacklists? || क्या आप वाकई चयनित ब्लैकलिस्ट को हटाना चाहते हैं?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || इंटरफ़ेस का गेटवे {{param}} हटा दिया जाएगा और इस खेत को बदल दिया जाएगा। क्या आप जारी रखना चाहते हैं?
+SSL Certificate list || एसएसएल प्रमाणपत्र सूची
+Choose one certificate || एक प्रमाण पत्र चुनें
+Choose one or more files || एक या अधिक फाइलें चुनें
+Selected files || चयनित फ़ाइलें
+Descriptive text, this name will be used to identify this certificate. || वर्णनात्मक पाठ, इस नाम का उपयोग इस प्रमाण पत्र की पहचान करने के लिए किया जाएगा।
+City where your organization is located. || शहर जहां आपका संगठन स्थित है।
+Country (two characters) where your organization is located. || देश (दो अक्षर) जहां आपका संगठन स्थित है।
+State or province where your organization is located. || राज्य या प्रांत जहां आपका संगठन स्थित है।
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || सर्वर का FQDN। उदाहरण: domain.com, mail.domain.com, या * .domain.com।
+The full legal name of your organization/company (ex.: ZEVENET Co.) || आपके संगठन / कंपनी का पूर्ण कानूनी नाम (उदा .: ZEVENET Co.)
+Your department; such as 'IT','Web', 'Office', etc. || आपका विभाग; जैसे 'आईटी', 'वेब', 'ऑफिस', आदि।
+Your email address || आपका ईमेल पता
+The CSR <strong> {{param}} </strong> has been generated successfully. || सीएसआर <strong> {{param}} </strong> सफलतापूर्वक उत्पन्न किया गया है।
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक अपलोड किया गया है।
+The certificate <strong> {{param}} </strong> has been deleted successfully. || प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || प्रमाणपत्र <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
+Are you sure you want to delete the certificate {{param}}? || क्या आप वाकई {{param}} प्रमाणपत्र को हटाना चाहते हैं?
+Are you sure you want to delete the selected certificates? || क्या आप वाकई चयनित प्रमाणपत्र हटाना चाहते हैं?
+Updates || अपडेट
+Update list || अद्यतन सूची
+Period time || अवधि समय
+Exact time || सही समय
+Daily every || हर रोज
+Day of the week || हफ्ते का दिन
+Day of the month || महीने का दिन
+Sources || सूत्रों का कहना है
+DoS rules IPDS || DoS आईपीडीएस नियम
+RBL rules IPDS || आरबीएल आईपीडीएस के नियम
+Copy rule || नियम की प्रति
+Rule to copy || नकल करने का नियम
+Ruleset to copy || कॉपी करने का नियम
+Select the rule to copy || कॉपी करने के लिए नियम का चयन करें
+Select the ruleset to copy || कॉपी करने के लिए नियम का चयन करें
+Custom Domain List || कस्टम डोमेन सूची
+Preloaded Domain List || प्रीलोडेड डोमेन सूची
+WAF rulesets IPDS || WAF ने IPDS को नियंत्रित किया
+Default Action || डिफ़ॉल्ट क्रिया
+Disable Rules || नियमों को अक्षम करें
+IPDS Package Updates || आईपीडीएस पैकेज अपडेट
+Conditions || स्थितियां
+Flow || फ्लो
+WAF File List || WAF फ़ाइल सूची
+WAF file || WAF फ़ाइल
+Content File || सामग्री फ़ाइल
+Select files || फ़ाइलें चुनें
+Select a file || किसी फाइल का चयन करें
+Select transformations || परिवर्तनों का चयन करें
+Connection limit per second. || कनेक्शन सीमा प्रति सेकंड।
+Total connections limit per source IP. || स्रोत आईपी प्रति कुल कनेक्शन सीमा।
+Check bogus TCP flags. || फर्जी टीसीपी झंडे की जाँच करें।
+Limit RST request per second. || प्रति सेकंड RST अनुरोध सीमित करें।
+Allow: Finish the WAF processing and complete the HTTP transaction || अनुमति दें: WAF प्रसंस्करण समाप्त करें और HTTP लेनदेन को पूरा करें
+Pass: Continue executing the rules || पास: नियमों को निष्पादित करना जारी रखें
+Deny: Cut the request and not execute rules left || इनकार: अनुरोध में कटौती करें और बचे नियमों को निष्पादित न करें
+Redirect: The client received a URL to redirect || रीडायरेक्ट: क्लाइंट को रीडायरेक्ट करने के लिए एक URL प्राप्त हुआ
+Default action: The default action of this ruleset || डिफ़ॉल्ट क्रिया: इस नियम की डिफ़ॉल्ट क्रिया
+Request headers are received || अनुरोध हेडर प्राप्त होते हैं
+Request body is received || अनुरोध शरीर प्राप्त होता है
+Response headers are received || प्रतिक्रिया हेडर प्राप्त होते हैं
+Response body is received || रिस्पांस बॉडी मिली है
+Before than logging || लॉग इन करने से पहले
+LUA Script || LUA स्क्रिप्ट
+Data file || डेटा फ़ाइल
+It is a collection with the values of arguments in a request. || यह एक अनुरोध में तर्कों के मूल्यों के साथ एक संग्रह है।
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || यह एक JSON अनुरोध में तर्कों के मूल्यों के साथ एक संग्रह है। यह वैरिएबल उस स्थिति में उपलब्ध होगा, जब WAF JSON तर्क देता है, इसके लिए, नियम सेट REQUEST-901-INITIALIZATION सक्षम होना चाहिए।
+The total size of the request parameters. The files are excluded. || अनुरोध मापदंडों का कुल आकार। फाइलों को बाहर रखा गया है।
+It is a collection with the names of the arguments in a request. || यह एक अनुरोध में तर्कों के नाम के साथ एक संग्रह है।
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || इसमें उपयोगकर्ता फ़ाइल में फ़ाइल नाम शामिल हैं। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
+It is the total size of the files in a request. Only when the data is multipart/form-data. || यह अनुरोध में फ़ाइलों का कुल आकार है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || यह फाइल को अपलोड करने के लिए उपयोग किए जाने वाले फ़ाइलनामों की एक सूची है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || इसमें अलग-अलग फ़ाइल आकारों की एक सूची है। केवल जब डेटा मल्टीपार्ट / फॉर्म-डेटा है।
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || यह चर 1 है यदि अनुरोध निकाय प्रारूप JSON या XML के लिए सही नहीं है, अन्यथा इसका मान 0 है।
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || यह कच्चे शरीर का अनुरोध है। यदि अनुरोध में &quot;एप्लिकेशन / x-www-form-urlencoded&quot; हेडर नहीं है, तो REQUEST_HEADER चरण में &quot;ctl: forceRequestBodyVariable&quot; का उपयोग करना आवश्यक है।
+It is the number of bytes of the request body. || यह अनुरोध निकाय के बाइट्स की संख्या है।
+It is a list with all request cookies values. || यह सभी अनुरोध कुकीज़ मूल्यों के साथ एक सूची है।
+It is a list with all request cookies names. || यह सभी अनुरोध कुकीज़ नामों के साथ एक सूची है।
+This variable has all the request headers. || इस चर में सभी अनुरोध शीर्षलेख हैं।
+This variable has a list with the request headers names. || इस चर में अनुरोध शीर्षलेख नामों के साथ एक सूची है।
+It is the request method. || यह अनुरोध विधि है।
+This variable holds the request HTTP version protocol. || यह चर अनुरोध HTTP संस्करण प्रोटोकॉल रखता है।
+It is the URI request path. The virtual host is excluded. || यह यूआरआई अनुरोध पथ है। वर्चुअल होस्ट को बाहर रखा गया है।
+It is the information before than the URI path. || यह URI पथ से पहले की जानकारी है।
+It is the full request. || यह पूरी रिक्वेस्ट है।
+It is the number of bytes that full request can have. || यह बाइट्स की संख्या है जो पूर्ण अनुरोध हो सकती है।
+It is the raw body response. || यह कच्चे शरीर की प्रतिक्रिया है।
+It is the number of bytes of the response body. || यह प्रतिक्रिया शरीर के बाइट्स की संख्या है।
+This variable has all response headers. || इस चर में सभी प्रतिक्रिया शीर्षलेख हैं।
+This variable has a list with the response headers names. || इस चर की प्रतिक्रिया हेडर नामों के साथ एक सूची है।
+This variable holds the response HTTP version protocol. || यह चर प्रतिक्रिया HTTP संस्करण प्रोटोकॉल रखती है।
+It is the response HTTP code. || यह प्रतिक्रिया HTTP कोड है।
+It is the IP address of the client. || यह क्लाइंट का आईपी एड्रेस है।
+It is the port where the client initializes the connection. || यह पोर्ट है जहां क्लाइंट कनेक्शन को इनिशियलाइज़ करता है।
+It is the name of the authenticated user. || यह प्रमाणित उपयोगकर्ता का नाम है।
+It is the server time. The format is hours:minutes:seconds. || यह सर्वर समय है। प्रारूप घंटे: मिनट: सेकंड है।
+It is the number of milliseconds since the beginning of the current transaction. || यह वर्तमान लेनदेन की शुरुआत से मिलीसेकंड की संख्या है।
+It is the field filename in a multipart request. || यह एक मल्टीपार्ट अनुरोध में फ़ील्ड फ़ाइल नाम है।
+It is the field name in a multipart request. || यह मल्टीपार्ट अनुरोध में फ़ील्ड नाम है।
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || यह पिछले मैच के संचालन में मिलान मूल्य है। इस मान को कैप्चर विकल्प की आवश्यकता नहीं है लेकिन इसे प्रत्येक मैच ऑपरेशन में बदल दिया जाता है।
+It is a list of all matched values. || यह सभी मिलान किए गए मूल्यों की एक सूची है।
+It is the IP address of the server. || यह सर्वर का आईपी एड्रेस है।
+It is the virtual host, it gets from the request URI. || यह वर्चुअल होस्ट है, यह अनुरोध URI से प्राप्त होता है।
+It is the environment variables of the WAF. || यह WAF का पर्यावरण चर है।
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || यह वर्तमान लेनदेन के लिए चर का संग्रह है। लेनदेन समाप्त होने पर इन चरों को हटा दिया जाएगा। चर TX: 0-TX: 9 strRegex या strPreds ऑपरेटरों के साथ कैप्चर किए गए मानों को बचाता है।
+Decodes a Base64-encoded string. || Base64- एन्कोडेड स्ट्रिंग को डिकोड करता है।
+Decodes a Base64-encoded string ignoring invalid characters. || अमान्य वर्णों को अनदेखा करते हुए एक Base64- एन्कोडेड स्ट्रिंग को डिकोड करता है।
+Decodes SQL hex data. || SQL हेक्स डेटा को डिकोड करता है।
+Encodes using Base64 encoding. || Base64 एन्कोडिंग का उपयोग कर एन्कोड करता है।
+Avoids the problem related with the escaped command line. || बची हुई कमांड लाइन से जुड़ी समस्या से बचा जाता है।
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || किसी भी व्हाट्सएप वर्ण (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) को रिक्त स्थान (ASCII 0x20) में कनवर्ट करता है, जिसमें कई लगातार अंतरिक्ष वर्णों को एक में संपीड़ित किया जाता है।
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || डिकोड वर्ण CSS 2.x एस्केप नियमों का उपयोग करके एन्कोड किया गया। यह फ़ंक्शन डिकोडिंग प्रक्रिया में केवल दो बाइट्स का उपयोग करता है, जिसका अर्थ है कि यह सीएसएस एन्कोडिंग का उपयोग करके एन्कोडेड वर्णों को उजागर करने के लिए उपयोगी है (जो सामान्य रूप से एन्कोडेड नहीं होगा), या चोरी का मुकाबला करने के लिए, जो बैकस्लैश और गैर का संयोजन है -xxecimal वर्ण (जैसे, ja \\वासस्क्रिप्ट जावास्क्रिप्ट के बराबर है)।
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || एएनएसआई सी से बचने के क्रम: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\', \\? \ xHH (हेक्साडेसिमल), \\0OOO ​​(ऑक्टल)। अमान्य एन्कोडिंग को आउटपुट में छोड़ दिया जाता है।
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || एक स्ट्रिंग को डिकोड करता है जिसे उसी एल्गोरिथ्म का उपयोग करके एन्कोड किया गया है जैसे कि हेक्सेनकोड में इस्तेमाल किया गया था (प्रवेश के बाद देखें)।
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || प्रत्येक हेक्साडेसिमल वर्णों के साथ प्रत्येक इनपुट बाइट को प्रतिस्थापित करके स्ट्रिंग (संभवतः बाइनरी वर्णों को शामिल करता है) को एन्कोड करता है। उदाहरण के लिए, xyz को 78797a के रूप में एन्कोड किया गया है।
+Decodes the characters encoded as HTML entities. || HTML संस्थाओं के रूप में एन्कोड किए गए वर्णों को अस्वीकृत करता है।
+Decodes JavaScript escape sequences. || डिकोड्स जावास्क्रिप्ट क्रम से बचते हैं।
+Looks up the length of the input string in bytes, placing it (as string) in output. || बाइट्स में इनपुट स्ट्रिंग की लंबाई को देखता है, इसे आउटपुट में (स्ट्रिंग के रूप में) रखता है।
+Converts all characters to lowercase using the current C locale. || वर्तमान सी लोकेल का उपयोग करके सभी वर्णों को नीचे करने के लिए परिवर्तित करता है।
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || इनपुट में डेटा से एक MD5 हैश की गणना करता है। गणना की गई हैश कच्चे द्विआधारी रूप में है और इसे मुद्रित (या लॉग) होने के लिए पाठ में एनकोड करना पड़ सकता है। हैश फंक्शन आमतौर पर हेक्सेनकोड के साथ संयोजन में उपयोग किया जाता है।
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || वास्तविक परिवर्तन फ़ंक्शन नहीं है, लेकिन वर्तमान नियम से जुड़े पिछले परिवर्तन कार्यों को हटाने के लिए एक निर्देश है।
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || इनपुट स्ट्रिंग से कई स्लैश, डायरेक्टरी सेल्फ-रेफरेंस और डाइरेक्टरी बैक-रेफरेंस (इनपुट की शुरुआत में छोड़कर) को हटा देता है।
+Same as normalizePath, but first converts backslash characters to forward slashes. || NormalizePath के समान है, लेकिन पहले बैकलैश कैरेक्टर को फॉरवर्ड स्लैश में कनवर्ट करता है।
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || गणना लक्ष्य बिट के साथ प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8- बिट डेटा की समता की गणना करता है।
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || परिकलित बिट के साथ प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8-bit डेटा की विषम समता की गणना करता है।
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || प्रत्येक लक्ष्य बाइट के 7th बिट की जगह 8- बिट डेटा की शून्य समता की गणना करता है, जो ASCIIXNXX डेटा के रूप में सम / विषम समता 7-बिट डेटा के निरीक्षण की अनुमति देता है।
+Removes all NUL bytes from input. || इनपुट से सभी NUL बाइट्स निकालता है।
+Removes all whitespace characters from the input. || इनपुट से सभी व्हाट्सएप पात्रों को हटाता है।
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || सी-स्टाइल टिप्पणी (/ * ... * /) की प्रत्येक घटना को एक ही स्थान के साथ प्रतिस्थापित करता है (जिनमें से कई लगातार घटनाएं संपीड़ित नहीं होंगी)। अलग-अलग टिप्पणियों को भी अंतरिक्ष (ASCII 0x20) से बदल दिया जाएगा। हालांकि, एक टिप्पणी (* /) के एक स्टैंडअलोन समाप्ति पर कार्रवाई नहीं की जाएगी।
+Removes common comments chars (/*, */, –, #). || सामान्य टिप्पणी वर्ण हटाता है (/ *, * /, -, #)।
+Replaces NUL bytes in input with space characters (ASCII 0x20). || अंतरिक्ष वर्ण (ASCII 0x20) के साथ इनपुट में NUL बाइट्स को प्रतिस्थापित करता है।
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || URL-एन्कोडेड इनपुट स्ट्रिंग को डिकोड करता है। अमान्य एन्कोडिंग (यानी, जो गैर-हेक्साडेसिमल वर्णों का उपयोग करते हैं, या वे जो स्ट्रिंग के अंत में हैं और एक या दो बाइट्स गायब हैं) परिवर्तित नहीं होते हैं, लेकिन कोई त्रुटि नहीं उठाई जाती है।
+Converts all characters to uppercase using the current C locale. || वर्तमान सी लोकेल का उपयोग करके सभी वर्णों को अपरकेस में परिवर्तित करता है।
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || UrlDecode की तरह, लेकिन Microsoft-विशिष्ट% u एन्कोडिंग के लिए समर्थन के साथ।
+Encodes input string using URL encoding. || URL एन्कोडिंग का उपयोग करके इनपुट स्ट्रिंग को एन्कोड करता है।
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || सभी UTF-8 वर्ण क्रमों को यूनिकोड में रूपांतरित करता है। यह विशेष रूप से गैर-अंग्रेजी भाषाओं के लिए झूठी-सकारात्मक और झूठी-नकारात्मक को कम करने के लिए इनपुट सामान्यीकरण में मदद करता है।
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || इनपुट स्ट्रिंग से एक SHA1 हैश की गणना करता है। गणना की गई हैश कच्चे द्विआधारी रूप में है और इसे मुद्रित (या लॉग) होने के लिए पाठ में एनकोड करना पड़ सकता है। हैश फ़ंक्शंस आमतौर पर हेक्सेनकोड के साथ संयोजन में उपयोग किए जाते हैं।
+Removes whitespace from the left side of the input string. || इनपुट स्ट्रिंग के बाईं ओर से व्हाट्सएप को हटाता है।
+Removes whitespace from the right side of the input string. || इनपुट स्ट्रिंग के दाईं ओर से व्हाट्सएप को हटाता है।
+Removes whitespace from both the left and right sides of the input string. || इनपुट स्ट्रिंग के बाएँ और दाएँ दोनों पक्षों से व्हाट्सएप को हटाता है।
+The rule will match if any of the variables begin with the value of operating. || यदि संचालन के मूल्य के साथ कोई भी चर शुरू होता है तो नियम मेल खाएगा।
+The rule will match if any of the variables contain the value of operating. || यदि कोई भी वैरिएबल ऑपरेटिंग का मान रखता है तो नियम मेल खाएगा।
+The rule will match if any of the variables contain a word as the string one. || यदि कोई भी शब्द स्ट्रिंग के रूप में एक शब्द में है, तो नियम मेल खाएगा।
+The rule will match if any of the variables end with the value of operating. || यदि संचालन के मूल्य के साथ कोई भी चर समाप्त होता है तो नियम मेल खाएगा।
+The rule will match if any of the variables match with the value of operating. || यदि संचालन के मूल्य के साथ कोई भी चर मेल खाता है, तो नियम मेल खाएगा।
+The rule will match if any of the variables match with the value of operating. || यदि संचालन के मूल्य के साथ कोई भी चर मेल खाता है, तो नियम मेल खाएगा।
+The rule will match if any of the variables is identical to the value of operating. || यदि कोई भी चर परिचालन के मूल्य के समान है, तो नियम मेल खाएगा।
+The rule will match if any of the variables match in the regular expression used in operating. || यदि ऑपरेटिंग में उपयोग की जाने वाली नियमित अभिव्यक्ति में कोई भी चर मेल खाता है तो नियम मेल खाएगा।
+The rule will match if any of the variables match in any of the values of the list operating. || सूची के संचालन के मूल्यों में से कोई भी चर मेल खाता है तो नियम मेल खाएगा।
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || यह वही है जो ऑपरेटर strPhrases है लेकिन ऑपरेटिंग एक फाइल है जहां इसे वाक्यांशों की सूची के रूप में परिभाषित किया गया है।
+The rule will match if any of the variables is equal to the number used in operating. || यदि कोई भी चर परिचालन में उपयोग की गई संख्या के बराबर है, तो नियम मेल खाएगा।
+The rule will match if any of the variables is greater or equal to the number used in operating. || यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से अधिक या बराबर है, तो नियम मेल खाएगा।
+The rule will match if any of the variables is greater than the number used in operating. || यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से अधिक है, तो नियम मेल खाएगा।
+The rule will match if any of the variables is lower or equal to the number used in operating. || यदि कोई भी चर परिचालन में उपयोग की जाने वाली संख्या के बराबर या उससे कम है तो नियम मेल खाएगा।
+The rule will match if any of the variables is lower than the number used in operating. || यदि ऑपरेटिंग में उपयोग की जाने वाली संख्या से कम है, तो नियम मेल खाएगा।
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || यह चर की सूची में SQL इंजेक्शन का पता लगाने पर लागू होता है। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || यह चर की सूची में XSS इंजेक्शन का पता लगाने पर लागू होता है। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
+Try to match the IP or network segments of operating with the list of variables. || चर की सूची के साथ संचालन के आईपी या नेटवर्क सेगमेंट से मिलान करने का प्रयास करें।
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || यह ऑपरेटर ipMatch के समान है, लेकिन यह IPs और नेटवर्क सेगमेंट की सूची वाली फ़ाइल के विरुद्ध चर के मेल की कोशिश करता है।
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || यह जाँचता है कि चर के बाइट की संख्या ऑपरेटिंग मानों में से एक में है। संचालन का एक उदाहरण &quot;10, 13, 32-126&quot; है।
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || यह एन्कोडेड डेटा को मान्य करता है। इस ऑपरेटर का उपयोग केवल उन डेटा के लिए किया जाना चाहिए जो डेटा को आमतौर पर एन्कोड नहीं करते हैं या डेटा के लिए कई बार एन्कोडेड होते हैं।
+It validates that variables are UTF-8. This operator does not expect any operating. || यह पुष्टि करता है कि चर UTF-8 हैं। यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || यह सत्यापित करता है कि चर एक क्रेडिट कार्ड नंबर हैं। यह पैरामीटर संचालन के रूप में एक नियमित अभिव्यक्ति को स्वीकार करता है, यदि यह मेल खाता है तो यह सत्यापित किए गए क्रेडिट कार्ड पर लागू होता है।
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || यह सत्यापित करता है कि चर एक अमेरिकी सामाजिक सुरक्षा संख्या हैं। यह पैरामीटर ऑपरेटिंग के रूप में एक नियमित अभिव्यक्ति को स्वीकार करता है, यदि यह मेल खाता है तो यह एसएसएन सत्यापन लागू करता है।
+It returns true always, forcing a match. || यह हमेशा सच होता है, एक मैच के लिए मजबूर करता है।
+It returns false always, forcing a non-match. || यह हमेशा एक मैच के लिए मजबूर करने के लिए झूठे रिटर्न देता है।
+A word is delimited by characters different to (a-z, 0-9 and '_') || किसी शब्द को वर्णों द्वारा अलग किया गया है (az, 0-9 और '_')
+Can be a list of strings split by the character , || चरित्र द्वारा विभाजित तार की एक सूची हो सकती है,
+Can be a list of strings split by the character |, || चरित्र द्वारा विभाजित तार की एक सूची हो सकती है |
+Can be a list of strings split by a blank space || रिक्त स्थान द्वारा विभाजित तार की एक सूची हो सकती है
+Can be a list of IPs or network segments split by the character , || चरित्र द्वारा विभाजित आईपी या नेटवर्क खंडों की सूची हो सकती है,
+Can be a list of IPs ranges split by the character , || चरित्र द्वारा विभाजित आईपी श्रेणियों की एक सूची हो सकती है,
+Can be selected more than one file. || एक से अधिक फ़ाइल चुनी जा सकती हैं।
+It uses the PCRE engine, optional field. || यह पीसीआरई इंजन, वैकल्पिक क्षेत्र का उपयोग करता है।
+It uses the PCRE engine, optional field. || यह पीसीआरई इंजन, वैकल्पिक क्षेत्र का उपयोग करता है।
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || यह PCRE इंजन का उपयोग करता है। केस-असंवेदनशील का उपयोग करके अभिव्यक्ति (i) का उपयोग किया जाता है।
+This operator does not expect any operating. || यह ऑपरेटर किसी भी ऑपरेटिंग की उम्मीद नहीं करता है।
+String. || स्ट्रिंग।
+Number. || नंबर.
+The <strong> {{param}} </strong> blacklist has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> blacklist has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> blacklist has been stopped successfully. || पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक रोक दिया गया है।
+The <strong> {{param}} </strong> blacklist has been started successfully. || पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक शुरू किया गया है।
+The <strong> {{param}} </strong> blacklist has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> ब्लैकलिस्ट को सफलतापूर्वक अपडेट कर दिया गया है।
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || खेत <strong> {{param}} </strong> को ब्लैकलिस्ट में सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || खेत <strong> {{param}} </strong> ब्लैक लिस्ट को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> DoS rule has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. || पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक रोक दिया गया है।
+The <strong> {{param}} </strong> DoS rule has been started successfully. || पिछली कक्षा का  <strong> {{param}} </strong> DoS नियम सफलतापूर्वक शुरू किया गया है।
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || खेत <strong> {{param}} </strong> DoS नियम में सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || खेत <strong> {{param}} </strong> DoS नियम को सफलतापूर्वक हटा दिया गया है।
+The source has been created successfully || स्रोत सफलतापूर्वक बनाया गया है
+The source has been updated successfully || स्रोत को सफलतापूर्वक अपडेट कर दिया गया है
+The source <strong> {{param}} </strong> has been deleted successfully. || स्रोत <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> RBL rule has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> RBL नियम सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> RBL rule has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> RBL नियम को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. || पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक रोक दिया गया है।
+The <strong> {{param}} </strong> RBL rule has been started successfully. || पिछली कक्षा का  <strong> {{param}} </strong> आरबीएल नियम सफलतापूर्वक शुरू किया गया है।
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || खेत <strong> {{param}} </strong> RBL नियम में सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || खेत <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक हटा दिया गया है।
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || डोमेन <strong> {{param}} </strong> RBL नियम में सफलतापूर्वक जोड़ा गया है।
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || डोमेन <strong> {{param}} </strong> आरबीएल नियम को सफलतापूर्वक हटा दिया गया है।
+The domain <strong> {{param}} </strong> has been created successfully || डोमेन <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है
+The domain has been updated successfully || डोमेन को सफलतापूर्वक अपडेट कर दिया गया है
+The domain <strong> {{param}} </strong> has been deleted successfully. || डोमेन <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. || पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक रोक दिया गया है।
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. || पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक शुरू किया गया है।
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> WAF नियम को सफलतापूर्वक अपडेट किया गया है।
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || खेत <strong> {{param}} </strong> WAF नियम में सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक WAF नियम को हटा दिया गया है।
+The rule <strong> {{param}} </strong> has been created successfully. || नियम <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The rule <strong> {{param}} </strong> has been moved successfully. || नियम <strong> {{param}} </strong> सफलतापूर्वक स्थानांतरित कर दिया गया है।
+The rule <strong> {{param}} </strong> has been deleted successfully. || नियम <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The rule <strong> {{param}} </strong> has been updated successfully || नियम <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है
+The match has been created successfully || मैच सफलतापूर्वक बनाया गया है
+The match <strong> {{param}} </strong> has been deleted successfully. || द मैच <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The WAF file <strong> {{param}} </strong> has been created successfully. || WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The WAF file <strong> {{param}} </strong> has been updated successfully. || WAF फ़ाइल <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> IPDS package </strong> has been scheduled successfully. || पिछली कक्षा का  <strong> IPDS पैकेज </strong> सफलतापूर्वक शेड्यूल किया गया है।
+The <strong> IPDS package </strong> has been upgraded successfully. || पिछली कक्षा का  <strong> IPDS पैकेज </strong> सफलतापूर्वक अपग्रेड किया गया है।
+Are you sure you want to delete the {{param}} blacklist? || क्या आप वाकई {{param}} को ब्लैकलिस्ट करना चाहते हैं?
+Are you sure you want to delete the selected blacklists? || क्या आप वाकई चयनित ब्लैकलिस्ट को हटाना चाहते हैं?
+Are you sure you want to delete the {{param}} DoS rule? || क्या आप वाकई {{param}} DoS नियम को हटाना चाहते हैं?
+Are you sure you want to delete the selected DoS rules? || क्या आप वाकई चयनित DoS नियमों को हटाना चाहते हैं?
+Are you sure you want to delete the source {{param}}? || क्या आप वाकई {{param}} स्रोत को हटाना चाहते हैं?
+Are you sure you want to delete the selected sources? || क्या आप वाकई चयनित स्रोतों को हटाना चाहते हैं?
+Are you sure you want to delete the {{param}} RBL rule? || क्या आप वाकई {{param}} RBL नियम हटाना चाहते हैं?
+Are you sure you want to delete the selected RBL rules? || क्या आप वाकई RBL नियमों को हटाना चाहते हैं?
+Are you sure you want to delete the domain {{param}}? || क्या आप वाकई {{param}} डोमेन हटाना चाहते हैं?
+Are you sure you want to delete the selected domains? || क्या आप वाकई चयनित डोमेन हटाना चाहते हैं?
+Are you sure you want to delete the {{param}} WAF ruleset? || क्या आप वाकई {{param}} WAF नियमों को हटाना चाहते हैं?
+Are you sure you want to delete the selected rulesets? || क्या आप वाकई चयनित नियमों को हटाना चाहते हैं?
+'Are you sure you want to delete the rule {{param}}? || 'क्या आप वाकई {{param}} नियम को हटाना चाहते हैं?
+Are you sure you want to delete the match {{param}}? || क्या आप वाकई {{param}} मैच हटाना चाहते हैं?
+Are you sure you want to delete the selected matches? || क्या आप वाकई चयनित मैचों को हटाना चाहते हैं?
+Are you sure you want to delete the file {{param}}? || क्या आप वाकई {{param}} फ़ाइल को हटाना चाहते हैं?
+Are you sure you want to delete the selected files? || क्या आप वाकई चयनित फ़ाइलों को हटाना चाहते हैं?
+System Graphs || सिस्टम रेखांकन
+Interfaces Graphs || रेखांकन रेखांकन
+Farms Graph || खेतों का ग्राफ
+Farms Stats || खेतों के आँकड़े
+System Stats || सिस्टम आँकड़े
+Network Stats || नेटवर्क आँकड़े
+Copy farmguardian || फार्मगार्डियन की नकल करें
+Farmguardian to copy || नकल करने के लिए फार्मगार्डियन
+Select the farmguardian to copy || कॉपी करने के लिए फार्मगार्डियन का चयन करें
+Total Memory || कुल मेमोरी
+Free Memory || फ्री मेमोरी
+Used Memory || प्रयोग हुई मेमोरी
+Buffers || बफ़र
+Cached || कैश्ड
+Total Swap || कुल स्वैप
+Free Swap || फ्री स्वैप
+Used Swap || प्रयुक्त स्वैप
+Cached Swap || कैची स्वैप
+Idle || निष्क्रिय
+Usage || प्रयोग
+Iowait || Iowait
+Irq || IRQ
+Nice || अच्छा
+Softirq || Softirq
+Sys || Sys
+User || उपयोगकर्ता
+Last minute || आखरी मिनट
+Last 5 minutes || अंतिम 5 मिनट
+Last 15 minutes || अंतिम 15 मिनट
+Are you sure you want to delete the {{param}} farmguardian? || क्या आप वाकई {{param}} फार्मगार्डियन को हटाना चाहते हैं?
+Are you sure you want to delete the selected farmguardians? || क्या आप वाकई चयनित फ़ार्मगार्डियन को हटाना चाहते हैं?
+The <strong> {{param}} </strong> farmguardian has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> farmguardian has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक अपडेट किया गया है।
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || खेत <strong> {{param}} </strong> फार्मगार्डियन के साथ सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || खेत <strong> {{param}} </strong> फार्मगार्डियन को सफलतापूर्वक निकाल दिया गया है।
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || खेत <strong> {{param}} with the service {{param2}} </strong> फार्मगार्डियन के साथ सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || खेत <strong> {{param}} with the service {{param2}} </strong> फार्मगार्डियन को सफलतापूर्वक निकाल दिया गया है।
+NIC List || एनआईसी सूची
+Bonding Interface List || संबंध इंटरफ़ेस सूची
+Select the slaves || दासों का चयन करें
+VLAN Interface List || VLAN इंटरफ़ेस सूची
+VLAN ID || वीएलएएन आईडी
+VLAN tag || वीएलएएन टैग
+Virtual Interface List || वर्चुअल इंटरफ़ेस सूची
+Virtual interface name || वर्चुअल इंटरफ़ेस नाम
+Virtual interface tag || वर्चुअल इंटरफ़ेस टैग
+Floating IP List || अस्थायी आईपी सूची
+IPv4 Gateway || IPv4 गेटवे
+IPv6 Gateway || IPv6 गेटवे
+IPv4 Gateway Settings || IPv4 गेटवे सेटिंग्स
+IPv6 Gateway Settings || IPv6 गेटवे सेटिंग्स
+Backends Aliases || उपनामों का समर्थन करता है
+Interfaces Aliases || इंटरफेस एलियासेस
+Routing Rule List || रूल नियम सूची
+Routing Table List || रूटिंग टेबल सूची
+Priority should be a value between {{min}} and {{max}} || प्राथमिकता {{min}} और {{max}} के बीच एक मान होनी चाहिए
+Configure table {{param}} || तालिका {{param}} कॉन्फ़िगर करें
+Available Routes || उपलब्ध मार्ग
+Routing table for the outputs of the interface {{param}}. || इंटरफ़ेस {{param}} के आउटपुट के लिए रूटिंग टेबल।
+Should be a IP address or CIDR || एक IP पता या CIDR होना चाहिए
+Should be a IP address (IPv4/IPv6) || एक IP पता होना चाहिए (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}? || क्या आप वाकई एनआईसी {{परम}} को हटाना चाहते हैं?
+Are you sure you want to unset the selected NIC? || क्या आप सुनिश्चित हैं कि आप चयनित एनआईसी को परेशान करना चाहते हैं?
+Are you sure you want to unset the Bonding {{param}}? || क्या आप सुनिश्चित हैं कि आप बॉन्डिंग {{परम}} को अनसेट करना चाहते हैं?
+Are you sure you want to unset the selected Bondings? || क्या आप वाकई चयनित बॉन्डिंग को खोलना चाहते हैं?
+Are you sure you want to delete the Bonding {{param}}? || क्या आप वाकई {{param}} बॉन्डिंग को हटाना चाहते हैं?
+Are you sure you want to delete the selected Bondings? || क्या आप वाकई चयनित बॉन्डिंग को हटाना चाहते हैं?
+Are you sure you want to delete the VLAN {{param}}? || क्या आप वाकई VLAN {{param}} को हटाना चाहते हैं?
+Are you sure you want to delete the selected VLANs? || क्या आप वाकई चयनित VLANs को हटाना चाहते हैं?
+Are you sure you want to delete the Virtual interface {{param}}? || क्या आप वाकई वर्चुअल इंटरफ़ेस {{param}} को हटाना चाहते हैं?
+Are you sure you want to delete the selected Virtual interfaces? || क्या आप वाकई चयनित वर्चुअल इंटरफेस को हटाना चाहते हैं?
+Are you sure you want to unset the Floating IP of {{param}}? || क्या आप वाकई {{param}} के फ़्लोटिंग आईपी को अनसेट करना चाहते हैं?
+Are you sure you want to unset the selected Floating IPs? || क्या आप वाकई फ़्लोटिंग आईपी को अनसेट करना चाहते हैं?
+Are you sure you want to unset the gateway for {{param}}? || क्या आप वाकई {{परम}} के प्रवेश द्वार को खोलना चाहते हैं?
+Are you sure you want to delete the alias {{param}}? || क्या आप वाकई उर्फ ​​{{परम}} को हटाना चाहते हैं?
+Are you sure you want to delete the selected aliases? || क्या आप वाकई चयनित उपनामों को हटाना चाहते हैं?
+Are you sure you want to delete the routing rule {{param}}? || क्या आप वाकई रूटिंग नियम {{param}} को हटाना चाहते हैं?
+Are you sure you want to delete the selected routing rules? || क्या आप वाकई चयनित रूटिंग नियमों को हटाना चाहते हैं?
+Are you sure you want to delete the route {{param}}? || क्या आप वाकई {{param}} मार्ग को हटाना चाहते हैं?
+Are you sure you want to delete the selected routes? || क्या आप वाकई चयनित मार्गों को हटाना चाहते हैं?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. || पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी सफलतापूर्वक अपुष्ट किया गया है।
+The <strong> {{param}} </strong> NIC is up. || पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी ऊपर है।
+The <strong> {{param}} </strong> NIC is down. || पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी नीचे है।
+The <strong> {{param}} </strong> NIC has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी को सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> NIC has updated the alias successfully. || पिछली कक्षा का  <strong> {{param}} </strong> एनआईसी ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
+The <strong> {{param}} </strong> Bonding has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग सफलतापूर्वक बनाई गई है।
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक अपुष्ट कर दिया गया है।
+The <strong> {{param}} </strong> Bonding is up. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग होती है।
+The <strong> {{param}} </strong> Bonding is down. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग नीचे है।
+The <strong> {{param}} </strong> Bonding has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
+The <strong> {{param}} </strong> Bonding has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> बॉन्डिंग को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. || पिछली कक्षा का  <strong> {{param}} </strong> दास को सफलतापूर्वक बॉन्डिंग में जोड़ा गया है।
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. || पिछली कक्षा का  <strong> {{param}} </strong> दास को सफलतापूर्वक बॉन्डिंग से निकाल दिया गया है।
+The <strong> {{param}} </strong> VLAN has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> VLAN is up. || पिछली कक्षा का  <strong> {{param}} </strong> वीएलएएन है।
+The <strong> {{param}} </strong> VLAN is down. || पिछली कक्षा का  <strong> {{param}} </strong> VLAN नीचे है।
+The <strong> {{param}} </strong> VLAN has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. || पिछली कक्षा का  <strong> {{param}} </strong> वीएलएएन ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
+The <strong> {{param}} </strong> VLAN has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> VLAN को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> Virtual interface has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> Virtual interface is up. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस है।
+The <strong> {{param}} </strong> Virtual interface is down. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस नीचे है।
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> वर्चुअल इंटरफ़ेस सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी सफलतापूर्वक अपुष्ट हो गया है।
+The <strong> {{param}} </strong> Floating IP is up. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी है।
+The <strong> {{param}} </strong> Floating IP is down. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी नीचे है।
+The <strong> {{param}} </strong> Floating IP has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी को सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी ने उर्फ ​​को सफलतापूर्वक अपडेट किया है।
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> फ्लोटिंग आईपी को सफलतापूर्वक हटा दिया गया है।
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || के लिए गेटवे <strong> {{param}} </strong> सफलतापूर्वक अपुष्ट कर दिया गया है।
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || के लिए गेटवे <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> {{param}} </strong> Alias has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> एलियास सफलतापूर्वक बनाया गया है।
+The <strong> {{param}} </strong> Alias has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> उपनाम को सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> Alias has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> एलियास को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> routing rule has been deleted successfully. || पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम को सफलतापूर्वक हटा दिया गया है।
+The <strong> {{param}} </strong> routing rule has been updated successfully. || पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम को सफलतापूर्वक अपडेट किया गया है।
+The <strong> {{param}} </strong> routing rule has been created successfully. || पिछली कक्षा का  <strong> {{param}} </strong> रूटिंग नियम सफलतापूर्वक बनाया गया है।
+The route <strong> {{param}} </strong> has been deleted successfully. || मार्ग <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The route <strong> {{param}} </strong> has been updated successfully. || मार्ग <strong> {{param}} </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The route <strong> {{param}} </strong> has been created successfully. || मार्ग <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+To remove a route you must select it first. || एक मार्ग को हटाने के लिए आपको पहले इसे चुनना होगा।
+The route {{param}} cannot be removed because it is a system route. || मार्ग {{param}} को हटाया नहीं जा सकता क्योंकि यह एक सिस्टम मार्ग है।
+The interface <strong> {{param}} </strong> has been disabled. || अंतरपटल <strong> {{param}} </strong> निष्क्रिय कर दिया गया।
+The interface <strong> {{param}} </strong> has been enabled. || अंतरपटल <strong> {{param}} </strong> सक्षम किया गया है।
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. || पिछली कक्षा का  <strong> {{param}} </strong> गुलाम को हटाया नहीं जा सकता। बॉन्डिंग में कम से कम एक गुलाम होना चाहिए।
+HTTP Service || HTTP सेवा
+SSH Service || SSH सेवा
+SNMP Service || SNMP सेवा
+The physical interface where is running GUI service || भौतिक इंटरफ़ेस जहाँ GUI सेवा चल रही है
+If the cluster is up you only can select the cluster interface or all || यदि क्लस्टर ऊपर है, तो आप केवल क्लस्टर इंटरफ़ेस या सभी का चयन कर सकते हैं
+HTTPS Port where is running GUI service || HTTPS पोर्ट जहां GUI सेवा चल रही है
+The physical interface where is running SSH service || भौतिक इंटरफ़ेस जहाँ SSH सेवा चल रही है
+SSH Port where is running SSH service || SSH पोर्ट जहां SSH सेवा चला रहा है
+Enable SNMP || SNMP सक्षम करें
+The physical interface where is running SNMP service || भौतिक इंटरफ़ेस जहाँ SNMP सेवा चल रही है
+SNMP Port where is running SNMP service || SNMP पोर्ट जहाँ SNMP सेवा चल रही है
+Community name || समुदाय का नाम
+IP or subnet with access || पहुंच के साथ आईपी या सबनेट
+Primary server || प्राथमिक सर्वर
+Secondary Server || सेकेंडरी सर्वर
+NTP server || NTP सर्वर
+NTP Service || NTP सेवा
+Proxy Service || प्रॉक्सी सेवा
+DNS Service || डीएनएस सेवा
+Configure cluster || क्लस्टर कॉन्फ़िगर करें
+Local IP || स्थानीय आईपी
+Remote IP || दूरदराज़ के आई. पी
+Remote Node Password || रिमोट नोड पासवर्ड
+Confirm Password || पासवर्ड की पुष्टि
+Backup List || बैकअप सूची
+Backup file || बैकअपफ़ाइल
+Choose one file || एक फ़ाइल चुनें
+Alerts Service || अलर्ट सेवा
+Alerts || चेतावनियाँ
+Email Notifications || ईमेल सूचनाएं
+Mail Server || डाक सर्वर
+Mail User || मेल उपयोगकर्ता
+TLS || टीएलएस
+Backends Alert || अलर्ट का समर्थन करता है
+Cluster Alert || क्लस्टर चेतावनी
+Prefix Subject || उपसर्ग विषय
+Avoid flapping time || फड़फड़ाते समय से बचें
+The time that alerts wait when backend is flapping || जब बैकएंड फ्लैप हो रहा है तो अलर्ट का समय प्रतीक्षा करता है
+User Settings || उपयोगकर्ता सेटिंग
+ZAPI Key || ZAPI कुंजी
+Change Password || पासवर्ड बदलें
+Current password || वर्तमान पासवर्ड
+New password || नया पासवर्ड
+Repeat new password || नया पासवर्ड दोहराएँ
+Log List || लॉग लिस्ट
+Log view || लॉग देखें
+When this action is executed a file with system information will be downloaded. || जब इस क्रिया को निष्पादित किया जाता है, तो सिस्टम जानकारी के साथ एक फ़ाइल डाउनलोड की जाएगी।
+This action may take several seconds, you can continue browsing the GUI. || इस क्रिया में कई सेकंड लग सकते हैं, आप GUI ब्राउज़ करना जारी रख सकते हैं।
+Select an interface which won't be deleted || एक इंटरफ़ेस का चयन करें जिसे हटाया नहीं जाएगा
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || यह क्रिया चयनित इंटरफ़ेस, बैकअप और सक्रियण प्रमाणपत्र को छोड़कर सभी कॉन्फ़िगरेशन को नष्ट कर देगी।
+The current credentials for user root will not be modified. || उपयोगकर्ता रूट के लिए वर्तमान क्रेडेंशियल्स को संशोधित नहीं किया जाएगा।
+User List || उपयोक्ता सूची
+Group List || समूह सूची
+Role List || भूमिका सूची
+Role Settings || भूमिका सेटिंग्स
+Show all permissions || सभी अनुमतियां दिखाएं
+Hide all permissions || सभी अनुमतियां छिपाएं
+Show permissions || अनुमति दिखाएं
+Hide permissions || अनुमतियाँ छिपाएँ
+LDAP Server || LDAP सर्वर
+Base DN || बेस डी.एन.
+Bind DN || बाँध DN
+Scope || विस्तार
+Bind Password || बाइंड पासवर्ड
+Filter || फ़िल्टर
+Global Services || ग्लोबल सर्विसेज
+Enable session replication || सत्र प्रतिकृति सक्षम करें
+Enable Duplicated network || डुप्लिकेट नेटवर्क को सक्षम करें
+Enable ARP announce || ARP घोषणा सक्षम करें
+Custom Routes || कस्टम मार्ग
+System Routes || सिस्टम रूट्स
+Use proxy of new generation || नई पीढ़ी के प्रॉक्सी का उपयोग करें
+Validation Systems || सत्यापन प्रणाली
+AWS Credentials || AWS क्रेडेंशियल
+Access Key || आगमन चाबी
+Secret Key || गुप्त कुंजी
+Region || क्षेत्र
+SSL Certificate || एसएसएल प्रमाणपत्र
+RBAC User || RBAC उपयोगकर्ता
+RBAC Group || आरबीएसी ग्रुप
+RBAC Role || आरबीएसी की भूमिका
+Network Virtual Interface || नेटवर्क वर्चुअल इंटरफ़ेस
+System Service || सिस्टम सेवा
+Notification || अधिसूचना
+Host or URL allowed || होस्ट या URL की अनुमति है
+It will not be used if the HOST/URL field contains a URL || यदि HOST / URL फ़ील्ड में URL शामिल है तो इसका उपयोग नहीं किया जाएगा
+Filter used to get the LDAP field that contains the user ID to log in || फ़िल्टर का उपयोग LDAP फ़ील्ड को प्राप्त करने के लिए होता है जिसमें लॉग इन करने के लिए उपयोगकर्ता ID होती है
+The Search Request will be performed against the entry specified as the search base DN. || खोज अनुरोध डीएन के रूप में निर्दिष्ट प्रविष्टि के खिलाफ किया जाएगा।
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || खोज अनुरोध उन प्रविष्टियों के खिलाफ किया जाएगा जो खोज बेस डीएन के रूप में निर्दिष्ट प्रविष्टि के तत्काल अधीनस्थ हैं।
+The Search Request will be performed against the search base and all entries below || खोज अनुरोध खोज आधार और सभी प्रविष्टियों के नीचे किया जाएगा
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || नया प्रबंधन GUI पता {{param}} है कृपया नए URL में GUI से पुनः कनेक्ट करें।
+The <strong> HTTP service </strong> has been updated successfully. || पिछली कक्षा का  <strong> HTTP सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> SSH service </strong> has been updated successfully. || पिछली कक्षा का  <strong> एसएसएच सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> SNMP service </strong> has been updated successfully. || पिछली कक्षा का  <strong> SNMP सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> global services </strong> have been updated successfully || पिछली कक्षा का  <strong> वैश्विक सेवाएं </strong> सफलतापूर्वक अपडेट कर दिए गए हैं
+The <strong> DNS service </strong> has been updated successfully. || पिछली कक्षा का  <strong> डीएनएस सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> NTP service </strong> has been updated successfully. || पिछली कक्षा का  <strong> एनटीपी सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The <strong> Proxy service </strong> has been updated successfully. || पिछली कक्षा का  <strong> प्रॉक्सी सेवा </strong> सफलतापूर्वक अपडेट कर दिया गया है।
+The backup <strong> {{param}} </strong> has been deleted successfully. || बैकअप <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The backup <strong> {{param}} </strong> has been applied successfully. || बैकअप <strong> {{param}} </strong> सफलतापूर्वक लागू किया गया है।
+The backup <strong> {{param}} </strong> has been downloaded successfully. || बैकअप <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
+The backup <strong> {{param}} </strong> has been uploaded successfully. || बैकअप <strong> {{param}} </strong> सफलतापूर्वक अपलोड किया गया है।
+The backup <strong> {{param}} </strong> has been created successfully. || बैकअप <strong> {{param}} </strong> सफलतापूर्वक बनाया गया है।
+The <strong> backends alert </strong> has been applied successfully. || पिछली कक्षा का  <strong> चेतावनी देता है </strong> सफलतापूर्वक लागू किया गया है।
+The <strong> cluster alert </strong> has been applied successfully. || पिछली कक्षा का  <strong> क्लस्टर चेतावनी </strong> सफलतापूर्वक लागू किया गया है।
+The configuration of email has been updated successfully. || ईमेल का कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया है।
+The alert has been updated successfully. || अलर्ट को सफलतापूर्वक अपडेट कर दिया गया है।
+The test email has been sent successfully. || परीक्षण ईमेल सफलतापूर्वक भेजा गया है।
+The user has been updated successfully. || उपयोगकर्ता को सफलतापूर्वक अपडेट किया गया है।
+The log <strong> {{param}} </strong> has been downloaded successfully. || लकड़ी का लठा <strong> {{param}} </strong> सफलतापूर्वक डाउनलोड किया गया है।
+The <strong> Support Save </strong> has been downloaded successfully. || पिछली कक्षा का  <strong> समर्थन बचाओ </strong> सफलतापूर्वक डाउनलोड किया गया है।
+The user <strong> {{param}} </strong> has been deleted successfully. || उपभोक्ता <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The user {{param}} has been created successfully. || उपयोगकर्ता {{param}} सफलतापूर्वक बनाया गया है।
+The user {{param}} has been updated successfully. || उपयोगकर्ता {{param}} को सफलतापूर्वक अपडेट किया गया है।
+The group <strong> {{param}} </strong> has been deleted successfully. || समूह <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The group {{param}} has been created successfully. || समूह {{param}} सफलतापूर्वक बनाया गया है।
+The group {{param}} has been updated successfully. || समूह {{param}} को सफलतापूर्वक अपडेट कर दिया गया है।
+The user <strong> {{param}} </strong> has been added to the group successfully. || उपभोक्ता <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
+The user <strong> {{param}} </strong> has been removed to the group successfully. || उपभोक्ता <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
+The farm <strong> {{param}} </strong> has been added to the group successfully. || खेत <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || खेत <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
+The interface <strong> {{param}} </strong> has been added to the group successfully. || अंतरपटल <strong> {{param}} </strong> समूह में सफलतापूर्वक जोड़ा गया है।
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || अंतरपटल <strong> {{param}} </strong> सफलतापूर्वक समूह में हटा दिया गया है।
+The role <strong> {{param}} </strong> has been deleted successfully. || भूमिका <strong> {{param}} </strong> सफलतापूर्वक हटा दिया गया है।
+The role {{param}} has been created successfully. || भूमिका {{परम}} सफलतापूर्वक बनाई गई है।
+The role {{param}} has been updated successfully. || भूमिका {{param}} को सफलतापूर्वक अपडेट किया गया है।
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || LDAP सर्वर कॉन्फ़िगर किया गया है। कृपया कॉन्फ़िगरेशन के सही होने की पुष्टि करने के लिए कनेक्टिविटी का परीक्षण करें।
+The connectivity test has been done successfully. || कनेक्टिविटी परीक्षण सफलतापूर्वक किया गया है।
+The validation system <strong> {{param}} </strong> has been enabled successfully. || सत्यापन प्रणाली <strong> {{param}} </strong> सफलतापूर्वक सक्षम किया गया है।
+The validation system <strong> {{param}} </strong> has been disabled successfully. || सत्यापन प्रणाली <strong> {{param}} </strong> सफलतापूर्वक अक्षम कर दिया गया है।
+The cluster has been created successfully. || क्लस्टर सफलतापूर्वक बनाया गया है।
+The cluster has been updated successfully. || क्लस्टर को सफलतापूर्वक अपडेट किया गया है।
+The cluster has been destroyed successfully. || क्लस्टर सफलतापूर्वक नष्ट कर दिया गया है।
+The <strong>local node</strong> has been put in maintenance successfully. || पिछली कक्षा का  <strong>स्थानीय नोड</strong> सफलतापूर्वक रखरखाव में डाल दिया गया है।
+The <strong>local node</strong> has been enabled successfully. || पिछली कक्षा का  <strong>स्थानीय नोड</strong> सफलतापूर्वक सक्षम किया गया है।
+The AWS credentials have been configured successfully. || AWS क्रेडेंशियल सफलतापूर्वक कॉन्फ़िगर किया गया है।
+The Azure credentials have been configured successfully. || Azure क्रेडेंशियल्स को सफलतापूर्वक कॉन्फ़िगर किया गया है।
+Are you sure you want to delete the backup {{param}}? || क्या आप वाकई {{param}} बैकअप हटाना चाहते हैं?
+Are you sure you want to delete the selected backups? || क्या आप वाकई चयनित बैकअप को हटाना चाहते हैं?
+Are you sure you want to delete the user {{param}}? || क्या आप वाकई {{param}} उपयोगकर्ता को हटाना चाहते हैं?
+Are you sure you want to delete the selected users? || क्या आप वाकई चयनित उपयोगकर्ताओं को हटाना चाहते हैं?
+Are you sure you want to delete the group {{param}}? || क्या आप वाकई {{param}} समूह को हटाना चाहते हैं?
+Are you sure you want to delete the selected groups? || क्या आप वाकई चयनित समूहों को हटाना चाहते हैं?
+Are you sure you want to delete the role {{param}}? || क्या आप वाकई {{param}} भूमिका को हटाना चाहते हैं?
+Are you sure you want to delete the selected roles? || क्या आप वाकई चयनित भूमिकाओं को हटाना चाहते हैं?
+Are you sure you want to destroy the cluster? || क्या आप वाकई क्लस्टर को नष्ट करना चाहते हैं?
+Dashboard || डैशबोर्ड
+News || समाचार
+LSLB || LSLB
+Farms || फार्म
+SSL Certificates || SSL प्रमाणपत्र
+Generate csr || सीएसआर उत्पन्न करें
+Stats || आँकड़े
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || सेटिंग
+Blacklists || ब्लैकलिस्ट
+DoS || डॉस
+RBL || आरबीएल
+Rules || नियम
+Domains || डोमेन
+WAF || WAF
+Rulesets || rulesets
+Files || फ़ाइलें
+Monitoring || निगरानी
+Graphs || रेखाचित्र
+Farmguardians || Farmguardians
+Network || नेटवर्क
+NIC || एनआईसी
+Bonding || संबंध
+VLAN || VLAN
+Virtual Interfaces || वर्चुअल इंटरफेस
+Floating IPs || अस्थायी आईपी
+Gateway || प्रवेश द्वार
+Aliases || फर्जी नाम
+Routing || मार्ग
+Tables || टेबल्स
+System || प्रणाली
+RBAC || RBAC
+Users || उपयोगकर्ता
+Groups || समूह
+Roles || भूमिकाओं
+Local Services || स्थानीय सेवाएँ
+Remote Services || दूरस्थ सेवाएँ
+Cluster || समूह
+Backups || बैकअप
+Notifications || सूचनाएं
+User || उपयोगकर्ता
+Logs || Logs
+Activation Certificate || सक्रियण प्रमाण पत्र
+License || लाइसेंस
+SupportSave || SupportSave
+Factory Reset || कारखाना रीसेट करें

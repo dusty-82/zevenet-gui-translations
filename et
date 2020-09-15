@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| Logige sisse oma kasutajanime ja parooliga
-Success!|| Edu!
-Username|| kasutajanimi
-User should be the real one!|| Kasutaja peaks olema tõeline!
-Password should contains from {{min}} to {{max}} characters|| Parool peaks sisaldama tähemärke {{min}} kuni {{max}}
-Sign In|| Logi sisse
-Logging out, please wait...|| Logi välja, palun oota ...
-Package list to upgrade|| Pakendiloend, mida uuendada
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| Süsteemi uuendamiseks täitke kestaga järgmine käsk: 'checkupgrades -i'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * Seda teavet värskendatakse iga päev, kui soovite kontrollkäiku sundida <code>checkupgrades</code> käsurealt.
-No activation certificate|| Aktiveerimistunnistust pole
-There isn't a valid ZEVENET certificate file, please request a new one|| Kehtivat ZEVENETi sertifikaadifaili pole, palun taotlege uut
-Certificate Key|| Sertifikaadi võti
-Activation Certificate file|| Aktiveerimistunnistuse fail
-Activation Data|| Aktiveerimisandmed
-Copy data to the clipboard|| Kopeerige andmed lõikelauale
-Activation Certificate|| Aktiveerimissertifikaat
-Select an activation certificate|| Valige aktiveerimissertifikaat
-Upload Activation Certificate|| Laadige üles aktiveerimistunnistus
-No Support|| Tugi puudub
-Certificate expired|| Sertifikaat aegunud
-Support expired|| Tugi aegus
-Certificate expires in {{param}} {{param2}}|| Sertifikaadi kehtivusaeg lõpeb {{param}} {{param2}}
-Support expires in {{param}} {{param2}}|| Tugi aegub {{param}} {{param2}}
-The activation certificate has been uploaded successfully.|| Aktiveerimissertifikaat on edukalt üles laaditud.
-The Activation Certificate has been deleted successfully.|| Aktiveerimistunnistus on edukalt kustutatud.
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| Kas olete kindlasti kustutanud aktiveerimissertifikaadi \\n Selle kustutamisel kaotate juurdepääsu GUI-le kuni teise sertifikaadi üleslaadimiseni
-Upload|| Täiendava
-Uploading|| Üleslaadimine
-Add|| lisama
-Disable maintenance|| Keela hooldus
-Enable maintenance|| Hoolduse lubamine
-Drain mode|| Tühjendusrežiim
-Cut mode|| Lõika režiim
-Edit|| Edit
-Configure|| Seadistamine
-Save|| Salvesta
-Add Variable|| Lisage muutuja
-Bring|| tooma
-Export|| Eksport
-All data|| Kõik andmed
-Only selected|| Ainult valitud
-Apply|| kehtima
-Create|| Looma
-Cancel|| tühistama
-Submit|| SAADA
-New Service|| Uus teenus
-New Zone|| Uus tsoon
-New Route|| Uus marsruut
-Basic|| Põhi-
-Advanced|| edasijõudnud
-Generate|| Tekitama
-Generating|| Genereerimine
-Delete|| kustutama
-Bring Up|| Üles tooma
-Bring down|| Alla tooma
-Restart|| Restart
-Restarting|| Taaskäivitamine
-Start|| kodu
-Stop|| Peatus
-Unset|| Unset
-Enable|| Võimaldama
-Disable|| Keela
-Remove|| eemaldama
-Download|| Lae
-Downloading|| allalaadimine
-Update|| ajakohastama
-New Rule|| Uus reegel
-Next|| järgmine
-Back|| tagasi
-Generate Random MAC|| Genereerige juhuslik MAC
-Destroy|| Hävitama
-Test Email|| Testi e-post
-Generate Random Key|| Loo juhuslik võti
-Upload Certificate|| Laadi sertifikaat üles
-Delete Certificate|| Sertifikaadi kustutamine
-List|| nimekiri
-Menu|| menüü
-Modify|| muutma
-Show|| show
-Action|| tegevus
-Test|| test
-Schedule|| Ajakava
-Upgrade|| upgrade
-View|| vaade
-Info|| Info
-Test Connectivity|| Testige ühenduvust
-Show certificate|| Näita sertifikaati
-Force Changes|| Muudatuste sundimine
-Page Not Found|| Page Not Found
-The page you were looking for doesn't exist|| Lehte, mida otsisite, pole olemas
-Take me home|| Võtke minuga koju
-Status|| olek
-Actions|| Meetmete
-Name|| Nimi
-ID||  ID
-Alias|| Teise nimega
-IP||  IP
-Interface|| Interface
-Priority|| Prioriteet
-Port|| port
-Weight|| Kaal
-Max. Conns|| Maks. Ühendused
-Name|| Nimi
-Virtual IP|| Virtuaalne IP
-Vitual Port|| Vitaalne sadam
-Virtual IP and Port|| Virtuaalne IP ja port
-Default TCP port health check|| TCP-pordi vaikekontroll
-Health Checks for backend|| Tervisekontrollid taustaprogrammi jaoks
-Default Name Server|| Vaikimisi nimi server
-Type|| tüüp
-Data|| kuupäev
-Profile|| profiil
-HTTPS Parameters|| HTTPS parameetrid
-Ciphers|| Ciphers
-Custom ciphers|| Kohandatud koodid
-Protocol type|| Protokolli tüüp
-NAT type|| NAT tüüp
-Rewrite location headers|| Asukoha päiste ümberkirjutamine
-HTTP verbs accepted|| HTTP verbid aktsepteeritakse
-Ignore 100 continue|| Ignoreeri 100 jätkamist
-Backend connection timeout|| Backend-ühenduse ajalõpp
-Backend response timeout|| Tagajärgse vastuse aegumine
-Frequency to check resurrected backends|| Ülestõusnud taustaprogrammide kontrollimise sagedus
-Client request timeout|| Kliendi sooviaeg
-Message Error|| Sõnumi tõrge
-Request Headers|| Taotle päiseid
-Response Headers|| Vastuse päised
-Persistence|| Püsivus
-Persistence session time to live|| Püsivus seansi aeg elada
-TTL|| TTL
-Persistence session identifier|| Püsivuse seansi tunnus
-Virtual IP|| Virtuaalne IP
-Load balancing Scheduler|| Koormuste tasakaalustamise ajakava
-Algorithm|| Algoritm
-Round Robin|| Round Robini
-Virtual Host|| Virtuaalne hostija
-URL Pattern|| URL-i muster
-Least Response|| Vähim vastus
-HTTPS Backends|| HTTPSi taustaprogrammid
-STS Header|| STS päis
-Timeout|| Aegumine
-Redirect|| Ümbersuunamine
-Redirect URL|| Ümbersuunamise URL
-Redirect Type|| Ümbersuunamise tüüp
-Redirect Code|| Suunakood
-Cookie Insert|| Prääniku lisamine
-Cookie Name|| Prääniku nimi
-Cookie Domain|| Prääniku domeen
-Cookie Path|| Prääniku tee
-Cookie TTL|| Küpsise TTL
-Locality|| Asukoht
-Country|| Riik
-State/Province|| Osariik / maakond
-Common Name|| Üldnimetus
-Organization|| Organisatsioon
-Division|| jaotus
-E-mail Address|| E-posti aadress
-File|| fail
-Issuer|| Emitent
-Creation|| Loomine
-Expiration|| Aegumine
-Certificate|| sertifikaat
-Established Conns|| Kehtestatud ühendused
-Pending Conns|| Ootavad ühendused
-Service|| Teenus
-Session ID|| Seansi ID
-Backend ID|| Backend ID
-Requests|| Taotlused
-Failed REQ|| Ebaõnnestus REQ
-Failed RES|| Ebaõnnestunud RES
-Truncated Resp TC|| Kärbitud Resp TC
-Extended DNS Big|| Laiendatud DNS Big
-Extended DNS TC|| Laiendatud DNS TC
-No Error|| Viga pole
-Refused|| Keeldus
-Non-existent Domain|| Olematu domeen
-Notimp|| Notimp
-Bad Version|| Halb versioon
-Format Error|| Vorming Viga
-Dropped|| Langenud
-V6||  V6
-Extended DNS|| Laiendatud DNS
-Extended DNS-ClientSub|| Laiendatud DNS-ClientSub
-Client|| klient
-Listerner|| Listerner
-Value|| Väärtus
-Custom IP|| Kohandatud IP
-Policy|| Poliitika
-Remote URL|| Kaug-URL
-Frequency|| Sagedus
-Rule|| Eeskiri
-Limit RST request per source IP|| Piirata RST päringut iga IP allika kohta
-Total connections per source IP|| Ühendused kokku IP-allika kohta
-Limit Burst|| Limit Burst
-Total connections limit per source IP|| Ühenduste kogu limiit allika IP kohta
-Hits|| Hits
-Time|| aeg
-Log level|| Logi tase
-Only logging|| Ainult metsaraie
-Local traffic|| Kohalik liiklus
-Queue size|| Järjekorra suurus
-Max. Threads|| Maks. Lõngad
-Cache size|| Vahemälu suurus
-Cache time|| Vahemälu aeg
-Check Request Body|| Kontrollige päringu sisu
-Check Response Body|| Kontrollige reageerimisasutust
-Request Body Limit|| Taotle keha limiiti
-Default Phase|| Vaikefaas
-Default Log|| Vaikelogi
-Rules|| Reeglid
-Rule Type|| Reegli tüüp
-Mark|| Mark
-Phase|| Faas
-Resolution|| resolutsioon
-Rule ID|| Reegli ID
-Skip|| Jäta vahele
-Skip after|| Jäta vahele
-Execute|| Täitma
-Description|| kirjeldus
-Interval|| Intervall
-Cut connections|| Lõika ühendused
-Command|| käsk
-MAC|| MAC
-Netmask|| Netmask
-Farms|| Põllumajandusettevõtted
-Gateway|| Värav
-IP Address|| IP-aadress
-CIDR|| CIDR
-Mode|| viis
-Slaves|| Orjad
-Parent Interface|| Vanemliides
-Address|| Aadress
-Host|| Võõrustaja
-Date|| kuupäev
-Alert|| Häire
-Password|| parool
-Log|| Logi
-ZAPI Permissions|| ZAPI load
-GUI Permissions|| GUI õigused
-Role|| Roll
-Rules Date|| Reeglite kuupäev
-Scheduled|| plaanitud
-Variable|| Muutuja
-Variable's argument|| Muutuja argument
-Ignore this <i>variable</i> for the match|| Ignoreeri seda <i>muutuja</i> matši jaoks
-Count elements of <i>variables</i>|| Loenduse elemendid <i>muutujad</i>
-Variables|| Muutujad
-Transformations|| Ümberarvutused
-Operating|| Tegutsev
-Multi Match|| Mitmevõistlus
-Not Match|| Ei sobi
-Operator|| operaator
-Module|| moodulid
-Floating IP|| Ujuv IP
-Interfaces|| Liidesed
-Group|| Grupp
-Virtual Interface|| Virtuaalne liides
-URL|| URL
-From|| pärit
-Table|| Tabel
-To|| Et
-Route|| Marsruut
-Via|| kaudu
-Backend Alias|| Taustaprogrammi alias
-Version|| versioon
-System|| süsteem
-Failback|| Failback
-Check Interval|| Kontrolli intervall
-Node|| sõlme
-Message|| sõnum
-Hostname|| hostname
-No {{param}} found|| Ühtegi {{param}} ei leitud
-Edit|| Edit
-Global|| Globaalne
-Services|| teenused
-Select a {{param}}|| Valige {{param}}
-Resources|| Vahendid
-Backends|| Taustaprogrammid
-Strict Transport Security|| Tugev transpordi turvalisus
-Farms Stats|| Põllumajandusettevõtete statistika
-Copy to clipboard|| Kopeerida lõikelauale
-Hide nodes|| Peida sõlmed
-Show nodes|| Kuva sõlmed
-Hide backends|| Peida taustaprogrammid
-Show backends|| Kuva taustprogrammid
-Hide graphs|| Peida graafikud
-Show graphs|| Näita graafikuid
-Sessions|| Seansid
-Clients|| Kliendid
-Servers|| Serverid
-Extended|| Laiendatud
-Nodes|| Sõlmed
-Number of lines|| Ridade arv
-View All|| Vaata kõiki
-View Less|| Vaadake vähem
-Valid|| Kehtiv
-Expired|| Lõppenud
-Near to expire|| Lähedal aegub
-True|| Tõsi
-False|| Vale
-No configured|| Pole konfigureeritud
-In use by bonding interface|| Kasutusel liimimisliidese abil
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| Enne selle liidese muutmist tuleb klastri teenindusliides muuta või keelata
-Enabled|| lubatud
-Disabled|| invaliidistunud
-Needed restart|| Vajalik taaskäivitamine
-Critical|| Kriitiline
-Problem|| Probleem
-Maintenance|| hooldus
-Master|| meister
-Backup|| Varundamine
-Not configured|| Nad ei ole konfigureeritud
-Undefined|| Defineerimata
-Daily Graph|| Päevane graafik
-Weekly Graph|| Nädala graafik
-Monthly Graph|| Kuu graafik
-Yearly Graph|| Aastane graafik
-Documentation|| dokumentatsioon
-Reload farmguardian list|| Laadige põllumajandustootjate nimekiri uuesti alla
-Cookie|| küpsis
-Zones|| Tsoonid
-System Stats|| Süsteemi statistika
-CPU|| Protsessor
-Memory|| Mälu
-Load|| Koormus
-Cores|| Südamikud
-Traffic In|| Liiklus sisse
-Traffic Out|| Liiklus välja
-Nothing|| Mitte midagi
-Custom|| tava
-All interfaces|| Kõik liidesed
-All farms|| Kõik talud
-Default State|| Vaikeriik
-Up||  Up
-Down|| alla
-Installed and updated|| Installitud ja värskendatud
-Not installed|| Ei ole installeeritud
-Updates available|| Uuendused on saadaval
-Interface|| Interface
-Type|| tüüp
-Zone|| Tsoon
-Transformation|| Transformation
-Backend|| Taustaprogramm
-Condition|| Tingimus
-Domain|| Domeen
-Resource|| Ressurss
-Graph|| Graafik
-Session|| istung
-IP alias|| IP-pseudonüüm
-Interface alias|| Liidese varjunimi
-Backup|| Varundamine
-Farm|| Talu
-Header|| Päise
-Pattern|| Muster
-Source|| allikas
-Blacklist|| Must nimekiri
-Farmguardian|| Farmguardian
-Package|| Pakend
-DoS rule|| DoS reegel
-RBL rule|| RBL reegel
-WAF ruleset|| WAF-i reeglistik
-VLAN|| VLAN
-Routing Rule|| Marsruudi reegel
-Routing Table|| Marsruuditabel
-Needed restart|| Vajalik taaskäivitamine
-There're changes that need to be applied, restart the farm to apply them!|| Seal on muudatused, mis tuleb rakendada, taaskäivitage farm nende rakendamiseks!
-Close|| lähedal
-The <strong> factory reset </strong> has been completed successfully.|| . <strong> tehaseseadete taastamine </strong> on edukalt lõpule viidud.
-The interface <strong> {{name}} </strong> has been updated successfully.|| Liides <strong> {{name}} </strong> on edukalt uuendatud.
-The <strong>HTTP Service</strong> has been updated successfully.|| . <strong>HTTP teenus</strong> on edukalt uuendatud.
-An error has occurred on the server, try again later|| Serveris ilmnes tõrge, proovige hiljem uuesti
-Connection to web server failed|| Ühendamine veebiserveriga nurjus
-An unexpected error has occurred|| Tekkis ootamatu viga
-System Information|| System Information
-ZEVENET Version|| ZEVENETi versioon
-Appliance Version|| Seadme versioon
-Kernel Version|| Kerneli versioon
-System Date|| Süsteemi kuupäev
-NIC Traffic|| NIC-liiklus
-Total number of connections in realtime.|| Ühenduste koguarv reaalajas.
-Connections|| Side
-Professional Products|| Professionaalsed tooted
-Professional Services|| Professional Services
-No Virtual Interfaces|| Virtuaalseid liideseid pole
-No VLANs|| VLAN-id puuduvad
-Create DSLB Farm|| Looge DSLB Farm
-Create Virtual interface|| Loo virtuaalne liides
-Create GSLB Farm|| Looge GSLB farm
-Generate CSR|| Loo CSR
-Create LSLB Farm|| LSLB talu loomine
-Upload SSL Certificate|| Laadi SSL-sertifikaat üles
-Create Blacklist|| Loo must nimekiri
-Create DoS rule|| Loo DoS reegel
-Create RBL rule|| Looge RBL-i reegel
-Create WAF ruleset|| Looge WAF-i reeglistik
-Create Rule|| Loo reegel
-Create Farmguardian|| Loo Farmguardian
-Create Bonding interface|| Loo sidumisliides
-Create VLAN interface|| Loo VLAN-i liides
-Upload Backup|| Laadige varukoopia üles
-Create Backup|| Loo varundamine
-Create User|| Loo kasutaja
-Create Group|| Loo grupp
-Create Role|| Loo roll
-Create Route|| Loo marsruut
-is required|| on vaja
-is not valid, it only is possible alphanumeric characters and dash (-).|| ei ole kehtiv, see on ainult võimalik tähtnumbriline täht ja kriips (-).
-Only editable when the farm is down.|| Redigeeritav ainult siis, kui talu on alla.
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| Virtuaalne port pole kehtiv, on võimalik määratleda üks port, mitu porti või pordivahemikku (nt: 80 või 80,81 või 80: 90)
-has to be greater than 0|| peab olema suurem kui 0
-Redirect should be a URL (http(s)://...)|| Suunamine peaks olema URL (http (id): //…)
-Country can only have two characters.|| Riigil võib olla ainult kaks tähemärki.
-E-mail has to be a valid email|| E-post peab olema kehtiv e-post
-The password does not match|| Parool ei sobi
-has to be a value between {{min}} and {{max}}|| peab olema väärtus vahemikus {{min}} kuni {{max}}
-Global Settings|| Global Settings
-IPDS Settings|| IPDS-i seaded
-Advanced Settings|| Täpsemad seaded
-Domains Settings|| Domeenide seaded
-Rules Settings|| Reeglite seaded
-Blacklists rules|| Musta nimekirja reeglid
-DoS rules|| DoS reeglid
-RBL rules|| RBL reeglid
-WAF rulesets|| WAF-i reeglistikud
-Services Settings|| Teenuste seaded
-Zones Settings|| Tsoonide seaded
-Global Filter|| Globaalne filter
-Refresh|| värskendama
-Seconds|| sekundit
-per second|| sekundis
-Refresh status every|| Värskendage olekut iga kord
-Refresh stats every|| Värskenda statistikat iga
-Not refresh|| Ei värskenda
-Farms Settings|| Põllumajandusettevõtete seaded
-Minutes|| protokoll
-Hours|| Tööaeg
-Monday|| Esmaspäev
-Tuesday|| Teisipäev
-Wednesday|| Kolmapäev
-Thursday|| Neljapäev
-Friday|| Reede
-Saturday|| Laupäev
-Sunday|| Pühapäev
-Deny|| eitama
-Allow|| lubama
-Daily|| Iga päev
-Weekly|| Iganädalane
-Monthly|| Igakuine
-entries|| kirjed
-threads|| niidid
-Sort|| Sort
-SORT MODE: Drag and drop the service to the desired position.|| SORT-režiim: lohistage teenus soovitud asukohta.
-The farm will be restarted automatically.|| Farmi taaskäivitatakse automaatselt.
-bytes|| bytes
-Default is|| Vaikimisi on
-Optional|| vabatahtlik
-days|| päeva
-Go to|| Minna
-Edit in form mode|| Redigeerimine vormirežiimis
-Edit in raw mode|| Redigeerimine töötlemata režiimis
-Create in form mode|| Looge vormirežiimis
-Create in raw mode|| Looge töötlemata režiimis
-Available certificates|| Saadaolevad sertifikaadid
-Enabled certificates|| Lubatud sertifikaadid
-Search certificate|| Otsingusertifikaat
-Available blacklists|| Saadaval mustad nimekirjad
-Enabled blacklists|| Lubatud mustad nimekirjad
-Search blacklist|| Otsi mustast nimekirjast
-Available DoS rules|| Saadaolevad DoS-i reeglid
-Enabled DoS rules|| Lubatud DoS-i reeglid
-Search DoS rule|| Otsige DoS-i reeglit
-Available RBL rules|| Saadaolevad RBL reeglid
-Enabled RBL rules|| Lubatud RBL reeglid
-Search RBL rule|| Otsi RBL reeglit
-Available WAF rulesets|| Saadaolevad WAF-i reeglistikud
-Enabled WAF rulesets|| Lubatud WAF-i reeglistikud
-Search WAF ruleset|| Otsige WAF-i reeglistikust
-Available farms|| Saadaolevad talud
-Enabled farms|| Lubatud talud
-Search farm|| Otsi talust
-Available domains|| Saadaval olevad domeenid
-Enabled domains|| Lubatud domeenid
-Search domain|| Otsi domeeni
-Enabled rules|| Lubatud reeglid
-Disabled rules|| Keelatud reeglid
-Search rule|| Otsingureegel
-Available NICs|| Kättesaadavad NIC-d
-Enabled NICs|| Lubatud NIC-id
-Search NIC|| Otsige NIC-ist
-Search slaves|| Otsige orje
-Slaves NICs|| NIC-id orjad
-Available users|| Saadaolevad kasutajad
-Enabled users|| Lubatud kasutajad
-Search user|| Kasutaja otsimine
-Available interfaces|| Saadaolevad liidesed
-Enabled interfaces|| Lubatud liidesed
-Search interface|| Otsimisliides
-Managed interfaces|| Hallatud liidesed
-Unmanaged interfaces|| Haldamata liidesed
-Search interface|| Otsimisliides
-LSLB Farm List|| LSLB talu nimekiri
-GSLB Farm List|| GSLB talunimekiri
-DSLB Farm List|| DSLB põllumajandusettevõtete loend
-Copy farm|| Kopeeri talu
-Farm to copy|| Talu kopeerida
-Select the farm to copy|| Valige kopeeritav farm
-Weight: connection linear dispatching by weight|| Kaal: ühendus lineaarselt
-Priority: connections always to the most prio available|| Prioriteet: ühendused on alati kõige enam kättesaadavad
-Source Hash: Hash per Source IP and Source Port|| Allikas Hash: Hash ühe allika IP ja lähtepordi kohta
-Simple Source Hash: Hash per Source IP only|| Lihtne allikas Hash: Hash all Source IP ainult
-Symmetric Hash: Round trip hash per IP and Port|| Sümmeetriline Hash: Ümberlülitunud räsi IP ja Porti kohta
-Round Robin: Sequential backend selection|| Ümar Robin: järjestikune taustvalik
-Least Connections: connections to the least open conns available|| Vähimad ühendused: ühendused kõige vähem avatud kontoritega
-Disabled|| invaliidistunud
-Enabled|| lubatud
-Enabled and compare backends|| Lubatud ja võrrelda taustprogramme
-No persistence|| Püsivus puudub
-IP: Source IP|| IP: Allikas IP
-Port: Source Por|| Sadam: Allikas Por
-MAC: Source MAC|| MAC: Allikas MAC
-Source IP and Source Port|| Allikas IP ja lähteport
-Source IP and Destination Port|| Allikas IP ja sihtkoha port
-No persistence|| Püsivus puudub
-IP: Client address|| IP: Kliendi aadress
-BASIC: Basic authentication|| BASIC: Põhiline autentimine
-URL: A request parameter|| URL: päringu parameeter
-PARM: An URI parameter|| PARM: URI parameeter
-COOKIE: A certain cookie|| COOKIE: teatud küpsis
-HEADER: A certain request header|| HEADER: teatud päringu päis
-The farm has been updated successfully|| Talu on edukalt värskendatud
-The farm <strong> {{param}} </strong> has been deleted successfully.|| Talu <strong> {{param}} </strong> on edukalt kustutatud.
-The farm <strong> {{param}} </strong> has been started successfully.|| Talu <strong> {{param}} </strong> on edukalt käivitatud.
-The farm <strong> {{param}} </strong> has been restarted successfully.|| Talu <strong> {{param}} </strong> on edukalt käivitatud.
-The farm <strong> {{param}} </strong> has been stopped successfully.|| Talu <strong> {{param}} </strong> on edukalt peatatud.
-The farm <strong> {{param}} </strong> has been created successfully.|| Talu <strong> {{param}} </strong> on edukalt loodud.
-The backend has been created successfully.|| Taustaprogramm on edukalt loodud.
-The backend has been updated successfully.|| Taustaprogrammi on edukalt värskendatud.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| Taust <strong> {{param}} </strong> on edukalt kustutatud.
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| Taust <strong> {{param}} </strong> on edukalt hooldusesse pandud.
-The backend <strong> {{param}} </strong> has been upped successfully.|| Taust <strong> {{param}} </strong> on edukalt üles seatud.
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| Kõrge prioriteediga taustaprogrammid <strong> {{param}} </strong> ei kasutata.
-The resource has been created successfully.|| Allikas on edukalt loodud.
-The resource has been updated successfully.|| Allikat on edukalt värskendatud.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| Taust <strong> {{param}} </strong> on edukalt kustutatud.
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| SSL-sertifikaat <strong> {{param}} </strong> on talusse edukalt lisatud.
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| SSL-sertifikaat <strong> {{param}} </strong> on talust edukalt eemaldatud.
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| SSL-sertifikaat <strong> {{param}} </strong> on edukalt sorteeritud.
-The service <strong> {{param}} </strong> has been created successfully.|| Teenus <strong> {{param}} </strong> on edukalt loodud.
-The service <strong> {{param}} </strong> has been updated successfully.|| Teenus <strong> {{param}} </strong> on edukalt uuendatud.
-The service <strong> {{param}} </strong> has been deleted successfully.|| Teenus <strong> {{param}} </strong> on edukalt kustutatud.
-The service <strong> {{param}} </strong> has been moved successfully.|| Teenus <strong> {{param}} </strong> on edukalt teisaldatud.
-The farmguardians list has been reloaded successfully.|| Talunike nimekiri on edukalt ümber laaditud.
-The farmguardian has been disabled successfully.|| Farmguardian on edukalt keelatud.
-The farmguardian has been changed to {{param}} successfully.|| Farmguardian on edukalt muudetud {{param}}.
-The zone <strong> {{param}} </strong> has been created successfully.|| Tsoon <strong> {{param}} </strong> on edukalt loodud.
-The zone <strong> {{param}} </strong> has been updated successfully.|| Tsoon <strong> {{param}} </strong> on edukalt uuendatud.
-The zone <strong> {{param}} </strong> has been deleted successfully.|| Tsoon <strong> {{param}} </strong> on edukalt kustutatud.
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| Must nimekiri <strong> {{param}} </strong> on talusse edukalt lisatud.
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| Must nimekiri <strong> {{param}} </strong> on talust edukalt eemaldatud.
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| DoS reegel <strong> {{param}} </strong> on talusse edukalt lisatud.
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| DoS reegel <strong> {{param}} </strong> on talust edukalt eemaldatud.
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| RBL reegel <strong> {{param}} </strong> on talusse edukalt lisatud.
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| RBL reegel <strong> {{param}} </strong> on talust edukalt eemaldatud.
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| WAF-i reeglistik <strong> {{param}} </strong> on edukalt sorteeritud.
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| WAF-i reeglistik <strong> {{param}} </strong> on talusse edukalt lisatud.
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| WAF-i reeglistik <strong> {{param}} </strong> on talust edukalt eemaldatud.
-The profile has been changed to {{param}} successfully.|| Profiil on edukalt muudetud {{param}}.
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| Algoritm on muudetud raskuse algoritmiks, kuna väikseima ühenduste arvu korral pole algoritm valitud NAT-tüüpi korral lubatud. Teenuste vahekaardilt saate valida mõne muu algoritmi.
-The request header has been saved successfully.|| Taotluse päis on edukalt salvestatud.
-The request header has been deleted successfully.|| Taotluse päis on edukalt kustutatud.
-The request header pattern has been saved successfully.|| Taotluse päise muster on edukalt salvestatud.
-The request header pattern has been deleted successfully.|| Taotluse päise muster on edukalt kustutatud.
-The response header has been saved successfully.|| Vastuse päis on edukalt salvestatud.
-The response header has been deleted successfully.|| Vastuse päis on edukalt kustutatud.
-The response header pattern has been saved successfully.|| Vastuse päise muster on edukalt salvestatud.
-The response header pattern has been deleted successfully.|| Vastuse päise muster on edukalt kustutatud.
-The service has to have one backend at least.|| Teenusel peab olema vähemalt üks taust.
-Are you sure you want to delete the farm {{param}}?|| Kas soovite kindlasti farmi {{param}} kustutada?
-Are you sure you want to delete the selected farms?|| Kas soovite kindlasti valitud talud kustutada?
-Are you sure you want to delete the service {{param}}?|| Kas soovite kindlasti teenuse {{param}} kustutada?
-Are you sure you want to delete the zone {{param}}?|| Kas soovite kindlasti tsooni {{param}} kustutada?
-Are you sure you want to delete the selected resources?|| Kas soovite kindlasti valitud ressursid kustutada?
-Are you sure you want to delete the resource {{param}}?|| Kas soovite kindlasti ressursi {{param}} kustutada?
-Are you sure you want to delete the backend {{param}}?|| Kas olete kindel, et soovid backend {{param}} kustutada?
-Are you sure you want to delete the selected backends?|| Kas soovite kindlasti valitud taustaprogrammid kustutada?
-Are you sure you want to delete the request header with ID {{id}}?|| Kas soovite kindlasti kustutada päringu päise ID-ga {{id}}?
-Are you sure you want to delete the request header pattern with ID {{id}}?|| Kas soovite kindlasti kustutada päringu päise mustri ID-ga {{id}}?
-Are you sure you want to delete the selected request headers?|| Kas soovite kindlasti valitud päringupäised kustutada?
-Are you sure you want to delete the selected request headers patterns?|| Kas soovite kindlasti valitud päringupäiste mustrid kustutada?
-Are you sure you want to delete the response header with ID {{id}}?|| Kas soovite kindlasti kustutada vastuse päise ID-ga {{id}}?
-Are you sure you want to delete the response header pattern with ID {{id}}?|| Kas soovite kindlasti kustutada vastuse päise mustri ID-ga {{id}}?
-Are you sure you want to delete the selected response headers?|| Kas soovite kindlasti valitud vastuse päised kustutada?
-Are you sure you want to delete the selected response headers patterns?|| Kas soovite kindlasti valitud vastuse päiste mustrid kustutada?
-Are you sure you want to delete the {{param}} blacklist?|| Kas soovite kindlasti {{param}} musta nimekirja kustutada?
-Are you sure you want to delete the selected blacklists?|| Kas soovite kindlasti valitud mustad nimekirjad kustutada?
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| Liidese {{param}} lüüs kustutatakse ja asendatakse selle farmi jaoks. Kas soovite jätkata?
-SSL Certificate list|| SSL-sertifikaatide loend
-Choose one certificate|| Valige üks sertifikaat
-Choose one or more files|| Valige üks või mitu faili
-Selected files|| Valitud failid
-Descriptive text, this name will be used to identify this certificate.|| Kirjeldav tekst, seda nime kasutatakse selle sertifikaadi tuvastamiseks.
-City where your organization is located.|| Linn, kus asub teie organisatsioon.
-Country (two characters) where your organization is located.|| Riik (kaks märki), kus teie organisatsioon asub.
-State or province where your organization is located.|| Riik või provints, kus asub teie organisatsioon.
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| Serveri FQDN. Näide: domain.com, mail.domain.com või * .domain.com.
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| Teie organisatsiooni / ettevõtte täielik juriidiline nimi (nt ZEVENET Co.)
-Your department; such as 'IT','Web', 'Office', etc.|| Teie osakond; näiteks &quot;IT&quot;, &quot;Veeb&quot;, &quot;Kontor&quot; jne.
-Your email address|| Sinu e-posti aadress
-The CSR <strong> {{param}} </strong> has been generated successfully.|| CSR <strong> {{param}} </strong> on loodud edukalt.
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| Sertifikaat <strong> {{param}} </strong> on edukalt üles laaditud.
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| Sertifikaat <strong> {{param}} </strong> on edukalt kustutatud.
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| Sertifikaat <strong> {{param}} </strong> on edukalt alla laaditud.
-Are you sure you want to delete the certificate {{param}}?|| Kas soovite kindlasti sertifikaadi {{param}} kustutada?
-Are you sure you want to delete the selected certificates?|| Kas soovite kindlasti valitud sertifikaadid kustutada?
-Updates|| uuendused
-Update list|| Värskenda nimekirja
-Period time|| Perioodi aeg
-Exact time|| Täpne aeg
-Daily every|| Iga päev iga päev
-Day of the week|| Nädalapäev
-Day of the month|| Kuupäev
-Sources|| Allikad
-DoS rules IPDS|| DoS reeglid IPDS
-RBL rules IPDS|| RBL reeglid IPDS
-Copy rule|| Kopeeri reegel
-Rule to copy|| Reegel kopeerimiseks
-Ruleset to copy|| Reeglid kopeerimiseks
-Select the rule to copy|| Valige kopeeritav reegel
-Select the ruleset to copy|| Valige kopeeritav reeglistik
-Custom Domain List|| Kohandatud domeenide loend
-Preloaded Domain List|| Eellaaditud domeenide loend
-WAF rulesets IPDS|| WAF-i reeglistik IPDS
-Default Action|| Vaiketoiming
-Disable Rules|| Keela reeglid
-IPDS Package Updates|| IPDS-paketi värskendused
-Conditions|| Tingimused
-Flow|| voolama
-WAF File List|| WAF-failide loend
-WAF file|| WAF-fail
-Content File|| Sisu fail
-Select files|| Valige failid
-Select a file|| Valige fail
-Select transformations|| Valige teisendused
-Connection limit per second.|| Ühenduse piir sekundis.
-Total connections limit per source IP.|| Ühenduste kogupiirang allika IP kohta.
-Check bogus TCP flags.|| Kontrollige võltsitud TCP lippe.
-Limit RST request per second.|| Piirake RST taotlust sekundis.
-Allow: Finish the WAF processing and complete the HTTP transaction|| Luba: viige WAF-i töötlemine lõpule ja tehke HTTP-tehing
-Pass: Continue executing the rules|| Pass: jätkake reeglite täitmist
-Deny: Cut the request and not execute rules left|| Keeldu: katkestage taotlus ja mitte täitke reegleid
-Redirect: The client received a URL to redirect|| Ümbersuunamine: klient sai ümbersuunamiseks URL-i
-Default action: The default action of this ruleset|| Vaiketoiming: selle reeglistiku vaikimisi toiming
-Request headers are received|| Saadakse päringu päised
-Request body is received|| Taotluse asutus on vastu võetud
-Response headers are received|| Vastuvõtu päised võetakse vastu
-Response body is received|| Vastus on saadud
-Before than logging|| Enne kui logite
-LUA Script|| LUA skript
-Data file|| Andmefail
-It is a collection with the values of arguments in a request.|| See on taotluses esitatud argumentide kogumik.
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| See on kogum, millel on JSONi taotluses argumentide väärtused. See muutuja on saadaval juhul, kui WAF analüsib selle JSON-argumente, reeglistik REQUEST-901-INITIALIZATION peaks olema lubatud.
-The total size of the request parameters. The files are excluded.|| Taotluse parameetrite kogumaht. Failid on välistatud.
-It is a collection with the names of the arguments in a request.|| See on kogum koos argumentide nimedega taotluses.
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| See sisaldab failide nimesid kasutaja failides. Ainult siis, kui andmed on mitmeosalised / vormid.
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| See on taotluses sisalduvate failide kogu suurus. Ainult siis, kui andmed on mitmeosalised / vormid.
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| See on failide üleslaadimiseks kasutatud failinimede loend. Ainult siis, kui andmed on mitmeosalised / vormid.
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| See sisaldab üksikute failisuuruste loendit. Ainult siis, kui andmed on mitmeosalised / vormid.
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| See muutuja on 1, kui taotluse keha formaat ei ole JSONi või XML-i jaoks õige, muidu on selle väärtus 0.
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| See on toores keha taotlus. Kui taotlusel ei ole pealkirja &quot;application / x-www-form-urlencoded&quot;, tuleb REQUEST_HEADER faasis kasutada &quot;ctl: forceRequestBodyVariable&quot;.
-It is the number of bytes of the request body.|| See on päringu keha baitide arv.
-It is a list with all request cookies values.|| See on nimekiri kõigi küpsiste küpsiste väärtustest.
-It is a list with all request cookies names.|| See on nimekiri kõigi küpsiste küpsiste nimedest.
-This variable has all the request headers.|| See muutuja sisaldab kõiki päringu päiseid.
-This variable has a list with the request headers names.|| Sellel muutujal on nimekiri koos päringute päiste nimedega.
-It is the request method.|| See on taotluse meetod.
-This variable holds the request HTTP version protocol.|| See muutuja omab päringu HTTP versiooni protokolli.
-It is the URI request path. The virtual host is excluded.|| See on URI taotluse tee. Virtuaalne host on välistatud.
-It is the information before than the URI path.|| See on teave, mis on enne URI rada.
-It is the full request.|| See on täielik taotlus.
-It is the number of bytes that full request can have.|| See on baitide arv, mille täielik taotlus võib olla.
-It is the raw body response.|| See on tooraine vastus.
-It is the number of bytes of the response body.|| See on vastusekeha baitide arv.
-This variable has all response headers.|| See muutuja sisaldab kõiki vastuse päiseid.
-This variable has a list with the response headers names.|| See muutuja sisaldab nimekirja koos vastuste päiste nimedega.
-This variable holds the response HTTP version protocol.|| See muutuja omab vastuse HTTP versiooni protokolli.
-It is the response HTTP code.|| See on vastus HTTP kood.
-It is the IP address of the client.|| See on kliendi IP-aadress.
-It is the port where the client initializes the connection.|| See on port, kus klient ühendab ühenduse.
-It is the name of the authenticated user.|| See on autentitud kasutaja nimi.
-It is the server time. The format is hours:minutes:seconds.|| See on serveri aeg. Vorming on tund: minut: sekundid.
-It is the number of milliseconds since the beginning of the current transaction.|| See on millisekundite arv alates praeguse tehingu algusest.
-It is the field filename in a multipart request.|| See on välifaili nimi mitmeosalises taotluses.
-It is the field name in a multipart request.|| See on põllu nimi mitmeosalises taotluses.
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| See on sobitatud väärtus viimase mänguoperatsioonis. See väärtus ei vaja püüdmisvalikut, kuid see asendatakse igas mänguoperatsioonis.
-It is a list of all matched values.|| See on kõigi sobitatud väärtuste loend.
-It is the IP address of the server.|| See on serveri IP-aadress.
-It is the virtual host, it gets from the request URI.|| See on virtuaalne host, mis saab päringu URI-lt.
-It is the environment variables of the WAF.|| See on WAF-i keskkonnamuutujad.
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| See on praeguse tehingu muutujate kogum. Need muutujad eemaldatakse tehingu lõppemisel. Muutujad TX: 0-TX: 9 salvestab strRegex või strPhrases operaatoritega salvestatud väärtused.
-Decodes a Base64-encoded string.|| Dekodeerib Base64i kodeeritud stringi.
-Decodes a Base64-encoded string ignoring invalid characters.|| Dekodeerib Base64-kodeeritud stringi, mis ignoreerib kehtetuid märke.
-Decodes SQL hex data.|| Dekodeerib SQL-heksandandmed.
-Encodes using Base64 encoding.|| Kodeerib Base64i kodeeringut.
-Avoids the problem related with the escaped command line.|| Väldib põgenenud käsureaga seotud probleemi.
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| Teisendab mis tahes tühimärgid (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) tühikuteks (ASCII 0x20), tihendades mitu järjestikust tühimärki üheks.
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| Dekodeerib CSS 2.x põgenemisreeglite abil kodeeritud märgid. See funktsioon kasutab dekodeerimisprotsessis ainult kuni kahte baiti, mis tähendab, et CSS-i kodeeringuga on kasulik avastada kodeeritud ASCII-tähemärke (mida tavaliselt ei kodeerita) või vältida kõrvalehoidumist, mis koosneb kaldkriipsust ja mitte - kuueteistkümnendsümbolid (nt ja \\vascript on samaväärne JavaScriptiga).
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| Dekodeerib ANSI C põgenemisjadad: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (kuueteistkümnendsüsteem), \\0OOO ​​(kaheksanurk). Väljundisse jäävad kehtetud kodeeringud.
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| Dekodeerib stringi, mis on kodeeritud sama algoritmiga, mida kasutati hexEncode'is (vt järgmist sisestust).
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| Kodeerib stringi (mis võib sisaldada binaarseid märke), asendades iga sisendbiti kahe kuueteistkümnendsümboliga. Näiteks kodeeritakse xyz 78797a.
-Decodes the characters encoded as HTML entities.|| Dekodeerib HTML-üksustena kodeeritud märgid.
-Decodes JavaScript escape sequences.|| Dekodeerib JavaScript põgenemisjärjestused.
-Looks up the length of the input string in bytes, placing it (as string) in output.|| Otsib sisendstringi pikkust baitides, asetades selle (stringina) väljundisse.
-Converts all characters to lowercase using the current C locale.|| Teisendab kõik tähemärgid väikesteks, kasutades praegust C-lehte.
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Sisendist saadud andmete põhjal arvutab MD5 räsi. Arvutatud räsi on töötlemata binaarses vormis ja võib-olla tuleb see trükitavasse teksti kodeerida (või logida). Rihmafunktsioone kasutatakse tavaliselt koos hexEncode-ga.
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| Mitte tegelik ümberkujundamisfunktsioon, vaid käsk eemaldada praeguse reegliga seotud varasemate transformatsioonifunktsioonide kasutamine.
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| Eemaldab sisestusstringilt mitu kaldkriipsu, kataloogide eneseviited ja kataloogide tagasiviited (välja arvatud juhul, kui sisendi alguses).
-Same as normalizePath, but first converts backslash characters to forward slashes.|| Sama nagu normalizePath, kuid muundab kõigepealt tagakülje märgid edasi kaldkriipsudeks.
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Arvutab 7-bitiandmete ühtlase pariteedi, mis asendab iga sihtmärgi baas 8th arvutatud pariteedi bitiga.
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| Arvutab 7-bitide andmete paaritu pariteedi, mis asendab iga sihtmärgi baas 8th arvutatud pariteedi bitiga.
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| Arvutab 7-bitiandmete nullpariteedi, mis asendab iga sihtmärgi baasil 8th nullpariteedi bitiga, mis võimaldab kontrollida paaris / paaritu pariteedi 7-bitiandmeid ASCII7i andmetena.
-Removes all NUL bytes from input.|| Eemaldab sisendist kõik NUL-baidid.
-Removes all whitespace characters from the input.|| Eemaldab sisendist kõik tühimärgid.
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| Asendab C-stiilis kommentaari iga esinemise (/ *… * /) ühe tühikuga (mitu järjestikust esinemist ei tihendata). Lõpetamata kommentaarid asendatakse ka tühikuga (ASCII 0x20). Kommentaari eraldiseisvat lõpetamist (* /) aga ei tehta.
-Removes common comments chars (/*, */, –, #).|| Eemaldab tavalised kommentaaride märgid (/ *, * /, -, #).
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| Asendab NUL-baiti tühikuklahvidega (ASCII 0x20).
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| Dekodeerib URL-i kodeeritud sisestusstringi. Kehtetud kodeeringud (st need, mis kasutavad heksadecimaalseid märke või need, mis on stringi lõpus ja millel on üks või kaks baiti) puuduvad, kuid ühtegi viga ei esine.
-Converts all characters to uppercase using the current C locale.|| Teisendab kõik tähemärgid suurtähtedeks, kasutades praegust C-lehte.
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| Nagu urlDecode, aga Microsofti spetsiifilise% u kodeeringu toetamine.
-Encodes input string using URL encoding.|| Kodeerib sisendstringi URL-i kodeerimise abil.
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| Teisendab kõik UTF-8 tähemärkide järjestused Unicode'iks. See aitab sisendi normaliseerimist, eriti mitte-inglise keelte puhul, minimeerides valepositiivseid ja valenegatiivseid vorme.
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| Arvutab sisendstringist SHA1 räsi. Arvutatud räsi on binaarses vormis ja võib-olla tuleb kodeerida trükitavasse (või logitud) teksti. Hash-funktsioone kasutatakse tavaliselt koos hexEncode'iga.
-Removes whitespace from the left side of the input string.|| Eemaldab sisendribade vasakul küljel tühiku.
-Removes whitespace from the right side of the input string.|| Eemaldab tühimiku sisestusstringi paremast küljest.
-Removes whitespace from both the left and right sides of the input string.|| Eemaldab tühimiku nii sisendstringi vasakult kui paremalt küljelt.
-The rule will match if any of the variables begin with the value of operating.|| Reegel sobib siis, kui mõni muutuja algab töö väärtusest.
-The rule will match if any of the variables contain the value of operating.|| Reegel sobib, kui mõni muutujatest sisaldab toimimise väärtust.
-The rule will match if any of the variables contain a word as the string one.|| Reegel sobib, kui mõni muutuja sisaldab sõna stringina.
-The rule will match if any of the variables end with the value of operating.|| Reegel sobib, kui mõni muutuja lõpeb töö väärtusega.
-The rule will match if any of the variables match with the value of operating.|| Reegel sobib juhul, kui mõni muutuja vastab toimimise väärtusele.
-The rule will match if any of the variables match with the value of operating.|| Reegel sobib juhul, kui mõni muutuja vastab toimimise väärtusele.
-The rule will match if any of the variables is identical to the value of operating.|| Reegel sobib siis, kui mõni muutuja on identne töö väärtusega.
-The rule will match if any of the variables match in the regular expression used in operating.|| Reegel sobib juhul, kui mõni muutuja ühtib operatsioonis kasutatava regulaaravaldisega.
-The rule will match if any of the variables match in any of the values of the list operating.|| Reegel sobib, kui mõni muutujatest sobib mõne loendi väärtusega.
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| Sama, mis operaator strPhrases, kuid operatsioonisüsteem on fail, kus see on määratletud fraaside loendina.
-The rule will match if any of the variables is equal to the number used in operating.|| Reegel sobib, kui mõni muutuja on võrdne töötamisel kasutatud numbriga.
-The rule will match if any of the variables is greater or equal to the number used in operating.|| Reegel sobib, kui mõni muutujatest on suurem või võrdne töötamisel kasutatud numbriga.
-The rule will match if any of the variables is greater than the number used in operating.|| Reegel sobib, kui mõni muutuja on suurem kui kasutatav arv.
-The rule will match if any of the variables is lower or equal to the number used in operating.|| Reegel sobib, kui mõni muutuja on madalam või võrdne töötamisel kasutatud numbriga.
-The rule will match if any of the variables is lower than the number used in operating.|| Reegel sobib, kui mõni muutuja on madalam kui kasutatav arv.
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| See rakendab SQL-süstimise tuvastamist muutujate loendisse. See operaator ei oota mingit tegutsemist.
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| Ta rakendab XSS süstimise tuvastamist muutujate loendisse. See operaator ei oota mingit tegutsemist.
-Try to match the IP or network segments of operating with the list of variables.|| Proovige sobitada IP- või võrgusegmente muutujate loendiga.
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| See on sama mis operaator ipMatch, kuid see proovib muutujate vastendamist failiga IP-de ja võrgusegmentide loendiga.
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| See kontrollib, kas muutujate baitide arv on ühes operatsiooniväärtusest. Näide käitamise kohta on “10, 13, 32-126”.
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| See kinnitab kodeeritud andmeid. Seda operaatorit tuleb kasutada ainult selliste andmete puhul, mis ei kodeeri andmeid tavaliselt või andmete kodeerimiseks mitu korda.
-It validates that variables are UTF-8. This operator does not expect any operating.|| See kinnitab, et muutujad on UTF-8. See operaator ei oota mingit töötamist.
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| See kontrollib, kas muutujad on krediitkaardi number. See parameeter aktsepteerib regulaaravaldist toimimise korral, kui see sobib, siis rakendab see krediitkaarti.
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| See kontrollib, kas muutujad on USA sotsiaalkindlustuse number. See parameeter aktsepteerib regulaarset avaldist töötavana, kui see sobib, rakendab see SSN-i verifitseerimist.
-It returns true always, forcing a match.|| See on alati tõsi, sundides mängu.
-It returns false always, forcing a non-match.|| See tagastab alati vale, sundides mitte-sobima.
-A word is delimited by characters different to (a-z, 0-9 and '_')|| Sõna eraldavad tähemärgid, mis erinevad (az, 0-9 ja '_')
-Can be a list of strings split by the character ,|| Võib olla märkide järgi jaotatud stringide loend,
-Can be a list of strings split by the character |,|| Võib olla märkide kaupa jagunenud stringide loetelu |,
-Can be a list of strings split by a blank space|| Võib olla tühikutega jagatud stringide loend
-Can be a list of IPs or network segments split by the character ,|| Võib olla IP-de või võrgusegmentide loend, mis on tähemärgi järgi jagatud,
-Can be a list of IPs ranges split by the character ,|| Võib olla tähemärgi järgi jagatud IP-vahemike loetelu,
-Can be selected more than one file.|| Saab valida mitu faili.
-It uses the PCRE engine, optional field.|| See kasutab PCRE mootorit, valikulist välja.
-It uses the PCRE engine, optional field.|| See kasutab PCRE mootorit, valikulist välja.
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| See kasutab PCRE mootorit. Väljendit (? I) kasutatakse vasteks, kasutades väiketähti.
-This operator does not expect any operating.|| See operaator ei oota mingit töötamist.
-String.|| Keel
-Number.|| Arv.
-The <strong> {{param}} </strong> blacklist has been created successfully.|| . <strong> {{param}} </strong> must nimekiri on edukalt loodud.
-The <strong> {{param}} </strong> blacklist has been deleted successfully.|| . <strong> {{param}} </strong> must nimekiri on edukalt kustutatud.
-The <strong> {{param}} </strong> blacklist has been stopped successfully.|| . <strong> {{param}} </strong> must nimekiri on edukalt peatatud.
-The <strong> {{param}} </strong> blacklist has been started successfully.|| . <strong> {{param}} </strong> must nimekiri on edukalt käivitatud.
-The <strong> {{param}} </strong> blacklist has been updated successfully.|| . <strong> {{param}} </strong> musta nimekirja on edukalt värskendatud.
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| Talu <strong> {{param}} </strong> on edukalt lisatud musta nimekirja.
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| Talu <strong> {{param}} </strong> on mustast nimekirjast edukalt eemaldatud.
-The <strong> {{param}} </strong> DoS rule has been created successfully.|| . <strong> {{param}} </strong> DoS-i reegel on edukalt loodud.
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.|| . <strong> {{param}} </strong> DoS-i reegel on edukalt kustutatud.
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.|| . <strong> {{param}} </strong> DoS-i reegel on edukalt peatatud.
-The <strong> {{param}} </strong> DoS rule has been started successfully.|| . <strong> {{param}} </strong> DoS-i reegel on edukalt käivitatud.
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| Talu <strong> {{param}} </strong> on DoS-i reeglile edukalt lisatud.
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| Talu <strong> {{param}} </strong> on DoS-i reeglist edukalt eemaldatud.
-The source has been created successfully|| Allikas on edukalt loodud
-The source has been updated successfully|| Allikat on edukalt värskendatud
-The source <strong> {{param}} </strong> has been deleted successfully.|| Allikas <strong> {{param}} </strong> on edukalt kustutatud.
-The <strong> {{param}} </strong> RBL rule has been created successfully.|| . <strong> {{param}} </strong> RBL reegel on edukalt loodud.
-The <strong> {{param}} </strong> RBL rule has been updated successfully.|| . <strong> {{param}} </strong> RBL reeglit on edukalt värskendatud.
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.|| . <strong> {{param}} </strong> RBL reegel on edukalt kustutatud.
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.|| . <strong> {{param}} </strong> RBL reegel on edukalt peatatud.
-The <strong> {{param}} </strong> RBL rule has been started successfully.|| . <strong> {{param}} </strong> RBL reegel on edukalt käivitatud.
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| Talu <strong> {{param}} </strong> on RBL reeglile edukalt lisatud.
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| Talu <strong> {{param}} </strong> on RBL reeglist edukalt eemaldatud.
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| Domeen <strong> {{param}} </strong> on RBL reeglile edukalt lisatud.
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| Domeen <strong> {{param}} </strong> on RBL reeglist edukalt eemaldatud.
-The domain <strong> {{param}} </strong> has been created successfully|| Domeen <strong> {{param}} </strong> on edukalt loodud
-The domain has been updated successfully|| Domeeni on edukalt värskendatud
-The domain <strong> {{param}} </strong> has been deleted successfully.|| Domeen <strong> {{param}} </strong> on edukalt kustutatud.
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.|| . <strong> {{param}} </strong> WAF-i reeglistik on edukalt loodud.
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.|| . <strong> {{param}} </strong> WAF-i reeglistik on edukalt kustutatud.
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.|| . <strong> {{param}} </strong> WAF-i reeglistik on edukalt peatatud.
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.|| . <strong> {{param}} </strong> WAF-i reeglistik on edukalt käivitatud.
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.|| . <strong> {{param}} </strong> WAF-i reeglistikku on edukalt värskendatud.
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| Talu <strong> {{param}} </strong> on edukalt WAF-i reeglite komplekti lisatud.
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| Talu <strong> {{param}} </strong> on WAF-i reeglistikust edukalt eemaldatud.
-The rule <strong> {{param}} </strong> has been created successfully.|| Reegel <strong> {{param}} </strong> on edukalt loodud.
-The rule <strong> {{param}} </strong> has been moved successfully.|| Reegel <strong> {{param}} </strong> on edukalt teisaldatud.
-The rule <strong> {{param}} </strong> has been deleted successfully.|| Reegel <strong> {{param}} </strong> on edukalt kustutatud.
-The rule <strong> {{param}} </strong> has been updated successfully|| Reegel <strong> {{param}} </strong> on edukalt värskendatud
-The match has been created successfully|| Matš on edukalt loodud
-The match <strong> {{param}} </strong> has been deleted successfully.|| Matš <strong> {{param}} </strong> on edukalt kustutatud.
-The WAF file <strong> {{param}} </strong> has been created successfully.|| WAF-fail <strong> {{param}} </strong> on edukalt loodud.
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| WAF-fail <strong> {{param}} </strong> on edukalt kustutatud.
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| WAF-fail <strong> {{param}} </strong> on edukalt uuendatud.
-The <strong> IPDS package </strong> has been scheduled successfully.|| . <strong> IPDS-i pakett </strong> on edukalt ajastatud.
-The <strong> IPDS package </strong> has been upgraded successfully.|| . <strong> IPDS-i pakett </strong> on edukalt täiendatud.
-Are you sure you want to delete the {{param}} blacklist?|| Kas soovite kindlasti {{param}} musta nimekirja kustutada?
-Are you sure you want to delete the selected blacklists?|| Kas soovite kindlasti valitud mustad nimekirjad kustutada?
-Are you sure you want to delete the {{param}} DoS rule?|| Kas soovite kindlasti kustutada reegli {{param}} DoS?
-Are you sure you want to delete the selected DoS rules?|| Kas soovite kindlasti valitud DoS-reeglid kustutada?
-Are you sure you want to delete the source {{param}}?|| Kas soovite kindlasti kustutada allika {{param}}?
-Are you sure you want to delete the selected sources?|| Kas soovite kindlasti valitud allikad kustutada?
-Are you sure you want to delete the {{param}} RBL rule?|| Kas soovite kindlasti kustutada {{param}} RBL-i reegli?
-Are you sure you want to delete the selected RBL rules?|| Kas soovite kindlasti valitud RBL reeglid kustutada?
-Are you sure you want to delete the domain {{param}}?|| Kas soovite kindlasti kustutada domeeni {{param}}?
-Are you sure you want to delete the selected domains?|| Kas soovite kindlasti valitud domeenid kustutada?
-Are you sure you want to delete the {{param}} WAF ruleset?|| Kas soovite kindlasti kustutada {{param}} WAF-i reeglistiku?
-Are you sure you want to delete the selected rulesets?|| Kas soovite kindlasti valitud reeglistikud kustutada?
-'Are you sure you want to delete the rule {{param}}?|| 'Kas soovite kindlasti reegli {{param}} kustutada?
-Are you sure you want to delete the match {{param}}?|| Kas soovite kindlasti mängu {{param}} kustutada?
-Are you sure you want to delete the selected matches?|| Kas soovite kindlasti valitud vasted kustutada?
-Are you sure you want to delete the file {{param}}?|| Kas soovite kindlasti faili {{param}} kustutada?
-Are you sure you want to delete the selected files?|| Kas soovite kindlasti valitud failid kustutada?
-System Graphs|| Süsteemi graafikud
-Interfaces Graphs|| Liidese graafikud
-Farms Graph|| Talude graafik
-Farms Stats|| Põllumajandusettevõtete statistika
-System Stats|| Süsteemi statistika
-Network Stats|| Võrgu statistika
-Copy farmguardian|| Kopeeri talupoeg
-Farmguardian to copy|| Talumehe koopia
-Select the farmguardian to copy|| Valige kopeerimiseks taluperemees
-Total Memory|| Mälu kokku
-Free Memory|| Vaba mälu
-Used Memory|| Kasutatud mälu
-Buffers|| Puhvrid
-Cached|| Vahemällu salvestatud
-Total Swap|| Kokku vahetada
-Free Swap|| Tasuta vahetus
-Used Swap|| Kasutatud vahetus
-Cached Swap|| Vahemällu vahetatud
-Idle|| Idle
-Usage|| Kasutus
-Iowait|| Iowait
-Irq|| Irq
-Nice|| kena
-Softirq|| Softirq
-Sys|| Sys
-User|| Kasutaja
-Last minute|| Viimase hetke
-Last 5 minutes|| Viimased 5 minutit
-Last 15 minutes|| Viimased 15 minutit
-Are you sure you want to delete the {{param}} farmguardian?|| Kas soovite kindlasti {{param}} talupoegat kustutada?
-Are you sure you want to delete the selected farmguardians?|| Kas soovite kindlasti valitud taluperemehed kustutada?
-The <strong> {{param}} </strong> farmguardian has been created successfully.|| . <strong> {{param}} </strong> farmguardian on edukalt loodud.
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.|| . <strong> {{param}} </strong> farmguardian on edukalt kustutatud.
-The <strong> {{param}} </strong> farmguardian has been updated successfully.|| . <strong> {{param}} </strong> taluperemeest on edukalt värskendatud.
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| Talu <strong> {{param}} </strong> on taluperemehele edukalt lisatud.
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| Talu <strong> {{param}} </strong> on edukalt taluperemehelt eemaldatud.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| Talu <strong> {{param}} with the service {{param2}} </strong> on taluperemehele edukalt lisatud.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| Talu <strong> {{param}} with the service {{param2}} </strong> on edukalt taluperemehelt eemaldatud.
-NIC List|| NIC nimekiri
-Bonding Interface List|| Võlakirjade liideste loetelu
-Select the slaves|| Valige orjad
-VLAN Interface List|| VLAN-liidese loend
-VLAN ID|| VLAN-i ID
-VLAN tag|| VLAN-i silt
-Virtual Interface List|| Virtuaalse liidese loend
-Virtual interface name|| Virtuaalse liidese nimi
-Virtual interface tag|| Virtuaalse liidese silt
-Floating IP List|| Ujuv IP-nimekiri
-IPv4 Gateway|| IPv4 Gateway
-IPv6 Gateway|| IPv6 Gateway
-IPv4 Gateway Settings|| IPv4 lüüsi seaded
-IPv6 Gateway Settings|| IPv6 lüüsi seaded
-Backends Aliases|| Taustprogrammi varjunimed
-Interfaces Aliases|| Liideste varjunimed
-Routing Rule List|| Marsruudi reeglite loend
-Routing Table List|| Marsruutitabelite loetelu
-Priority should be a value between {{min}} and {{max}}|| Prioriteet peaks olema väärtus vahemikus {{min}} kuni {{max}}
-Configure table {{param}}|| Konfigureerimistabel {{param}}
-Available Routes|| Saadaval marsruudid
-Routing table for the outputs of the interface {{param}}.|| Liidese {{param}} väljundite marsruuditabel.
-Should be a IP address or CIDR|| Peaks olema IP-aadress või CIDR
-Should be a IP address (IPv4/IPv6)|| Peaks olema IP-aadress (IPv4 / IPv6)
-Are you sure you want to unset the NIC {{param}}?|| Kas soovite kindlasti NIC-i {{param}} tühistada?
-Are you sure you want to unset the selected NIC?|| Kas soovite kindlasti valitud NIC-i tühistada?
-Are you sure you want to unset the Bonding {{param}}?|| Kas soovite kindlasti võlakirja {{param}} tühistada?
-Are you sure you want to unset the selected Bondings?|| Kas soovite kindlasti valitud liistud tühistada?
-Are you sure you want to delete the Bonding {{param}}?|| Kas soovite kindlasti kustutada liimimise {{param}}?
-Are you sure you want to delete the selected Bondings?|| Kas soovite kindlasti valitud võlakirjad kustutada?
-Are you sure you want to delete the VLAN {{param}}?|| Kas soovite kindlasti VLAN-i {{param}} kustutada?
-Are you sure you want to delete the selected VLANs?|| Kas soovite kindlasti valitud VLAN-id kustutada?
-Are you sure you want to delete the Virtual interface {{param}}?|| Kas soovite kindlasti virtuaalse liidese {{param}} kustutada?
-Are you sure you want to delete the selected Virtual interfaces?|| Kas soovite kindlasti valitud virtuaalsed liidesed kustutada?
-Are you sure you want to unset the Floating IP of {{param}}?|| Kas soovite kindlasti {{param}} ujuva IP tühistada?
-Are you sure you want to unset the selected Floating IPs?|| Kas soovite kindlasti valitud ujuvate IP-de tühistada?
-Are you sure you want to unset the gateway for {{param}}?|| Kas soovite kindlasti {{param}} lüüsi tühistada?
-Are you sure you want to delete the alias {{param}}?|| Kas soovite kindlasti kustutada pseudonüümi {{param}}?
-Are you sure you want to delete the selected aliases?|| Kas soovite kindlasti valitud pseudonüümid kustutada?
-Are you sure you want to delete the routing rule {{param}}?|| Kas soovite kindlasti kustutada marsruutimisreegli {{param}}?
-Are you sure you want to delete the selected routing rules?|| Kas soovite kindlasti valitud marsruutimisreeglid kustutada?
-Are you sure you want to delete the route {{param}}?|| Kas soovite kindlasti marsruudi {{param}} kustutada?
-Are you sure you want to delete the selected routes?|| Kas soovite kindlasti valitud marsruudid kustutada?
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.|| . <strong> {{param}} </strong> NIC on edukalt seadistamata.
-The <strong> {{param}} </strong> NIC is up.|| . <strong> {{param}} </strong> NIC on üleval.
-The <strong> {{param}} </strong> NIC is down.|| . <strong> {{param}} </strong> NIC on maas.
-The <strong> {{param}} </strong> NIC has been updated successfully.|| . <strong> {{param}} </strong> NIC on edukalt uuendatud.
-The <strong> {{param}} </strong> NIC has updated the alias successfully.|| . <strong> {{param}} </strong> NIC on pseudonüümi edukalt värskendanud.
-The <strong> {{param}} </strong> Bonding has been created successfully.|| . <strong> {{param}} </strong> Võlakirjade loomine on edukalt loodud.
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.|| . <strong> {{param}} </strong> Liimimine on edukalt seadistamata.
-The <strong> {{param}} </strong> Bonding is up.|| . <strong> {{param}} </strong> Liimimine on otsas.
-The <strong> {{param}} </strong> Bonding is down.|| . <strong> {{param}} </strong> Liimimine on maas.
-The <strong> {{param}} </strong> Bonding has been updated successfully.|| . <strong> {{param}} </strong> Liimimist on edukalt värskendatud.
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.|| . <strong> {{param}} </strong> Bonding on pseudonüümi edukalt värskendanud.
-The <strong> {{param}} </strong> Bonding has been deleted successfully.|| . <strong> {{param}} </strong> Liimimine on edukalt kustutatud.
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.|| . <strong> {{param}} </strong> ori on edukalt liidestamisse lisatud.
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.|| . <strong> {{param}} </strong> ori on liimimisest edukalt eemaldatud.
-The <strong> {{param}} </strong> VLAN has been created successfully.|| . <strong> {{param}} </strong> VLAN on edukalt loodud.
-The <strong> {{param}} </strong> VLAN is up.|| . <strong> {{param}} </strong> VLAN on sisse lülitatud.
-The <strong> {{param}} </strong> VLAN is down.|| . <strong> {{param}} </strong> VLAN on maas.
-The <strong> {{param}} </strong> VLAN has been updated successfully.|| . <strong> {{param}} </strong> VLAN on edukalt uuendatud.
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.|| . <strong> {{param}} </strong> VLAN on pseudonüümi edukalt värskendanud.
-The <strong> {{param}} </strong> VLAN has been deleted successfully.|| . <strong> {{param}} </strong> VLAN on edukalt kustutatud.
-The <strong> {{param}} </strong> Virtual interface has been created successfully.|| . <strong> {{param}} </strong> Virtuaalne liides on edukalt loodud.
-The <strong> {{param}} </strong> Virtual interface is up.|| . <strong> {{param}} </strong> Virtuaalne liides on üleval.
-The <strong> {{param}} </strong> Virtual interface is down.|| . <strong> {{param}} </strong> Virtuaalne liides on maas.
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.|| . <strong> {{param}} </strong> Virtuaalne liides on edukalt uuendatud.
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.|| . <strong> {{param}} </strong> Virtuaalne liides on pseudonüümi edukalt värskendanud.
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.|| . <strong> {{param}} </strong> Virtuaalne liides on edukalt kustutatud.
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.|| . <strong> {{param}} </strong> Ujuv IP on edukalt seadistamata.
-The <strong> {{param}} </strong> Floating IP is up.|| . <strong> {{param}} </strong> Ujuv IP on üleval.
-The <strong> {{param}} </strong> Floating IP is down.|| . <strong> {{param}} </strong> Ujuv IP on maas.
-The <strong> {{param}} </strong> Floating IP has been updated successfully.|| . <strong> {{param}} </strong> Ujuvat IP-d on edukalt värskendatud.
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.|| . <strong> {{param}} </strong> Ujuv IP on pseudonüümi edukalt värskendanud.
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.|| . <strong> {{param}} </strong> Ujuv IP on edukalt kustutatud.
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| Värav <strong> {{param}} </strong> on edukalt konfigureerimata.
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| Värav <strong> {{param}} </strong> on edukalt uuendatud.
-The <strong> {{param}} </strong> Alias has been created successfully.|| . <strong> {{param}} </strong> Alias ​​on edukalt loodud.
-The <strong> {{param}} </strong> Alias has been updated successfully.|| . <strong> {{param}} </strong> Alias ​​on edukalt värskendatud.
-The <strong> {{param}} </strong> Alias has been deleted successfully.|| . <strong> {{param}} </strong> Alias ​​on edukalt kustutatud.
-The <strong> {{param}} </strong> routing rule has been deleted successfully.|| . <strong> {{param}} </strong> marsruutimisreegel on edukalt kustutatud.
-The <strong> {{param}} </strong> routing rule has been updated successfully.|| . <strong> {{param}} </strong> marsruutimisreeglit on edukalt värskendatud.
-The <strong> {{param}} </strong> routing rule has been created successfully.|| . <strong> {{param}} </strong> marsruutimisreegel on edukalt loodud.
-The route <strong> {{param}} </strong> has been deleted successfully.|| Teekond <strong> {{param}} </strong> on edukalt kustutatud.
-The route <strong> {{param}} </strong> has been updated successfully.|| Teekond <strong> {{param}} </strong> on edukalt uuendatud.
-The route <strong> {{param}} </strong> has been created successfully.|| Teekond <strong> {{param}} </strong> on edukalt loodud.
-To remove a route you must select it first.|| Marsruudi eemaldamiseks peate selle kõigepealt valima.
-The route {{param}} cannot be removed because it is a system route.|| Marsruuti {{param}} ei saa eemaldada, kuna see on süsteemne marsruut.
-The interface <strong> {{param}} </strong> has been disabled.|| Liides <strong> {{param}} </strong> on keelatud.
-The interface <strong> {{param}} </strong> has been enabled.|| Liides <strong> {{param}} </strong> on lubatud.
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.|| . <strong> {{param}} </strong> orja ei saa eemaldada. Liimimisel peab olema vähemalt üks ori.
-HTTP Service|| HTTP teenus
-SSH Service|| SSH teenus
-SNMP Service|| SNMP teenus
-The physical interface where is running GUI service|| Füüsiline liides, kus töötab GUI-teenus
-If the cluster is up you only can select the cluster interface or all|| Kui klaster on üleval, saate valida ainult klastri liidese või kõik
-HTTPS Port where is running GUI service|| HTTPS Port, kus töötab GUI teenus
-The physical interface where is running SSH service|| Füüsiline liides, kus töötab SSH-teenus
-SSH Port where is running SSH service|| SSH-port, kus töötab SSH-teenus
-Enable SNMP|| Luba SNMP
-The physical interface where is running SNMP service|| Füüsiline liides, kus töötab SNMP teenus
-SNMP Port where is running SNMP service|| SNMP port, kus töötab SNMP teenus
-Community name|| Kogukonna nimi
-IP or subnet with access|| IP või alamvõrk koos juurdepääsuga
-Primary server|| Esmane server
-Secondary Server|| Sekundaarne server
-NTP server|| NTP-server
-NTP Service|| NTP teenus
-Proxy Service|| Puhverserveri teenus
-DNS Service|| DNS-teenus
-Configure cluster|| Seadistage klaster
-Local IP|| Kohalik IP
-Remote IP|| Kaug-IP
-Remote Node Password|| Kaugsõlme parool
-Confirm Password|| Kinnita parool
-Backup List|| Varundamise loend
-Backup file|| Varufail
-Choose one file|| Valige üks fail
-Alerts Service|| Hoiatuste teenus
-Alerts|| Märguanded
-Email Notifications|| Meiliteatised
-Mail Server|| Postiserver
-Mail User|| Maili kasutaja
-TLS|| TLS
-Backends Alert|| Taustprogrammide märguanne
-Cluster Alert|| Klastri märguanne
-Prefix Subject|| Eesliide Teema
-Avoid flapping time|| Vältige aja lehvitamist
-The time that alerts wait when backend is flapping|| Aeg, mille jooksul märguanded ootavad, kui taustprogramm lehvib
-User Settings|| Kasutaja seaded
-ZAPI Key|| ZAPI võti
-Change Password|| Muuda parool
-Current password|| Praegune salasõna
-New password|| Uus salasõna
-Repeat new password|| Korda uut parooli
-Log List|| Logi nimekiri
-Log view|| Logi vaade
-When this action is executed a file with system information will be downloaded.|| Kui see toiming käivitatakse, laaditakse alla süsteemiteabe fail.
-This action may take several seconds, you can continue browsing the GUI.|| See toiming võib võtta mitu sekundit, jätkata GUI sirvimist.
-Select an interface which won't be deleted|| Valige liides, mida ei kustutata
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| See toiming hävitab kõik konfiguratsioonid, välja arvatud valitud liides, varukoopiad ja aktiveerimissertifikaat.
-The current credentials for user root will not be modified.|| Kasutaja juure praeguseid mandaate ei muudeta.
-User List|| Kasutajate nimekiri
-Group List|| Rühmaloend
-Role List|| Rolliloend
-Role Settings|| Rolliseaded
-Show all permissions|| Kuva kõik õigused
-Hide all permissions|| Peida kõik õigused
-Show permissions|| Kuva õigused
-Hide permissions|| Peida õigused
-LDAP Server|| LDAP-server
-Base DN|| Aluse DN
-Bind DN|| Seo DN
-Scope|| Ulatus
-Bind Password|| Seo parool
-Filter|| filtrid
-Global Services|| Global Services
-Enable session replication|| Seansi replikatsiooni lubamine
-Enable Duplicated network|| Luba dubleeritud võrk
-Enable ARP announce|| ARP-i lubamise lubamine
-Custom Routes|| Kohandatud marsruudid
-System Routes|| Süsteemi marsruudid
-Use proxy of new generation|| Kasutage uue põlvkonna puhverserverit
-Validation Systems|| Valideerimissüsteemid
-AWS Credentials|| AWS-i mandaadid
-Access Key|| Juurdepääsuklahv
-Secret Key|| Secret Key
-Region|| regioon
-SSL Certificate|| SSL Certificate
-RBAC User|| RBACi kasutaja
-RBAC Group|| RBAC Group
-RBAC Role|| RBAC roll
-Network Virtual Interface|| Võrgu virtuaalne liides
-System Service|| Süsteemi teenus
-Notification|| Teade
-Host or URL allowed|| Host või URL on lubatud
-It will not be used if the HOST/URL field contains a URL|| Seda ei kasutata, kui väli HOST / URL sisaldab URL-i
-Filter used to get the LDAP field that contains the user ID to log in|| Filtrit, mida kasutatakse LDAP-välja saamiseks sisselogimiseks kasutajatunnusega
-The Search Request will be performed against the entry specified as the search base DN.|| Otsingupäring täidetakse kirjega, mis on määratud otsingubaasi DN-na.
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| Otsingupäring täidetakse kannete suhtes, mis on otsingubaasi DN-na täpsustatud kirje otsesed alluvad.
-The Search Request will be performed against the search base and all entries below|| Otsingupäring täidetakse otsingubaasi ja kõigi allpool olevate kirjete alusel
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| Uus halduse GUI aadress on {{param}}, palun ühendage uuesti uues URL-is GUI-ga.
-The <strong> HTTP service </strong> has been updated successfully.|| . <strong> HTTP teenus </strong> on edukalt uuendatud.
-The <strong> SSH service </strong> has been updated successfully.|| . <strong> SSH teenus </strong> on edukalt uuendatud.
-The <strong> SNMP service </strong> has been updated successfully.|| . <strong> SNMP teenus </strong> on edukalt uuendatud.
-The <strong> global services </strong> have been updated successfully|| . <strong> globaalsed teenused </strong> on edukalt värskendatud
-The <strong> DNS service </strong> has been updated successfully.|| . <strong> DNS-teenus </strong> on edukalt uuendatud.
-The <strong> NTP service </strong> has been updated successfully.|| . <strong> NTP teenus </strong> on edukalt uuendatud.
-The <strong> Proxy service </strong> has been updated successfully.|| . <strong> Puhverserveri teenus </strong> on edukalt uuendatud.
-The backup <strong> {{param}} </strong> has been deleted successfully.|| Varukoopia <strong> {{param}} </strong> on edukalt kustutatud.
-The backup <strong> {{param}} </strong> has been applied successfully.|| Varukoopia <strong> {{param}} </strong> on edukalt rakendatud.
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| Varukoopia <strong> {{param}} </strong> on edukalt alla laaditud.
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| Varukoopia <strong> {{param}} </strong> on edukalt üles laaditud.
-The backup <strong> {{param}} </strong> has been created successfully.|| Varukoopia <strong> {{param}} </strong> on edukalt loodud.
-The <strong> backends alert </strong> has been applied successfully.|| . <strong> taustprogrammide hoiatus </strong> on edukalt rakendatud.
-The <strong> cluster alert </strong> has been applied successfully.|| . <strong> klastri märguanne </strong> on edukalt rakendatud.
-The configuration of email has been updated successfully.|| E-posti konfiguratsiooni on edukalt värskendatud.
-The alert has been updated successfully.|| Märguannet on edukalt värskendatud.
-The test email has been sent successfully.|| Testmeil on edukalt saadetud.
-The user has been updated successfully.|| Kasutaja on edukalt uuendatud.
-The log <strong> {{param}} </strong> has been downloaded successfully.|| Logi <strong> {{param}} </strong> on edukalt alla laaditud.
-The <strong> Support Save </strong> has been downloaded successfully.|| . <strong> Toetus Salvesta </strong> on edukalt alla laaditud.
-The user <strong> {{param}} </strong> has been deleted successfully.|| Kasutaja <strong> {{param}} </strong> on edukalt kustutatud.
-The user {{param}} has been created successfully.|| Kasutaja {{param}} on edukalt loodud.
-The user {{param}} has been updated successfully.|| Kasutajat {{param}} on värskendatud.
-The group <strong> {{param}} </strong> has been deleted successfully.|| Rühm <strong> {{param}} </strong> on edukalt kustutatud.
-The group {{param}} has been created successfully.|| Grupp {{param}} on edukalt loodud.
-The group {{param}} has been updated successfully.|| Rühma {{param}} on edukalt värskendatud.
-The user <strong> {{param}} </strong> has been added to the group successfully.|| Kasutaja <strong> {{param}} </strong> on gruppi edukalt lisatud.
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| Kasutaja <strong> {{param}} </strong> on grupist eemaldatud.
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| Talu <strong> {{param}} </strong> on gruppi edukalt lisatud.
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| Talu <strong> {{param}} </strong> on grupist eemaldatud.
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| Liides <strong> {{param}} </strong> on gruppi edukalt lisatud.
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| Liides <strong> {{param}} </strong> on grupist eemaldatud.
-The role <strong> {{param}} </strong> has been deleted successfully.|| Roll <strong> {{param}} </strong> on edukalt kustutatud.
-The role {{param}} has been created successfully.|| Roll {{param}} on edukalt loodud.
-The role {{param}} has been updated successfully.|| Rolli {{param}} on edukalt värskendatud.
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| LDAP-server on konfigureeritud. Proovige ühenduvust, et kontrollida, kas konfiguratsioon on õige.
-The connectivity test has been done successfully.|| Ühenduvustesti on edukalt tehtud.
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| Valideerimissüsteem <strong> {{param}} </strong> on edukalt lubatud.
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| Valideerimissüsteem <strong> {{param}} </strong> on edukalt keelatud.
-The cluster has been created successfully.|| Klaster on edukalt loodud.
-The cluster has been updated successfully.|| Klastrit on edukalt värskendatud.
-The cluster has been destroyed successfully.|| Klaster on edukalt hävitatud.
-The <strong>local node</strong> has been put in maintenance successfully.|| . <strong>kohalik sõlm</strong> on edukalt hooldusesse pandud.
-The <strong>local node</strong> has been enabled successfully.|| . <strong>kohalik sõlm</strong> on edukalt lubatud.
-The AWS credentials have been configured successfully.|| AWS-i mandaadid on edukalt konfigureeritud.
-The Azure credentials have been configured successfully.|| Azure mandaadid on edukalt konfigureeritud.
-Are you sure you want to delete the backup {{param}}?|| Kas soovite kindlasti varukoopia {{param}} kustutada?
-Are you sure you want to delete the selected backups?|| Kas soovite kindlasti valitud varukoopiaid kustutada?
-Are you sure you want to delete the user {{param}}?|| Kas soovite kindlasti kasutaja {{param}} kustutada?
-Are you sure you want to delete the selected users?|| Kas soovite kindlasti valitud kasutajad kustutada?
-Are you sure you want to delete the group {{param}}?|| Kas soovite kindlasti grupi {{param}} kustutada?
-Are you sure you want to delete the selected groups?|| Kas soovite kindlasti valitud rühmad kustutada?
-Are you sure you want to delete the role {{param}}?|| Kas soovite kindlasti rolli {{param}} kustutada?
-Are you sure you want to delete the selected roles?|| Kas soovite kindlasti valitud rollid kustutada?
-Are you sure you want to destroy the cluster?|| Kas soovite kindlasti klastri hävitada?
-Dashboard|| armatuurlaud
-News|| Uudised
-LSLB|| LSLB
-Farms|| Põllumajandusettevõtted
-SSL Certificates|| SSL sertifikaadid
-Generate csr|| Loo csr
-Stats|| Statistika
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| Seaded
-Blacklists|| Mustlased
-DoS|| DoS
-RBL|| RBL
-Rules|| Reeglid
-Domains|| Domeenid
-WAF|| WAF
-Rulesets|| Reeglid
-Files|| Faile
-Monitoring|| Järelevalve
-Graphs|| Graafikud
-Farmguardians|| Talupidajad
-Network|| võrk
-NIC|| NIC
-Bonding|| Liimimine
-VLAN|| VLAN
-Virtual Interfaces|| Virtuaalsed liidesed
-Floating IPs|| Ujuvad IP-d
-Gateway|| Värav
-Aliases|| varjunimed
-Routing|| Marsruut
-Tables|| Tabelid
-System|| süsteem
-RBAC|| RBAC
-Users|| kasutajad
-Groups|| grupid
-Roles|| rollid
-Local Services|| kohalikud teenused
-Remote Services|| Kaugteenused
-Cluster|| Cluster
-Backups|| Varukoopiad
-Notifications|| Teated
-User|| Kasutaja
-Logs|| Logid
-Activation Certificate|| Aktiveerimissertifikaat
-License|| litsents
-SupportSave|| SupportSave
-Factory Reset|| Tehaseseadete taastamine
+Sign in with your username and password || Logige sisse oma kasutajanime ja parooliga
+Success! || Edu!
+Username || kasutajanimi
+User should be the real one! || Kasutaja peaks olema tõeline!
+Password should contains from {{min}} to {{max}} characters || Parool peaks sisaldama tähemärke {{min}} kuni {{max}}
+Sign In || Logi sisse
+Logging out, please wait... || Logi välja, palun oota ...
+Package list to upgrade || Pakendiloend, mida uuendada
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || Süsteemi uuendamiseks täitke kestaga järgmine käsk: 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * Seda teavet värskendatakse iga päev, kui soovite kontrollkäiku sundida <code>checkupgrades</code> käsurealt.
+No activation certificate || Aktiveerimistunnistust pole
+There isn't a valid ZEVENET certificate file, please request a new one || Kehtivat ZEVENETi sertifikaadifaili pole, palun taotlege uut
+Certificate Key || Sertifikaadi võti
+Activation Certificate file || Aktiveerimistunnistuse fail
+Activation Data || Aktiveerimisandmed
+Copy data to the clipboard || Kopeerige andmed lõikelauale
+Activation Certificate || Aktiveerimissertifikaat
+Select an activation certificate || Valige aktiveerimissertifikaat
+Upload Activation Certificate || Laadige üles aktiveerimistunnistus
+No Support || Tugi puudub
+Certificate expired || Sertifikaat aegunud
+Support expired || Tugi aegus
+Certificate expires in {{param}} {{param2}} || Sertifikaadi kehtivusaeg lõpeb {{param}} {{param2}}
+Support expires in {{param}} {{param2}} || Tugi aegub {{param}} {{param2}}
+The activation certificate has been uploaded successfully. || Aktiveerimissertifikaat on edukalt üles laaditud.
+The Activation Certificate has been deleted successfully. || Aktiveerimistunnistus on edukalt kustutatud.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || Kas olete kindlasti kustutanud aktiveerimissertifikaadi \\n Selle kustutamisel kaotate juurdepääsu GUI-le kuni teise sertifikaadi üleslaadimiseni
+Upload || Täiendava
+Uploading || Üleslaadimine
+Add || lisama
+Disable maintenance || Keela hooldus
+Enable maintenance || Hoolduse lubamine
+Drain mode || Tühjendusrežiim
+Cut mode || Lõika režiim
+Edit || Edit
+Configure || Seadistamine
+Save || Salvesta
+Add Variable || Lisage muutuja
+Bring || tooma
+Export || Eksport
+All data || Kõik andmed
+Only selected || Ainult valitud
+Apply || kehtima
+Create || Looma
+Cancel || tühistama
+Submit || SAADA
+New Service || Uus teenus
+New Zone || Uus tsoon
+New Route || Uus marsruut
+Basic || Põhi-
+Advanced || edasijõudnud
+Generate || Tekitama
+Generating || Genereerimine
+Delete || kustutama
+Bring Up || Üles tooma
+Bring down || Alla tooma
+Restart || Restart
+Restarting || Taaskäivitamine
+Start || kodu
+Stop || Peatus
+Unset || Unset
+Enable || Võimaldama
+Disable || Keela
+Remove || eemaldama
+Download || Lae
+Downloading || allalaadimine
+Update || ajakohastama
+New Rule || Uus reegel
+Next || järgmine
+Back || tagasi
+Generate Random MAC || Genereerige juhuslik MAC
+Destroy || Hävitama
+Test Email || Testi e-post
+Generate Random Key || Loo juhuslik võti
+Upload Certificate || Laadi sertifikaat üles
+Delete Certificate || Sertifikaadi kustutamine
+List || nimekiri
+Menu || menüü
+Modify || muutma
+Show || show
+Action || tegevus
+Test || test
+Schedule || Ajakava
+Upgrade || upgrade
+View || vaade
+Info || Info
+Test Connectivity || Testige ühenduvust
+Show certificate || Näita sertifikaati
+Force Changes || Muudatuste sundimine
+Page Not Found || Page Not Found
+The page you were looking for doesn't exist || Lehte, mida otsisite, pole olemas
+Take me home || Võtke minuga koju
+Status || olek
+Actions || Meetmete
+Name || Nimi
+ID ||  ID
+Alias || Teise nimega
+IP ||  IP
+Interface || Interface
+Priority || Prioriteet
+Port || port
+Weight || Kaal
+Max. Conns || Maks. Ühendused
+Name || Nimi
+Virtual IP || Virtuaalne IP
+Vitual Port || Vitaalne sadam
+Virtual IP and Port || Virtuaalne IP ja port
+Default TCP port health check || TCP-pordi vaikekontroll
+Health Checks for backend || Tervisekontrollid taustaprogrammi jaoks
+Default Name Server || Vaikimisi nimi server
+Type || tüüp
+Data || kuupäev
+Profile || profiil
+HTTPS Parameters || HTTPS parameetrid
+Ciphers || Ciphers
+Custom ciphers || Kohandatud koodid
+Protocol type || Protokolli tüüp
+NAT type || NAT tüüp
+Rewrite location headers || Asukoha päiste ümberkirjutamine
+HTTP verbs accepted || HTTP verbid aktsepteeritakse
+Ignore 100 continue || Ignoreeri 100 jätkamist
+Backend connection timeout || Backend-ühenduse ajalõpp
+Backend response timeout || Tagajärgse vastuse aegumine
+Frequency to check resurrected backends || Ülestõusnud taustaprogrammide kontrollimise sagedus
+Client request timeout || Kliendi sooviaeg
+Message Error || Sõnumi tõrge
+Request Headers || Taotle päiseid
+Response Headers || Vastuse päised
+Persistence || Püsivus
+Persistence session time to live || Püsivus seansi aeg elada
+TTL || TTL
+Persistence session identifier || Püsivuse seansi tunnus
+Virtual IP || Virtuaalne IP
+Load balancing Scheduler || Koormuste tasakaalustamise ajakava
+Algorithm || Algoritm
+Round Robin || Round Robini
+Virtual Host || Virtuaalne hostija
+URL Pattern || URL-i muster
+Least Response || Vähim vastus
+HTTPS Backends || HTTPSi taustaprogrammid
+STS Header || STS päis
+Timeout || Aegumine
+Redirect || Ümbersuunamine
+Redirect URL || Ümbersuunamise URL
+Redirect Type || Ümbersuunamise tüüp
+Redirect Code || Suunakood
+Cookie Insert || Prääniku lisamine
+Cookie Name || Prääniku nimi
+Cookie Domain || Prääniku domeen
+Cookie Path || Prääniku tee
+Cookie TTL || Küpsise TTL
+Locality || Asukoht
+Country || Riik
+State/Province || Osariik / maakond
+Common Name || Üldnimetus
+Organization || Organisatsioon
+Division || jaotus
+E-mail Address || E-posti aadress
+File || fail
+Issuer || Emitent
+Creation || Loomine
+Expiration || Aegumine
+Certificate || sertifikaat
+Established Conns || Kehtestatud ühendused
+Pending Conns || Ootavad ühendused
+Service || Teenus
+Session ID || Seansi ID
+Backend ID || Backend ID
+Requests || Taotlused
+Failed REQ || Ebaõnnestus REQ
+Failed RES || Ebaõnnestunud RES
+Truncated Resp TC || Kärbitud Resp TC
+Extended DNS Big || Laiendatud DNS Big
+Extended DNS TC || Laiendatud DNS TC
+No Error || Viga pole
+Refused || Keeldus
+Non-existent Domain || Olematu domeen
+Notimp || Notimp
+Bad Version || Halb versioon
+Format Error || Vorming Viga
+Dropped || Langenud
+V6 ||  V6
+Extended DNS || Laiendatud DNS
+Extended DNS-ClientSub || Laiendatud DNS-ClientSub
+Client || klient
+Listerner || Listerner
+Value || Väärtus
+Custom IP || Kohandatud IP
+Policy || Poliitika
+Remote URL || Kaug-URL
+Frequency || Sagedus
+Rule || Eeskiri
+Limit RST request per source IP || Piirata RST päringut iga IP allika kohta
+Total connections per source IP || Ühendused kokku IP-allika kohta
+Limit Burst || Limit Burst
+Total connections limit per source IP || Ühenduste kogu limiit allika IP kohta
+Hits || Hits
+Time || aeg
+Log level || Logi tase
+Only logging || Ainult metsaraie
+Local traffic || Kohalik liiklus
+Queue size || Järjekorra suurus
+Max. Threads || Maks. Lõngad
+Cache size || Vahemälu suurus
+Cache time || Vahemälu aeg
+Check Request Body || Kontrollige päringu sisu
+Check Response Body || Kontrollige reageerimisasutust
+Request Body Limit || Taotle keha limiiti
+Default Phase || Vaikefaas
+Default Log || Vaikelogi
+Rules || Reeglid
+Rule Type || Reegli tüüp
+Mark || Mark
+Phase || Faas
+Resolution || resolutsioon
+Rule ID || Reegli ID
+Skip || Jäta vahele
+Skip after || Jäta vahele
+Execute || Täitma
+Description || kirjeldus
+Interval || Intervall
+Cut connections || Lõika ühendused
+Command || käsk
+MAC || MAC
+Netmask || Netmask
+Farms || Põllumajandusettevõtted
+Gateway || Värav
+IP Address || IP-aadress
+CIDR || CIDR
+Mode || viis
+Slaves || Orjad
+Parent Interface || Vanemliides
+Address || Aadress
+Host || Võõrustaja
+Date || kuupäev
+Alert || Häire
+Password || parool
+Log || Logi
+ZAPI Permissions || ZAPI load
+GUI Permissions || GUI õigused
+Role || Roll
+Rules Date || Reeglite kuupäev
+Scheduled || plaanitud
+Variable || Muutuja
+Variable's argument || Muutuja argument
+Ignore this <i>variable</i> for the match || Ignoreeri seda <i>muutuja</i> matši jaoks
+Count elements of <i>variables</i> || Loenduse elemendid <i>muutujad</i>
+Variables || Muutujad
+Transformations || Ümberarvutused
+Operating || Tegutsev
+Multi Match || Mitmevõistlus
+Not Match || Ei sobi
+Operator || operaator
+Module || moodulid
+Floating IP || Ujuv IP
+Interfaces || Liidesed
+Group || Grupp
+Virtual Interface || Virtuaalne liides
+URL || URL
+From || pärit
+Table || Tabel
+To || Et
+Route || Marsruut
+Via || kaudu
+Backend Alias || Taustaprogrammi alias
+Version || versioon
+System || süsteem
+Failback || Failback
+Check Interval || Kontrolli intervall
+Node || sõlme
+Message || sõnum
+Hostname || hostname
+No {{param}} found || Ühtegi {{param}} ei leitud
+Edit || Edit
+Global || Globaalne
+Services || teenused
+Select a {{param}} || Valige {{param}}
+Resources || Vahendid
+Backends || Taustaprogrammid
+Strict Transport Security || Tugev transpordi turvalisus
+Farms Stats || Põllumajandusettevõtete statistika
+Copy to clipboard || Kopeerida lõikelauale
+Hide nodes || Peida sõlmed
+Show nodes || Kuva sõlmed
+Hide backends || Peida taustaprogrammid
+Show backends || Kuva taustprogrammid
+Hide graphs || Peida graafikud
+Show graphs || Näita graafikuid
+Sessions || Seansid
+Clients || Kliendid
+Servers || Serverid
+Extended || Laiendatud
+Nodes || Sõlmed
+Number of lines || Ridade arv
+View All || Vaata kõiki
+View Less || Vaadake vähem
+Valid || Kehtiv
+Expired || Lõppenud
+Near to expire || Lähedal aegub
+True || Tõsi
+False || Vale
+No configured || Pole konfigureeritud
+In use by bonding interface || Kasutusel liimimisliidese abil
+The cluster service interface has to be changed or disabled before to be able to modify this interface || Enne selle liidese muutmist tuleb klastri teenindusliides muuta või keelata
+Enabled || lubatud
+Disabled || invaliidistunud
+Needed restart || Vajalik taaskäivitamine
+Critical || Kriitiline
+Problem || Probleem
+Maintenance || hooldus
+Master || meister
+Backup || Varundamine
+Not configured || Nad ei ole konfigureeritud
+Undefined || Defineerimata
+Daily Graph || Päevane graafik
+Weekly Graph || Nädala graafik
+Monthly Graph || Kuu graafik
+Yearly Graph || Aastane graafik
+Documentation || dokumentatsioon
+Reload farmguardian list || Laadige põllumajandustootjate nimekiri uuesti alla
+Cookie || küpsis
+Zones || Tsoonid
+System Stats || Süsteemi statistika
+CPU || Protsessor
+Memory || Mälu
+Load || Koormus
+Cores || Südamikud
+Traffic In || Liiklus sisse
+Traffic Out || Liiklus välja
+Nothing || Mitte midagi
+Custom || tava
+All interfaces || Kõik liidesed
+All farms || Kõik talud
+Default State || Vaikeriik
+Up ||  Up
+Down || alla
+Installed and updated || Installitud ja värskendatud
+Not installed || Ei ole installeeritud
+Updates available || Uuendused on saadaval
+Interface || Interface
+Type || tüüp
+Zone || Tsoon
+Transformation || Transformation
+Backend || Taustaprogramm
+Condition || Tingimus
+Domain || Domeen
+Resource || Ressurss
+Graph || Graafik
+Session || istung
+IP alias || IP-pseudonüüm
+Interface alias || Liidese varjunimi
+Backup || Varundamine
+Farm || Talu
+Header || Päise
+Pattern || Muster
+Source || allikas
+Blacklist || Must nimekiri
+Farmguardian || Farmguardian
+Package || Pakend
+DoS rule || DoS reegel
+RBL rule || RBL reegel
+WAF ruleset || WAF-i reeglistik
+VLAN || VLAN
+Routing Rule || Marsruudi reegel
+Routing Table || Marsruuditabel
+Needed restart || Vajalik taaskäivitamine
+There're changes that need to be applied, restart the farm to apply them! || Seal on muudatused, mis tuleb rakendada, taaskäivitage farm nende rakendamiseks!
+Close || lähedal
+The <strong> factory reset </strong> has been completed successfully. || . <strong> tehaseseadete taastamine </strong> on edukalt lõpule viidud.
+The interface <strong> {{name}} </strong> has been updated successfully. || Liides <strong> {{name}} </strong> on edukalt uuendatud.
+The <strong>HTTP Service</strong> has been updated successfully. || . <strong>HTTP teenus</strong> on edukalt uuendatud.
+An error has occurred on the server, try again later || Serveris ilmnes tõrge, proovige hiljem uuesti
+Connection to web server failed || Ühendamine veebiserveriga nurjus
+An unexpected error has occurred || Tekkis ootamatu viga
+System Information || System Information
+ZEVENET Version || ZEVENETi versioon
+Appliance Version || Seadme versioon
+Kernel Version || Kerneli versioon
+System Date || Süsteemi kuupäev
+NIC Traffic || NIC-liiklus
+Total number of connections in realtime. || Ühenduste koguarv reaalajas.
+Connections || Side
+Professional Products || Professionaalsed tooted
+Professional Services || Professional Services
+No Virtual Interfaces || Virtuaalseid liideseid pole
+No VLANs || VLAN-id puuduvad
+Create DSLB Farm || Looge DSLB Farm
+Create Virtual interface || Loo virtuaalne liides
+Create GSLB Farm || Looge GSLB farm
+Generate CSR || Loo CSR
+Create LSLB Farm || LSLB talu loomine
+Upload SSL Certificate || Laadi SSL-sertifikaat üles
+Create Blacklist || Loo must nimekiri
+Create DoS rule || Loo DoS reegel
+Create RBL rule || Looge RBL-i reegel
+Create WAF ruleset || Looge WAF-i reeglistik
+Create Rule || Loo reegel
+Create Farmguardian || Loo Farmguardian
+Create Bonding interface || Loo sidumisliides
+Create VLAN interface || Loo VLAN-i liides
+Upload Backup || Laadige varukoopia üles
+Create Backup || Loo varundamine
+Create User || Loo kasutaja
+Create Group || Loo grupp
+Create Role || Loo roll
+Create Route || Loo marsruut
+is required || on vaja
+is not valid, it only is possible alphanumeric characters and dash (-). || ei ole kehtiv, see on ainult võimalik tähtnumbriline täht ja kriips (-).
+Only editable when the farm is down. || Redigeeritav ainult siis, kui talu on alla.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || Virtuaalne port pole kehtiv, on võimalik määratleda üks port, mitu porti või pordivahemikku (nt: 80 või 80,81 või 80: 90)
+has to be greater than 0 || peab olema suurem kui 0
+Redirect should be a URL (http(s)://...) || Suunamine peaks olema URL (http (id): //…)
+Country can only have two characters. || Riigil võib olla ainult kaks tähemärki.
+E-mail has to be a valid email || E-post peab olema kehtiv e-post
+The password does not match || Parool ei sobi
+has to be a value between {{min}} and {{max}} || peab olema väärtus vahemikus {{min}} kuni {{max}}
+Global Settings || Global Settings
+IPDS Settings || IPDS-i seaded
+Advanced Settings || Täpsemad seaded
+Domains Settings || Domeenide seaded
+Rules Settings || Reeglite seaded
+Blacklists rules || Musta nimekirja reeglid
+DoS rules || DoS reeglid
+RBL rules || RBL reeglid
+WAF rulesets || WAF-i reeglistikud
+Services Settings || Teenuste seaded
+Zones Settings || Tsoonide seaded
+Global Filter || Globaalne filter
+Refresh || värskendama
+Seconds || sekundit
+per second || sekundis
+Refresh status every || Värskendage olekut iga kord
+Refresh stats every || Värskenda statistikat iga
+Not refresh || Ei värskenda
+Farms Settings || Põllumajandusettevõtete seaded
+Minutes || protokoll
+Hours || Tööaeg
+Monday || Esmaspäev
+Tuesday || Teisipäev
+Wednesday || Kolmapäev
+Thursday || Neljapäev
+Friday || Reede
+Saturday || Laupäev
+Sunday || Pühapäev
+Deny || eitama
+Allow || lubama
+Daily || Iga päev
+Weekly || Iganädalane
+Monthly || Igakuine
+entries || kirjed
+threads || niidid
+Sort || Sort
+SORT MODE: Drag and drop the service to the desired position. || SORT-režiim: lohistage teenus soovitud asukohta.
+The farm will be restarted automatically. || Farmi taaskäivitatakse automaatselt.
+bytes || bytes
+Default is || Vaikimisi on
+Optional || vabatahtlik
+days || päeva
+Go to || Minna
+Edit in form mode || Redigeerimine vormirežiimis
+Edit in raw mode || Redigeerimine töötlemata režiimis
+Create in form mode || Looge vormirežiimis
+Create in raw mode || Looge töötlemata režiimis
+Available certificates || Saadaolevad sertifikaadid
+Enabled certificates || Lubatud sertifikaadid
+Search certificate || Otsingusertifikaat
+Available blacklists || Saadaval mustad nimekirjad
+Enabled blacklists || Lubatud mustad nimekirjad
+Search blacklist || Otsi mustast nimekirjast
+Available DoS rules || Saadaolevad DoS-i reeglid
+Enabled DoS rules || Lubatud DoS-i reeglid
+Search DoS rule || Otsige DoS-i reeglit
+Available RBL rules || Saadaolevad RBL reeglid
+Enabled RBL rules || Lubatud RBL reeglid
+Search RBL rule || Otsi RBL reeglit
+Available WAF rulesets || Saadaolevad WAF-i reeglistikud
+Enabled WAF rulesets || Lubatud WAF-i reeglistikud
+Search WAF ruleset || Otsige WAF-i reeglistikust
+Available farms || Saadaolevad talud
+Enabled farms || Lubatud talud
+Search farm || Otsi talust
+Available domains || Saadaval olevad domeenid
+Enabled domains || Lubatud domeenid
+Search domain || Otsi domeeni
+Enabled rules || Lubatud reeglid
+Disabled rules || Keelatud reeglid
+Search rule || Otsingureegel
+Available NICs || Kättesaadavad NIC-d
+Enabled NICs || Lubatud NIC-id
+Search NIC || Otsige NIC-ist
+Search slaves || Otsige orje
+Slaves NICs || NIC-id orjad
+Available users || Saadaolevad kasutajad
+Enabled users || Lubatud kasutajad
+Search user || Kasutaja otsimine
+Available interfaces || Saadaolevad liidesed
+Enabled interfaces || Lubatud liidesed
+Search interface || Otsimisliides
+Managed interfaces || Hallatud liidesed
+Unmanaged interfaces || Haldamata liidesed
+Search interface || Otsimisliides
+LSLB Farm List || LSLB talu nimekiri
+GSLB Farm List || GSLB talunimekiri
+DSLB Farm List || DSLB põllumajandusettevõtete loend
+Copy farm || Kopeeri talu
+Farm to copy || Talu kopeerida
+Select the farm to copy || Valige kopeeritav farm
+Weight: connection linear dispatching by weight || Kaal: ühendus lineaarselt
+Priority: connections always to the most prio available || Prioriteet: ühendused on alati kõige enam kättesaadavad
+Source Hash: Hash per Source IP and Source Port || Allikas Hash: Hash ühe allika IP ja lähtepordi kohta
+Simple Source Hash: Hash per Source IP only || Lihtne allikas Hash: Hash all Source IP ainult
+Symmetric Hash: Round trip hash per IP and Port || Sümmeetriline Hash: Ümberlülitunud räsi IP ja Porti kohta
+Round Robin: Sequential backend selection || Ümar Robin: järjestikune taustvalik
+Least Connections: connections to the least open conns available || Vähimad ühendused: ühendused kõige vähem avatud kontoritega
+Disabled || invaliidistunud
+Enabled || lubatud
+Enabled and compare backends || Lubatud ja võrrelda taustprogramme
+No persistence || Püsivus puudub
+IP: Source IP || IP: Allikas IP
+Port: Source Por || Sadam: Allikas Por
+MAC: Source MAC || MAC: Allikas MAC
+Source IP and Source Port || Allikas IP ja lähteport
+Source IP and Destination Port || Allikas IP ja sihtkoha port
+No persistence || Püsivus puudub
+IP: Client address || IP: Kliendi aadress
+BASIC: Basic authentication || BASIC: Põhiline autentimine
+URL: A request parameter || URL: päringu parameeter
+PARM: An URI parameter || PARM: URI parameeter
+COOKIE: A certain cookie || COOKIE: teatud küpsis
+HEADER: A certain request header || HEADER: teatud päringu päis
+The farm has been updated successfully || Talu on edukalt värskendatud
+The farm <strong> {{param}} </strong> has been deleted successfully. || Talu <strong> {{param}} </strong> on edukalt kustutatud.
+The farm <strong> {{param}} </strong> has been started successfully. || Talu <strong> {{param}} </strong> on edukalt käivitatud.
+The farm <strong> {{param}} </strong> has been restarted successfully. || Talu <strong> {{param}} </strong> on edukalt käivitatud.
+The farm <strong> {{param}} </strong> has been stopped successfully. || Talu <strong> {{param}} </strong> on edukalt peatatud.
+The farm <strong> {{param}} </strong> has been created successfully. || Talu <strong> {{param}} </strong> on edukalt loodud.
+The backend has been created successfully. || Taustaprogramm on edukalt loodud.
+The backend has been updated successfully. || Taustaprogrammi on edukalt värskendatud.
+The backend <strong> {{param}} </strong> has been deleted successfully. || Taust <strong> {{param}} </strong> on edukalt kustutatud.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || Taust <strong> {{param}} </strong> on edukalt hooldusesse pandud.
+The backend <strong> {{param}} </strong> has been upped successfully. || Taust <strong> {{param}} </strong> on edukalt üles seatud.
+Backends with high priority value <strong> {{param}} </strong> will not be used. || Kõrge prioriteediga taustaprogrammid <strong> {{param}} </strong> ei kasutata.
+The resource has been created successfully. || Allikas on edukalt loodud.
+The resource has been updated successfully. || Allikat on edukalt värskendatud.
+The backend <strong> {{param}} </strong> has been deleted successfully. || Taust <strong> {{param}} </strong> on edukalt kustutatud.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || SSL-sertifikaat <strong> {{param}} </strong> on talusse edukalt lisatud.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || SSL-sertifikaat <strong> {{param}} </strong> on talust edukalt eemaldatud.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || SSL-sertifikaat <strong> {{param}} </strong> on edukalt sorteeritud.
+The service <strong> {{param}} </strong> has been created successfully. || Teenus <strong> {{param}} </strong> on edukalt loodud.
+The service <strong> {{param}} </strong> has been updated successfully. || Teenus <strong> {{param}} </strong> on edukalt uuendatud.
+The service <strong> {{param}} </strong> has been deleted successfully. || Teenus <strong> {{param}} </strong> on edukalt kustutatud.
+The service <strong> {{param}} </strong> has been moved successfully. || Teenus <strong> {{param}} </strong> on edukalt teisaldatud.
+The farmguardians list has been reloaded successfully. || Talunike nimekiri on edukalt ümber laaditud.
+The farmguardian has been disabled successfully. || Farmguardian on edukalt keelatud.
+The farmguardian has been changed to {{param}} successfully. || Farmguardian on edukalt muudetud {{param}}.
+The zone <strong> {{param}} </strong> has been created successfully. || Tsoon <strong> {{param}} </strong> on edukalt loodud.
+The zone <strong> {{param}} </strong> has been updated successfully. || Tsoon <strong> {{param}} </strong> on edukalt uuendatud.
+The zone <strong> {{param}} </strong> has been deleted successfully. || Tsoon <strong> {{param}} </strong> on edukalt kustutatud.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || Must nimekiri <strong> {{param}} </strong> on talusse edukalt lisatud.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || Must nimekiri <strong> {{param}} </strong> on talust edukalt eemaldatud.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || DoS reegel <strong> {{param}} </strong> on talusse edukalt lisatud.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || DoS reegel <strong> {{param}} </strong> on talust edukalt eemaldatud.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || RBL reegel <strong> {{param}} </strong> on talusse edukalt lisatud.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || RBL reegel <strong> {{param}} </strong> on talust edukalt eemaldatud.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || WAF-i reeglistik <strong> {{param}} </strong> on edukalt sorteeritud.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || WAF-i reeglistik <strong> {{param}} </strong> on talusse edukalt lisatud.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || WAF-i reeglistik <strong> {{param}} </strong> on talust edukalt eemaldatud.
+The profile has been changed to {{param}} successfully. || Profiil on edukalt muudetud {{param}}.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || Algoritm on muudetud raskuse algoritmiks, kuna väikseima ühenduste arvu korral pole algoritm valitud NAT-tüüpi korral lubatud. Teenuste vahekaardilt saate valida mõne muu algoritmi.
+The request header has been saved successfully. || Taotluse päis on edukalt salvestatud.
+The request header has been deleted successfully. || Taotluse päis on edukalt kustutatud.
+The request header pattern has been saved successfully. || Taotluse päise muster on edukalt salvestatud.
+The request header pattern has been deleted successfully. || Taotluse päise muster on edukalt kustutatud.
+The response header has been saved successfully. || Vastuse päis on edukalt salvestatud.
+The response header has been deleted successfully. || Vastuse päis on edukalt kustutatud.
+The response header pattern has been saved successfully. || Vastuse päise muster on edukalt salvestatud.
+The response header pattern has been deleted successfully. || Vastuse päise muster on edukalt kustutatud.
+The service has to have one backend at least. || Teenusel peab olema vähemalt üks taust.
+Are you sure you want to delete the farm {{param}}? || Kas soovite kindlasti farmi {{param}} kustutada?
+Are you sure you want to delete the selected farms? || Kas soovite kindlasti valitud talud kustutada?
+Are you sure you want to delete the service {{param}}? || Kas soovite kindlasti teenuse {{param}} kustutada?
+Are you sure you want to delete the zone {{param}}? || Kas soovite kindlasti tsooni {{param}} kustutada?
+Are you sure you want to delete the selected resources? || Kas soovite kindlasti valitud ressursid kustutada?
+Are you sure you want to delete the resource {{param}}? || Kas soovite kindlasti ressursi {{param}} kustutada?
+Are you sure you want to delete the backend {{param}}? || Kas olete kindel, et soovid backend {{param}} kustutada?
+Are you sure you want to delete the selected backends? || Kas soovite kindlasti valitud taustaprogrammid kustutada?
+Are you sure you want to delete the request header with ID {{id}}? || Kas soovite kindlasti kustutada päringu päise ID-ga {{id}}?
+Are you sure you want to delete the request header pattern with ID {{id}}? || Kas soovite kindlasti kustutada päringu päise mustri ID-ga {{id}}?
+Are you sure you want to delete the selected request headers? || Kas soovite kindlasti valitud päringupäised kustutada?
+Are you sure you want to delete the selected request headers patterns? || Kas soovite kindlasti valitud päringupäiste mustrid kustutada?
+Are you sure you want to delete the response header with ID {{id}}? || Kas soovite kindlasti kustutada vastuse päise ID-ga {{id}}?
+Are you sure you want to delete the response header pattern with ID {{id}}? || Kas soovite kindlasti kustutada vastuse päise mustri ID-ga {{id}}?
+Are you sure you want to delete the selected response headers? || Kas soovite kindlasti valitud vastuse päised kustutada?
+Are you sure you want to delete the selected response headers patterns? || Kas soovite kindlasti valitud vastuse päiste mustrid kustutada?
+Are you sure you want to delete the {{param}} blacklist? || Kas soovite kindlasti {{param}} musta nimekirja kustutada?
+Are you sure you want to delete the selected blacklists? || Kas soovite kindlasti valitud mustad nimekirjad kustutada?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || Liidese {{param}} lüüs kustutatakse ja asendatakse selle farmi jaoks. Kas soovite jätkata?
+SSL Certificate list || SSL-sertifikaatide loend
+Choose one certificate || Valige üks sertifikaat
+Choose one or more files || Valige üks või mitu faili
+Selected files || Valitud failid
+Descriptive text, this name will be used to identify this certificate. || Kirjeldav tekst, seda nime kasutatakse selle sertifikaadi tuvastamiseks.
+City where your organization is located. || Linn, kus asub teie organisatsioon.
+Country (two characters) where your organization is located. || Riik (kaks märki), kus teie organisatsioon asub.
+State or province where your organization is located. || Riik või provints, kus asub teie organisatsioon.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || Serveri FQDN. Näide: domain.com, mail.domain.com või * .domain.com.
+The full legal name of your organization/company (ex.: ZEVENET Co.) || Teie organisatsiooni / ettevõtte täielik juriidiline nimi (nt ZEVENET Co.)
+Your department; such as 'IT','Web', 'Office', etc. || Teie osakond; näiteks &quot;IT&quot;, &quot;Veeb&quot;, &quot;Kontor&quot; jne.
+Your email address || Sinu e-posti aadress
+The CSR <strong> {{param}} </strong> has been generated successfully. || CSR <strong> {{param}} </strong> on loodud edukalt.
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || Sertifikaat <strong> {{param}} </strong> on edukalt üles laaditud.
+The certificate <strong> {{param}} </strong> has been deleted successfully. || Sertifikaat <strong> {{param}} </strong> on edukalt kustutatud.
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || Sertifikaat <strong> {{param}} </strong> on edukalt alla laaditud.
+Are you sure you want to delete the certificate {{param}}? || Kas soovite kindlasti sertifikaadi {{param}} kustutada?
+Are you sure you want to delete the selected certificates? || Kas soovite kindlasti valitud sertifikaadid kustutada?
+Updates || uuendused
+Update list || Värskenda nimekirja
+Period time || Perioodi aeg
+Exact time || Täpne aeg
+Daily every || Iga päev iga päev
+Day of the week || Nädalapäev
+Day of the month || Kuupäev
+Sources || Allikad
+DoS rules IPDS || DoS reeglid IPDS
+RBL rules IPDS || RBL reeglid IPDS
+Copy rule || Kopeeri reegel
+Rule to copy || Reegel kopeerimiseks
+Ruleset to copy || Reeglid kopeerimiseks
+Select the rule to copy || Valige kopeeritav reegel
+Select the ruleset to copy || Valige kopeeritav reeglistik
+Custom Domain List || Kohandatud domeenide loend
+Preloaded Domain List || Eellaaditud domeenide loend
+WAF rulesets IPDS || WAF-i reeglistik IPDS
+Default Action || Vaiketoiming
+Disable Rules || Keela reeglid
+IPDS Package Updates || IPDS-paketi värskendused
+Conditions || Tingimused
+Flow || voolama
+WAF File List || WAF-failide loend
+WAF file || WAF-fail
+Content File || Sisu fail
+Select files || Valige failid
+Select a file || Valige fail
+Select transformations || Valige teisendused
+Connection limit per second. || Ühenduse piir sekundis.
+Total connections limit per source IP. || Ühenduste kogupiirang allika IP kohta.
+Check bogus TCP flags. || Kontrollige võltsitud TCP lippe.
+Limit RST request per second. || Piirake RST taotlust sekundis.
+Allow: Finish the WAF processing and complete the HTTP transaction || Luba: viige WAF-i töötlemine lõpule ja tehke HTTP-tehing
+Pass: Continue executing the rules || Pass: jätkake reeglite täitmist
+Deny: Cut the request and not execute rules left || Keeldu: katkestage taotlus ja mitte täitke reegleid
+Redirect: The client received a URL to redirect || Ümbersuunamine: klient sai ümbersuunamiseks URL-i
+Default action: The default action of this ruleset || Vaiketoiming: selle reeglistiku vaikimisi toiming
+Request headers are received || Saadakse päringu päised
+Request body is received || Taotluse asutus on vastu võetud
+Response headers are received || Vastuvõtu päised võetakse vastu
+Response body is received || Vastus on saadud
+Before than logging || Enne kui logite
+LUA Script || LUA skript
+Data file || Andmefail
+It is a collection with the values of arguments in a request. || See on taotluses esitatud argumentide kogumik.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || See on kogum, millel on JSONi taotluses argumentide väärtused. See muutuja on saadaval juhul, kui WAF analüsib selle JSON-argumente, reeglistik REQUEST-901-INITIALIZATION peaks olema lubatud.
+The total size of the request parameters. The files are excluded. || Taotluse parameetrite kogumaht. Failid on välistatud.
+It is a collection with the names of the arguments in a request. || See on kogum koos argumentide nimedega taotluses.
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || See sisaldab failide nimesid kasutaja failides. Ainult siis, kui andmed on mitmeosalised / vormid.
+It is the total size of the files in a request. Only when the data is multipart/form-data. || See on taotluses sisalduvate failide kogu suurus. Ainult siis, kui andmed on mitmeosalised / vormid.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || See on failide üleslaadimiseks kasutatud failinimede loend. Ainult siis, kui andmed on mitmeosalised / vormid.
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || See sisaldab üksikute failisuuruste loendit. Ainult siis, kui andmed on mitmeosalised / vormid.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || See muutuja on 1, kui taotluse keha formaat ei ole JSONi või XML-i jaoks õige, muidu on selle väärtus 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || See on toores keha taotlus. Kui taotlusel ei ole pealkirja &quot;application / x-www-form-urlencoded&quot;, tuleb REQUEST_HEADER faasis kasutada &quot;ctl: forceRequestBodyVariable&quot;.
+It is the number of bytes of the request body. || See on päringu keha baitide arv.
+It is a list with all request cookies values. || See on nimekiri kõigi küpsiste küpsiste väärtustest.
+It is a list with all request cookies names. || See on nimekiri kõigi küpsiste küpsiste nimedest.
+This variable has all the request headers. || See muutuja sisaldab kõiki päringu päiseid.
+This variable has a list with the request headers names. || Sellel muutujal on nimekiri koos päringute päiste nimedega.
+It is the request method. || See on taotluse meetod.
+This variable holds the request HTTP version protocol. || See muutuja omab päringu HTTP versiooni protokolli.
+It is the URI request path. The virtual host is excluded. || See on URI taotluse tee. Virtuaalne host on välistatud.
+It is the information before than the URI path. || See on teave, mis on enne URI rada.
+It is the full request. || See on täielik taotlus.
+It is the number of bytes that full request can have. || See on baitide arv, mille täielik taotlus võib olla.
+It is the raw body response. || See on tooraine vastus.
+It is the number of bytes of the response body. || See on vastusekeha baitide arv.
+This variable has all response headers. || See muutuja sisaldab kõiki vastuse päiseid.
+This variable has a list with the response headers names. || See muutuja sisaldab nimekirja koos vastuste päiste nimedega.
+This variable holds the response HTTP version protocol. || See muutuja omab vastuse HTTP versiooni protokolli.
+It is the response HTTP code. || See on vastus HTTP kood.
+It is the IP address of the client. || See on kliendi IP-aadress.
+It is the port where the client initializes the connection. || See on port, kus klient ühendab ühenduse.
+It is the name of the authenticated user. || See on autentitud kasutaja nimi.
+It is the server time. The format is hours:minutes:seconds. || See on serveri aeg. Vorming on tund: minut: sekundid.
+It is the number of milliseconds since the beginning of the current transaction. || See on millisekundite arv alates praeguse tehingu algusest.
+It is the field filename in a multipart request. || See on välifaili nimi mitmeosalises taotluses.
+It is the field name in a multipart request. || See on põllu nimi mitmeosalises taotluses.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || See on sobitatud väärtus viimase mänguoperatsioonis. See väärtus ei vaja püüdmisvalikut, kuid see asendatakse igas mänguoperatsioonis.
+It is a list of all matched values. || See on kõigi sobitatud väärtuste loend.
+It is the IP address of the server. || See on serveri IP-aadress.
+It is the virtual host, it gets from the request URI. || See on virtuaalne host, mis saab päringu URI-lt.
+It is the environment variables of the WAF. || See on WAF-i keskkonnamuutujad.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || See on praeguse tehingu muutujate kogum. Need muutujad eemaldatakse tehingu lõppemisel. Muutujad TX: 0-TX: 9 salvestab strRegex või strPhrases operaatoritega salvestatud väärtused.
+Decodes a Base64-encoded string. || Dekodeerib Base64i kodeeritud stringi.
+Decodes a Base64-encoded string ignoring invalid characters. || Dekodeerib Base64-kodeeritud stringi, mis ignoreerib kehtetuid märke.
+Decodes SQL hex data. || Dekodeerib SQL-heksandandmed.
+Encodes using Base64 encoding. || Kodeerib Base64i kodeeringut.
+Avoids the problem related with the escaped command line. || Väldib põgenenud käsureaga seotud probleemi.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || Teisendab mis tahes tühimärgid (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) tühikuteks (ASCII 0x20), tihendades mitu järjestikust tühimärki üheks.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || Dekodeerib CSS 2.x põgenemisreeglite abil kodeeritud märgid. See funktsioon kasutab dekodeerimisprotsessis ainult kuni kahte baiti, mis tähendab, et CSS-i kodeeringuga on kasulik avastada kodeeritud ASCII-tähemärke (mida tavaliselt ei kodeerita) või vältida kõrvalehoidumist, mis koosneb kaldkriipsust ja mitte - kuueteistkümnendsümbolid (nt ja \\vascript on samaväärne JavaScriptiga).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || Dekodeerib ANSI C põgenemisjadad: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (kuueteistkümnendsüsteem), \\0OOO ​​(kaheksanurk). Väljundisse jäävad kehtetud kodeeringud.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || Dekodeerib stringi, mis on kodeeritud sama algoritmiga, mida kasutati hexEncode'is (vt järgmist sisestust).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || Kodeerib stringi (mis võib sisaldada binaarseid märke), asendades iga sisendbiti kahe kuueteistkümnendsümboliga. Näiteks kodeeritakse xyz 78797a.
+Decodes the characters encoded as HTML entities. || Dekodeerib HTML-üksustena kodeeritud märgid.
+Decodes JavaScript escape sequences. || Dekodeerib JavaScript põgenemisjärjestused.
+Looks up the length of the input string in bytes, placing it (as string) in output. || Otsib sisendstringi pikkust baitides, asetades selle (stringina) väljundisse.
+Converts all characters to lowercase using the current C locale. || Teisendab kõik tähemärgid väikesteks, kasutades praegust C-lehte.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || Sisendist saadud andmete põhjal arvutab MD5 räsi. Arvutatud räsi on töötlemata binaarses vormis ja võib-olla tuleb see trükitavasse teksti kodeerida (või logida). Rihmafunktsioone kasutatakse tavaliselt koos hexEncode-ga.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || Mitte tegelik ümberkujundamisfunktsioon, vaid käsk eemaldada praeguse reegliga seotud varasemate transformatsioonifunktsioonide kasutamine.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || Eemaldab sisestusstringilt mitu kaldkriipsu, kataloogide eneseviited ja kataloogide tagasiviited (välja arvatud juhul, kui sisendi alguses).
+Same as normalizePath, but first converts backslash characters to forward slashes. || Sama nagu normalizePath, kuid muundab kõigepealt tagakülje märgid edasi kaldkriipsudeks.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || Arvutab 7-bitiandmete ühtlase pariteedi, mis asendab iga sihtmärgi baas 8th arvutatud pariteedi bitiga.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || Arvutab 7-bitide andmete paaritu pariteedi, mis asendab iga sihtmärgi baas 8th arvutatud pariteedi bitiga.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || Arvutab 7-bitiandmete nullpariteedi, mis asendab iga sihtmärgi baasil 8th nullpariteedi bitiga, mis võimaldab kontrollida paaris / paaritu pariteedi 7-bitiandmeid ASCII7i andmetena.
+Removes all NUL bytes from input. || Eemaldab sisendist kõik NUL-baidid.
+Removes all whitespace characters from the input. || Eemaldab sisendist kõik tühimärgid.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || Asendab C-stiilis kommentaari iga esinemise (/ *… * /) ühe tühikuga (mitu järjestikust esinemist ei tihendata). Lõpetamata kommentaarid asendatakse ka tühikuga (ASCII 0x20). Kommentaari eraldiseisvat lõpetamist (* /) aga ei tehta.
+Removes common comments chars (/*, */, –, #). || Eemaldab tavalised kommentaaride märgid (/ *, * /, -, #).
+Replaces NUL bytes in input with space characters (ASCII 0x20). || Asendab NUL-baiti tühikuklahvidega (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || Dekodeerib URL-i kodeeritud sisestusstringi. Kehtetud kodeeringud (st need, mis kasutavad heksadecimaalseid märke või need, mis on stringi lõpus ja millel on üks või kaks baiti) puuduvad, kuid ühtegi viga ei esine.
+Converts all characters to uppercase using the current C locale. || Teisendab kõik tähemärgid suurtähtedeks, kasutades praegust C-lehte.
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || Nagu urlDecode, aga Microsofti spetsiifilise% u kodeeringu toetamine.
+Encodes input string using URL encoding. || Kodeerib sisendstringi URL-i kodeerimise abil.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || Teisendab kõik UTF-8 tähemärkide järjestused Unicode'iks. See aitab sisendi normaliseerimist, eriti mitte-inglise keelte puhul, minimeerides valepositiivseid ja valenegatiivseid vorme.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || Arvutab sisendstringist SHA1 räsi. Arvutatud räsi on binaarses vormis ja võib-olla tuleb kodeerida trükitavasse (või logitud) teksti. Hash-funktsioone kasutatakse tavaliselt koos hexEncode'iga.
+Removes whitespace from the left side of the input string. || Eemaldab sisendribade vasakul küljel tühiku.
+Removes whitespace from the right side of the input string. || Eemaldab tühimiku sisestusstringi paremast küljest.
+Removes whitespace from both the left and right sides of the input string. || Eemaldab tühimiku nii sisendstringi vasakult kui paremalt küljelt.
+The rule will match if any of the variables begin with the value of operating. || Reegel sobib siis, kui mõni muutuja algab töö väärtusest.
+The rule will match if any of the variables contain the value of operating. || Reegel sobib, kui mõni muutujatest sisaldab toimimise väärtust.
+The rule will match if any of the variables contain a word as the string one. || Reegel sobib, kui mõni muutuja sisaldab sõna stringina.
+The rule will match if any of the variables end with the value of operating. || Reegel sobib, kui mõni muutuja lõpeb töö väärtusega.
+The rule will match if any of the variables match with the value of operating. || Reegel sobib juhul, kui mõni muutuja vastab toimimise väärtusele.
+The rule will match if any of the variables match with the value of operating. || Reegel sobib juhul, kui mõni muutuja vastab toimimise väärtusele.
+The rule will match if any of the variables is identical to the value of operating. || Reegel sobib siis, kui mõni muutuja on identne töö väärtusega.
+The rule will match if any of the variables match in the regular expression used in operating. || Reegel sobib juhul, kui mõni muutuja ühtib operatsioonis kasutatava regulaaravaldisega.
+The rule will match if any of the variables match in any of the values of the list operating. || Reegel sobib, kui mõni muutujatest sobib mõne loendi väärtusega.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || Sama, mis operaator strPhrases, kuid operatsioonisüsteem on fail, kus see on määratletud fraaside loendina.
+The rule will match if any of the variables is equal to the number used in operating. || Reegel sobib, kui mõni muutuja on võrdne töötamisel kasutatud numbriga.
+The rule will match if any of the variables is greater or equal to the number used in operating. || Reegel sobib, kui mõni muutujatest on suurem või võrdne töötamisel kasutatud numbriga.
+The rule will match if any of the variables is greater than the number used in operating. || Reegel sobib, kui mõni muutuja on suurem kui kasutatav arv.
+The rule will match if any of the variables is lower or equal to the number used in operating. || Reegel sobib, kui mõni muutuja on madalam või võrdne töötamisel kasutatud numbriga.
+The rule will match if any of the variables is lower than the number used in operating. || Reegel sobib, kui mõni muutuja on madalam kui kasutatav arv.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || See rakendab SQL-süstimise tuvastamist muutujate loendisse. See operaator ei oota mingit tegutsemist.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || Ta rakendab XSS süstimise tuvastamist muutujate loendisse. See operaator ei oota mingit tegutsemist.
+Try to match the IP or network segments of operating with the list of variables. || Proovige sobitada IP- või võrgusegmente muutujate loendiga.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || See on sama mis operaator ipMatch, kuid see proovib muutujate vastendamist failiga IP-de ja võrgusegmentide loendiga.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || See kontrollib, kas muutujate baitide arv on ühes operatsiooniväärtusest. Näide käitamise kohta on “10, 13, 32-126”.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || See kinnitab kodeeritud andmeid. Seda operaatorit tuleb kasutada ainult selliste andmete puhul, mis ei kodeeri andmeid tavaliselt või andmete kodeerimiseks mitu korda.
+It validates that variables are UTF-8. This operator does not expect any operating. || See kinnitab, et muutujad on UTF-8. See operaator ei oota mingit töötamist.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || See kontrollib, kas muutujad on krediitkaardi number. See parameeter aktsepteerib regulaaravaldist toimimise korral, kui see sobib, siis rakendab see krediitkaarti.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || See kontrollib, kas muutujad on USA sotsiaalkindlustuse number. See parameeter aktsepteerib regulaarset avaldist töötavana, kui see sobib, rakendab see SSN-i verifitseerimist.
+It returns true always, forcing a match. || See on alati tõsi, sundides mängu.
+It returns false always, forcing a non-match. || See tagastab alati vale, sundides mitte-sobima.
+A word is delimited by characters different to (a-z, 0-9 and '_') || Sõna eraldavad tähemärgid, mis erinevad (az, 0-9 ja '_')
+Can be a list of strings split by the character , || Võib olla märkide järgi jaotatud stringide loend,
+Can be a list of strings split by the character |, || Võib olla märkide kaupa jagunenud stringide loetelu |,
+Can be a list of strings split by a blank space || Võib olla tühikutega jagatud stringide loend
+Can be a list of IPs or network segments split by the character , || Võib olla IP-de või võrgusegmentide loend, mis on tähemärgi järgi jagatud,
+Can be a list of IPs ranges split by the character , || Võib olla tähemärgi järgi jagatud IP-vahemike loetelu,
+Can be selected more than one file. || Saab valida mitu faili.
+It uses the PCRE engine, optional field. || See kasutab PCRE mootorit, valikulist välja.
+It uses the PCRE engine, optional field. || See kasutab PCRE mootorit, valikulist välja.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || See kasutab PCRE mootorit. Väljendit (? I) kasutatakse vasteks, kasutades väiketähti.
+This operator does not expect any operating. || See operaator ei oota mingit töötamist.
+String. || Keel
+Number. || Arv.
+The <strong> {{param}} </strong> blacklist has been created successfully. || . <strong> {{param}} </strong> must nimekiri on edukalt loodud.
+The <strong> {{param}} </strong> blacklist has been deleted successfully. || . <strong> {{param}} </strong> must nimekiri on edukalt kustutatud.
+The <strong> {{param}} </strong> blacklist has been stopped successfully. || . <strong> {{param}} </strong> must nimekiri on edukalt peatatud.
+The <strong> {{param}} </strong> blacklist has been started successfully. || . <strong> {{param}} </strong> must nimekiri on edukalt käivitatud.
+The <strong> {{param}} </strong> blacklist has been updated successfully. || . <strong> {{param}} </strong> musta nimekirja on edukalt värskendatud.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || Talu <strong> {{param}} </strong> on edukalt lisatud musta nimekirja.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || Talu <strong> {{param}} </strong> on mustast nimekirjast edukalt eemaldatud.
+The <strong> {{param}} </strong> DoS rule has been created successfully. || . <strong> {{param}} </strong> DoS-i reegel on edukalt loodud.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. || . <strong> {{param}} </strong> DoS-i reegel on edukalt kustutatud.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. || . <strong> {{param}} </strong> DoS-i reegel on edukalt peatatud.
+The <strong> {{param}} </strong> DoS rule has been started successfully. || . <strong> {{param}} </strong> DoS-i reegel on edukalt käivitatud.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || Talu <strong> {{param}} </strong> on DoS-i reeglile edukalt lisatud.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || Talu <strong> {{param}} </strong> on DoS-i reeglist edukalt eemaldatud.
+The source has been created successfully || Allikas on edukalt loodud
+The source has been updated successfully || Allikat on edukalt värskendatud
+The source <strong> {{param}} </strong> has been deleted successfully. || Allikas <strong> {{param}} </strong> on edukalt kustutatud.
+The <strong> {{param}} </strong> RBL rule has been created successfully. || . <strong> {{param}} </strong> RBL reegel on edukalt loodud.
+The <strong> {{param}} </strong> RBL rule has been updated successfully. || . <strong> {{param}} </strong> RBL reeglit on edukalt värskendatud.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. || . <strong> {{param}} </strong> RBL reegel on edukalt kustutatud.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. || . <strong> {{param}} </strong> RBL reegel on edukalt peatatud.
+The <strong> {{param}} </strong> RBL rule has been started successfully. || . <strong> {{param}} </strong> RBL reegel on edukalt käivitatud.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || Talu <strong> {{param}} </strong> on RBL reeglile edukalt lisatud.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || Talu <strong> {{param}} </strong> on RBL reeglist edukalt eemaldatud.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || Domeen <strong> {{param}} </strong> on RBL reeglile edukalt lisatud.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || Domeen <strong> {{param}} </strong> on RBL reeglist edukalt eemaldatud.
+The domain <strong> {{param}} </strong> has been created successfully || Domeen <strong> {{param}} </strong> on edukalt loodud
+The domain has been updated successfully || Domeeni on edukalt värskendatud
+The domain <strong> {{param}} </strong> has been deleted successfully. || Domeen <strong> {{param}} </strong> on edukalt kustutatud.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. || . <strong> {{param}} </strong> WAF-i reeglistik on edukalt loodud.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. || . <strong> {{param}} </strong> WAF-i reeglistik on edukalt kustutatud.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. || . <strong> {{param}} </strong> WAF-i reeglistik on edukalt peatatud.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. || . <strong> {{param}} </strong> WAF-i reeglistik on edukalt käivitatud.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. || . <strong> {{param}} </strong> WAF-i reeglistikku on edukalt värskendatud.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || Talu <strong> {{param}} </strong> on edukalt WAF-i reeglite komplekti lisatud.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || Talu <strong> {{param}} </strong> on WAF-i reeglistikust edukalt eemaldatud.
+The rule <strong> {{param}} </strong> has been created successfully. || Reegel <strong> {{param}} </strong> on edukalt loodud.
+The rule <strong> {{param}} </strong> has been moved successfully. || Reegel <strong> {{param}} </strong> on edukalt teisaldatud.
+The rule <strong> {{param}} </strong> has been deleted successfully. || Reegel <strong> {{param}} </strong> on edukalt kustutatud.
+The rule <strong> {{param}} </strong> has been updated successfully || Reegel <strong> {{param}} </strong> on edukalt värskendatud
+The match has been created successfully || Matš on edukalt loodud
+The match <strong> {{param}} </strong> has been deleted successfully. || Matš <strong> {{param}} </strong> on edukalt kustutatud.
+The WAF file <strong> {{param}} </strong> has been created successfully. || WAF-fail <strong> {{param}} </strong> on edukalt loodud.
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || WAF-fail <strong> {{param}} </strong> on edukalt kustutatud.
+The WAF file <strong> {{param}} </strong> has been updated successfully. || WAF-fail <strong> {{param}} </strong> on edukalt uuendatud.
+The <strong> IPDS package </strong> has been scheduled successfully. || . <strong> IPDS-i pakett </strong> on edukalt ajastatud.
+The <strong> IPDS package </strong> has been upgraded successfully. || . <strong> IPDS-i pakett </strong> on edukalt täiendatud.
+Are you sure you want to delete the {{param}} blacklist? || Kas soovite kindlasti {{param}} musta nimekirja kustutada?
+Are you sure you want to delete the selected blacklists? || Kas soovite kindlasti valitud mustad nimekirjad kustutada?
+Are you sure you want to delete the {{param}} DoS rule? || Kas soovite kindlasti kustutada reegli {{param}} DoS?
+Are you sure you want to delete the selected DoS rules? || Kas soovite kindlasti valitud DoS-reeglid kustutada?
+Are you sure you want to delete the source {{param}}? || Kas soovite kindlasti kustutada allika {{param}}?
+Are you sure you want to delete the selected sources? || Kas soovite kindlasti valitud allikad kustutada?
+Are you sure you want to delete the {{param}} RBL rule? || Kas soovite kindlasti kustutada {{param}} RBL-i reegli?
+Are you sure you want to delete the selected RBL rules? || Kas soovite kindlasti valitud RBL reeglid kustutada?
+Are you sure you want to delete the domain {{param}}? || Kas soovite kindlasti kustutada domeeni {{param}}?
+Are you sure you want to delete the selected domains? || Kas soovite kindlasti valitud domeenid kustutada?
+Are you sure you want to delete the {{param}} WAF ruleset? || Kas soovite kindlasti kustutada {{param}} WAF-i reeglistiku?
+Are you sure you want to delete the selected rulesets? || Kas soovite kindlasti valitud reeglistikud kustutada?
+'Are you sure you want to delete the rule {{param}}? || 'Kas soovite kindlasti reegli {{param}} kustutada?
+Are you sure you want to delete the match {{param}}? || Kas soovite kindlasti mängu {{param}} kustutada?
+Are you sure you want to delete the selected matches? || Kas soovite kindlasti valitud vasted kustutada?
+Are you sure you want to delete the file {{param}}? || Kas soovite kindlasti faili {{param}} kustutada?
+Are you sure you want to delete the selected files? || Kas soovite kindlasti valitud failid kustutada?
+System Graphs || Süsteemi graafikud
+Interfaces Graphs || Liidese graafikud
+Farms Graph || Talude graafik
+Farms Stats || Põllumajandusettevõtete statistika
+System Stats || Süsteemi statistika
+Network Stats || Võrgu statistika
+Copy farmguardian || Kopeeri talupoeg
+Farmguardian to copy || Talumehe koopia
+Select the farmguardian to copy || Valige kopeerimiseks taluperemees
+Total Memory || Mälu kokku
+Free Memory || Vaba mälu
+Used Memory || Kasutatud mälu
+Buffers || Puhvrid
+Cached || Vahemällu salvestatud
+Total Swap || Kokku vahetada
+Free Swap || Tasuta vahetus
+Used Swap || Kasutatud vahetus
+Cached Swap || Vahemällu vahetatud
+Idle || Idle
+Usage || Kasutus
+Iowait || Iowait
+Irq || Irq
+Nice || kena
+Softirq || Softirq
+Sys || Sys
+User || Kasutaja
+Last minute || Viimase hetke
+Last 5 minutes || Viimased 5 minutit
+Last 15 minutes || Viimased 15 minutit
+Are you sure you want to delete the {{param}} farmguardian? || Kas soovite kindlasti {{param}} talupoegat kustutada?
+Are you sure you want to delete the selected farmguardians? || Kas soovite kindlasti valitud taluperemehed kustutada?
+The <strong> {{param}} </strong> farmguardian has been created successfully. || . <strong> {{param}} </strong> farmguardian on edukalt loodud.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. || . <strong> {{param}} </strong> farmguardian on edukalt kustutatud.
+The <strong> {{param}} </strong> farmguardian has been updated successfully. || . <strong> {{param}} </strong> taluperemeest on edukalt värskendatud.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || Talu <strong> {{param}} </strong> on taluperemehele edukalt lisatud.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || Talu <strong> {{param}} </strong> on edukalt taluperemehelt eemaldatud.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || Talu <strong> {{param}} with the service {{param2}} </strong> on taluperemehele edukalt lisatud.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || Talu <strong> {{param}} with the service {{param2}} </strong> on edukalt taluperemehelt eemaldatud.
+NIC List || NIC nimekiri
+Bonding Interface List || Võlakirjade liideste loetelu
+Select the slaves || Valige orjad
+VLAN Interface List || VLAN-liidese loend
+VLAN ID || VLAN-i ID
+VLAN tag || VLAN-i silt
+Virtual Interface List || Virtuaalse liidese loend
+Virtual interface name || Virtuaalse liidese nimi
+Virtual interface tag || Virtuaalse liidese silt
+Floating IP List || Ujuv IP-nimekiri
+IPv4 Gateway || IPv4 Gateway
+IPv6 Gateway || IPv6 Gateway
+IPv4 Gateway Settings || IPv4 lüüsi seaded
+IPv6 Gateway Settings || IPv6 lüüsi seaded
+Backends Aliases || Taustprogrammi varjunimed
+Interfaces Aliases || Liideste varjunimed
+Routing Rule List || Marsruudi reeglite loend
+Routing Table List || Marsruutitabelite loetelu
+Priority should be a value between {{min}} and {{max}} || Prioriteet peaks olema väärtus vahemikus {{min}} kuni {{max}}
+Configure table {{param}} || Konfigureerimistabel {{param}}
+Available Routes || Saadaval marsruudid
+Routing table for the outputs of the interface {{param}}. || Liidese {{param}} väljundite marsruuditabel.
+Should be a IP address or CIDR || Peaks olema IP-aadress või CIDR
+Should be a IP address (IPv4/IPv6) || Peaks olema IP-aadress (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}? || Kas soovite kindlasti NIC-i {{param}} tühistada?
+Are you sure you want to unset the selected NIC? || Kas soovite kindlasti valitud NIC-i tühistada?
+Are you sure you want to unset the Bonding {{param}}? || Kas soovite kindlasti võlakirja {{param}} tühistada?
+Are you sure you want to unset the selected Bondings? || Kas soovite kindlasti valitud liistud tühistada?
+Are you sure you want to delete the Bonding {{param}}? || Kas soovite kindlasti kustutada liimimise {{param}}?
+Are you sure you want to delete the selected Bondings? || Kas soovite kindlasti valitud võlakirjad kustutada?
+Are you sure you want to delete the VLAN {{param}}? || Kas soovite kindlasti VLAN-i {{param}} kustutada?
+Are you sure you want to delete the selected VLANs? || Kas soovite kindlasti valitud VLAN-id kustutada?
+Are you sure you want to delete the Virtual interface {{param}}? || Kas soovite kindlasti virtuaalse liidese {{param}} kustutada?
+Are you sure you want to delete the selected Virtual interfaces? || Kas soovite kindlasti valitud virtuaalsed liidesed kustutada?
+Are you sure you want to unset the Floating IP of {{param}}? || Kas soovite kindlasti {{param}} ujuva IP tühistada?
+Are you sure you want to unset the selected Floating IPs? || Kas soovite kindlasti valitud ujuvate IP-de tühistada?
+Are you sure you want to unset the gateway for {{param}}? || Kas soovite kindlasti {{param}} lüüsi tühistada?
+Are you sure you want to delete the alias {{param}}? || Kas soovite kindlasti kustutada pseudonüümi {{param}}?
+Are you sure you want to delete the selected aliases? || Kas soovite kindlasti valitud pseudonüümid kustutada?
+Are you sure you want to delete the routing rule {{param}}? || Kas soovite kindlasti kustutada marsruutimisreegli {{param}}?
+Are you sure you want to delete the selected routing rules? || Kas soovite kindlasti valitud marsruutimisreeglid kustutada?
+Are you sure you want to delete the route {{param}}? || Kas soovite kindlasti marsruudi {{param}} kustutada?
+Are you sure you want to delete the selected routes? || Kas soovite kindlasti valitud marsruudid kustutada?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. || . <strong> {{param}} </strong> NIC on edukalt seadistamata.
+The <strong> {{param}} </strong> NIC is up. || . <strong> {{param}} </strong> NIC on üleval.
+The <strong> {{param}} </strong> NIC is down. || . <strong> {{param}} </strong> NIC on maas.
+The <strong> {{param}} </strong> NIC has been updated successfully. || . <strong> {{param}} </strong> NIC on edukalt uuendatud.
+The <strong> {{param}} </strong> NIC has updated the alias successfully. || . <strong> {{param}} </strong> NIC on pseudonüümi edukalt värskendanud.
+The <strong> {{param}} </strong> Bonding has been created successfully. || . <strong> {{param}} </strong> Võlakirjade loomine on edukalt loodud.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. || . <strong> {{param}} </strong> Liimimine on edukalt seadistamata.
+The <strong> {{param}} </strong> Bonding is up. || . <strong> {{param}} </strong> Liimimine on otsas.
+The <strong> {{param}} </strong> Bonding is down. || . <strong> {{param}} </strong> Liimimine on maas.
+The <strong> {{param}} </strong> Bonding has been updated successfully. || . <strong> {{param}} </strong> Liimimist on edukalt värskendatud.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. || . <strong> {{param}} </strong> Bonding on pseudonüümi edukalt värskendanud.
+The <strong> {{param}} </strong> Bonding has been deleted successfully. || . <strong> {{param}} </strong> Liimimine on edukalt kustutatud.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. || . <strong> {{param}} </strong> ori on edukalt liidestamisse lisatud.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. || . <strong> {{param}} </strong> ori on liimimisest edukalt eemaldatud.
+The <strong> {{param}} </strong> VLAN has been created successfully. || . <strong> {{param}} </strong> VLAN on edukalt loodud.
+The <strong> {{param}} </strong> VLAN is up. || . <strong> {{param}} </strong> VLAN on sisse lülitatud.
+The <strong> {{param}} </strong> VLAN is down. || . <strong> {{param}} </strong> VLAN on maas.
+The <strong> {{param}} </strong> VLAN has been updated successfully. || . <strong> {{param}} </strong> VLAN on edukalt uuendatud.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. || . <strong> {{param}} </strong> VLAN on pseudonüümi edukalt värskendanud.
+The <strong> {{param}} </strong> VLAN has been deleted successfully. || . <strong> {{param}} </strong> VLAN on edukalt kustutatud.
+The <strong> {{param}} </strong> Virtual interface has been created successfully. || . <strong> {{param}} </strong> Virtuaalne liides on edukalt loodud.
+The <strong> {{param}} </strong> Virtual interface is up. || . <strong> {{param}} </strong> Virtuaalne liides on üleval.
+The <strong> {{param}} </strong> Virtual interface is down. || . <strong> {{param}} </strong> Virtuaalne liides on maas.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. || . <strong> {{param}} </strong> Virtuaalne liides on edukalt uuendatud.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. || . <strong> {{param}} </strong> Virtuaalne liides on pseudonüümi edukalt värskendanud.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. || . <strong> {{param}} </strong> Virtuaalne liides on edukalt kustutatud.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. || . <strong> {{param}} </strong> Ujuv IP on edukalt seadistamata.
+The <strong> {{param}} </strong> Floating IP is up. || . <strong> {{param}} </strong> Ujuv IP on üleval.
+The <strong> {{param}} </strong> Floating IP is down. || . <strong> {{param}} </strong> Ujuv IP on maas.
+The <strong> {{param}} </strong> Floating IP has been updated successfully. || . <strong> {{param}} </strong> Ujuvat IP-d on edukalt värskendatud.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. || . <strong> {{param}} </strong> Ujuv IP on pseudonüümi edukalt värskendanud.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. || . <strong> {{param}} </strong> Ujuv IP on edukalt kustutatud.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || Värav <strong> {{param}} </strong> on edukalt konfigureerimata.
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || Värav <strong> {{param}} </strong> on edukalt uuendatud.
+The <strong> {{param}} </strong> Alias has been created successfully. || . <strong> {{param}} </strong> Alias ​​on edukalt loodud.
+The <strong> {{param}} </strong> Alias has been updated successfully. || . <strong> {{param}} </strong> Alias ​​on edukalt värskendatud.
+The <strong> {{param}} </strong> Alias has been deleted successfully. || . <strong> {{param}} </strong> Alias ​​on edukalt kustutatud.
+The <strong> {{param}} </strong> routing rule has been deleted successfully. || . <strong> {{param}} </strong> marsruutimisreegel on edukalt kustutatud.
+The <strong> {{param}} </strong> routing rule has been updated successfully. || . <strong> {{param}} </strong> marsruutimisreeglit on edukalt värskendatud.
+The <strong> {{param}} </strong> routing rule has been created successfully. || . <strong> {{param}} </strong> marsruutimisreegel on edukalt loodud.
+The route <strong> {{param}} </strong> has been deleted successfully. || Teekond <strong> {{param}} </strong> on edukalt kustutatud.
+The route <strong> {{param}} </strong> has been updated successfully. || Teekond <strong> {{param}} </strong> on edukalt uuendatud.
+The route <strong> {{param}} </strong> has been created successfully. || Teekond <strong> {{param}} </strong> on edukalt loodud.
+To remove a route you must select it first. || Marsruudi eemaldamiseks peate selle kõigepealt valima.
+The route {{param}} cannot be removed because it is a system route. || Marsruuti {{param}} ei saa eemaldada, kuna see on süsteemne marsruut.
+The interface <strong> {{param}} </strong> has been disabled. || Liides <strong> {{param}} </strong> on keelatud.
+The interface <strong> {{param}} </strong> has been enabled. || Liides <strong> {{param}} </strong> on lubatud.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. || . <strong> {{param}} </strong> orja ei saa eemaldada. Liimimisel peab olema vähemalt üks ori.
+HTTP Service || HTTP teenus
+SSH Service || SSH teenus
+SNMP Service || SNMP teenus
+The physical interface where is running GUI service || Füüsiline liides, kus töötab GUI-teenus
+If the cluster is up you only can select the cluster interface or all || Kui klaster on üleval, saate valida ainult klastri liidese või kõik
+HTTPS Port where is running GUI service || HTTPS Port, kus töötab GUI teenus
+The physical interface where is running SSH service || Füüsiline liides, kus töötab SSH-teenus
+SSH Port where is running SSH service || SSH-port, kus töötab SSH-teenus
+Enable SNMP || Luba SNMP
+The physical interface where is running SNMP service || Füüsiline liides, kus töötab SNMP teenus
+SNMP Port where is running SNMP service || SNMP port, kus töötab SNMP teenus
+Community name || Kogukonna nimi
+IP or subnet with access || IP või alamvõrk koos juurdepääsuga
+Primary server || Esmane server
+Secondary Server || Sekundaarne server
+NTP server || NTP-server
+NTP Service || NTP teenus
+Proxy Service || Puhverserveri teenus
+DNS Service || DNS-teenus
+Configure cluster || Seadistage klaster
+Local IP || Kohalik IP
+Remote IP || Kaug-IP
+Remote Node Password || Kaugsõlme parool
+Confirm Password || Kinnita parool
+Backup List || Varundamise loend
+Backup file || Varufail
+Choose one file || Valige üks fail
+Alerts Service || Hoiatuste teenus
+Alerts || Märguanded
+Email Notifications || Meiliteatised
+Mail Server || Postiserver
+Mail User || Maili kasutaja
+TLS || TLS
+Backends Alert || Taustprogrammide märguanne
+Cluster Alert || Klastri märguanne
+Prefix Subject || Eesliide Teema
+Avoid flapping time || Vältige aja lehvitamist
+The time that alerts wait when backend is flapping || Aeg, mille jooksul märguanded ootavad, kui taustprogramm lehvib
+User Settings || Kasutaja seaded
+ZAPI Key || ZAPI võti
+Change Password || Muuda parool
+Current password || Praegune salasõna
+New password || Uus salasõna
+Repeat new password || Korda uut parooli
+Log List || Logi nimekiri
+Log view || Logi vaade
+When this action is executed a file with system information will be downloaded. || Kui see toiming käivitatakse, laaditakse alla süsteemiteabe fail.
+This action may take several seconds, you can continue browsing the GUI. || See toiming võib võtta mitu sekundit, jätkata GUI sirvimist.
+Select an interface which won't be deleted || Valige liides, mida ei kustutata
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || See toiming hävitab kõik konfiguratsioonid, välja arvatud valitud liides, varukoopiad ja aktiveerimissertifikaat.
+The current credentials for user root will not be modified. || Kasutaja juure praeguseid mandaate ei muudeta.
+User List || Kasutajate nimekiri
+Group List || Rühmaloend
+Role List || Rolliloend
+Role Settings || Rolliseaded
+Show all permissions || Kuva kõik õigused
+Hide all permissions || Peida kõik õigused
+Show permissions || Kuva õigused
+Hide permissions || Peida õigused
+LDAP Server || LDAP-server
+Base DN || Aluse DN
+Bind DN || Seo DN
+Scope || Ulatus
+Bind Password || Seo parool
+Filter || filtrid
+Global Services || Global Services
+Enable session replication || Seansi replikatsiooni lubamine
+Enable Duplicated network || Luba dubleeritud võrk
+Enable ARP announce || ARP-i lubamise lubamine
+Custom Routes || Kohandatud marsruudid
+System Routes || Süsteemi marsruudid
+Use proxy of new generation || Kasutage uue põlvkonna puhverserverit
+Validation Systems || Valideerimissüsteemid
+AWS Credentials || AWS-i mandaadid
+Access Key || Juurdepääsuklahv
+Secret Key || Secret Key
+Region || regioon
+SSL Certificate || SSL Certificate
+RBAC User || RBACi kasutaja
+RBAC Group || RBAC Group
+RBAC Role || RBAC roll
+Network Virtual Interface || Võrgu virtuaalne liides
+System Service || Süsteemi teenus
+Notification || Teade
+Host or URL allowed || Host või URL on lubatud
+It will not be used if the HOST/URL field contains a URL || Seda ei kasutata, kui väli HOST / URL sisaldab URL-i
+Filter used to get the LDAP field that contains the user ID to log in || Filtrit, mida kasutatakse LDAP-välja saamiseks sisselogimiseks kasutajatunnusega
+The Search Request will be performed against the entry specified as the search base DN. || Otsingupäring täidetakse kirjega, mis on määratud otsingubaasi DN-na.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || Otsingupäring täidetakse kannete suhtes, mis on otsingubaasi DN-na täpsustatud kirje otsesed alluvad.
+The Search Request will be performed against the search base and all entries below || Otsingupäring täidetakse otsingubaasi ja kõigi allpool olevate kirjete alusel
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || Uus halduse GUI aadress on {{param}}, palun ühendage uuesti uues URL-is GUI-ga.
+The <strong> HTTP service </strong> has been updated successfully. || . <strong> HTTP teenus </strong> on edukalt uuendatud.
+The <strong> SSH service </strong> has been updated successfully. || . <strong> SSH teenus </strong> on edukalt uuendatud.
+The <strong> SNMP service </strong> has been updated successfully. || . <strong> SNMP teenus </strong> on edukalt uuendatud.
+The <strong> global services </strong> have been updated successfully || . <strong> globaalsed teenused </strong> on edukalt värskendatud
+The <strong> DNS service </strong> has been updated successfully. || . <strong> DNS-teenus </strong> on edukalt uuendatud.
+The <strong> NTP service </strong> has been updated successfully. || . <strong> NTP teenus </strong> on edukalt uuendatud.
+The <strong> Proxy service </strong> has been updated successfully. || . <strong> Puhverserveri teenus </strong> on edukalt uuendatud.
+The backup <strong> {{param}} </strong> has been deleted successfully. || Varukoopia <strong> {{param}} </strong> on edukalt kustutatud.
+The backup <strong> {{param}} </strong> has been applied successfully. || Varukoopia <strong> {{param}} </strong> on edukalt rakendatud.
+The backup <strong> {{param}} </strong> has been downloaded successfully. || Varukoopia <strong> {{param}} </strong> on edukalt alla laaditud.
+The backup <strong> {{param}} </strong> has been uploaded successfully. || Varukoopia <strong> {{param}} </strong> on edukalt üles laaditud.
+The backup <strong> {{param}} </strong> has been created successfully. || Varukoopia <strong> {{param}} </strong> on edukalt loodud.
+The <strong> backends alert </strong> has been applied successfully. || . <strong> taustprogrammide hoiatus </strong> on edukalt rakendatud.
+The <strong> cluster alert </strong> has been applied successfully. || . <strong> klastri märguanne </strong> on edukalt rakendatud.
+The configuration of email has been updated successfully. || E-posti konfiguratsiooni on edukalt värskendatud.
+The alert has been updated successfully. || Märguannet on edukalt värskendatud.
+The test email has been sent successfully. || Testmeil on edukalt saadetud.
+The user has been updated successfully. || Kasutaja on edukalt uuendatud.
+The log <strong> {{param}} </strong> has been downloaded successfully. || Logi <strong> {{param}} </strong> on edukalt alla laaditud.
+The <strong> Support Save </strong> has been downloaded successfully. || . <strong> Toetus Salvesta </strong> on edukalt alla laaditud.
+The user <strong> {{param}} </strong> has been deleted successfully. || Kasutaja <strong> {{param}} </strong> on edukalt kustutatud.
+The user {{param}} has been created successfully. || Kasutaja {{param}} on edukalt loodud.
+The user {{param}} has been updated successfully. || Kasutajat {{param}} on värskendatud.
+The group <strong> {{param}} </strong> has been deleted successfully. || Rühm <strong> {{param}} </strong> on edukalt kustutatud.
+The group {{param}} has been created successfully. || Grupp {{param}} on edukalt loodud.
+The group {{param}} has been updated successfully. || Rühma {{param}} on edukalt värskendatud.
+The user <strong> {{param}} </strong> has been added to the group successfully. || Kasutaja <strong> {{param}} </strong> on gruppi edukalt lisatud.
+The user <strong> {{param}} </strong> has been removed to the group successfully. || Kasutaja <strong> {{param}} </strong> on grupist eemaldatud.
+The farm <strong> {{param}} </strong> has been added to the group successfully. || Talu <strong> {{param}} </strong> on gruppi edukalt lisatud.
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || Talu <strong> {{param}} </strong> on grupist eemaldatud.
+The interface <strong> {{param}} </strong> has been added to the group successfully. || Liides <strong> {{param}} </strong> on gruppi edukalt lisatud.
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || Liides <strong> {{param}} </strong> on grupist eemaldatud.
+The role <strong> {{param}} </strong> has been deleted successfully. || Roll <strong> {{param}} </strong> on edukalt kustutatud.
+The role {{param}} has been created successfully. || Roll {{param}} on edukalt loodud.
+The role {{param}} has been updated successfully. || Rolli {{param}} on edukalt värskendatud.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || LDAP-server on konfigureeritud. Proovige ühenduvust, et kontrollida, kas konfiguratsioon on õige.
+The connectivity test has been done successfully. || Ühenduvustesti on edukalt tehtud.
+The validation system <strong> {{param}} </strong> has been enabled successfully. || Valideerimissüsteem <strong> {{param}} </strong> on edukalt lubatud.
+The validation system <strong> {{param}} </strong> has been disabled successfully. || Valideerimissüsteem <strong> {{param}} </strong> on edukalt keelatud.
+The cluster has been created successfully. || Klaster on edukalt loodud.
+The cluster has been updated successfully. || Klastrit on edukalt värskendatud.
+The cluster has been destroyed successfully. || Klaster on edukalt hävitatud.
+The <strong>local node</strong> has been put in maintenance successfully. || . <strong>kohalik sõlm</strong> on edukalt hooldusesse pandud.
+The <strong>local node</strong> has been enabled successfully. || . <strong>kohalik sõlm</strong> on edukalt lubatud.
+The AWS credentials have been configured successfully. || AWS-i mandaadid on edukalt konfigureeritud.
+The Azure credentials have been configured successfully. || Azure mandaadid on edukalt konfigureeritud.
+Are you sure you want to delete the backup {{param}}? || Kas soovite kindlasti varukoopia {{param}} kustutada?
+Are you sure you want to delete the selected backups? || Kas soovite kindlasti valitud varukoopiaid kustutada?
+Are you sure you want to delete the user {{param}}? || Kas soovite kindlasti kasutaja {{param}} kustutada?
+Are you sure you want to delete the selected users? || Kas soovite kindlasti valitud kasutajad kustutada?
+Are you sure you want to delete the group {{param}}? || Kas soovite kindlasti grupi {{param}} kustutada?
+Are you sure you want to delete the selected groups? || Kas soovite kindlasti valitud rühmad kustutada?
+Are you sure you want to delete the role {{param}}? || Kas soovite kindlasti rolli {{param}} kustutada?
+Are you sure you want to delete the selected roles? || Kas soovite kindlasti valitud rollid kustutada?
+Are you sure you want to destroy the cluster? || Kas soovite kindlasti klastri hävitada?
+Dashboard || armatuurlaud
+News || Uudised
+LSLB || LSLB
+Farms || Põllumajandusettevõtted
+SSL Certificates || SSL sertifikaadid
+Generate csr || Loo csr
+Stats || Statistika
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || Seaded
+Blacklists || Mustlased
+DoS || DoS
+RBL || RBL
+Rules || Reeglid
+Domains || Domeenid
+WAF || WAF
+Rulesets || Reeglid
+Files || Faile
+Monitoring || Järelevalve
+Graphs || Graafikud
+Farmguardians || Talupidajad
+Network || võrk
+NIC || NIC
+Bonding || Liimimine
+VLAN || VLAN
+Virtual Interfaces || Virtuaalsed liidesed
+Floating IPs || Ujuvad IP-d
+Gateway || Värav
+Aliases || varjunimed
+Routing || Marsruut
+Tables || Tabelid
+System || süsteem
+RBAC || RBAC
+Users || kasutajad
+Groups || grupid
+Roles || rollid
+Local Services || kohalikud teenused
+Remote Services || Kaugteenused
+Cluster || Cluster
+Backups || Varukoopiad
+Notifications || Teated
+User || Kasutaja
+Logs || Logid
+Activation Certificate || Aktiveerimissertifikaat
+License || litsents
+SupportSave || SupportSave
+Factory Reset || Tehaseseadete taastamine

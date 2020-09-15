@@ -1,1160 +1,1160 @@
-Sign in with your username and password|| היכנס באמצעות שם המשתמש והסיסמה שלך
-Success!|| הצלחה!
-Username|| שם משתמש
-User should be the real one!|| המשתמש צריך להיות האמיתי!
-Password should contains from {{min}} to {{max}} characters|| הסיסמה צריכה להכיל בין {{דקות}} עד {{מקס}} תווים
-Sign In|| כניסה
-Logging out, please wait...|| מתנתק, אנא המתן ...
-Package list to upgrade|| רשימת חבילות לשדרוג
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'|| כדי לשדרג את המערכת, אנא בצע במעטפת את הפקודה הבאה: 'checkupgrades -i'
-*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.|| * מידע זה מתעדכן מדי יום, אם ברצונך לכפות את הפעלת הבדיקה <code>checkupgrades</code> משורת הפקודה.
-No activation certificate|| אין אישור הפעלה
-There isn't a valid ZEVENET certificate file, please request a new one|| אין קובץ אישור ZEVENET תקף, בבקשה לבקש קובץ חדש
-Certificate Key|| מפתח אישור
-Activation Certificate file|| קובץ תעודת הפעלה
-Activation Data|| נתוני הפעלה
-Copy data to the clipboard|| העתק נתונים ללוח
-Activation Certificate|| תעודת הפעלה
-Select an activation certificate|| בחר אישור הפעלה
-Upload Activation Certificate|| העלה תעודת הפעלה
-No Support|| אין תמיכה
-Certificate expired|| פג תוקף האישור
-Support expired|| פג התמיכה
-Certificate expires in {{param}} {{param2}}|| תוקף התוקף פג בתאריך {{param}} {{param2}}
-Support expires in {{param}} {{param2}}|| התוקף פג בתאריך {{param}} {{param2}}
-The activation certificate has been uploaded successfully.|| אישור ההפעלה הועלה בהצלחה.
-The Activation Certificate has been deleted successfully.|| תעודת ההפעלה נמחקה בהצלחה.
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate|| האם אתה בטוח למחוק את אישור ההפעלה \\n אם תמחק אותו תאבד את הגישה ל- GUI, עד להעלאת תעודה אחרת
-Upload|| העלה
-Uploading|| העלאה
-Add|| להוסיף
-Disable maintenance|| השבת את התחזוקה
-Enable maintenance|| הפעל תחזוקה
-Drain mode|| מצב ניקוז
-Cut mode|| מצב חתך
-Edit|| ערוך
-Configure|| גדר
-Save|| שמור
-Add Variable|| הוסף משתנה
-Bring|| להביא
-Export|| יצוא
-All data|| כל הנתונים
-Only selected|| נבחר רק
-Apply|| החל
-Create|| צור
-Cancel|| ביטול
-Submit|| שלח
-New Service|| שירות חדש
-New Zone|| אזור חדש
-New Route|| מסלול חדש
-Basic|| בסיסי
-Advanced|| מתקדם
-Generate|| ליצור
-Generating|| יוצר
-Delete|| מחק
-Bring Up|| לגדל
-Bring down|| להוריד
-Restart|| הפעל מחדש
-Restarting|| הפעלה מחדש
-Start|| הַתחָלָה
-Stop|| עצור
-Unset|| לא הוגדר
-Enable|| אפשר
-Disable|| שבת
-Remove|| להסיר
-Download|| הורדה
-Downloading|| הורדת
-Update|| עדכון
-New Rule|| חוק חדש
-Next|| הַבָּא
-Back|| חזור
-Generate Random MAC|| צור MAC אקראי
-Destroy|| להרוס
-Test Email|| בדוק את הדוא&quot;ל
-Generate Random Key|| צור מפתח אקראי
-Upload Certificate|| העלה אישור
-Delete Certificate|| מחק אישור
-List|| רשימה
-Menu|| תפריט
-Modify|| שינוי
-Show|| לְהַצִיג
-Action|| פעולה
-Test|| מִבְחָן
-Schedule|| לוח זמנים
-Upgrade|| שדרג
-View|| נוף
-Info|| מידע
-Test Connectivity|| בדוק קישוריות
-Show certificate|| הצג אישור
-Force Changes|| כפה שינויים
-Page Not Found|| הדף לא נמצא
-The page you were looking for doesn't exist|| הדף שחיפשת אינו קיים
-Take me home|| קח אותי הביתה
-Status|| מצב
-Actions|| פעולות
-Name|| שם
-ID||  ID
-Alias|| כינוי
-IP||  IP
-Interface|| מִמְשָׁק
-Priority|| עדיפות
-Port|| נָמָל
-Weight|| מִשׁקָל
-Max. Conns|| מקסימלי קונדס
-Name|| שם
-Virtual IP|| IP וירטואלי
-Vitual Port|| נמל ויטואל
-Virtual IP and Port|| IP וירטואלי ופורט
-Default TCP port health check|| ברירת המחדל של בדיקת יציאות TCP
-Health Checks for backend|| בדיקות בריאות עבור backend
-Default Name Server|| שרת שם ברירת מחדל
-Type|| סוּג
-Data|| נתונים
-Profile|| פּרוֹפִיל
-HTTPS Parameters|| HTTPS פרמטרים
-Ciphers|| צופן
-Custom ciphers|| צופן מותאם אישית
-Protocol type|| סוג פרוטוקול
-NAT type|| סוג NAT
-Rewrite location headers|| שכתוב כותרות מיקום
-HTTP verbs accepted|| פעלים HTTP מקובלים
-Ignore 100 continue|| התעלם מ- 100 המשך
-Backend connection timeout|| זמן קצוב לחיבור
-Backend response timeout|| זמן קצוב לתגובה לאחור
-Frequency to check resurrected backends|| תדירות לבדיקת חזיתות backers
-Client request timeout|| זמן קצוב לבקשת הלקוח
-Message Error|| שגיאת הודעה
-Request Headers|| בקש כותרות
-Response Headers|| כותרות תגובה
-Persistence|| התמדה
-Persistence session time to live|| זמן ישיבה התמדה לחיות
-TTL|| TTL
-Persistence session identifier|| זיהוי פעילות ההתמדה
-Virtual IP|| IP וירטואלי
-Load balancing Scheduler|| מתזמן איזון עומסים
-Algorithm|| אַלגוֹרִיתְם
-Round Robin|| רובין עגול
-Virtual Host|| מארח וירטואלי
-URL Pattern|| תבנית כתובת אתר
-Least Response|| תגובה לפחות
-HTTPS Backends|| HTTPS Backends
-STS Header|| כותרת STS
-Timeout|| פסק זמן
-Redirect|| הפניה מחדש
-Redirect URL|| כתובת אתר להפניה מחדש
-Redirect Type|| סוג כתובת אתר להפניה מחדש
-Redirect Code|| קוד הפניה מחדש
-Cookie Insert|| הכנס עוגיה
-Cookie Name|| שם קובץ Cookie
-Cookie Domain|| דומיין Cookie
-Cookie Path|| נתיב קובץ Cookie
-Cookie TTL|| Cookie TTL
-Locality|| יישוב
-Country|| מדינה
-State/Province|| מדינה / מחוז
-Common Name|| שם נפוץ
-Organization|| ארגון
-Division|| חטיבה
-E-mail Address|| כתובת דוא&quot;ל
-File|| שלח
-Issuer|| מנפיק
-Creation|| בריאה
-Expiration|| פקיעה
-Certificate|| תעודה
-Established Conns|| הקים הקים
-Pending Conns|| ממתין
-Service|| שֵׁרוּת
-Session ID|| מזהה הפעלה
-Backend ID|| מזהה Backend
-Requests|| בקשות
-Failed REQ|| מענה נכשל
-Failed RES|| RES נכשלה
-Truncated Resp TC|| Resp TC TC
-Extended DNS Big|| הרחבת DNS גדול
-Extended DNS TC|| מורחב DNS TC
-No Error|| אין שגיאה
-Refused|| סירב
-Non-existent Domain|| דומיין שאינו קיים
-Notimp|| פגם
-Bad Version|| גרסה רעה
-Format Error|| שגיאת פורמט
-Dropped|| נפל
-V6||  V6
-Extended DNS|| DNS מורחב
-Extended DNS-ClientSub|| DNS-ClientSub מורחב
-Client|| לקוח
-Listerner|| מאזין
-Value|| ערך
-Custom IP|| IP מותאם אישית
-Policy|| מדיניות
-Remote URL|| כתובת URL מרחוק
-Frequency|| תדר
-Rule|| כלל
-Limit RST request per source IP|| הגבל בקשת RST למקור IP
-Total connections per source IP|| סה&quot;כ חיבורים למקור IP
-Limit Burst|| הגבל פרץ
-Total connections limit per source IP|| סך כל החיבורים למקור IP
-Hits|| להיטים
-Time|| זְמַן
-Log level|| רמת יומן
-Only logging|| רק רישום
-Local traffic|| תנועה מקומית
-Queue size|| גודל התור
-Max. Threads|| מקסימלי חוטים
-Cache size|| גודל המטמון
-Cache time|| זמן מטמון
-Check Request Body|| בדוק את גוף הבקשה
-Check Response Body|| בדוק את גוף התגובה
-Request Body Limit|| בקש מגבלת גוף
-Default Phase|| שלב ברירת מחדל
-Default Log|| יומן ברירת מחדל
-Rules|| חוקי
-Rule Type|| סוג כלל
-Mark|| סמן
-Phase|| שלב
-Resolution|| החלטה
-Rule ID|| מזהה כלל
-Skip|| לדלג
-Skip after|| דלג אחרי
-Execute|| לבצע
-Description|| תיאור
-Interval|| הפסקה
-Cut connections|| גזור קשרים
-Command|| פיקוד
-MAC|| מק
-Netmask|| מסכת רשת
-Farms|| חוות
-Gateway|| Gateway
-IP Address|| כתובת IP
-CIDR|| CIDR
-Mode|| מצב
-Slaves|| עבדים
-Parent Interface|| ממשק האב
-Address|| כתובת
-Host|| מארח
-Date|| תַאֲרִיך
-Alert|| ערני
-Password|| סיסמה
-Log|| התחבר
-ZAPI Permissions|| הרשאות ZAPI
-GUI Permissions|| הרשאות GUI
-Role|| תפקיד
-Rules Date|| תאריך כללים
-Scheduled|| מתוזמנות
-Variable|| מִשְׁתַנֶה
-Variable's argument|| טיעון המשתנה
-Ignore this <i>variable</i> for the match|| התעלם מזה <i>משתנה</i> למשחק
-Count elements of <i>variables</i>|| ספירת אלמנטים של <i>משתנים</i>
-Variables|| משתנים
-Transformations|| תמורות
-Operating|| הפעלה
-Multi Match|| רב התאמה
-Not Match|| לא תואם
-Operator|| מַפעִיל
-Module|| מודול
-Floating IP|| IP צף
-Interfaces|| ממשקים
-Group|| קְבוּצָה
-Virtual Interface|| ממשק וירטואלי
-URL|| כתובת האתר
-From|| מ
-Table|| טבלתי
-To|| ל
-Route|| מסלול
-Via|| בְּאֶמצָעוּת
-Backend Alias|| כינוי לאחור
-Version|| גִרְסָה
-System|| מערכת
-Failback|| שגיאה
-Check Interval|| בדוק את המרווח
-Node|| צומת
-Message|| הערות נוספות 
-Hostname|| שם מארח
-No {{param}} found|| לא נמצא {{param}}
-Edit|| ערוך
-Global|| גלוֹבָּלִי
-Services|| שירותים
-Select a {{param}}|| בחר {{param}}
-Resources|| מידע נוסף
-Backends|| Backends
-Strict Transport Security|| אבטחה תחבורה קפדנית
-Farms Stats|| סטטיסטיקה
-Copy to clipboard|| העתק ללוח
-Hide nodes|| הסתר צמתים
-Show nodes|| הצג צמתים
-Hide backends|| הסתר פגמים
-Show backends|| הצג פגועים
-Hide graphs|| הסתר גרפים
-Show graphs|| הצג תרשימים
-Sessions|| מפגשים
-Clients|| לקוחות
-Servers|| שרתים
-Extended|| מורחב
-Nodes|| צמתים
-Number of lines|| מספר השורות
-View All|| כל בגדי הים שלנו
-View Less|| הצג פחות
-Valid|| תקף
-Expired|| פג תוקף
-Near to expire|| קרוב לפוג
-True|| נכון
-False|| שקר
-No configured|| לא מוגדר
-In use by bonding interface|| בשימוש על ידי ממשק מליטה
-The cluster service interface has to be changed or disabled before to be able to modify this interface|| יש לשנות או להשבית את ממשק שירות האשכול לפני שתוכל לשנות ממשק זה
-Enabled|| מופעל
-Disabled|| לנכים
-Needed restart|| דרושה הפעלה מחדש
-Critical|| קריטי
-Problem|| בעיה
-Maintenance|| תחזוקה
-Master|| אב
-Backup|| גיבוי
-Not configured|| לא מוגדר
-Undefined|| לא מוגדר
-Daily Graph|| גרף יומי
-Weekly Graph|| גרף שבועי
-Monthly Graph|| תרשים חודשי
-Yearly Graph|| גרף שנתי
-Documentation|| תיעוד
-Reload farmguardian list|| טען מחדש את רשימת שומרי החווה
-Cookie|| עוגיה
-Zones|| אזורים
-System Stats|| סטטיסטיקת מערכת
-CPU|| CPU
-Memory|| זכרון
-Load|| לִטעוֹן
-Cores|| ליבות
-Traffic In|| תנועה פנימה
-Traffic Out|| תנועה בחוץ
-Nothing|| שום דבר
-Custom|| מותאם אישית
-All interfaces|| כל הממשקים
-All farms|| כל החוות
-Default State|| מצב ברירת מחדל
-Up||  Up
-Down|| למטה
-Installed and updated|| מותקן ומעודכן
-Not installed|| לא מותקן
-Updates available|| עדכונים זמינים
-Interface|| מִמְשָׁק
-Type|| סוּג
-Zone|| אזור
-Transformation|| טרנספורמציה
-Backend|| קצה אחורי
-Condition|| מַצָב
-Domain|| תְחוּם
-Resource|| משאב
-Graph|| גרף
-Session|| מוֹשָׁב
-IP alias|| כינוי IP
-Interface alias|| כינוי ממשק
-Backup|| גיבוי
-Farm|| משק
-Header|| כותרת
-Pattern|| תבנית
-Source|| מָקוֹר
-Blacklist|| רשימה שחורה
-Farmguardian|| חקלאי
-Package|| חֲבִילָה
-DoS rule|| כלל ה- DoS
-RBL rule|| כלל RBL
-WAF ruleset|| ערכת כללים של WAF
-VLAN|| VLAN
-Routing Rule|| כלל ניתוב
-Routing Table|| טבלת ניתוב
-Needed restart|| דרושה הפעלה מחדש
-There're changes that need to be applied, restart the farm to apply them!|| יש שינויים שצריך להחיל, הפעל מחדש את החווה כדי ליישם אותם!
-Close|| לִסְגוֹר
-The <strong> factory reset </strong> has been completed successfully.||   <strong> איפוס להגדרות יצרן </strong> הושלם בהצלחה.
-The interface <strong> {{name}} </strong> has been updated successfully.|| הממשק <strong> {{name}} </strong> עודכן בהצלחה.
-The <strong>HTTP Service</strong> has been updated successfully.||   <strong>שירות HTTP</strong> עודכן בהצלחה.
-An error has occurred on the server, try again later|| אירעה שגיאה בשרת, נסה שוב מאוחר יותר
-Connection to web server failed|| החיבור לשרת האינטרנט נכשל
-An unexpected error has occurred|| שגיאה בלתי צפויה התרחשה
-System Information|| מערכת מידע
-ZEVENET Version|| גרסת ZEVENET
-Appliance Version|| גרסת מכשיר
-Kernel Version|| גרסת הליבה
-System Date|| תאריך מערכת
-NIC Traffic|| תנועה NIC
-Total number of connections in realtime.|| המספר הכולל של חיבורים בזמן אמת.
-Connections|| חיבורי
-Professional Products|| מוצרים מקצועיים
-Professional Services|| שירותים מקצועיים
-No Virtual Interfaces|| אין ממשקים וירטואליים
-No VLANs|| אין VLANs
-Create DSLB Farm|| יצירת חוות DSLB
-Create Virtual interface|| יצירת ממשק וירטואלי
-Create GSLB Farm|| צור חוות GSLB
-Generate CSR|| צור CSR
-Create LSLB Farm|| יצירת LSLB משק
-Upload SSL Certificate|| העלה תעודת SSL
-Create Blacklist|| צור רשימה שחורה
-Create DoS rule|| צור כלל DoS
-Create RBL rule|| צור כלל RBL
-Create WAF ruleset|| צור ערכת כללים של WAF
-Create Rule|| צור כלל
-Create Farmguardian|| צור Farmguardian
-Create Bonding interface|| יצירת ממשק מליטה
-Create VLAN interface|| צור ממשק VLAN
-Upload Backup|| העלה גיבוי
-Create Backup|| צור גיבוי
-Create User|| צור משתמש
-Create Group|| צור קבוצה
-Create Role|| צור תפקיד
-Create Route|| צור מסלול
-is required|| נדרש
-is not valid, it only is possible alphanumeric characters and dash (-).|| אינו חוקי, זה רק תווים אלפאנומריים מקף (-).
-Only editable when the farm is down.|| רק לעריכה כאשר החווה היא למטה.
-Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)|| יציאה וירטואלית אינה תקפה, ניתן להגדיר יציאה יחידה, מספר יציאות או טווחי יציאות (למשל: 80 או 80,81 או 80: 90)
-has to be greater than 0|| צריך להיות גדול מ- 0
-Redirect should be a URL (http(s)://...)|| הפניה מחדש צריכה להיות URL (http (ים): // ...)
-Country can only have two characters.|| מדינה יכולה להכיל רק שתי תווים.
-E-mail has to be a valid email|| דואר אלקטרוני צריך להיות דוא&quot;ל חוקי
-The password does not match|| הסיסמה אינה תואמת
-has to be a value between {{min}} and {{max}}|| צריך להיות ערך בין {{דק}} ל- {{מקס}}
-Global Settings|| הגדרות כלליות
-IPDS Settings|| הגדרות IPDS
-Advanced Settings|| הגדרות מתקדמות
-Domains Settings|| הגדרות דומיינים
-Rules Settings|| הגדרות חוקים
-Blacklists rules|| כללים על רשימות שחורות
-DoS rules|| כללי ה- DoS
-RBL rules|| כללי RBL
-WAF rulesets|| ערכות כללים של WAF
-Services Settings|| הגדרות שירות
-Zones Settings|| הגדרות אזורים
-Global Filter|| פילטר גלובלי
-Refresh|| לרענן
-Seconds|| שניות
-per second|| לשנייה
-Refresh status every|| רענן סטטוס כל
-Refresh stats every|| רענן סטטיסטיקות בכל
-Not refresh|| לא לרענן
-Farms Settings|| הגדרות חוות
-Minutes|| דקות
-Hours|| שעות
-Monday|| יום שני
-Tuesday|| יום שלישי
-Wednesday|| יום רביעי
-Thursday|| יום חמישי
-Friday|| יום שישי
-Saturday|| יום שבת
-Sunday|| יום ראשון
-Deny|| להכחיש
-Allow|| להתיר
-Daily|| יומי
-Weekly|| שבועי
-Monthly|| ירחון
-entries|| ערכים
-threads|| אשכולות
-Sort|| סוג
-SORT MODE: Drag and drop the service to the desired position.|| מצב SORT: גרור ושחרר את השירות למיקום הרצוי.
-The farm will be restarted automatically.|| החווה תופעל מחדש באופן אוטומטי.
-bytes|| בתים
-Default is|| ברירת המחדל היא
-Optional|| אופציונלי
-days|| ימים
-Go to|| תיכנס לאתר
-Edit in form mode|| ערוך במצב טופס
-Edit in raw mode|| ערוך במצב גלם
-Create in form mode|| צור במצב טופס
-Create in raw mode|| צור במצב גולמי
-Available certificates|| תעודות זמינות
-Enabled certificates|| אישורים מופעלים
-Search certificate|| תעודת חיפוש
-Available blacklists|| רשימות שחורות זמינות
-Enabled blacklists|| רשימות שחורות מופעלות
-Search blacklist|| חפש ברשימה השחורה
-Available DoS rules|| כללי DoS זמינים
-Enabled DoS rules|| כללי DoS מופעלים
-Search DoS rule|| חפש כלל DoS
-Available RBL rules|| כללי RBL זמינים
-Enabled RBL rules|| חוקי RBL מופעלים
-Search RBL rule|| חפש כלל RBL
-Available WAF rulesets|| ערכות כללים זמינות של WAF
-Enabled WAF rulesets|| ערכות כללים של WAF מופעלות
-Search WAF ruleset|| חפש ערכת כללים של WAF
-Available farms|| חוות זמינות
-Enabled farms|| חוות מופעלות
-Search farm|| בחוות חיפוש
-Available domains|| דומיינים זמינים
-Enabled domains|| דומיינים מופעלים
-Search domain|| תחום חיפוש
-Enabled rules|| כללים מופעלים
-Disabled rules|| חוקים נכים
-Search rule|| כלל חיפוש
-Available NICs|| NIC זמין
-Enabled NICs|| NICs מופעלים
-Search NIC|| חפש ב- NIC
-Search slaves|| חיפוש עבדים
-Slaves NICs|| NICs עבדים
-Available users|| משתמשים זמינים
-Enabled users|| משתמשים מופעלים
-Search user|| חפש משתמש
-Available interfaces|| ממשקים זמינים
-Enabled interfaces|| ממשקים מופעלים
-Search interface|| ממשק חיפוש
-Managed interfaces|| ממשקים מנוהלים
-Unmanaged interfaces|| ממשקים לא מנוהלים
-Search interface|| ממשק חיפוש
-LSLB Farm List|| LSLB רשימת החווה
-GSLB Farm List|| רשימת משק GSLB
-DSLB Farm List|| רשימת החוות DSLB
-Copy farm|| חוות העתקות
-Farm to copy|| חווה להעתקה
-Select the farm to copy|| בחר בחווה להעתקה
-Weight: connection linear dispatching by weight|| משקל: חיבור לינארי המשגר ​​לפי משקל
-Priority: connections always to the most prio available|| עדיפות: חיבורים תמיד לפריו הכי זמין
-Source Hash: Hash per Source IP and Source Port|| מקור Hash: Hash לכל מקור IP ו יציאת מקור
-Simple Source Hash: Hash per Source IP only|| פשוט מקור Hash: Hash לכל מקור IP בלבד
-Symmetric Hash: Round trip hash per IP and Port|| סימטרי Hash: חשיש נסיעה הלוך ושוב לכל IP ופורט
-Round Robin: Sequential backend selection|| סיבוב רובין: בחירת backend עוקבת
-Least Connections: connections to the least open conns available|| פחות חיבורים: חיבורים לחיבורים הפחות פתוחים הקיימים
-Disabled|| לנכים
-Enabled|| מופעל
-Enabled and compare backends|| מופעל והשווה מגבי רוח
-No persistence|| אין התמדה
-IP: Source IP|| IP: מקור IP
-Port: Source Por|| נמל: מקור פור
-MAC: Source MAC|| MAC: מקור MAC
-Source IP and Source Port|| מקור IP ו יציאת מקור
-Source IP and Destination Port|| מקור IP ופורט יעד
-No persistence|| אין התמדה
-IP: Client address|| IP: כתובת לקוח
-BASIC: Basic authentication|| בסיסי: אימות בסיסי
-URL: A request parameter|| כתובת אתר: פרמטר בקשה
-PARM: An URI parameter|| PARM: פרמטר URI
-COOKIE: A certain cookie|| COOKIE: עוגיה מסוימת
-HEADER: A certain request header|| HEADER: כותרת בקשה מסוימת
-The farm has been updated successfully|| החווה עודכנה בהצלחה
-The farm <strong> {{param}} </strong> has been deleted successfully.|| החווה <strong> {{param}} </strong> נמחק בהצלחה.
-The farm <strong> {{param}} </strong> has been started successfully.|| החווה <strong> {{param}} </strong> התחיל בהצלחה.
-The farm <strong> {{param}} </strong> has been restarted successfully.|| החווה <strong> {{param}} </strong> הופעל מחדש בהצלחה.
-The farm <strong> {{param}} </strong> has been stopped successfully.|| החווה <strong> {{param}} </strong> הופסק בהצלחה.
-The farm <strong> {{param}} </strong> has been created successfully.|| החווה <strong> {{param}} </strong> נוצרה בהצלחה.
-The backend has been created successfully.|| ה- backend נוצר בהצלחה.
-The backend has been updated successfully.|| הנדנד עבר עדכון בהצלחה.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| את backend <strong> {{param}} </strong> נמחק בהצלחה.
-The backend <strong> {{param}} </strong> has been put in maintenance successfully.|| את backend <strong> {{param}} </strong> הוכנס לתחזוקה בהצלחה.
-The backend <strong> {{param}} </strong> has been upped successfully.|| את backend <strong> {{param}} </strong> הועלה בהצלחה.
-Backends with high priority value <strong> {{param}} </strong> will not be used.|| Backends עם ערך עדיפות גבוה <strong> {{param}} </strong> לא ישמש.
-The resource has been created successfully.|| המשאב נוצר בהצלחה.
-The resource has been updated successfully.|| המשאב עודכן בהצלחה.
-The backend <strong> {{param}} </strong> has been deleted successfully.|| את backend <strong> {{param}} </strong> נמחק בהצלחה.
-The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.|| תעודת ה- SSL <strong> {{param}} </strong> נוסף לחווה בהצלחה.
-The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.|| תעודת ה- SSL <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
-The SSL certificate <strong> {{param}} </strong> has been sorted successfully.|| תעודת ה- SSL <strong> {{param}} </strong> ממוין בהצלחה.
-The service <strong> {{param}} </strong> has been created successfully.|| השירות <strong> {{param}} </strong> נוצרה בהצלחה.
-The service <strong> {{param}} </strong> has been updated successfully.|| השירות <strong> {{param}} </strong> עודכן בהצלחה.
-The service <strong> {{param}} </strong> has been deleted successfully.|| השירות <strong> {{param}} </strong> נמחק בהצלחה.
-The service <strong> {{param}} </strong> has been moved successfully.|| השירות <strong> {{param}} </strong> הועבר בהצלחה.
-The farmguardians list has been reloaded successfully.|| רשימת שומרי החווה הועלה מחדש בהצלחה.
-The farmguardian has been disabled successfully.|| החוואי הושבת בהצלחה.
-The farmguardian has been changed to {{param}} successfully.|| שומר החלב השתנה ל- {{param}} בהצלחה.
-The zone <strong> {{param}} </strong> has been created successfully.|| האזור <strong> {{param}} </strong> נוצרה בהצלחה.
-The zone <strong> {{param}} </strong> has been updated successfully.|| האזור <strong> {{param}} </strong> עודכן בהצלחה.
-The zone <strong> {{param}} </strong> has been deleted successfully.|| האזור <strong> {{param}} </strong> נמחק בהצלחה.
-The blacklist <strong> {{param}} </strong> has been added to the farm successfully.|| הרשימה השחורה <strong> {{param}} </strong> נוסף לחווה בהצלחה.
-The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.|| הרשימה השחורה <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
-The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.|| כלל ה- DoS <strong> {{param}} </strong> נוסף לחווה בהצלחה.
-The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.|| כלל ה- DoS <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
-The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.|| כלל RBL <strong> {{param}} </strong> נוסף לחווה בהצלחה.
-The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.|| כלל RBL <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
-The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.|| מערכת ה- WAF קובעת <strong> {{param}} </strong> ממוין בהצלחה.
-The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.|| מערכת ה- WAF קובעת <strong> {{param}} </strong> נוסף לחווה בהצלחה.
-The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.|| מערכת ה- WAF קובעת <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
-The profile has been changed to {{param}} successfully.|| הפרופיל השתנה ל- {{param}} בהצלחה.
-The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.|| האלגוריתם השתנה לאלגוריתם המשקל, מכיוון שהאלגוריתם של Connections המועט ביותר אינו מותר בסוג ה- NAT שנבחר. אתה יכול לבחור אלגוריתם אחר מהכרטיסייה שירותים.
-The request header has been saved successfully.|| כותרת הבקשה נשמרה בהצלחה.
-The request header has been deleted successfully.|| כותרת הבקשה נמחקה בהצלחה.
-The request header pattern has been saved successfully.|| תבנית כותרת הבקשה נשמרה בהצלחה.
-The request header pattern has been deleted successfully.|| תבנית כותרת הבקשה נמחקה בהצלחה.
-The response header has been saved successfully.|| כותרת התגובה נשמרה בהצלחה.
-The response header has been deleted successfully.|| כותרת התגובה נמחקה בהצלחה.
-The response header pattern has been saved successfully.|| תבנית כותרת התגובה נשמרה בהצלחה.
-The response header pattern has been deleted successfully.|| תבנית כותרת התגובה נמחקה בהצלחה.
-The service has to have one backend at least.|| לשירות צריך להיות תומך אחד לפחות.
-Are you sure you want to delete the farm {{param}}?|| האם אתה בטוח שברצונך למחוק את החווה {{param}}?
-Are you sure you want to delete the selected farms?|| האם אתה בטוח שברצונך למחוק את החוות שנבחרו?
-Are you sure you want to delete the service {{param}}?|| האם אתה בטוח שברצונך למחוק את השירות {{param}}?
-Are you sure you want to delete the zone {{param}}?|| האם אתה בטוח שברצונך למחוק את האזור {{param}}?
-Are you sure you want to delete the selected resources?|| האם אתה בטוח שברצונך למחוק את המשאבים שנבחרו?
-Are you sure you want to delete the resource {{param}}?|| האם אתה בטוח שברצונך למחוק את המשאב {{param}}?
-Are you sure you want to delete the backend {{param}}?|| האם אתה בטוח שברצונך למחוק את ה- backend {{param}}?
-Are you sure you want to delete the selected backends?|| האם אתה בטוח שברצונך למחוק את הגבולות שנבחרו?
-Are you sure you want to delete the request header with ID {{id}}?|| האם אתה בטוח שברצונך למחוק את כותרת הבקשה עם המזהה {{id}}?
-Are you sure you want to delete the request header pattern with ID {{id}}?|| האם אתה בטוח שברצונך למחוק את תבנית כותרת הבקשה עם המזהה {{id}}?
-Are you sure you want to delete the selected request headers?|| האם אתה בטוח שברצונך למחוק את כותרות הבקשות שנבחרו?
-Are you sure you want to delete the selected request headers patterns?|| האם אתה בטוח שברצונך למחוק את דפוסי כותרות הבקשות שנבחרו?
-Are you sure you want to delete the response header with ID {{id}}?|| האם אתה בטוח שברצונך למחוק את כותרת התגובה עם המזהה {{id}}?
-Are you sure you want to delete the response header pattern with ID {{id}}?|| האם אתה בטוח שברצונך למחוק את תבנית כותרת התגובה עם המזהה {{id}}?
-Are you sure you want to delete the selected response headers?|| האם אתה בטוח שברצונך למחוק את כותרות התגובה שנבחרו?
-Are you sure you want to delete the selected response headers patterns?|| האם אתה בטוח שברצונך למחוק את דפוסי כותרות התגובה שנבחרו?
-Are you sure you want to delete the {{param}} blacklist?|| האם אתה בטוח שברצונך למחוק את הרשימה השחורה {{param}}?
-Are you sure you want to delete the selected blacklists?|| האם אתה בטוח שברצונך למחוק את הרשימות השחורות שנבחרו?
-The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?|| שער הממשק {{param}} יימחק ויוחלף לחווה זו. האם אתה מקווה להמשיך?
-SSL Certificate list|| רשימת תעודות SSL
-Choose one certificate|| בחר תעודה אחת
-Choose one or more files|| בחר קובץ אחד או יותר
-Selected files|| קבצים שנבחרו
-Descriptive text, this name will be used to identify this certificate.|| טקסט תיאורי, שם זה ישמש לזיהוי אישור זה.
-City where your organization is located.|| עיר שבה נמצא הארגון שלך.
-Country (two characters) where your organization is located.|| ארץ (שני תווים) שבהם נמצא הארגון שלך.
-State or province where your organization is located.|| מדינה או מחוז שבהם נמצא הארגון שלך.
-FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.|| FQDN של השרת. דוגמה: domain.com, mail.domain.com או * .domain.com.
-The full legal name of your organization/company (ex.: ZEVENET Co.)|| השם החוקי המלא של הארגון / החברה שלך (למשל: ZEVENET Co.)
-Your department; such as 'IT','Web', 'Office', etc.|| המחלקה שלך; כגון 'IT', 'אינטרנט', 'משרד' וכו '.
-Your email address|| כתובת הדוא&quot;ל שלך
-The CSR <strong> {{param}} </strong> has been generated successfully.|| אחריות חברתית <strong> {{param}} </strong> נוצרה בהצלחה.
-The certificate <strong> {{param}} </strong> has been uploaded successfully.|| התעודה <strong> {{param}} </strong> הועלה בהצלחה.
-The certificate <strong> {{param}} </strong> has been deleted successfully.|| התעודה <strong> {{param}} </strong> נמחק בהצלחה.
-The certificate <strong> {{param}} </strong> has been downloaded successfully.|| התעודה <strong> {{param}} </strong> הורד בהצלחה.
-Are you sure you want to delete the certificate {{param}}?|| האם אתה בטוח שברצונך למחוק את האישור {{param}}?
-Are you sure you want to delete the selected certificates?|| האם אתה בטוח שברצונך למחוק את האישורים שנבחרו?
-Updates|| עדכונים
-Update list|| רשימת עדכונים
-Period time|| זמן מחזור
-Exact time|| זמן מדויק
-Daily every|| מדי יום כל יום
-Day of the week|| יום בשבוע
-Day of the month|| יום החודש
-Sources|| מקורות
-DoS rules IPDS|| חוקי ה- DoS חוקיים
-RBL rules IPDS|| RBL פוסק ב- IPDS
-Copy rule|| העתק כלל
-Rule to copy|| כלל להעתיק
-Ruleset to copy|| כללים להעתיק
-Select the rule to copy|| בחר את הכלל להעתקה
-Select the ruleset to copy|| בחר בערכת הכללים להעתקה
-Custom Domain List|| רשימת דומיינים מותאמים אישית
-Preloaded Domain List|| רשימת תחומים שנטענו מראש
-WAF rulesets IPDS|| מכשירי ה- IPDS של קבצי WAF קובעים
-Default Action|| פעולת ברירת מחדל
-Disable Rules|| השבת כללים
-IPDS Package Updates|| עדכוני חבילת IPDS
-Conditions|| תנאים
-Flow|| זרימה
-WAF File List|| רשימת קבצים של WAF
-WAF file|| קובץ WAF
-Content File|| קובץ תוכן
-Select files|| בחר קבצים
-Select a file|| בחר קובץ
-Select transformations|| בחר טרנספורמציות
-Connection limit per second.|| מגבלת חיבור לשנייה.
-Total connections limit per source IP.|| מגבלת החיבורים הכוללת לכל IP מקור.
-Check bogus TCP flags.|| בדוק דגלי TCP מזויפים.
-Limit RST request per second.|| הגבל את בקשת RST לשנייה.
-Allow: Finish the WAF processing and complete the HTTP transaction|| אפשר: סיים את עיבוד WAF והשלים את עסקת HTTP
-Pass: Continue executing the rules|| מעבר: המשך לבצע את הכללים
-Deny: Cut the request and not execute rules left|| דחה: חתוך את הבקשה ולא בצע כללים שנשארו
-Redirect: The client received a URL to redirect|| ניתוב מחדש: הלקוח קיבל כתובת אתר להפניה מחדש
-Default action: The default action of this ruleset|| פעולת ברירת מחדל: פעולת ברירת המחדל של מערך כללי זה
-Request headers are received|| כותרות הבקשה מתקבלות
-Request body is received|| גוף הבקשה מתקבל
-Response headers are received|| כותרות תגובה מתקבלות
-Response body is received|| גוף התגובה מתקבל
-Before than logging|| לפני ההתחברות
-LUA Script|| תסריט LUA
-Data file|| קובץ מידע
-It is a collection with the values of arguments in a request.|| זהו אוסף עם ערכי טיעונים בבקשה.
-It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.|| זהו אוסף עם ערכי ארגומנטים בבקשת JSON. משתנה זה יהיה זמין במקרה WAF מנתח את הארגומנטים JSON, על זה, להגדיר את הכלל REQUEST-901-INITIALIZATION צריך להיות מופעל.
-The total size of the request parameters. The files are excluded.|| הגודל הכולל של פרמטרי הבקשה. הקבצים אינם נכללים.
-It is a collection with the names of the arguments in a request.|| זהו אוסף עם שמות הטיעונים בבקשה.
-It contains the file names in the user filesys. Only when the data is multipart/form-data.|| הוא מכיל את שמות הקבצים ב filesys המשתמש. רק כאשר הנתונים הם multipart / form-data.
-It is the total size of the files in a request. Only when the data is multipart/form-data.|| זהו הגודל הכולל של הקבצים בבקשה. רק כאשר הנתונים הם multipart / form-data.
-It is a list of filenames used to upload the files. Only when the data is multipart/form-data.|| זוהי רשימה של שמות קבצים המשמשים להעלות את הקבצים. רק כאשר הנתונים הם multipart / form-data.
-It contains a list of individual file sizes. Only when the data is multipart/form-data.|| הוא מכיל רשימה של גדלי קבצים נפרדים. רק כאשר הנתונים הם multipart / form-data.
-This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.|| משתנה זה הוא 1 אם פורמט גוף הבקשה אינו נכון עבור JSON או XML, אחרת יש לו את הערך 0.
-It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.|| זוהי בקשת הגוף הגולמי. אם הבקשה אינה מופיעה בכותרת &quot;application / x-www-form-urlencoded&quot;, יש להשתמש ב &quot;ctl: forceRequestBodyVariable&quot; בשלב REQUEST_HEADER.
-It is the number of bytes of the request body.|| זהו מספר הבתים של גוף הבקשה.
-It is a list with all request cookies values.|| זוהי רשימה עם כל הערכים בקשת עוגיות.
-It is a list with all request cookies names.|| זוהי רשימה עם כל עוגיות בקשת שמות.
-This variable has all the request headers.|| משתנה זה כולל את כל כותרות הבקשה.
-This variable has a list with the request headers names.|| משתנה זה כולל רשימה עם שמות כותרות הבקשה.
-It is the request method.|| זוהי שיטת הבקשה.
-This variable holds the request HTTP version protocol.|| משתנה זה מחייב את פרוטוקול בקשת HTTP גירסה.
-It is the URI request path. The virtual host is excluded.|| זהו נתיב הבקשה של URI. המארח הווירטואלי אינו נכלל.
-It is the information before than the URI path.|| זהו המידע לפני נתיב URI.
-It is the full request.|| זוהי הבקשה המלאה.
-It is the number of bytes that full request can have.|| זה מספר בתים כי הבקשה המלאה יכולה להיות.
-It is the raw body response.|| זוהי תגובת הגוף הגלם.
-It is the number of bytes of the response body.|| זהו מספר הבתים של גוף התגובה.
-This variable has all response headers.|| משתנה זה כולל את כל כותרות התגובה.
-This variable has a list with the response headers names.|| משתנה זה כולל רשימה עם שמות כותרות התגובה.
-This variable holds the response HTTP version protocol.|| משתנה זה מכיל את פרוטוקול התגובה HTTP גירסה.
-It is the response HTTP code.|| זהו קוד HTTP של התגובה.
-It is the IP address of the client.|| זוהי כתובת ה- IP של הלקוח.
-It is the port where the client initializes the connection.|| זהו היציאה שבה הלקוח מאתחל את החיבור.
-It is the name of the authenticated user.|| זהו שם המשתמש המאומת.
-It is the server time. The format is hours:minutes:seconds.|| זהו זמן השרת. הפורמט הוא שעות: דקות: שניות.
-It is the number of milliseconds since the beginning of the current transaction.|| זה מספר של אלפיות השנייה מאז תחילת העסקה הנוכחית.
-It is the field filename in a multipart request.|| זהו שם הקובץ בשדה בקשה מרובת אתרים.
-It is the field name in a multipart request.|| זהו שם השדה בבקשה מרובת אתרים.
-It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.|| זהו הערך התואם בפעולת ההתאמה האחרונה. ערך זה אינו זקוק לאפשרות הלכידה, אך הוא מוחלף בכל פעולת התאמה.
-It is a list of all matched values.|| זוהי רשימה של כל הערכים התואמים.
-It is the IP address of the server.|| זוהי כתובת ה- IP של השרת.
-It is the virtual host, it gets from the request URI.|| זהו המארח הווירטואלי, הוא מקבל מ URI הבקשה.
-It is the environment variables of the WAF.|| זהו משתני הסביבה של WAF.
-It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.|| זהו אוסף של משתנים לעסקה הנוכחית. משתנים אלו יוסרו עם השלמת העסקה. המשתנים TX: 0-TX: 9 שומר את הערכים שנלכדו עם האופרטורים strRegex או strPhrases.
-Decodes a Base64-encoded string.|| מחרוזת מחרוזת מקודדת Base64.
-Decodes a Base64-encoded string ignoring invalid characters.|| מחיקת מחרוזת המקודדת ב- BaseXNXX תוך התעלמות מתווים לא חוקיים.
-Decodes SQL hex data.|| Decodes SQL hex נתונים.
-Encodes using Base64 encoding.|| מקודד באמצעות קידוד Base64.
-Avoids the problem related with the escaped command line.|| נמנע מהבעיה הקשורה לשורת הפקודה שנמלטת.
-Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.|| ממיר כל אחת מתוויות הלבן (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) לחללים (ASCII 0x20), דוחסת מספר תווי שטח רצופים לאחד.
-Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).|| מפענח תווים המקודדים באמצעות כללי הבריחה של CSS 2.x. בפונקציה זו משתמשים רק עד שני בתים בתהליך הפענוח, כלומר מועיל לחשוף תווי ASCII המקודדים באמצעות קידוד CSS (שבדרך כלל לא היו מקודדים), או כדי למנוע התחמקות, שהיא שילוב של נטייה לאחור ולא תווים הקסדצימליים (לדוגמה, כן \ vascript שווה ל- javascript).
-Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.|| מפענח רצפי בריחה של ANSI C: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (הקסדצימלי), \\0OOO ​​(אוקטלי). קידודים לא חוקיים נותרים בפלט.
-Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).|| מחרוזת מחרוזת מקודדת באמצעות אותו אלגוריתם כמו זה המשמש hexEncode (ראה הערך הבא).
-Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.|| מחרוזת מחרוזת (אולי המכילה תווים בינאריים) על ידי החלפת כל בית קלט עם שתי תווים הקסדצימליים. לדוגמה, xyz מקודד כ- 78797a.
-Decodes the characters encoded as HTML entities.|| מחיקת התווים המקודדים כישות HTML.
-Decodes JavaScript escape sequences.|| Decodes JavaScript sequences לברוח.
-Looks up the length of the input string in bytes, placing it (as string) in output.|| מחפש את אורך מחרוזת הקלט בבתים, ומניחים אותה (כמחרוזת) בפלט.
-Converts all characters to lowercase using the current C locale.|| ממירה את כל התווים ל - אותיות קטנות באמצעות האזור C הנוכחי.
-Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| מחשבת hash של MD5 מהנתונים בכניסה. ה- Hash הממוחשב נמצא בצורה בינארית גולמית וייתכן שיהיה צורך לקודד אותו לטקסט שיודפס (או יומן). פונקציות Hash משמשות לרוב בשילוב עם hexEncode.
-Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.|| לא פונקציית טרנספורמציה ממשית, אלא הוראה להסרת פונקציות שינוי קודמות הקשורות לכלל הנוכחי.
-Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.|| מסיר חתכים מרובים, הפניות עצמיות של ספריות והפניות חזרה לספריות (למעט כאשר בתחילת הקלט) ממחרוזת הקלט.
-Same as normalizePath, but first converts backslash characters to forward slashes.|| כמו normalizePath, אבל תחילה ממיר תווים נטויים לאחור כדי להעביר חתכים.
-Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| מחשבת אפילו זוגיות של נתונים 7-bit מחליף את סיביות 8th של כל בית היעד עם קצת זוגיות מחושב.
-Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.|| מחשבת זוגיות משונה של נתונים 7-bit להחליף את סיביות 8th של כל בית היעד עם קצת זוגיות מחושב.
-Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.|| מחשבת אפס זוגיות של נתונים 7-bit להחליף את סיביות 8th של כל בייט היעד עם סיביות אפס קצת, המאפשר בדיקה של אפילו / זוגיות זוג מוזר נתונים 7-bit כמו נתונים ASCII7.
-Removes all NUL bytes from input.|| מסיר את כל NUL בתים מהקלט.
-Removes all whitespace characters from the input.|| מסיר את כל התווים מרווח הלבן מהקלט.
-Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.|| מחליף כל התרחשות של הערה בסגנון C (/ * ... * /) עם רווח יחיד (מספר התרחשויות רצופות שלא ידחסו אותן). הערות שלא הושלמו יוחלפו גם עם שטח (ASCII 0x20). עם זאת, לא תפעל סיום עצמאי של הערה (* /).
-Removes common comments chars (/*, */, –, #).|| מסיר תווי הערות נפוצים (/ *, * /, -, #).
-Replaces NUL bytes in input with space characters (ASCII 0x20).|| מחליף את NUL בייטים בקלט עם תווי רווח (ASCII 0x20).
-Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.|| פענוח מחרוזת קלט מקודדת. קידודים לא חוקיים (כלומר, אלה שמשתמשים בתווים שאינם הקסדצימליים, או אלה שנמצאים בסוף המחרוזת וחסרים בהם בית אחד או שניים) אינם מומרים, אך לא עולה שגיאה.
-Converts all characters to uppercase using the current C locale.|| ממיר את כל התווים לאותיות רישיות באמצעות האזור C הנוכחי.
-Like urlDecode, but with support for the Microsoft-specific %u encoding.|| כמו urlDecode, אבל עם תמיכה עבור% u ספציפיים קידוד.
-Encodes input string using URL encoding.|| מקודד מחרוזת קלט באמצעות קידוד כתובות URL.
-Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.|| ממיר את כל רצפי התווים של UTF-8 ל- Unicode. זה עוזר לנורמליזציה של קלט, במיוחד בשפות שאינן אנגליות, תוך צמצום שליליות שלילי שווא ושליליות שווא.
-Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.|| מחשבת חשיש SHA1 ממחרוזת הקלט. חשיש מחושב הוא בינארי טופס גלם ייתכן שיהיה צורך לקודד לתוך הטקסט להיות מודפס (או רשום). פונקציות Hash משמשים בדרך כלל בשילוב עם hexEncode.
-Removes whitespace from the left side of the input string.|| מסיר רווח לבן מהצד השמאלי של מחרוזת הקלט.
-Removes whitespace from the right side of the input string.|| מסיר רווח לבן מהצד הימני של מחרוזת הקלט.
-Removes whitespace from both the left and right sides of the input string.|| מסיר רווח לבן משני הצדדים השמאלניים והימניים של מחרוזת הקלט.
-The rule will match if any of the variables begin with the value of operating.|| הכלל יתאים אם כל המשתנים יתחילו עם הערך של ההפעלה.
-The rule will match if any of the variables contain the value of operating.|| הכלל יתאים אם כל המשתנים מכילים את הערך של ההפעלה.
-The rule will match if any of the variables contain a word as the string one.|| הכלל יתאים אם אחד מהמשתנים מכיל מילה כמחרוזת.
-The rule will match if any of the variables end with the value of operating.|| הכלל יתאים אם כל המשתנים מסתיימים בערך ההפעלה.
-The rule will match if any of the variables match with the value of operating.|| הכלל יתאים אם אחד מהמשתנים תואם לערך ההפעלה.
-The rule will match if any of the variables match with the value of operating.|| הכלל יתאים אם אחד מהמשתנים תואם לערך ההפעלה.
-The rule will match if any of the variables is identical to the value of operating.|| הכלל יתאים אם כל המשתנים זהים לערך ההפעלה.
-The rule will match if any of the variables match in the regular expression used in operating.|| הכלל יתאים אם אחד מהמשתנים יתאים בביטוי הרגיל המשמש להפעלה.
-The rule will match if any of the variables match in any of the values of the list operating.|| הכלל יתאים אם כל המשתנים יתאימו לכל אחד מערכי הרשימה.
-It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.|| זה אותו הדבר שמפעיל המפתח אך ההפעלה היא קובץ שבו הוא מוגדר כרשימת ביטויים.
-The rule will match if any of the variables is equal to the number used in operating.|| הכלל יתאים אם כל המשתנים שווים למספר המשמש בהפעלה.
-The rule will match if any of the variables is greater or equal to the number used in operating.|| הכלל יתאים אם כל המשתנים יהיו גדולים או שווים למספר הפעיל בהפעלה.
-The rule will match if any of the variables is greater than the number used in operating.|| הכלל יתאים אם אחד מהמשתנים יהיה גדול מהמספר המשמש להפעלה.
-The rule will match if any of the variables is lower or equal to the number used in operating.|| הכלל יתאים אם כל המשתנים יהיו נמוכים או שווים למספר הפעיל בהפעלה.
-The rule will match if any of the variables is lower than the number used in operating.|| הכלל יתאים אם כל המשתנים יהיו נמוכים מהמספר המשמש להפעלה.
-It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.|| זה חל על הזיהוי של SQL לרשימת משתנים. מפעיל זה אינו מצפה לכל הפעלה.
-It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.|| זה חל על הזיהוי של XSS לרשימת משתנים. מפעיל זה אינו מצפה לכל הפעלה.
-Try to match the IP or network segments of operating with the list of variables.|| נסה להתאים את קטעי ה- IP או הרשת של ההפעלה עם רשימת המשתנים.
-It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.|| זה זהה ל- ipMatch של המפעיל, אך זה מנסה להתאים את המשתנים לקובץ עם רשימת IP וקטעי רשת.
-It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.|| הוא בודק שמספר הבתים של המשתנים נמצא באחד מערכי ההפעלה. דוגמה לפעולה היא &quot;10, 13, 32-126&quot;.
-It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.|| זה מאמת נתונים מקודדים. יש להשתמש במפעיל זה רק עבור נתונים שאינם מקודדים נתונים בדרך כלל או עבור נתונים מקודדים מספר פעמים.
-It validates that variables are UTF-8. This operator does not expect any operating.|| זה מאמת שמשתנים הם UTF-8. מפעיל זה אינו מצפה להפעלה כלשהי.
-It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.|| היא מאמתת אם המשתנים הם מספר כרטיס אשראי. פרמטר זה מקבל ביטוי רגיל כתפעול, אם הוא תואם ואז הוא חל על כרטיס האשראי מאומת.
-It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.|| זה מאמת אם המשתנים הם מספר ביטוח לאומי של ארה&quot;ב. פרמטר זה מקבל ביטוי רגיל כפועל, אם הוא תואם אז הוא מחיל את אימות ה- SSN.
-It returns true always, forcing a match.|| זה חוזר נכון תמיד, מכריח התאמה.
-It returns false always, forcing a non-match.|| הוא חוזר כוזב תמיד, מכריח אי התאמה.
-A word is delimited by characters different to (a-z, 0-9 and '_')|| מילה תוחמת על ידי תווים שונים (az, 0-9 ו- '_')
-Can be a list of strings split by the character ,|| יכולה להיות רשימת מחרוזות המפוצלות לפי הדמות,
-Can be a list of strings split by the character |,|| יכולה להיות רשימת מחרוזות המפוצלות לפי הדמות |,
-Can be a list of strings split by a blank space|| יכולה להיות רשימת מחרוזות המפוצלות על ידי חלל ריק
-Can be a list of IPs or network segments split by the character ,|| יכולה להיות רשימה של כתובות IP או פלחי רשת המפוצלים לפי התו,
-Can be a list of IPs ranges split by the character ,|| יכולה להיות רשימה של טווחי IP המחולקים לפי הדמות,
-Can be selected more than one file.|| ניתן לבחור ביותר מקובץ אחד.
-It uses the PCRE engine, optional field.|| הוא משתמש במנוע PCRE, בשדה אופציונלי.
-It uses the PCRE engine, optional field.|| הוא משתמש במנוע PCRE, בשדה אופציונלי.
-It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.|| הוא משתמש במנוע PCRE. הביטוי (? I) משמש להתאמה באמצעות רישיות ללא רישיות.
-This operator does not expect any operating.|| מפעיל זה אינו מצפה להפעלה כלשהי.
-String.|| מחרוזת
-Number.|| מספר.
-The <strong> {{param}} </strong> blacklist has been created successfully.||   <strong> {{param}} </strong> הרשימה השחורה נוצרה בהצלחה.
-The <strong> {{param}} </strong> blacklist has been deleted successfully.||   <strong> {{param}} </strong> הרשימה השחורה נמחקה בהצלחה.
-The <strong> {{param}} </strong> blacklist has been stopped successfully.||   <strong> {{param}} </strong> הרשימה השחורה הופסקה בהצלחה.
-The <strong> {{param}} </strong> blacklist has been started successfully.||   <strong> {{param}} </strong> הרשימה השחורה התחילה בהצלחה.
-The <strong> {{param}} </strong> blacklist has been updated successfully.||   <strong> {{param}} </strong> הרשימה השחורה עודכנה בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the blacklist successfully.|| החווה <strong> {{param}} </strong> נוסף לרשימה השחורה בהצלחה.
-The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.|| החווה <strong> {{param}} </strong> הוסר מהרשימה השחורה בהצלחה.
-The <strong> {{param}} </strong> DoS rule has been created successfully.||   <strong> {{param}} </strong> כלל ה- DoS נוצר בהצלחה.
-The <strong> {{param}} </strong> DoS rule has been deleted successfully.||   <strong> {{param}} </strong> כלל DoS נמחק בהצלחה.
-The <strong> {{param}} </strong> DoS rule has been stopped successfully.||   <strong> {{param}} </strong> כלל ה- DoS הופסק בהצלחה.
-The <strong> {{param}} </strong> DoS rule has been started successfully.||   <strong> {{param}} </strong> כלל ה- DoS הוחל בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.|| החווה <strong> {{param}} </strong> נוסף לכלל ה- DoS בהצלחה.
-The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.|| החווה <strong> {{param}} </strong> הוסר מכלל ה- DoS בהצלחה.
-The source has been created successfully|| המקור נוצר בהצלחה
-The source has been updated successfully|| המקור עודכן בהצלחה
-The source <strong> {{param}} </strong> has been deleted successfully.|| המקור <strong> {{param}} </strong> נמחק בהצלחה.
-The <strong> {{param}} </strong> RBL rule has been created successfully.||   <strong> {{param}} </strong> כלל RBL נוצר בהצלחה.
-The <strong> {{param}} </strong> RBL rule has been updated successfully.||   <strong> {{param}} </strong> כלל RBL עודכן בהצלחה.
-The <strong> {{param}} </strong> RBL rule has been deleted successfully.||   <strong> {{param}} </strong> כלל RBL נמחק בהצלחה.
-The <strong> {{param}} </strong> RBL rule has been stopped successfully.||   <strong> {{param}} </strong> כלל RBL הופסק בהצלחה.
-The <strong> {{param}} </strong> RBL rule has been started successfully.||   <strong> {{param}} </strong> כלל RBL הוחל בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.|| החווה <strong> {{param}} </strong> נוסף לכלל RBL בהצלחה.
-The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| החווה <strong> {{param}} </strong> הוסר מכלל ה- RBL בהצלחה.
-The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.|| התחום <strong> {{param}} </strong> נוסף לכלל RBL בהצלחה.
-The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.|| התחום <strong> {{param}} </strong> הוסר מכלל ה- RBL בהצלחה.
-The domain <strong> {{param}} </strong> has been created successfully|| התחום <strong> {{param}} </strong> נוצר בהצלחה
-The domain has been updated successfully|| הדומיין עודכן בהצלחה
-The domain <strong> {{param}} </strong> has been deleted successfully.|| התחום <strong> {{param}} </strong> נמחק בהצלחה.
-The <strong> {{param}} </strong> WAF ruleset has been created successfully.||   <strong> {{param}} </strong> ערכת כללי WAF נוצרה בהצלחה.
-The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.||   <strong> {{param}} </strong> ערכת הכללים של WAF נמחקה בהצלחה.
-The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.||   <strong> {{param}} </strong> מערך הכללים של WAF הופסק בהצלחה.
-The <strong> {{param}} </strong> WAF ruleset has been started successfully.||   <strong> {{param}} </strong> ערכת כללי WAF הוחל בהצלחה.
-The <strong> {{param}} </strong> WAF ruleset has been updated successfully.||   <strong> {{param}} </strong> מערך הכללים של WAF עודכן בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.|| החווה <strong> {{param}} </strong> נוסף לסדרת הכללים של WAF בהצלחה.
-The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.|| החווה <strong> {{param}} </strong> הוסר מערך הכללים של WAF בהצלחה.
-The rule <strong> {{param}} </strong> has been created successfully.|| החוק <strong> {{param}} </strong> נוצרה בהצלחה.
-The rule <strong> {{param}} </strong> has been moved successfully.|| החוק <strong> {{param}} </strong> הועבר בהצלחה.
-The rule <strong> {{param}} </strong> has been deleted successfully.|| החוק <strong> {{param}} </strong> נמחק בהצלחה.
-The rule <strong> {{param}} </strong> has been updated successfully|| החוק <strong> {{param}} </strong> עודכן בהצלחה
-The match has been created successfully|| ההתאמה נוצרה בהצלחה
-The match <strong> {{param}} </strong> has been deleted successfully.|| המשחק <strong> {{param}} </strong> נמחק בהצלחה.
-The WAF file <strong> {{param}} </strong> has been created successfully.|| קובץ ה- WAF <strong> {{param}} </strong> נוצרה בהצלחה.
-The WAF file <strong> {{param}} </strong> has been deleted successfully.|| קובץ ה- WAF <strong> {{param}} </strong> נמחק בהצלחה.
-The WAF file <strong> {{param}} </strong> has been updated successfully.|| קובץ ה- WAF <strong> {{param}} </strong> עודכן בהצלחה.
-The <strong> IPDS package </strong> has been scheduled successfully.||   <strong> חבילת IPDS </strong> תוכנן בהצלחה.
-The <strong> IPDS package </strong> has been upgraded successfully.||   <strong> חבילת IPDS </strong> שודרג בהצלחה.
-Are you sure you want to delete the {{param}} blacklist?|| האם אתה בטוח שברצונך למחוק את הרשימה השחורה {{param}}?
-Are you sure you want to delete the selected blacklists?|| האם אתה בטוח שברצונך למחוק את הרשימות השחורות שנבחרו?
-Are you sure you want to delete the {{param}} DoS rule?|| האם אתה בטוח שברצונך למחוק את {{param}} כלל ה- DoS?
-Are you sure you want to delete the selected DoS rules?|| האם אתה בטוח שברצונך למחוק את כללי ה- DoS שנבחרו?
-Are you sure you want to delete the source {{param}}?|| האם אתה בטוח שברצונך למחוק את המקור {{param}}?
-Are you sure you want to delete the selected sources?|| האם אתה בטוח שברצונך למחוק את המקורות שנבחרו?
-Are you sure you want to delete the {{param}} RBL rule?|| האם אתה בטוח שברצונך למחוק את כלל {{param}} RBL?
-Are you sure you want to delete the selected RBL rules?|| האם אתה בטוח שברצונך למחוק את כללי RBL שנבחרו?
-Are you sure you want to delete the domain {{param}}?|| האם אתה בטוח שברצונך למחוק את הדומיין {{param}}?
-Are you sure you want to delete the selected domains?|| האם אתה בטוח שברצונך למחוק את הדומיינים שנבחרו?
-Are you sure you want to delete the {{param}} WAF ruleset?|| האם אתה בטוח שברצונך למחוק את ערכת הכללים של {{param}} WAF?
-Are you sure you want to delete the selected rulesets?|| האם אתה בטוח שברצונך למחוק את ערכות הכללים שנבחרו?
-'Are you sure you want to delete the rule {{param}}?|| 'האם אתה בטוח שברצונך למחוק את הכלל {{param}}?
-Are you sure you want to delete the match {{param}}?|| האם אתה בטוח שברצונך למחוק את ההתאמה {{param}}?
-Are you sure you want to delete the selected matches?|| האם אתה בטוח שברצונך למחוק את ההתאמות שנבחרו?
-Are you sure you want to delete the file {{param}}?|| האם אתה בטוח שברצונך למחוק את הקובץ {{param}}?
-Are you sure you want to delete the selected files?|| האם אתה בטוח שברצונך למחוק את הקבצים שנבחרו?
-System Graphs|| גרפים של המערכת
-Interfaces Graphs|| ממשקים גרפים
-Farms Graph|| תרשים חוות
-Farms Stats|| סטטיסטיקה
-System Stats|| סטטיסטיקת מערכת
-Network Stats|| סטטיסטיקות רשת
-Copy farmguardian|| להעתיק חקלאי
-Farmguardian to copy|| שומר חקלאי להעתקה
-Select the farmguardian to copy|| בחר את שומר החווה להעתקה
-Total Memory|| סה&quot;כ זיכרון
-Free Memory|| זיכרון חופשי
-Used Memory|| זיכרון משומש
-Buffers|| מאגרים
-Cached|| שמור במטמון
-Total Swap|| סה&quot;כ החלפה
-Free Swap|| החלפה חינם
-Used Swap|| החלפה משומשת
-Cached Swap|| החלפת מטמון
-Idle|| להתבטל
-Usage|| נוֹהָג
-Iowait|| Iowait
-Irq|| אירק
-Nice|| נֶחְמָד
-Softirq|| סופטירק
-Sys|| Sys
-User|| משתמש
-Last minute|| ברגע אחרון
-Last 5 minutes|| 5 דקות אחרונות
-Last 15 minutes|| 15 דקות אחרונות
-Are you sure you want to delete the {{param}} farmguardian?|| האם אתה בטוח שברצונך למחוק את {{param}} farmguardian?
-Are you sure you want to delete the selected farmguardians?|| האם אתה בטוח שברצונך למחוק את שומרי החקלאים שנבחרו?
-The <strong> {{param}} </strong> farmguardian has been created successfully.||   <strong> {{param}} </strong> Farmguardian נוצר בהצלחה.
-The <strong> {{param}} </strong> farmguardian has been deleted successfully.||   <strong> {{param}} </strong> Farmguardian נמחק בהצלחה.
-The <strong> {{param}} </strong> farmguardian has been updated successfully.||   <strong> {{param}} </strong> שומר החווה עודכן בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.|| החווה <strong> {{param}} </strong> נוסף לשומר החווה בהצלחה.
-The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.|| החווה <strong> {{param}} </strong> הוסר לשומרן החווה בהצלחה.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.|| החווה <strong> {{param}} with the service {{param2}} </strong> נוסף לשומר החווה בהצלחה.
-The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.|| החווה <strong> {{param}} with the service {{param2}} </strong> הוסר לשומרן החווה בהצלחה.
-NIC List|| רשימת NIC
-Bonding Interface List|| רשימת ממשקי מליטה
-Select the slaves|| בחר את העבדים
-VLAN Interface List|| רשימת ממשק VLAN
-VLAN ID|| מזהה VLAN
-VLAN tag|| תג VLAN
-Virtual Interface List|| רשימת ממשק וירטואלי
-Virtual interface name|| שם ממשק וירטואלי
-Virtual interface tag|| תג ממשק וירטואלי
-Floating IP List|| רשימת IP צפה
-IPv4 Gateway|| שער IPv4
-IPv6 Gateway|| שער IPv6
-IPv4 Gateway Settings|| הגדרות שער IPv4
-IPv6 Gateway Settings|| הגדרות שער IPv6
-Backends Aliases|| עליזות אחוריים
-Interfaces Aliases|| ממשקי כינויים
-Routing Rule List|| רשימת כלל ניתוב
-Routing Table List|| רשימת טבלאות ניתוב
-Priority should be a value between {{min}} and {{max}}|| עדיפות צריכה להיות ערך בין {{דק}} ל- {{מקס}}
-Configure table {{param}}|| הגדר טבלה {{param}}
-Available Routes|| נתיבים זמינים
-Routing table for the outputs of the interface {{param}}.|| טבלת ניתוב לפלטים של הממשק {{param}}.
-Should be a IP address or CIDR|| צריכה להיות כתובת IP או CIDR
-Should be a IP address (IPv4/IPv6)|| צריכה להיות כתובת IP (IPv4 / IPv6)
-Are you sure you want to unset the NIC {{param}}?|| האם אתה בטוח שברצונך לבטל את הגדרת ה- NIC {{param}}?
-Are you sure you want to unset the selected NIC?|| האם אתה בטוח שברצונך לבטל את ההגדרה של ה- NIC שנבחר?
-Are you sure you want to unset the Bonding {{param}}?|| האם אתה בטוח שברצונך לבטל את ההגדרה של הקשר {{param}}?
-Are you sure you want to unset the selected Bondings?|| האם אתה בטוח שברצונך לבטל את ההגדרה של איגרות החוב שנבחרו?
-Are you sure you want to delete the Bonding {{param}}?|| האם אתה בטוח שברצונך למחוק את הקשר {{param}}?
-Are you sure you want to delete the selected Bondings?|| האם אתה בטוח שברצונך למחוק את איגרות החוב שנבחרו?
-Are you sure you want to delete the VLAN {{param}}?|| האם אתה בטוח שברצונך למחוק את ה- VLAN {{param}}?
-Are you sure you want to delete the selected VLANs?|| האם אתה בטוח שברצונך למחוק את ה- VLANs שנבחרו?
-Are you sure you want to delete the Virtual interface {{param}}?|| האם אתה בטוח שברצונך למחוק את הממשק הוירטואלי {{param}}?
-Are you sure you want to delete the selected Virtual interfaces?|| האם אתה בטוח שברצונך למחוק את הממשקים הווירטואליים שנבחרו?
-Are you sure you want to unset the Floating IP of {{param}}?|| האם אתה בטוח שברצונך לבטל את ההגדרה של ה- IP הצף של {{param}}?
-Are you sure you want to unset the selected Floating IPs?|| האם אתה בטוח שברצונך לבטל את ההגדרה של ה- IP הצף שנבחר?
-Are you sure you want to unset the gateway for {{param}}?|| האם אתה בטוח שברצונך לבטל את ההגדרה של השער ל- {{param}}?
-Are you sure you want to delete the alias {{param}}?|| האם אתה בטוח שברצונך למחוק את הכינוי {{param}}?
-Are you sure you want to delete the selected aliases?|| האם אתה בטוח שברצונך למחוק את הכינויים שנבחרו?
-Are you sure you want to delete the routing rule {{param}}?|| האם אתה בטוח שברצונך למחוק את כלל הניתוב {{param}}?
-Are you sure you want to delete the selected routing rules?|| האם אתה בטוח שברצונך למחוק את כללי הניתוב שנבחרו?
-Are you sure you want to delete the route {{param}}?|| האם אתה בטוח שברצונך למחוק את המסלול {{param}}?
-Are you sure you want to delete the selected routes?|| האם אתה בטוח שברצונך למחוק את המסלולים שנבחרו?
-The <strong> {{param}} </strong> NIC has been unconfigured successfully.||   <strong> {{param}} </strong> NIC כבר unconfigured בהצלחה.
-The <strong> {{param}} </strong> NIC is up.||   <strong> {{param}} </strong> NIC למעלה.
-The <strong> {{param}} </strong> NIC is down.||   <strong> {{param}} </strong> NIC מושבת.
-The <strong> {{param}} </strong> NIC has been updated successfully.||   <strong> {{param}} </strong> NIC עודכן בהצלחה.
-The <strong> {{param}} </strong> NIC has updated the alias successfully.||   <strong> {{param}} </strong> NIC עדכן את הכינוי בהצלחה.
-The <strong> {{param}} </strong> Bonding has been created successfully.||   <strong> {{param}} </strong> ההדבקה נוצרה בהצלחה.
-The <strong> {{param}} </strong> Bonding has been unconfigured successfully.||   <strong> {{param}} </strong> ההתחברות לא הוגדרה בהצלחה.
-The <strong> {{param}} </strong> Bonding is up.||   <strong> {{param}} </strong> ההדבקה נגמרת.
-The <strong> {{param}} </strong> Bonding is down.||   <strong> {{param}} </strong> ההדבקה למטה.
-The <strong> {{param}} </strong> Bonding has been updated successfully.||   <strong> {{param}} </strong> ההדבקה עודכנה בהצלחה.
-The <strong> {{param}} </strong> Bonding has updated the alias successfully.||   <strong> {{param}} </strong> הדביקה עדכנה את הכינוי בהצלחה.
-The <strong> {{param}} </strong> Bonding has been deleted successfully.||   <strong> {{param}} </strong> ההדבקה נמחקה בהצלחה.
-The <strong> {{param}} </strong> slave has been added to the Bonding successfully.||   <strong> {{param}} </strong> עבד נוסף לקשר בהצלחה.
-The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.||   <strong> {{param}} </strong> העבד הוסר מהקישור בהצלחה.
-The <strong> {{param}} </strong> VLAN has been created successfully.||   <strong> {{param}} </strong> VLAN נוצר בהצלחה.
-The <strong> {{param}} </strong> VLAN is up.||   <strong> {{param}} </strong> VLAN למעלה.
-The <strong> {{param}} </strong> VLAN is down.||   <strong> {{param}} </strong> VLAN אינו פעיל.
-The <strong> {{param}} </strong> VLAN has been updated successfully.||   <strong> {{param}} </strong> VLAN עודכן בהצלחה.
-The <strong> {{param}} </strong> VLAN has updated the alias successfully.||   <strong> {{param}} </strong> VLAN עדכן את הכינוי בהצלחה.
-The <strong> {{param}} </strong> VLAN has been deleted successfully.||   <strong> {{param}} </strong> VLAN נמחק בהצלחה.
-The <strong> {{param}} </strong> Virtual interface has been created successfully.||   <strong> {{param}} </strong> ממשק וירטואלי נוצר בהצלחה.
-The <strong> {{param}} </strong> Virtual interface is up.||   <strong> {{param}} </strong> הממשק הווירטואלי פועל.
-The <strong> {{param}} </strong> Virtual interface is down.||   <strong> {{param}} </strong> הממשק הווירטואלי אינו פעיל.
-The <strong> {{param}} </strong> Virtual interface has been updated successfully.||   <strong> {{param}} </strong> ממשק וירטואלי עודכן בהצלחה.
-The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.||   <strong> {{param}} </strong> הממשק הווירטואלי עדכן את הכינוי בהצלחה.
-The <strong> {{param}} </strong> Virtual interface has been deleted successfully.||   <strong> {{param}} </strong> ממשק וירטואלי נמחק בהצלחה.
-The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.||   <strong> {{param}} </strong> ה- IP הצף לא הוגדר בהצלחה.
-The <strong> {{param}} </strong> Floating IP is up.||   <strong> {{param}} </strong> ה- IP הצף מעלה.
-The <strong> {{param}} </strong> Floating IP is down.||   <strong> {{param}} </strong> ה- IP הצף מושבת.
-The <strong> {{param}} </strong> Floating IP has been updated successfully.||   <strong> {{param}} </strong> ה- IP הצף עודכן בהצלחה.
-The <strong> {{param}} </strong> Floating IP has updated the alias successfully.||   <strong> {{param}} </strong> ה- IP הצף עדכן את הכינוי בהצלחה.
-The <strong> {{param}} </strong> Floating IP has been deleted successfully.||   <strong> {{param}} </strong> ה- IP הצף נמחק בהצלחה.
-The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.|| השער ל <strong> {{param}} </strong> לא הוגדר בהצלחה.
-The Gateway for <strong> {{param}} </strong> has been updated successfully.|| השער ל <strong> {{param}} </strong> עודכן בהצלחה.
-The <strong> {{param}} </strong> Alias has been created successfully.||   <strong> {{param}} </strong> הכינוי נוצר בהצלחה.
-The <strong> {{param}} </strong> Alias has been updated successfully.||   <strong> {{param}} </strong> הכינוי עודכן בהצלחה.
-The <strong> {{param}} </strong> Alias has been deleted successfully.||   <strong> {{param}} </strong> הכינוי נמחק בהצלחה.
-The <strong> {{param}} </strong> routing rule has been deleted successfully.||   <strong> {{param}} </strong> כלל הניתוב נמחק בהצלחה.
-The <strong> {{param}} </strong> routing rule has been updated successfully.||   <strong> {{param}} </strong> כלל הניתוב עודכן בהצלחה.
-The <strong> {{param}} </strong> routing rule has been created successfully.||   <strong> {{param}} </strong> כלל הניתוב נוצר בהצלחה.
-The route <strong> {{param}} </strong> has been deleted successfully.|| המסלול <strong> {{param}} </strong> נמחק בהצלחה.
-The route <strong> {{param}} </strong> has been updated successfully.|| המסלול <strong> {{param}} </strong> עודכן בהצלחה.
-The route <strong> {{param}} </strong> has been created successfully.|| המסלול <strong> {{param}} </strong> נוצרה בהצלחה.
-To remove a route you must select it first.|| כדי להסיר מסלול עליכם לבחור תחילה.
-The route {{param}} cannot be removed because it is a system route.|| לא ניתן להסיר את המסלול {{param}} מכיוון שהוא מסלול מערכת.
-The interface <strong> {{param}} </strong> has been disabled.|| הממשק <strong> {{param}} </strong> הושבה.
-The interface <strong> {{param}} </strong> has been enabled.|| הממשק <strong> {{param}} </strong> הופעל.
-The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.||   <strong> {{param}} </strong> לא ניתן להסיר עבד. למליטה יש לפחות עבד אחד.
-HTTP Service|| שירות HTTP
-SSH Service|| שירות SSH
-SNMP Service|| שירות SNMP
-The physical interface where is running GUI service|| הממשק הפיזי בו פועל שירות GUI
-If the cluster is up you only can select the cluster interface or all|| אם האשכול למעלה אתה יכול לבחור רק את ממשק האשכול או את כולם
-HTTPS Port where is running GUI service|| HTTPS Port שבו פועל שירות GUI
-The physical interface where is running SSH service|| הממשק הפיזי בו פועל שירות SSH
-SSH Port where is running SSH service|| נמל SSH שבו פועל שירות SSH
-Enable SNMP|| הפעל SNMP
-The physical interface where is running SNMP service|| הממשק הפיזי בו פועל שירות SNMP
-SNMP Port where is running SNMP service|| נמל SNMP שבו פועל שירות SNMP
-Community name|| שם קהילה
-IP or subnet with access|| IP או רשת משנה עם גישה
-Primary server|| שרת ראשי
-Secondary Server|| שרת משני
-NTP server|| שרת NTP
-NTP Service|| שירות NTP
-Proxy Service|| שירות פרוקסי
-DNS Service|| שירות DNS
-Configure cluster|| הגדר אשכול
-Local IP|| כתובת IP מקומית
-Remote IP|| IP מרוחק
-Remote Node Password|| סיסמת צומת מרחוק
-Confirm Password|| אשר סיסמה
-Backup List|| רשימת גיבוי
-Backup file|| קובץ גיבוי
-Choose one file|| בחר קובץ אחד
-Alerts Service|| שירות התראות
-Alerts|| התראות
-Email Notifications|| הודעות דוא&quot;ל
-Mail Server|| שרת דואר
-Mail User|| משתמש דואר
-TLS|| TLS
-Backends Alert|| התראת גב
-Cluster Alert|| התראת אשכולות
-Prefix Subject|| נושא קידומת
-Avoid flapping time|| הימנע זמן מתנפנף
-The time that alerts wait when backend is flapping|| הזמן שמתריע כאשר המתכתי מתהפך
-User Settings|| הגדרות משתמש
-ZAPI Key|| מפתח ZAPI
-Change Password|| שינוי סיסמא
-Current password|| סיסמא נוכחית
-New password|| סיסמא חדשה
-Repeat new password|| חזור על סיסמה חדשה
-Log List|| רשימת היומנים
-Log view|| תצוגת יומן
-When this action is executed a file with system information will be downloaded.|| כאשר פעולה זו מתבצעת קובץ עם מידע מערכת יורדו.
-This action may take several seconds, you can continue browsing the GUI.|| פעולה זו עשויה להימשך מספר שניות, תוכל להמשיך לגלוש בממשק הגרפי.
-Select an interface which won't be deleted|| בחר ממשק שלא יימחק
-This action will destroy all the config, except the selected interface, the backups and the activation certificate.|| פעולה זו תשמיד את כל התצורה, למעט הממשק שנבחר, הגיבויים ותעודת ההפעלה.
-The current credentials for user root will not be modified.|| האישורים הנוכחיים לשורש המשתמש לא ישונו.
-User List|| רשימת משתמשים
-Group List|| רשימת קבוצות
-Role List|| רשימת תפקידים
-Role Settings|| הגדרות תפקיד
-Show all permissions|| הצג את כל ההרשאות
-Hide all permissions|| הסתר את כל ההרשאות
-Show permissions|| הצג הרשאות
-Hide permissions|| הסתר הרשאות
-LDAP Server|| שרת LDAP
-Base DN|| בסיס DN
-Bind DN|| לאגד את ד.נ.
-Scope|| היקף
-Bind Password|| כבל סיסמא
-Filter|| מסנן
-Global Services|| שירותים גלובליים
-Enable session replication|| אפשר שכפול של פעילויות באתר
-Enable Duplicated network|| הפעל רשת כפולה
-Enable ARP announce|| אפשר הכרזת ARP
-Custom Routes|| נתיבים מותאמים אישית
-System Routes|| נתיבי מערכת
-Use proxy of new generation|| השתמש בפרוקסי של הדור החדש
-Validation Systems|| מערכות אימות
-AWS Credentials|| תעודות AWS
-Access Key|| מפתח גישה
-Secret Key|| מפתח סודי
-Region|| אזור
-SSL Certificate|| תעודת SSL
-RBAC User|| משתמש RBAC
-RBAC Group|| קבוצת RBAC
-RBAC Role|| תפקיד RBAC
-Network Virtual Interface|| ממשק רשת וירטואלית
-System Service|| שירות המערכת
-Notification|| הודעה
-Host or URL allowed|| מארח או כתובת אתר מותר
-It will not be used if the HOST/URL field contains a URL|| זה לא ישמש אם שדה HOST / URL מכיל כתובת אתר
-Filter used to get the LDAP field that contains the user ID to log in|| מסנן המשמש לקבלת השדה LDAP שמכיל את מזהה המשתמש בכניסה
-The Search Request will be performed against the entry specified as the search base DN.|| בקשת החיפוש תבוצע כנגד הרשומה שצוינה כ- DN בסיס הבסיס.
-The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.|| בקשת החיפוש תבוצע כנגד ערכים שהם כפיפות מיידיות של הרשומה שצוינה כבסיס החיפוש DN.
-The Search Request will be performed against the search base and all entries below|| בקשת החיפוש תבוצע כנגד בסיס החיפוש וכל הערכים שלהלן
-The new management GUI address is {{param}} please reconnect to GUI in the new URL.|| כתובת GUI לניהול החדשה היא {{param}} אנא התחבר מחדש ל- GUI בכתובת האתר החדשה.
-The <strong> HTTP service </strong> has been updated successfully.||   <strong> שירות HTTP </strong> עודכן בהצלחה.
-The <strong> SSH service </strong> has been updated successfully.||   <strong> שירות SSH </strong> עודכן בהצלחה.
-The <strong> SNMP service </strong> has been updated successfully.||   <strong> שירות SNMP </strong> עודכן בהצלחה.
-The <strong> global services </strong> have been updated successfully||   <strong> שירותים גלובליים </strong> עודכנו בהצלחה
-The <strong> DNS service </strong> has been updated successfully.||   <strong> שירות DNS </strong> עודכן בהצלחה.
-The <strong> NTP service </strong> has been updated successfully.||   <strong> שירות NTP </strong> עודכן בהצלחה.
-The <strong> Proxy service </strong> has been updated successfully.||   <strong> שירות פרוקסי </strong> עודכן בהצלחה.
-The backup <strong> {{param}} </strong> has been deleted successfully.|| הגיבוי <strong> {{param}} </strong> נמחק בהצלחה.
-The backup <strong> {{param}} </strong> has been applied successfully.|| הגיבוי <strong> {{param}} </strong> הוחל בהצלחה.
-The backup <strong> {{param}} </strong> has been downloaded successfully.|| הגיבוי <strong> {{param}} </strong> הורד בהצלחה.
-The backup <strong> {{param}} </strong> has been uploaded successfully.|| הגיבוי <strong> {{param}} </strong> הועלה בהצלחה.
-The backup <strong> {{param}} </strong> has been created successfully.|| הגיבוי <strong> {{param}} </strong> נוצרה בהצלחה.
-The <strong> backends alert </strong> has been applied successfully.||   <strong> התראת אזכרה </strong> הוחל בהצלחה.
-The <strong> cluster alert </strong> has been applied successfully.||   <strong> אשכול אשכול </strong> הוחל בהצלחה.
-The configuration of email has been updated successfully.|| תצורת הדוא&quot;ל עודכנה בהצלחה.
-The alert has been updated successfully.|| ההתראה עודכנה בהצלחה.
-The test email has been sent successfully.|| דוא&quot;ל הבדיקה נשלח בהצלחה.
-The user has been updated successfully.|| המשתמש עודכן בהצלחה.
-The log <strong> {{param}} </strong> has been downloaded successfully.|| היומן <strong> {{param}} </strong> הורד בהצלחה.
-The <strong> Support Save </strong> has been downloaded successfully.||   <strong> שמור תמיכה </strong> הורד בהצלחה.
-The user <strong> {{param}} </strong> has been deleted successfully.|| המשתמש <strong> {{param}} </strong> נמחק בהצלחה.
-The user {{param}} has been created successfully.|| המשתמש {{param}} נוצר בהצלחה.
-The user {{param}} has been updated successfully.|| המשתמש {{param}} עודכן בהצלחה.
-The group <strong> {{param}} </strong> has been deleted successfully.|| הקבוצה <strong> {{param}} </strong> נמחק בהצלחה.
-The group {{param}} has been created successfully.|| הקבוצה {{param}} נוצרה בהצלחה.
-The group {{param}} has been updated successfully.|| הקבוצה {{param}} עודכנה בהצלחה.
-The user <strong> {{param}} </strong> has been added to the group successfully.|| המשתמש <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
-The user <strong> {{param}} </strong> has been removed to the group successfully.|| המשתמש <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
-The farm <strong> {{param}} </strong> has been added to the group successfully.|| החווה <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
-The farm <strong> {{param}} </strong> has been removed to the group successfully.|| החווה <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
-The interface <strong> {{param}} </strong> has been added to the group successfully.|| הממשק <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
-The interface <strong> {{param}} </strong> has been removed to the group successfully.|| הממשק <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
-The role <strong> {{param}} </strong> has been deleted successfully.|| התפקיד <strong> {{param}} </strong> נמחק בהצלחה.
-The role {{param}} has been created successfully.|| התפקיד {{param}} נוצר בהצלחה.
-The role {{param}} has been updated successfully.|| התפקיד {{param}} עודכן בהצלחה.
-The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.|| הוגדר שרת LDAP. אנא, בדוק את הקישוריות כדי לאשר שההגדרה נכונה.
-The connectivity test has been done successfully.|| מבחן הקישוריות נעשה בהצלחה.
-The validation system <strong> {{param}} </strong> has been enabled successfully.|| מערכת האימות <strong> {{param}} </strong> הופעל בהצלחה.
-The validation system <strong> {{param}} </strong> has been disabled successfully.|| מערכת האימות <strong> {{param}} </strong> הושבת בהצלחה.
-The cluster has been created successfully.|| האשכול נוצר בהצלחה.
-The cluster has been updated successfully.|| האשכול עודכן בהצלחה.
-The cluster has been destroyed successfully.|| האשכול נהרס בהצלחה.
-The <strong>local node</strong> has been put in maintenance successfully.||   <strong>צומת מקומי</strong> הוכנס לתחזוקה בהצלחה.
-The <strong>local node</strong> has been enabled successfully.||   <strong>צומת מקומי</strong> הופעל בהצלחה.
-The AWS credentials have been configured successfully.|| אישורי ה- AWS הוגדרו בהצלחה.
-The Azure credentials have been configured successfully.|| אישורי Azure הוגדרו בהצלחה.
-Are you sure you want to delete the backup {{param}}?|| האם אתה בטוח שברצונך למחוק את הגיבוי {{param}}?
-Are you sure you want to delete the selected backups?|| האם אתה בטוח שברצונך למחוק את הגיבויים שנבחרו?
-Are you sure you want to delete the user {{param}}?|| האם אתה בטוח שברצונך למחוק את המשתמש {{param}}?
-Are you sure you want to delete the selected users?|| האם אתה בטוח שברצונך למחוק את המשתמשים שנבחרו?
-Are you sure you want to delete the group {{param}}?|| האם אתה בטוח שברצונך למחוק את הקבוצה {{param}}?
-Are you sure you want to delete the selected groups?|| האם אתה בטוח שברצונך למחוק את הקבוצות שנבחרו?
-Are you sure you want to delete the role {{param}}?|| האם אתה בטוח שברצונך למחוק את התפקיד {{param}}?
-Are you sure you want to delete the selected roles?|| האם אתה בטוח שברצונך למחוק את התפקידים שנבחרו?
-Are you sure you want to destroy the cluster?|| האם אתה בטוח שברצונך להרוס את האשכול?
-Dashboard|| לוח דשבורד
-News|| חדשות 
-LSLB|| LSLB
-Farms|| חוות
-SSL Certificates|| תעודות SSL
-Generate csr|| צור csr
-Stats|| סטטיסטיקה
-GSLB|| GSLB
-DSLB|| DSLB
-IPDS|| IPDS
-Settings|| הגדרות
-Blacklists|| רשימות שחורות
-DoS|| DoS
-RBL|| RBL
-Rules|| חוקי
-Domains|| תחומים
-WAF|| WAF
-Rulesets|| ערכות כללים
-Files|| קבצים
-Monitoring|| ניטור
-Graphs|| גרפים
-Farmguardians|| חקלאים
-Network|| רשת
-NIC|| NIC
-Bonding|| מליטה
-VLAN|| VLAN
-Virtual Interfaces|| ממשקים וירטואליים
-Floating IPs|| צפים IPs
-Gateway|| Gateway
-Aliases|| כינויים
-Routing|| ניתוב
-Tables|| לוחות
-System|| מערכת
-RBAC|| RBAC
-Users|| משתמש
-Groups|| קבוצות
-Roles|| תפקידים
-Local Services|| שירותים מקומיים
-Remote Services|| שירותים מרוחקים
-Cluster|| אשכול
-Backups|| גיבויים
-Notifications|| הודעות
-User|| משתמש
-Logs|| יומנים
-Activation Certificate|| תעודת הפעלה
-License|| רישיון
-SupportSave|| SupportSave
-Factory Reset|| איפוס למפעל
+Sign in with your username and password || היכנס באמצעות שם המשתמש והסיסמה שלך
+Success! || הצלחה!
+Username || שם משתמש
+User should be the real one! || המשתמש צריך להיות האמיתי!
+Password should contains from {{min}} to {{max}} characters || הסיסמה צריכה להכיל בין {{דקות}} עד {{מקס}} תווים
+Sign In || כניסה
+Logging out, please wait... || מתנתק, אנא המתן ...
+Package list to upgrade || רשימת חבילות לשדרוג
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || כדי לשדרג את המערכת, אנא בצע במעטפת את הפקודה הבאה: 'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * מידע זה מתעדכן מדי יום, אם ברצונך לכפות את הפעלת הבדיקה <code>checkupgrades</code> משורת הפקודה.
+No activation certificate || אין אישור הפעלה
+There isn't a valid ZEVENET certificate file, please request a new one || אין קובץ אישור ZEVENET תקף, בבקשה לבקש קובץ חדש
+Certificate Key || מפתח אישור
+Activation Certificate file || קובץ תעודת הפעלה
+Activation Data || נתוני הפעלה
+Copy data to the clipboard || העתק נתונים ללוח
+Activation Certificate || תעודת הפעלה
+Select an activation certificate || בחר אישור הפעלה
+Upload Activation Certificate || העלה תעודת הפעלה
+No Support || אין תמיכה
+Certificate expired || פג תוקף האישור
+Support expired || פג התמיכה
+Certificate expires in {{param}} {{param2}} || תוקף התוקף פג בתאריך {{param}} {{param2}}
+Support expires in {{param}} {{param2}} || התוקף פג בתאריך {{param}} {{param2}}
+The activation certificate has been uploaded successfully. || אישור ההפעלה הועלה בהצלחה.
+The Activation Certificate has been deleted successfully. || תעודת ההפעלה נמחקה בהצלחה.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || האם אתה בטוח למחוק את אישור ההפעלה \\n אם תמחק אותו תאבד את הגישה ל- GUI, עד להעלאת תעודה אחרת
+Upload || העלה
+Uploading || העלאה
+Add || להוסיף
+Disable maintenance || השבת את התחזוקה
+Enable maintenance || הפעל תחזוקה
+Drain mode || מצב ניקוז
+Cut mode || מצב חתך
+Edit || ערוך
+Configure || גדר
+Save || שמור
+Add Variable || הוסף משתנה
+Bring || להביא
+Export || יצוא
+All data || כל הנתונים
+Only selected || נבחר רק
+Apply || החל
+Create || צור
+Cancel || ביטול
+Submit || שלח
+New Service || שירות חדש
+New Zone || אזור חדש
+New Route || מסלול חדש
+Basic || בסיסי
+Advanced || מתקדם
+Generate || ליצור
+Generating || יוצר
+Delete || מחק
+Bring Up || לגדל
+Bring down || להוריד
+Restart || הפעל מחדש
+Restarting || הפעלה מחדש
+Start || הַתחָלָה
+Stop || עצור
+Unset || לא הוגדר
+Enable || אפשר
+Disable || שבת
+Remove || להסיר
+Download || הורדה
+Downloading || הורדת
+Update || עדכון
+New Rule || חוק חדש
+Next || הַבָּא
+Back || חזור
+Generate Random MAC || צור MAC אקראי
+Destroy || להרוס
+Test Email || בדוק את הדוא&quot;ל
+Generate Random Key || צור מפתח אקראי
+Upload Certificate || העלה אישור
+Delete Certificate || מחק אישור
+List || רשימה
+Menu || תפריט
+Modify || שינוי
+Show || לְהַצִיג
+Action || פעולה
+Test || מִבְחָן
+Schedule || לוח זמנים
+Upgrade || שדרג
+View || נוף
+Info || מידע
+Test Connectivity || בדוק קישוריות
+Show certificate || הצג אישור
+Force Changes || כפה שינויים
+Page Not Found || הדף לא נמצא
+The page you were looking for doesn't exist || הדף שחיפשת אינו קיים
+Take me home || קח אותי הביתה
+Status || מצב
+Actions || פעולות
+Name || שם
+ID ||  ID
+Alias || כינוי
+IP ||  IP
+Interface || מִמְשָׁק
+Priority || עדיפות
+Port || נָמָל
+Weight || מִשׁקָל
+Max. Conns || מקסימלי קונדס
+Name || שם
+Virtual IP || IP וירטואלי
+Vitual Port || נמל ויטואל
+Virtual IP and Port || IP וירטואלי ופורט
+Default TCP port health check || ברירת המחדל של בדיקת יציאות TCP
+Health Checks for backend || בדיקות בריאות עבור backend
+Default Name Server || שרת שם ברירת מחדל
+Type || סוּג
+Data || נתונים
+Profile || פּרוֹפִיל
+HTTPS Parameters || HTTPS פרמטרים
+Ciphers || צופן
+Custom ciphers || צופן מותאם אישית
+Protocol type || סוג פרוטוקול
+NAT type || סוג NAT
+Rewrite location headers || שכתוב כותרות מיקום
+HTTP verbs accepted || פעלים HTTP מקובלים
+Ignore 100 continue || התעלם מ- 100 המשך
+Backend connection timeout || זמן קצוב לחיבור
+Backend response timeout || זמן קצוב לתגובה לאחור
+Frequency to check resurrected backends || תדירות לבדיקת חזיתות backers
+Client request timeout || זמן קצוב לבקשת הלקוח
+Message Error || שגיאת הודעה
+Request Headers || בקש כותרות
+Response Headers || כותרות תגובה
+Persistence || התמדה
+Persistence session time to live || זמן ישיבה התמדה לחיות
+TTL || TTL
+Persistence session identifier || זיהוי פעילות ההתמדה
+Virtual IP || IP וירטואלי
+Load balancing Scheduler || מתזמן איזון עומסים
+Algorithm || אַלגוֹרִיתְם
+Round Robin || רובין עגול
+Virtual Host || מארח וירטואלי
+URL Pattern || תבנית כתובת אתר
+Least Response || תגובה לפחות
+HTTPS Backends || HTTPS Backends
+STS Header || כותרת STS
+Timeout || פסק זמן
+Redirect || הפניה מחדש
+Redirect URL || כתובת אתר להפניה מחדש
+Redirect Type || סוג כתובת אתר להפניה מחדש
+Redirect Code || קוד הפניה מחדש
+Cookie Insert || הכנס עוגיה
+Cookie Name || שם קובץ Cookie
+Cookie Domain || דומיין Cookie
+Cookie Path || נתיב קובץ Cookie
+Cookie TTL || Cookie TTL
+Locality || יישוב
+Country || מדינה
+State/Province || מדינה / מחוז
+Common Name || שם נפוץ
+Organization || ארגון
+Division || חטיבה
+E-mail Address || כתובת דוא&quot;ל
+File || שלח
+Issuer || מנפיק
+Creation || בריאה
+Expiration || פקיעה
+Certificate || תעודה
+Established Conns || הקים הקים
+Pending Conns || ממתין
+Service || שֵׁרוּת
+Session ID || מזהה הפעלה
+Backend ID || מזהה Backend
+Requests || בקשות
+Failed REQ || מענה נכשל
+Failed RES || RES נכשלה
+Truncated Resp TC || Resp TC TC
+Extended DNS Big || הרחבת DNS גדול
+Extended DNS TC || מורחב DNS TC
+No Error || אין שגיאה
+Refused || סירב
+Non-existent Domain || דומיין שאינו קיים
+Notimp || פגם
+Bad Version || גרסה רעה
+Format Error || שגיאת פורמט
+Dropped || נפל
+V6 ||  V6
+Extended DNS || DNS מורחב
+Extended DNS-ClientSub || DNS-ClientSub מורחב
+Client || לקוח
+Listerner || מאזין
+Value || ערך
+Custom IP || IP מותאם אישית
+Policy || מדיניות
+Remote URL || כתובת URL מרחוק
+Frequency || תדר
+Rule || כלל
+Limit RST request per source IP || הגבל בקשת RST למקור IP
+Total connections per source IP || סה&quot;כ חיבורים למקור IP
+Limit Burst || הגבל פרץ
+Total connections limit per source IP || סך כל החיבורים למקור IP
+Hits || להיטים
+Time || זְמַן
+Log level || רמת יומן
+Only logging || רק רישום
+Local traffic || תנועה מקומית
+Queue size || גודל התור
+Max. Threads || מקסימלי חוטים
+Cache size || גודל המטמון
+Cache time || זמן מטמון
+Check Request Body || בדוק את גוף הבקשה
+Check Response Body || בדוק את גוף התגובה
+Request Body Limit || בקש מגבלת גוף
+Default Phase || שלב ברירת מחדל
+Default Log || יומן ברירת מחדל
+Rules || חוקי
+Rule Type || סוג כלל
+Mark || סמן
+Phase || שלב
+Resolution || החלטה
+Rule ID || מזהה כלל
+Skip || לדלג
+Skip after || דלג אחרי
+Execute || לבצע
+Description || תיאור
+Interval || הפסקה
+Cut connections || גזור קשרים
+Command || פיקוד
+MAC || מק
+Netmask || מסכת רשת
+Farms || חוות
+Gateway || Gateway
+IP Address || כתובת IP
+CIDR || CIDR
+Mode || מצב
+Slaves || עבדים
+Parent Interface || ממשק האב
+Address || כתובת
+Host || מארח
+Date || תַאֲרִיך
+Alert || ערני
+Password || סיסמה
+Log || התחבר
+ZAPI Permissions || הרשאות ZAPI
+GUI Permissions || הרשאות GUI
+Role || תפקיד
+Rules Date || תאריך כללים
+Scheduled || מתוזמנות
+Variable || מִשְׁתַנֶה
+Variable's argument || טיעון המשתנה
+Ignore this <i>variable</i> for the match || התעלם מזה <i>משתנה</i> למשחק
+Count elements of <i>variables</i> || ספירת אלמנטים של <i>משתנים</i>
+Variables || משתנים
+Transformations || תמורות
+Operating || הפעלה
+Multi Match || רב התאמה
+Not Match || לא תואם
+Operator || מַפעִיל
+Module || מודול
+Floating IP || IP צף
+Interfaces || ממשקים
+Group || קְבוּצָה
+Virtual Interface || ממשק וירטואלי
+URL || כתובת האתר
+From || מ
+Table || טבלתי
+To || ל
+Route || מסלול
+Via || בְּאֶמצָעוּת
+Backend Alias || כינוי לאחור
+Version || גִרְסָה
+System || מערכת
+Failback || שגיאה
+Check Interval || בדוק את המרווח
+Node || צומת
+Message || הערות נוספות 
+Hostname || שם מארח
+No {{param}} found || לא נמצא {{param}}
+Edit || ערוך
+Global || גלוֹבָּלִי
+Services || שירותים
+Select a {{param}} || בחר {{param}}
+Resources || מידע נוסף
+Backends || Backends
+Strict Transport Security || אבטחה תחבורה קפדנית
+Farms Stats || סטטיסטיקה
+Copy to clipboard || העתק ללוח
+Hide nodes || הסתר צמתים
+Show nodes || הצג צמתים
+Hide backends || הסתר פגמים
+Show backends || הצג פגועים
+Hide graphs || הסתר גרפים
+Show graphs || הצג תרשימים
+Sessions || מפגשים
+Clients || לקוחות
+Servers || שרתים
+Extended || מורחב
+Nodes || צמתים
+Number of lines || מספר השורות
+View All || כל בגדי הים שלנו
+View Less || הצג פחות
+Valid || תקף
+Expired || פג תוקף
+Near to expire || קרוב לפוג
+True || נכון
+False || שקר
+No configured || לא מוגדר
+In use by bonding interface || בשימוש על ידי ממשק מליטה
+The cluster service interface has to be changed or disabled before to be able to modify this interface || יש לשנות או להשבית את ממשק שירות האשכול לפני שתוכל לשנות ממשק זה
+Enabled || מופעל
+Disabled || לנכים
+Needed restart || דרושה הפעלה מחדש
+Critical || קריטי
+Problem || בעיה
+Maintenance || תחזוקה
+Master || אב
+Backup || גיבוי
+Not configured || לא מוגדר
+Undefined || לא מוגדר
+Daily Graph || גרף יומי
+Weekly Graph || גרף שבועי
+Monthly Graph || תרשים חודשי
+Yearly Graph || גרף שנתי
+Documentation || תיעוד
+Reload farmguardian list || טען מחדש את רשימת שומרי החווה
+Cookie || עוגיה
+Zones || אזורים
+System Stats || סטטיסטיקת מערכת
+CPU || CPU
+Memory || זכרון
+Load || לִטעוֹן
+Cores || ליבות
+Traffic In || תנועה פנימה
+Traffic Out || תנועה בחוץ
+Nothing || שום דבר
+Custom || מותאם אישית
+All interfaces || כל הממשקים
+All farms || כל החוות
+Default State || מצב ברירת מחדל
+Up ||  Up
+Down || למטה
+Installed and updated || מותקן ומעודכן
+Not installed || לא מותקן
+Updates available || עדכונים זמינים
+Interface || מִמְשָׁק
+Type || סוּג
+Zone || אזור
+Transformation || טרנספורמציה
+Backend || קצה אחורי
+Condition || מַצָב
+Domain || תְחוּם
+Resource || משאב
+Graph || גרף
+Session || מוֹשָׁב
+IP alias || כינוי IP
+Interface alias || כינוי ממשק
+Backup || גיבוי
+Farm || משק
+Header || כותרת
+Pattern || תבנית
+Source || מָקוֹר
+Blacklist || רשימה שחורה
+Farmguardian || חקלאי
+Package || חֲבִילָה
+DoS rule || כלל ה- DoS
+RBL rule || כלל RBL
+WAF ruleset || ערכת כללים של WAF
+VLAN || VLAN
+Routing Rule || כלל ניתוב
+Routing Table || טבלת ניתוב
+Needed restart || דרושה הפעלה מחדש
+There're changes that need to be applied, restart the farm to apply them! || יש שינויים שצריך להחיל, הפעל מחדש את החווה כדי ליישם אותם!
+Close || לִסְגוֹר
+The <strong> factory reset </strong> has been completed successfully. ||   <strong> איפוס להגדרות יצרן </strong> הושלם בהצלחה.
+The interface <strong> {{name}} </strong> has been updated successfully. || הממשק <strong> {{name}} </strong> עודכן בהצלחה.
+The <strong>HTTP Service</strong> has been updated successfully. ||   <strong>שירות HTTP</strong> עודכן בהצלחה.
+An error has occurred on the server, try again later || אירעה שגיאה בשרת, נסה שוב מאוחר יותר
+Connection to web server failed || החיבור לשרת האינטרנט נכשל
+An unexpected error has occurred || שגיאה בלתי צפויה התרחשה
+System Information || מערכת מידע
+ZEVENET Version || גרסת ZEVENET
+Appliance Version || גרסת מכשיר
+Kernel Version || גרסת הליבה
+System Date || תאריך מערכת
+NIC Traffic || תנועה NIC
+Total number of connections in realtime. || המספר הכולל של חיבורים בזמן אמת.
+Connections || חיבורי
+Professional Products || מוצרים מקצועיים
+Professional Services || שירותים מקצועיים
+No Virtual Interfaces || אין ממשקים וירטואליים
+No VLANs || אין VLANs
+Create DSLB Farm || יצירת חוות DSLB
+Create Virtual interface || יצירת ממשק וירטואלי
+Create GSLB Farm || צור חוות GSLB
+Generate CSR || צור CSR
+Create LSLB Farm || יצירת LSLB משק
+Upload SSL Certificate || העלה תעודת SSL
+Create Blacklist || צור רשימה שחורה
+Create DoS rule || צור כלל DoS
+Create RBL rule || צור כלל RBL
+Create WAF ruleset || צור ערכת כללים של WAF
+Create Rule || צור כלל
+Create Farmguardian || צור Farmguardian
+Create Bonding interface || יצירת ממשק מליטה
+Create VLAN interface || צור ממשק VLAN
+Upload Backup || העלה גיבוי
+Create Backup || צור גיבוי
+Create User || צור משתמש
+Create Group || צור קבוצה
+Create Role || צור תפקיד
+Create Route || צור מסלול
+is required || נדרש
+is not valid, it only is possible alphanumeric characters and dash (-). || אינו חוקי, זה רק תווים אלפאנומריים מקף (-).
+Only editable when the farm is down. || רק לעריכה כאשר החווה היא למטה.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90) || יציאה וירטואלית אינה תקפה, ניתן להגדיר יציאה יחידה, מספר יציאות או טווחי יציאות (למשל: 80 או 80,81 או 80: 90)
+has to be greater than 0 || צריך להיות גדול מ- 0
+Redirect should be a URL (http(s)://...) || הפניה מחדש צריכה להיות URL (http (ים): // ...)
+Country can only have two characters. || מדינה יכולה להכיל רק שתי תווים.
+E-mail has to be a valid email || דואר אלקטרוני צריך להיות דוא&quot;ל חוקי
+The password does not match || הסיסמה אינה תואמת
+has to be a value between {{min}} and {{max}} || צריך להיות ערך בין {{דק}} ל- {{מקס}}
+Global Settings || הגדרות כלליות
+IPDS Settings || הגדרות IPDS
+Advanced Settings || הגדרות מתקדמות
+Domains Settings || הגדרות דומיינים
+Rules Settings || הגדרות חוקים
+Blacklists rules || כללים על רשימות שחורות
+DoS rules || כללי ה- DoS
+RBL rules || כללי RBL
+WAF rulesets || ערכות כללים של WAF
+Services Settings || הגדרות שירות
+Zones Settings || הגדרות אזורים
+Global Filter || פילטר גלובלי
+Refresh || לרענן
+Seconds || שניות
+per second || לשנייה
+Refresh status every || רענן סטטוס כל
+Refresh stats every || רענן סטטיסטיקות בכל
+Not refresh || לא לרענן
+Farms Settings || הגדרות חוות
+Minutes || דקות
+Hours || שעות
+Monday || יום שני
+Tuesday || יום שלישי
+Wednesday || יום רביעי
+Thursday || יום חמישי
+Friday || יום שישי
+Saturday || יום שבת
+Sunday || יום ראשון
+Deny || להכחיש
+Allow || להתיר
+Daily || יומי
+Weekly || שבועי
+Monthly || ירחון
+entries || ערכים
+threads || אשכולות
+Sort || סוג
+SORT MODE: Drag and drop the service to the desired position. || מצב SORT: גרור ושחרר את השירות למיקום הרצוי.
+The farm will be restarted automatically. || החווה תופעל מחדש באופן אוטומטי.
+bytes || בתים
+Default is || ברירת המחדל היא
+Optional || אופציונלי
+days || ימים
+Go to || תיכנס לאתר
+Edit in form mode || ערוך במצב טופס
+Edit in raw mode || ערוך במצב גלם
+Create in form mode || צור במצב טופס
+Create in raw mode || צור במצב גולמי
+Available certificates || תעודות זמינות
+Enabled certificates || אישורים מופעלים
+Search certificate || תעודת חיפוש
+Available blacklists || רשימות שחורות זמינות
+Enabled blacklists || רשימות שחורות מופעלות
+Search blacklist || חפש ברשימה השחורה
+Available DoS rules || כללי DoS זמינים
+Enabled DoS rules || כללי DoS מופעלים
+Search DoS rule || חפש כלל DoS
+Available RBL rules || כללי RBL זמינים
+Enabled RBL rules || חוקי RBL מופעלים
+Search RBL rule || חפש כלל RBL
+Available WAF rulesets || ערכות כללים זמינות של WAF
+Enabled WAF rulesets || ערכות כללים של WAF מופעלות
+Search WAF ruleset || חפש ערכת כללים של WAF
+Available farms || חוות זמינות
+Enabled farms || חוות מופעלות
+Search farm || בחוות חיפוש
+Available domains || דומיינים זמינים
+Enabled domains || דומיינים מופעלים
+Search domain || תחום חיפוש
+Enabled rules || כללים מופעלים
+Disabled rules || חוקים נכים
+Search rule || כלל חיפוש
+Available NICs || NIC זמין
+Enabled NICs || NICs מופעלים
+Search NIC || חפש ב- NIC
+Search slaves || חיפוש עבדים
+Slaves NICs || NICs עבדים
+Available users || משתמשים זמינים
+Enabled users || משתמשים מופעלים
+Search user || חפש משתמש
+Available interfaces || ממשקים זמינים
+Enabled interfaces || ממשקים מופעלים
+Search interface || ממשק חיפוש
+Managed interfaces || ממשקים מנוהלים
+Unmanaged interfaces || ממשקים לא מנוהלים
+Search interface || ממשק חיפוש
+LSLB Farm List || LSLB רשימת החווה
+GSLB Farm List || רשימת משק GSLB
+DSLB Farm List || רשימת החוות DSLB
+Copy farm || חוות העתקות
+Farm to copy || חווה להעתקה
+Select the farm to copy || בחר בחווה להעתקה
+Weight: connection linear dispatching by weight || משקל: חיבור לינארי המשגר ​​לפי משקל
+Priority: connections always to the most prio available || עדיפות: חיבורים תמיד לפריו הכי זמין
+Source Hash: Hash per Source IP and Source Port || מקור Hash: Hash לכל מקור IP ו יציאת מקור
+Simple Source Hash: Hash per Source IP only || פשוט מקור Hash: Hash לכל מקור IP בלבד
+Symmetric Hash: Round trip hash per IP and Port || סימטרי Hash: חשיש נסיעה הלוך ושוב לכל IP ופורט
+Round Robin: Sequential backend selection || סיבוב רובין: בחירת backend עוקבת
+Least Connections: connections to the least open conns available || פחות חיבורים: חיבורים לחיבורים הפחות פתוחים הקיימים
+Disabled || לנכים
+Enabled || מופעל
+Enabled and compare backends || מופעל והשווה מגבי רוח
+No persistence || אין התמדה
+IP: Source IP || IP: מקור IP
+Port: Source Por || נמל: מקור פור
+MAC: Source MAC || MAC: מקור MAC
+Source IP and Source Port || מקור IP ו יציאת מקור
+Source IP and Destination Port || מקור IP ופורט יעד
+No persistence || אין התמדה
+IP: Client address || IP: כתובת לקוח
+BASIC: Basic authentication || בסיסי: אימות בסיסי
+URL: A request parameter || כתובת אתר: פרמטר בקשה
+PARM: An URI parameter || PARM: פרמטר URI
+COOKIE: A certain cookie || COOKIE: עוגיה מסוימת
+HEADER: A certain request header || HEADER: כותרת בקשה מסוימת
+The farm has been updated successfully || החווה עודכנה בהצלחה
+The farm <strong> {{param}} </strong> has been deleted successfully. || החווה <strong> {{param}} </strong> נמחק בהצלחה.
+The farm <strong> {{param}} </strong> has been started successfully. || החווה <strong> {{param}} </strong> התחיל בהצלחה.
+The farm <strong> {{param}} </strong> has been restarted successfully. || החווה <strong> {{param}} </strong> הופעל מחדש בהצלחה.
+The farm <strong> {{param}} </strong> has been stopped successfully. || החווה <strong> {{param}} </strong> הופסק בהצלחה.
+The farm <strong> {{param}} </strong> has been created successfully. || החווה <strong> {{param}} </strong> נוצרה בהצלחה.
+The backend has been created successfully. || ה- backend נוצר בהצלחה.
+The backend has been updated successfully. || הנדנד עבר עדכון בהצלחה.
+The backend <strong> {{param}} </strong> has been deleted successfully. || את backend <strong> {{param}} </strong> נמחק בהצלחה.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully. || את backend <strong> {{param}} </strong> הוכנס לתחזוקה בהצלחה.
+The backend <strong> {{param}} </strong> has been upped successfully. || את backend <strong> {{param}} </strong> הועלה בהצלחה.
+Backends with high priority value <strong> {{param}} </strong> will not be used. || Backends עם ערך עדיפות גבוה <strong> {{param}} </strong> לא ישמש.
+The resource has been created successfully. || המשאב נוצר בהצלחה.
+The resource has been updated successfully. || המשאב עודכן בהצלחה.
+The backend <strong> {{param}} </strong> has been deleted successfully. || את backend <strong> {{param}} </strong> נמחק בהצלחה.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully. || תעודת ה- SSL <strong> {{param}} </strong> נוסף לחווה בהצלחה.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully. || תעודת ה- SSL <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully. || תעודת ה- SSL <strong> {{param}} </strong> ממוין בהצלחה.
+The service <strong> {{param}} </strong> has been created successfully. || השירות <strong> {{param}} </strong> נוצרה בהצלחה.
+The service <strong> {{param}} </strong> has been updated successfully. || השירות <strong> {{param}} </strong> עודכן בהצלחה.
+The service <strong> {{param}} </strong> has been deleted successfully. || השירות <strong> {{param}} </strong> נמחק בהצלחה.
+The service <strong> {{param}} </strong> has been moved successfully. || השירות <strong> {{param}} </strong> הועבר בהצלחה.
+The farmguardians list has been reloaded successfully. || רשימת שומרי החווה הועלה מחדש בהצלחה.
+The farmguardian has been disabled successfully. || החוואי הושבת בהצלחה.
+The farmguardian has been changed to {{param}} successfully. || שומר החלב השתנה ל- {{param}} בהצלחה.
+The zone <strong> {{param}} </strong> has been created successfully. || האזור <strong> {{param}} </strong> נוצרה בהצלחה.
+The zone <strong> {{param}} </strong> has been updated successfully. || האזור <strong> {{param}} </strong> עודכן בהצלחה.
+The zone <strong> {{param}} </strong> has been deleted successfully. || האזור <strong> {{param}} </strong> נמחק בהצלחה.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully. || הרשימה השחורה <strong> {{param}} </strong> נוסף לחווה בהצלחה.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully. || הרשימה השחורה <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully. || כלל ה- DoS <strong> {{param}} </strong> נוסף לחווה בהצלחה.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully. || כלל ה- DoS <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully. || כלל RBL <strong> {{param}} </strong> נוסף לחווה בהצלחה.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully. || כלל RBL <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully. || מערכת ה- WAF קובעת <strong> {{param}} </strong> ממוין בהצלחה.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully. || מערכת ה- WAF קובעת <strong> {{param}} </strong> נוסף לחווה בהצלחה.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully. || מערכת ה- WAF קובעת <strong> {{param}} </strong> הוסר מהמשק בהצלחה.
+The profile has been changed to {{param}} successfully. || הפרופיל השתנה ל- {{param}} בהצלחה.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab. || האלגוריתם השתנה לאלגוריתם המשקל, מכיוון שהאלגוריתם של Connections המועט ביותר אינו מותר בסוג ה- NAT שנבחר. אתה יכול לבחור אלגוריתם אחר מהכרטיסייה שירותים.
+The request header has been saved successfully. || כותרת הבקשה נשמרה בהצלחה.
+The request header has been deleted successfully. || כותרת הבקשה נמחקה בהצלחה.
+The request header pattern has been saved successfully. || תבנית כותרת הבקשה נשמרה בהצלחה.
+The request header pattern has been deleted successfully. || תבנית כותרת הבקשה נמחקה בהצלחה.
+The response header has been saved successfully. || כותרת התגובה נשמרה בהצלחה.
+The response header has been deleted successfully. || כותרת התגובה נמחקה בהצלחה.
+The response header pattern has been saved successfully. || תבנית כותרת התגובה נשמרה בהצלחה.
+The response header pattern has been deleted successfully. || תבנית כותרת התגובה נמחקה בהצלחה.
+The service has to have one backend at least. || לשירות צריך להיות תומך אחד לפחות.
+Are you sure you want to delete the farm {{param}}? || האם אתה בטוח שברצונך למחוק את החווה {{param}}?
+Are you sure you want to delete the selected farms? || האם אתה בטוח שברצונך למחוק את החוות שנבחרו?
+Are you sure you want to delete the service {{param}}? || האם אתה בטוח שברצונך למחוק את השירות {{param}}?
+Are you sure you want to delete the zone {{param}}? || האם אתה בטוח שברצונך למחוק את האזור {{param}}?
+Are you sure you want to delete the selected resources? || האם אתה בטוח שברצונך למחוק את המשאבים שנבחרו?
+Are you sure you want to delete the resource {{param}}? || האם אתה בטוח שברצונך למחוק את המשאב {{param}}?
+Are you sure you want to delete the backend {{param}}? || האם אתה בטוח שברצונך למחוק את ה- backend {{param}}?
+Are you sure you want to delete the selected backends? || האם אתה בטוח שברצונך למחוק את הגבולות שנבחרו?
+Are you sure you want to delete the request header with ID {{id}}? || האם אתה בטוח שברצונך למחוק את כותרת הבקשה עם המזהה {{id}}?
+Are you sure you want to delete the request header pattern with ID {{id}}? || האם אתה בטוח שברצונך למחוק את תבנית כותרת הבקשה עם המזהה {{id}}?
+Are you sure you want to delete the selected request headers? || האם אתה בטוח שברצונך למחוק את כותרות הבקשות שנבחרו?
+Are you sure you want to delete the selected request headers patterns? || האם אתה בטוח שברצונך למחוק את דפוסי כותרות הבקשות שנבחרו?
+Are you sure you want to delete the response header with ID {{id}}? || האם אתה בטוח שברצונך למחוק את כותרת התגובה עם המזהה {{id}}?
+Are you sure you want to delete the response header pattern with ID {{id}}? || האם אתה בטוח שברצונך למחוק את תבנית כותרת התגובה עם המזהה {{id}}?
+Are you sure you want to delete the selected response headers? || האם אתה בטוח שברצונך למחוק את כותרות התגובה שנבחרו?
+Are you sure you want to delete the selected response headers patterns? || האם אתה בטוח שברצונך למחוק את דפוסי כותרות התגובה שנבחרו?
+Are you sure you want to delete the {{param}} blacklist? || האם אתה בטוח שברצונך למחוק את הרשימה השחורה {{param}}?
+Are you sure you want to delete the selected blacklists? || האם אתה בטוח שברצונך למחוק את הרשימות השחורות שנבחרו?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue? || שער הממשק {{param}} יימחק ויוחלף לחווה זו. האם אתה מקווה להמשיך?
+SSL Certificate list || רשימת תעודות SSL
+Choose one certificate || בחר תעודה אחת
+Choose one or more files || בחר קובץ אחד או יותר
+Selected files || קבצים שנבחרו
+Descriptive text, this name will be used to identify this certificate. || טקסט תיאורי, שם זה ישמש לזיהוי אישור זה.
+City where your organization is located. || עיר שבה נמצא הארגון שלך.
+Country (two characters) where your organization is located. || ארץ (שני תווים) שבהם נמצא הארגון שלך.
+State or province where your organization is located. || מדינה או מחוז שבהם נמצא הארגון שלך.
+FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com. || FQDN של השרת. דוגמה: domain.com, mail.domain.com או * .domain.com.
+The full legal name of your organization/company (ex.: ZEVENET Co.) || השם החוקי המלא של הארגון / החברה שלך (למשל: ZEVENET Co.)
+Your department; such as 'IT','Web', 'Office', etc. || המחלקה שלך; כגון 'IT', 'אינטרנט', 'משרד' וכו '.
+Your email address || כתובת הדוא&quot;ל שלך
+The CSR <strong> {{param}} </strong> has been generated successfully. || אחריות חברתית <strong> {{param}} </strong> נוצרה בהצלחה.
+The certificate <strong> {{param}} </strong> has been uploaded successfully. || התעודה <strong> {{param}} </strong> הועלה בהצלחה.
+The certificate <strong> {{param}} </strong> has been deleted successfully. || התעודה <strong> {{param}} </strong> נמחק בהצלחה.
+The certificate <strong> {{param}} </strong> has been downloaded successfully. || התעודה <strong> {{param}} </strong> הורד בהצלחה.
+Are you sure you want to delete the certificate {{param}}? || האם אתה בטוח שברצונך למחוק את האישור {{param}}?
+Are you sure you want to delete the selected certificates? || האם אתה בטוח שברצונך למחוק את האישורים שנבחרו?
+Updates || עדכונים
+Update list || רשימת עדכונים
+Period time || זמן מחזור
+Exact time || זמן מדויק
+Daily every || מדי יום כל יום
+Day of the week || יום בשבוע
+Day of the month || יום החודש
+Sources || מקורות
+DoS rules IPDS || חוקי ה- DoS חוקיים
+RBL rules IPDS || RBL פוסק ב- IPDS
+Copy rule || העתק כלל
+Rule to copy || כלל להעתיק
+Ruleset to copy || כללים להעתיק
+Select the rule to copy || בחר את הכלל להעתקה
+Select the ruleset to copy || בחר בערכת הכללים להעתקה
+Custom Domain List || רשימת דומיינים מותאמים אישית
+Preloaded Domain List || רשימת תחומים שנטענו מראש
+WAF rulesets IPDS || מכשירי ה- IPDS של קבצי WAF קובעים
+Default Action || פעולת ברירת מחדל
+Disable Rules || השבת כללים
+IPDS Package Updates || עדכוני חבילת IPDS
+Conditions || תנאים
+Flow || זרימה
+WAF File List || רשימת קבצים של WAF
+WAF file || קובץ WAF
+Content File || קובץ תוכן
+Select files || בחר קבצים
+Select a file || בחר קובץ
+Select transformations || בחר טרנספורמציות
+Connection limit per second. || מגבלת חיבור לשנייה.
+Total connections limit per source IP. || מגבלת החיבורים הכוללת לכל IP מקור.
+Check bogus TCP flags. || בדוק דגלי TCP מזויפים.
+Limit RST request per second. || הגבל את בקשת RST לשנייה.
+Allow: Finish the WAF processing and complete the HTTP transaction || אפשר: סיים את עיבוד WAF והשלים את עסקת HTTP
+Pass: Continue executing the rules || מעבר: המשך לבצע את הכללים
+Deny: Cut the request and not execute rules left || דחה: חתוך את הבקשה ולא בצע כללים שנשארו
+Redirect: The client received a URL to redirect || ניתוב מחדש: הלקוח קיבל כתובת אתר להפניה מחדש
+Default action: The default action of this ruleset || פעולת ברירת מחדל: פעולת ברירת המחדל של מערך כללי זה
+Request headers are received || כותרות הבקשה מתקבלות
+Request body is received || גוף הבקשה מתקבל
+Response headers are received || כותרות תגובה מתקבלות
+Response body is received || גוף התגובה מתקבל
+Before than logging || לפני ההתחברות
+LUA Script || תסריט LUA
+Data file || קובץ מידע
+It is a collection with the values of arguments in a request. || זהו אוסף עם ערכי טיעונים בבקשה.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled. || זהו אוסף עם ערכי ארגומנטים בבקשת JSON. משתנה זה יהיה זמין במקרה WAF מנתח את הארגומנטים JSON, על זה, להגדיר את הכלל REQUEST-901-INITIALIZATION צריך להיות מופעל.
+The total size of the request parameters. The files are excluded. || הגודל הכולל של פרמטרי הבקשה. הקבצים אינם נכללים.
+It is a collection with the names of the arguments in a request. || זהו אוסף עם שמות הטיעונים בבקשה.
+It contains the file names in the user filesys. Only when the data is multipart/form-data. || הוא מכיל את שמות הקבצים ב filesys המשתמש. רק כאשר הנתונים הם multipart / form-data.
+It is the total size of the files in a request. Only when the data is multipart/form-data. || זהו הגודל הכולל של הקבצים בבקשה. רק כאשר הנתונים הם multipart / form-data.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data. || זוהי רשימה של שמות קבצים המשמשים להעלות את הקבצים. רק כאשר הנתונים הם multipart / form-data.
+It contains a list of individual file sizes. Only when the data is multipart/form-data. || הוא מכיל רשימה של גדלי קבצים נפרדים. רק כאשר הנתונים הם multipart / form-data.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0. || משתנה זה הוא 1 אם פורמט גוף הבקשה אינו נכון עבור JSON או XML, אחרת יש לו את הערך 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase. || זוהי בקשת הגוף הגולמי. אם הבקשה אינה מופיעה בכותרת &quot;application / x-www-form-urlencoded&quot;, יש להשתמש ב &quot;ctl: forceRequestBodyVariable&quot; בשלב REQUEST_HEADER.
+It is the number of bytes of the request body. || זהו מספר הבתים של גוף הבקשה.
+It is a list with all request cookies values. || זוהי רשימה עם כל הערכים בקשת עוגיות.
+It is a list with all request cookies names. || זוהי רשימה עם כל עוגיות בקשת שמות.
+This variable has all the request headers. || משתנה זה כולל את כל כותרות הבקשה.
+This variable has a list with the request headers names. || משתנה זה כולל רשימה עם שמות כותרות הבקשה.
+It is the request method. || זוהי שיטת הבקשה.
+This variable holds the request HTTP version protocol. || משתנה זה מחייב את פרוטוקול בקשת HTTP גירסה.
+It is the URI request path. The virtual host is excluded. || זהו נתיב הבקשה של URI. המארח הווירטואלי אינו נכלל.
+It is the information before than the URI path. || זהו המידע לפני נתיב URI.
+It is the full request. || זוהי הבקשה המלאה.
+It is the number of bytes that full request can have. || זה מספר בתים כי הבקשה המלאה יכולה להיות.
+It is the raw body response. || זוהי תגובת הגוף הגלם.
+It is the number of bytes of the response body. || זהו מספר הבתים של גוף התגובה.
+This variable has all response headers. || משתנה זה כולל את כל כותרות התגובה.
+This variable has a list with the response headers names. || משתנה זה כולל רשימה עם שמות כותרות התגובה.
+This variable holds the response HTTP version protocol. || משתנה זה מכיל את פרוטוקול התגובה HTTP גירסה.
+It is the response HTTP code. || זהו קוד HTTP של התגובה.
+It is the IP address of the client. || זוהי כתובת ה- IP של הלקוח.
+It is the port where the client initializes the connection. || זהו היציאה שבה הלקוח מאתחל את החיבור.
+It is the name of the authenticated user. || זהו שם המשתמש המאומת.
+It is the server time. The format is hours:minutes:seconds. || זהו זמן השרת. הפורמט הוא שעות: דקות: שניות.
+It is the number of milliseconds since the beginning of the current transaction. || זה מספר של אלפיות השנייה מאז תחילת העסקה הנוכחית.
+It is the field filename in a multipart request. || זהו שם הקובץ בשדה בקשה מרובת אתרים.
+It is the field name in a multipart request. || זהו שם השדה בבקשה מרובת אתרים.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation. || זהו הערך התואם בפעולת ההתאמה האחרונה. ערך זה אינו זקוק לאפשרות הלכידה, אך הוא מוחלף בכל פעולת התאמה.
+It is a list of all matched values. || זוהי רשימה של כל הערכים התואמים.
+It is the IP address of the server. || זוהי כתובת ה- IP של השרת.
+It is the virtual host, it gets from the request URI. || זהו המארח הווירטואלי, הוא מקבל מ URI הבקשה.
+It is the environment variables of the WAF. || זהו משתני הסביבה של WAF.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators. || זהו אוסף של משתנים לעסקה הנוכחית. משתנים אלו יוסרו עם השלמת העסקה. המשתנים TX: 0-TX: 9 שומר את הערכים שנלכדו עם האופרטורים strRegex או strPhrases.
+Decodes a Base64-encoded string. || מחרוזת מחרוזת מקודדת Base64.
+Decodes a Base64-encoded string ignoring invalid characters. || מחיקת מחרוזת המקודדת ב- BaseXNXX תוך התעלמות מתווים לא חוקיים.
+Decodes SQL hex data. || Decodes SQL hex נתונים.
+Encodes using Base64 encoding. || מקודד באמצעות קידוד Base64.
+Avoids the problem related with the escaped command line. || נמנע מהבעיה הקשורה לשורת הפקודה שנמלטת.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one. || ממיר כל אחת מתוויות הלבן (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) לחללים (ASCII 0x20), דוחסת מספר תווי שטח רצופים לאחד.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript). || מפענח תווים המקודדים באמצעות כללי הבריחה של CSS 2.x. בפונקציה זו משתמשים רק עד שני בתים בתהליך הפענוח, כלומר מועיל לחשוף תווי ASCII המקודדים באמצעות קידוד CSS (שבדרך כלל לא היו מקודדים), או כדי למנוע התחמקות, שהיא שילוב של נטייה לאחור ולא תווים הקסדצימליים (לדוגמה, כן \ vascript שווה ל- javascript).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output. || מפענח רצפי בריחה של ANSI C: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\', \\”, \\xHH (הקסדצימלי), \\0OOO ​​(אוקטלי). קידודים לא חוקיים נותרים בפלט.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry). || מחרוזת מחרוזת מקודדת באמצעות אותו אלגוריתם כמו זה המשמש hexEncode (ראה הערך הבא).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a. || מחרוזת מחרוזת (אולי המכילה תווים בינאריים) על ידי החלפת כל בית קלט עם שתי תווים הקסדצימליים. לדוגמה, xyz מקודד כ- 78797a.
+Decodes the characters encoded as HTML entities. || מחיקת התווים המקודדים כישות HTML.
+Decodes JavaScript escape sequences. || Decodes JavaScript sequences לברוח.
+Looks up the length of the input string in bytes, placing it (as string) in output. || מחפש את אורך מחרוזת הקלט בבתים, ומניחים אותה (כמחרוזת) בפלט.
+Converts all characters to lowercase using the current C locale. || ממירה את כל התווים ל - אותיות קטנות באמצעות האזור C הנוכחי.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || מחשבת hash של MD5 מהנתונים בכניסה. ה- Hash הממוחשב נמצא בצורה בינארית גולמית וייתכן שיהיה צורך לקודד אותו לטקסט שיודפס (או יומן). פונקציות Hash משמשות לרוב בשילוב עם hexEncode.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule. || לא פונקציית טרנספורמציה ממשית, אלא הוראה להסרת פונקציות שינוי קודמות הקשורות לכלל הנוכחי.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string. || מסיר חתכים מרובים, הפניות עצמיות של ספריות והפניות חזרה לספריות (למעט כאשר בתחילת הקלט) ממחרוזת הקלט.
+Same as normalizePath, but first converts backslash characters to forward slashes. || כמו normalizePath, אבל תחילה ממיר תווים נטויים לאחור כדי להעביר חתכים.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || מחשבת אפילו זוגיות של נתונים 7-bit מחליף את סיביות 8th של כל בית היעד עם קצת זוגיות מחושב.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit. || מחשבת זוגיות משונה של נתונים 7-bit להחליף את סיביות 8th של כל בית היעד עם קצת זוגיות מחושב.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data. || מחשבת אפס זוגיות של נתונים 7-bit להחליף את סיביות 8th של כל בייט היעד עם סיביות אפס קצת, המאפשר בדיקה של אפילו / זוגיות זוג מוזר נתונים 7-bit כמו נתונים ASCII7.
+Removes all NUL bytes from input. || מסיר את כל NUL בתים מהקלט.
+Removes all whitespace characters from the input. || מסיר את כל התווים מרווח הלבן מהקלט.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon. || מחליף כל התרחשות של הערה בסגנון C (/ * ... * /) עם רווח יחיד (מספר התרחשויות רצופות שלא ידחסו אותן). הערות שלא הושלמו יוחלפו גם עם שטח (ASCII 0x20). עם זאת, לא תפעל סיום עצמאי של הערה (* /).
+Removes common comments chars (/*, */, –, #). || מסיר תווי הערות נפוצים (/ *, * /, -, #).
+Replaces NUL bytes in input with space characters (ASCII 0x20). || מחליף את NUL בייטים בקלט עם תווי רווח (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised. || פענוח מחרוזת קלט מקודדת. קידודים לא חוקיים (כלומר, אלה שמשתמשים בתווים שאינם הקסדצימליים, או אלה שנמצאים בסוף המחרוזת וחסרים בהם בית אחד או שניים) אינם מומרים, אך לא עולה שגיאה.
+Converts all characters to uppercase using the current C locale. || ממיר את כל התווים לאותיות רישיות באמצעות האזור C הנוכחי.
+Like urlDecode, but with support for the Microsoft-specific %u encoding. || כמו urlDecode, אבל עם תמיכה עבור% u ספציפיים קידוד.
+Encodes input string using URL encoding. || מקודד מחרוזת קלט באמצעות קידוד כתובות URL.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives. || ממיר את כל רצפי התווים של UTF-8 ל- Unicode. זה עוזר לנורמליזציה של קלט, במיוחד בשפות שאינן אנגליות, תוך צמצום שליליות שלילי שווא ושליליות שווא.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode. || מחשבת חשיש SHA1 ממחרוזת הקלט. חשיש מחושב הוא בינארי טופס גלם ייתכן שיהיה צורך לקודד לתוך הטקסט להיות מודפס (או רשום). פונקציות Hash משמשים בדרך כלל בשילוב עם hexEncode.
+Removes whitespace from the left side of the input string. || מסיר רווח לבן מהצד השמאלי של מחרוזת הקלט.
+Removes whitespace from the right side of the input string. || מסיר רווח לבן מהצד הימני של מחרוזת הקלט.
+Removes whitespace from both the left and right sides of the input string. || מסיר רווח לבן משני הצדדים השמאלניים והימניים של מחרוזת הקלט.
+The rule will match if any of the variables begin with the value of operating. || הכלל יתאים אם כל המשתנים יתחילו עם הערך של ההפעלה.
+The rule will match if any of the variables contain the value of operating. || הכלל יתאים אם כל המשתנים מכילים את הערך של ההפעלה.
+The rule will match if any of the variables contain a word as the string one. || הכלל יתאים אם אחד מהמשתנים מכיל מילה כמחרוזת.
+The rule will match if any of the variables end with the value of operating. || הכלל יתאים אם כל המשתנים מסתיימים בערך ההפעלה.
+The rule will match if any of the variables match with the value of operating. || הכלל יתאים אם אחד מהמשתנים תואם לערך ההפעלה.
+The rule will match if any of the variables match with the value of operating. || הכלל יתאים אם אחד מהמשתנים תואם לערך ההפעלה.
+The rule will match if any of the variables is identical to the value of operating. || הכלל יתאים אם כל המשתנים זהים לערך ההפעלה.
+The rule will match if any of the variables match in the regular expression used in operating. || הכלל יתאים אם אחד מהמשתנים יתאים בביטוי הרגיל המשמש להפעלה.
+The rule will match if any of the variables match in any of the values of the list operating. || הכלל יתאים אם כל המשתנים יתאימו לכל אחד מערכי הרשימה.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases. || זה אותו הדבר שמפעיל המפתח אך ההפעלה היא קובץ שבו הוא מוגדר כרשימת ביטויים.
+The rule will match if any of the variables is equal to the number used in operating. || הכלל יתאים אם כל המשתנים שווים למספר המשמש בהפעלה.
+The rule will match if any of the variables is greater or equal to the number used in operating. || הכלל יתאים אם כל המשתנים יהיו גדולים או שווים למספר הפעיל בהפעלה.
+The rule will match if any of the variables is greater than the number used in operating. || הכלל יתאים אם אחד מהמשתנים יהיה גדול מהמספר המשמש להפעלה.
+The rule will match if any of the variables is lower or equal to the number used in operating. || הכלל יתאים אם כל המשתנים יהיו נמוכים או שווים למספר הפעיל בהפעלה.
+The rule will match if any of the variables is lower than the number used in operating. || הכלל יתאים אם כל המשתנים יהיו נמוכים מהמספר המשמש להפעלה.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating. || זה חל על הזיהוי של SQL לרשימת משתנים. מפעיל זה אינו מצפה לכל הפעלה.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating. || זה חל על הזיהוי של XSS לרשימת משתנים. מפעיל זה אינו מצפה לכל הפעלה.
+Try to match the IP or network segments of operating with the list of variables. || נסה להתאים את קטעי ה- IP או הרשת של ההפעלה עם רשימת המשתנים.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments. || זה זהה ל- ipMatch של המפעיל, אך זה מנסה להתאים את המשתנים לקובץ עם רשימת IP וקטעי רשת.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”. || הוא בודק שמספר הבתים של המשתנים נמצא באחד מערכי ההפעלה. דוגמה לפעולה היא &quot;10, 13, 32-126&quot;.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times. || זה מאמת נתונים מקודדים. יש להשתמש במפעיל זה רק עבור נתונים שאינם מקודדים נתונים בדרך כלל או עבור נתונים מקודדים מספר פעמים.
+It validates that variables are UTF-8. This operator does not expect any operating. || זה מאמת שמשתנים הם UTF-8. מפעיל זה אינו מצפה להפעלה כלשהי.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified. || היא מאמתת אם המשתנים הם מספר כרטיס אשראי. פרמטר זה מקבל ביטוי רגיל כתפעול, אם הוא תואם ואז הוא חל על כרטיס האשראי מאומת.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication. || זה מאמת אם המשתנים הם מספר ביטוח לאומי של ארה&quot;ב. פרמטר זה מקבל ביטוי רגיל כפועל, אם הוא תואם אז הוא מחיל את אימות ה- SSN.
+It returns true always, forcing a match. || זה חוזר נכון תמיד, מכריח התאמה.
+It returns false always, forcing a non-match. || הוא חוזר כוזב תמיד, מכריח אי התאמה.
+A word is delimited by characters different to (a-z, 0-9 and '_') || מילה תוחמת על ידי תווים שונים (az, 0-9 ו- '_')
+Can be a list of strings split by the character , || יכולה להיות רשימת מחרוזות המפוצלות לפי הדמות,
+Can be a list of strings split by the character |, || יכולה להיות רשימת מחרוזות המפוצלות לפי הדמות |,
+Can be a list of strings split by a blank space || יכולה להיות רשימת מחרוזות המפוצלות על ידי חלל ריק
+Can be a list of IPs or network segments split by the character , || יכולה להיות רשימה של כתובות IP או פלחי רשת המפוצלים לפי התו,
+Can be a list of IPs ranges split by the character , || יכולה להיות רשימה של טווחי IP המחולקים לפי הדמות,
+Can be selected more than one file. || ניתן לבחור ביותר מקובץ אחד.
+It uses the PCRE engine, optional field. || הוא משתמש במנוע PCRE, בשדה אופציונלי.
+It uses the PCRE engine, optional field. || הוא משתמש במנוע PCRE, בשדה אופציונלי.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive. || הוא משתמש במנוע PCRE. הביטוי (? I) משמש להתאמה באמצעות רישיות ללא רישיות.
+This operator does not expect any operating. || מפעיל זה אינו מצפה להפעלה כלשהי.
+String. || מחרוזת
+Number. || מספר.
+The <strong> {{param}} </strong> blacklist has been created successfully. ||   <strong> {{param}} </strong> הרשימה השחורה נוצרה בהצלחה.
+The <strong> {{param}} </strong> blacklist has been deleted successfully. ||   <strong> {{param}} </strong> הרשימה השחורה נמחקה בהצלחה.
+The <strong> {{param}} </strong> blacklist has been stopped successfully. ||   <strong> {{param}} </strong> הרשימה השחורה הופסקה בהצלחה.
+The <strong> {{param}} </strong> blacklist has been started successfully. ||   <strong> {{param}} </strong> הרשימה השחורה התחילה בהצלחה.
+The <strong> {{param}} </strong> blacklist has been updated successfully. ||   <strong> {{param}} </strong> הרשימה השחורה עודכנה בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully. || החווה <strong> {{param}} </strong> נוסף לרשימה השחורה בהצלחה.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully. || החווה <strong> {{param}} </strong> הוסר מהרשימה השחורה בהצלחה.
+The <strong> {{param}} </strong> DoS rule has been created successfully. ||   <strong> {{param}} </strong> כלל ה- DoS נוצר בהצלחה.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully. ||   <strong> {{param}} </strong> כלל DoS נמחק בהצלחה.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully. ||   <strong> {{param}} </strong> כלל ה- DoS הופסק בהצלחה.
+The <strong> {{param}} </strong> DoS rule has been started successfully. ||   <strong> {{param}} </strong> כלל ה- DoS הוחל בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully. || החווה <strong> {{param}} </strong> נוסף לכלל ה- DoS בהצלחה.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully. || החווה <strong> {{param}} </strong> הוסר מכלל ה- DoS בהצלחה.
+The source has been created successfully || המקור נוצר בהצלחה
+The source has been updated successfully || המקור עודכן בהצלחה
+The source <strong> {{param}} </strong> has been deleted successfully. || המקור <strong> {{param}} </strong> נמחק בהצלחה.
+The <strong> {{param}} </strong> RBL rule has been created successfully. ||   <strong> {{param}} </strong> כלל RBL נוצר בהצלחה.
+The <strong> {{param}} </strong> RBL rule has been updated successfully. ||   <strong> {{param}} </strong> כלל RBL עודכן בהצלחה.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully. ||   <strong> {{param}} </strong> כלל RBL נמחק בהצלחה.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully. ||   <strong> {{param}} </strong> כלל RBL הופסק בהצלחה.
+The <strong> {{param}} </strong> RBL rule has been started successfully. ||   <strong> {{param}} </strong> כלל RBL הוחל בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully. || החווה <strong> {{param}} </strong> נוסף לכלל RBL בהצלחה.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully. || החווה <strong> {{param}} </strong> הוסר מכלל ה- RBL בהצלחה.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully. || התחום <strong> {{param}} </strong> נוסף לכלל RBL בהצלחה.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully. || התחום <strong> {{param}} </strong> הוסר מכלל ה- RBL בהצלחה.
+The domain <strong> {{param}} </strong> has been created successfully || התחום <strong> {{param}} </strong> נוצר בהצלחה
+The domain has been updated successfully || הדומיין עודכן בהצלחה
+The domain <strong> {{param}} </strong> has been deleted successfully. || התחום <strong> {{param}} </strong> נמחק בהצלחה.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully. ||   <strong> {{param}} </strong> ערכת כללי WAF נוצרה בהצלחה.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully. ||   <strong> {{param}} </strong> ערכת הכללים של WAF נמחקה בהצלחה.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully. ||   <strong> {{param}} </strong> מערך הכללים של WAF הופסק בהצלחה.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully. ||   <strong> {{param}} </strong> ערכת כללי WAF הוחל בהצלחה.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully. ||   <strong> {{param}} </strong> מערך הכללים של WAF עודכן בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully. || החווה <strong> {{param}} </strong> נוסף לסדרת הכללים של WAF בהצלחה.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully. || החווה <strong> {{param}} </strong> הוסר מערך הכללים של WAF בהצלחה.
+The rule <strong> {{param}} </strong> has been created successfully. || החוק <strong> {{param}} </strong> נוצרה בהצלחה.
+The rule <strong> {{param}} </strong> has been moved successfully. || החוק <strong> {{param}} </strong> הועבר בהצלחה.
+The rule <strong> {{param}} </strong> has been deleted successfully. || החוק <strong> {{param}} </strong> נמחק בהצלחה.
+The rule <strong> {{param}} </strong> has been updated successfully || החוק <strong> {{param}} </strong> עודכן בהצלחה
+The match has been created successfully || ההתאמה נוצרה בהצלחה
+The match <strong> {{param}} </strong> has been deleted successfully. || המשחק <strong> {{param}} </strong> נמחק בהצלחה.
+The WAF file <strong> {{param}} </strong> has been created successfully. || קובץ ה- WAF <strong> {{param}} </strong> נוצרה בהצלחה.
+The WAF file <strong> {{param}} </strong> has been deleted successfully. || קובץ ה- WAF <strong> {{param}} </strong> נמחק בהצלחה.
+The WAF file <strong> {{param}} </strong> has been updated successfully. || קובץ ה- WAF <strong> {{param}} </strong> עודכן בהצלחה.
+The <strong> IPDS package </strong> has been scheduled successfully. ||   <strong> חבילת IPDS </strong> תוכנן בהצלחה.
+The <strong> IPDS package </strong> has been upgraded successfully. ||   <strong> חבילת IPDS </strong> שודרג בהצלחה.
+Are you sure you want to delete the {{param}} blacklist? || האם אתה בטוח שברצונך למחוק את הרשימה השחורה {{param}}?
+Are you sure you want to delete the selected blacklists? || האם אתה בטוח שברצונך למחוק את הרשימות השחורות שנבחרו?
+Are you sure you want to delete the {{param}} DoS rule? || האם אתה בטוח שברצונך למחוק את {{param}} כלל ה- DoS?
+Are you sure you want to delete the selected DoS rules? || האם אתה בטוח שברצונך למחוק את כללי ה- DoS שנבחרו?
+Are you sure you want to delete the source {{param}}? || האם אתה בטוח שברצונך למחוק את המקור {{param}}?
+Are you sure you want to delete the selected sources? || האם אתה בטוח שברצונך למחוק את המקורות שנבחרו?
+Are you sure you want to delete the {{param}} RBL rule? || האם אתה בטוח שברצונך למחוק את כלל {{param}} RBL?
+Are you sure you want to delete the selected RBL rules? || האם אתה בטוח שברצונך למחוק את כללי RBL שנבחרו?
+Are you sure you want to delete the domain {{param}}? || האם אתה בטוח שברצונך למחוק את הדומיין {{param}}?
+Are you sure you want to delete the selected domains? || האם אתה בטוח שברצונך למחוק את הדומיינים שנבחרו?
+Are you sure you want to delete the {{param}} WAF ruleset? || האם אתה בטוח שברצונך למחוק את ערכת הכללים של {{param}} WAF?
+Are you sure you want to delete the selected rulesets? || האם אתה בטוח שברצונך למחוק את ערכות הכללים שנבחרו?
+'Are you sure you want to delete the rule {{param}}? || 'האם אתה בטוח שברצונך למחוק את הכלל {{param}}?
+Are you sure you want to delete the match {{param}}? || האם אתה בטוח שברצונך למחוק את ההתאמה {{param}}?
+Are you sure you want to delete the selected matches? || האם אתה בטוח שברצונך למחוק את ההתאמות שנבחרו?
+Are you sure you want to delete the file {{param}}? || האם אתה בטוח שברצונך למחוק את הקובץ {{param}}?
+Are you sure you want to delete the selected files? || האם אתה בטוח שברצונך למחוק את הקבצים שנבחרו?
+System Graphs || גרפים של המערכת
+Interfaces Graphs || ממשקים גרפים
+Farms Graph || תרשים חוות
+Farms Stats || סטטיסטיקה
+System Stats || סטטיסטיקת מערכת
+Network Stats || סטטיסטיקות רשת
+Copy farmguardian || להעתיק חקלאי
+Farmguardian to copy || שומר חקלאי להעתקה
+Select the farmguardian to copy || בחר את שומר החווה להעתקה
+Total Memory || סה&quot;כ זיכרון
+Free Memory || זיכרון חופשי
+Used Memory || זיכרון משומש
+Buffers || מאגרים
+Cached || שמור במטמון
+Total Swap || סה&quot;כ החלפה
+Free Swap || החלפה חינם
+Used Swap || החלפה משומשת
+Cached Swap || החלפת מטמון
+Idle || להתבטל
+Usage || נוֹהָג
+Iowait || Iowait
+Irq || אירק
+Nice || נֶחְמָד
+Softirq || סופטירק
+Sys || Sys
+User || משתמש
+Last minute || ברגע אחרון
+Last 5 minutes || 5 דקות אחרונות
+Last 15 minutes || 15 דקות אחרונות
+Are you sure you want to delete the {{param}} farmguardian? || האם אתה בטוח שברצונך למחוק את {{param}} farmguardian?
+Are you sure you want to delete the selected farmguardians? || האם אתה בטוח שברצונך למחוק את שומרי החקלאים שנבחרו?
+The <strong> {{param}} </strong> farmguardian has been created successfully. ||   <strong> {{param}} </strong> Farmguardian נוצר בהצלחה.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully. ||   <strong> {{param}} </strong> Farmguardian נמחק בהצלחה.
+The <strong> {{param}} </strong> farmguardian has been updated successfully. ||   <strong> {{param}} </strong> שומר החווה עודכן בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully. || החווה <strong> {{param}} </strong> נוסף לשומר החווה בהצלחה.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully. || החווה <strong> {{param}} </strong> הוסר לשומרן החווה בהצלחה.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully. || החווה <strong> {{param}} with the service {{param2}} </strong> נוסף לשומר החווה בהצלחה.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully. || החווה <strong> {{param}} with the service {{param2}} </strong> הוסר לשומרן החווה בהצלחה.
+NIC List || רשימת NIC
+Bonding Interface List || רשימת ממשקי מליטה
+Select the slaves || בחר את העבדים
+VLAN Interface List || רשימת ממשק VLAN
+VLAN ID || מזהה VLAN
+VLAN tag || תג VLAN
+Virtual Interface List || רשימת ממשק וירטואלי
+Virtual interface name || שם ממשק וירטואלי
+Virtual interface tag || תג ממשק וירטואלי
+Floating IP List || רשימת IP צפה
+IPv4 Gateway || שער IPv4
+IPv6 Gateway || שער IPv6
+IPv4 Gateway Settings || הגדרות שער IPv4
+IPv6 Gateway Settings || הגדרות שער IPv6
+Backends Aliases || עליזות אחוריים
+Interfaces Aliases || ממשקי כינויים
+Routing Rule List || רשימת כלל ניתוב
+Routing Table List || רשימת טבלאות ניתוב
+Priority should be a value between {{min}} and {{max}} || עדיפות צריכה להיות ערך בין {{דק}} ל- {{מקס}}
+Configure table {{param}} || הגדר טבלה {{param}}
+Available Routes || נתיבים זמינים
+Routing table for the outputs of the interface {{param}}. || טבלת ניתוב לפלטים של הממשק {{param}}.
+Should be a IP address or CIDR || צריכה להיות כתובת IP או CIDR
+Should be a IP address (IPv4/IPv6) || צריכה להיות כתובת IP (IPv4 / IPv6)
+Are you sure you want to unset the NIC {{param}}? || האם אתה בטוח שברצונך לבטל את הגדרת ה- NIC {{param}}?
+Are you sure you want to unset the selected NIC? || האם אתה בטוח שברצונך לבטל את ההגדרה של ה- NIC שנבחר?
+Are you sure you want to unset the Bonding {{param}}? || האם אתה בטוח שברצונך לבטל את ההגדרה של הקשר {{param}}?
+Are you sure you want to unset the selected Bondings? || האם אתה בטוח שברצונך לבטל את ההגדרה של איגרות החוב שנבחרו?
+Are you sure you want to delete the Bonding {{param}}? || האם אתה בטוח שברצונך למחוק את הקשר {{param}}?
+Are you sure you want to delete the selected Bondings? || האם אתה בטוח שברצונך למחוק את איגרות החוב שנבחרו?
+Are you sure you want to delete the VLAN {{param}}? || האם אתה בטוח שברצונך למחוק את ה- VLAN {{param}}?
+Are you sure you want to delete the selected VLANs? || האם אתה בטוח שברצונך למחוק את ה- VLANs שנבחרו?
+Are you sure you want to delete the Virtual interface {{param}}? || האם אתה בטוח שברצונך למחוק את הממשק הוירטואלי {{param}}?
+Are you sure you want to delete the selected Virtual interfaces? || האם אתה בטוח שברצונך למחוק את הממשקים הווירטואליים שנבחרו?
+Are you sure you want to unset the Floating IP of {{param}}? || האם אתה בטוח שברצונך לבטל את ההגדרה של ה- IP הצף של {{param}}?
+Are you sure you want to unset the selected Floating IPs? || האם אתה בטוח שברצונך לבטל את ההגדרה של ה- IP הצף שנבחר?
+Are you sure you want to unset the gateway for {{param}}? || האם אתה בטוח שברצונך לבטל את ההגדרה של השער ל- {{param}}?
+Are you sure you want to delete the alias {{param}}? || האם אתה בטוח שברצונך למחוק את הכינוי {{param}}?
+Are you sure you want to delete the selected aliases? || האם אתה בטוח שברצונך למחוק את הכינויים שנבחרו?
+Are you sure you want to delete the routing rule {{param}}? || האם אתה בטוח שברצונך למחוק את כלל הניתוב {{param}}?
+Are you sure you want to delete the selected routing rules? || האם אתה בטוח שברצונך למחוק את כללי הניתוב שנבחרו?
+Are you sure you want to delete the route {{param}}? || האם אתה בטוח שברצונך למחוק את המסלול {{param}}?
+Are you sure you want to delete the selected routes? || האם אתה בטוח שברצונך למחוק את המסלולים שנבחרו?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully. ||   <strong> {{param}} </strong> NIC כבר unconfigured בהצלחה.
+The <strong> {{param}} </strong> NIC is up. ||   <strong> {{param}} </strong> NIC למעלה.
+The <strong> {{param}} </strong> NIC is down. ||   <strong> {{param}} </strong> NIC מושבת.
+The <strong> {{param}} </strong> NIC has been updated successfully. ||   <strong> {{param}} </strong> NIC עודכן בהצלחה.
+The <strong> {{param}} </strong> NIC has updated the alias successfully. ||   <strong> {{param}} </strong> NIC עדכן את הכינוי בהצלחה.
+The <strong> {{param}} </strong> Bonding has been created successfully. ||   <strong> {{param}} </strong> ההדבקה נוצרה בהצלחה.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully. ||   <strong> {{param}} </strong> ההתחברות לא הוגדרה בהצלחה.
+The <strong> {{param}} </strong> Bonding is up. ||   <strong> {{param}} </strong> ההדבקה נגמרת.
+The <strong> {{param}} </strong> Bonding is down. ||   <strong> {{param}} </strong> ההדבקה למטה.
+The <strong> {{param}} </strong> Bonding has been updated successfully. ||   <strong> {{param}} </strong> ההדבקה עודכנה בהצלחה.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully. ||   <strong> {{param}} </strong> הדביקה עדכנה את הכינוי בהצלחה.
+The <strong> {{param}} </strong> Bonding has been deleted successfully. ||   <strong> {{param}} </strong> ההדבקה נמחקה בהצלחה.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully. ||   <strong> {{param}} </strong> עבד נוסף לקשר בהצלחה.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully. ||   <strong> {{param}} </strong> העבד הוסר מהקישור בהצלחה.
+The <strong> {{param}} </strong> VLAN has been created successfully. ||   <strong> {{param}} </strong> VLAN נוצר בהצלחה.
+The <strong> {{param}} </strong> VLAN is up. ||   <strong> {{param}} </strong> VLAN למעלה.
+The <strong> {{param}} </strong> VLAN is down. ||   <strong> {{param}} </strong> VLAN אינו פעיל.
+The <strong> {{param}} </strong> VLAN has been updated successfully. ||   <strong> {{param}} </strong> VLAN עודכן בהצלחה.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully. ||   <strong> {{param}} </strong> VLAN עדכן את הכינוי בהצלחה.
+The <strong> {{param}} </strong> VLAN has been deleted successfully. ||   <strong> {{param}} </strong> VLAN נמחק בהצלחה.
+The <strong> {{param}} </strong> Virtual interface has been created successfully. ||   <strong> {{param}} </strong> ממשק וירטואלי נוצר בהצלחה.
+The <strong> {{param}} </strong> Virtual interface is up. ||   <strong> {{param}} </strong> הממשק הווירטואלי פועל.
+The <strong> {{param}} </strong> Virtual interface is down. ||   <strong> {{param}} </strong> הממשק הווירטואלי אינו פעיל.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully. ||   <strong> {{param}} </strong> ממשק וירטואלי עודכן בהצלחה.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully. ||   <strong> {{param}} </strong> הממשק הווירטואלי עדכן את הכינוי בהצלחה.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully. ||   <strong> {{param}} </strong> ממשק וירטואלי נמחק בהצלחה.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully. ||   <strong> {{param}} </strong> ה- IP הצף לא הוגדר בהצלחה.
+The <strong> {{param}} </strong> Floating IP is up. ||   <strong> {{param}} </strong> ה- IP הצף מעלה.
+The <strong> {{param}} </strong> Floating IP is down. ||   <strong> {{param}} </strong> ה- IP הצף מושבת.
+The <strong> {{param}} </strong> Floating IP has been updated successfully. ||   <strong> {{param}} </strong> ה- IP הצף עודכן בהצלחה.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully. ||   <strong> {{param}} </strong> ה- IP הצף עדכן את הכינוי בהצלחה.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully. ||   <strong> {{param}} </strong> ה- IP הצף נמחק בהצלחה.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully. || השער ל <strong> {{param}} </strong> לא הוגדר בהצלחה.
+The Gateway for <strong> {{param}} </strong> has been updated successfully. || השער ל <strong> {{param}} </strong> עודכן בהצלחה.
+The <strong> {{param}} </strong> Alias has been created successfully. ||   <strong> {{param}} </strong> הכינוי נוצר בהצלחה.
+The <strong> {{param}} </strong> Alias has been updated successfully. ||   <strong> {{param}} </strong> הכינוי עודכן בהצלחה.
+The <strong> {{param}} </strong> Alias has been deleted successfully. ||   <strong> {{param}} </strong> הכינוי נמחק בהצלחה.
+The <strong> {{param}} </strong> routing rule has been deleted successfully. ||   <strong> {{param}} </strong> כלל הניתוב נמחק בהצלחה.
+The <strong> {{param}} </strong> routing rule has been updated successfully. ||   <strong> {{param}} </strong> כלל הניתוב עודכן בהצלחה.
+The <strong> {{param}} </strong> routing rule has been created successfully. ||   <strong> {{param}} </strong> כלל הניתוב נוצר בהצלחה.
+The route <strong> {{param}} </strong> has been deleted successfully. || המסלול <strong> {{param}} </strong> נמחק בהצלחה.
+The route <strong> {{param}} </strong> has been updated successfully. || המסלול <strong> {{param}} </strong> עודכן בהצלחה.
+The route <strong> {{param}} </strong> has been created successfully. || המסלול <strong> {{param}} </strong> נוצרה בהצלחה.
+To remove a route you must select it first. || כדי להסיר מסלול עליכם לבחור תחילה.
+The route {{param}} cannot be removed because it is a system route. || לא ניתן להסיר את המסלול {{param}} מכיוון שהוא מסלול מערכת.
+The interface <strong> {{param}} </strong> has been disabled. || הממשק <strong> {{param}} </strong> הושבה.
+The interface <strong> {{param}} </strong> has been enabled. || הממשק <strong> {{param}} </strong> הופעל.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave. ||   <strong> {{param}} </strong> לא ניתן להסיר עבד. למליטה יש לפחות עבד אחד.
+HTTP Service || שירות HTTP
+SSH Service || שירות SSH
+SNMP Service || שירות SNMP
+The physical interface where is running GUI service || הממשק הפיזי בו פועל שירות GUI
+If the cluster is up you only can select the cluster interface or all || אם האשכול למעלה אתה יכול לבחור רק את ממשק האשכול או את כולם
+HTTPS Port where is running GUI service || HTTPS Port שבו פועל שירות GUI
+The physical interface where is running SSH service || הממשק הפיזי בו פועל שירות SSH
+SSH Port where is running SSH service || נמל SSH שבו פועל שירות SSH
+Enable SNMP || הפעל SNMP
+The physical interface where is running SNMP service || הממשק הפיזי בו פועל שירות SNMP
+SNMP Port where is running SNMP service || נמל SNMP שבו פועל שירות SNMP
+Community name || שם קהילה
+IP or subnet with access || IP או רשת משנה עם גישה
+Primary server || שרת ראשי
+Secondary Server || שרת משני
+NTP server || שרת NTP
+NTP Service || שירות NTP
+Proxy Service || שירות פרוקסי
+DNS Service || שירות DNS
+Configure cluster || הגדר אשכול
+Local IP || כתובת IP מקומית
+Remote IP || IP מרוחק
+Remote Node Password || סיסמת צומת מרחוק
+Confirm Password || אשר סיסמה
+Backup List || רשימת גיבוי
+Backup file || קובץ גיבוי
+Choose one file || בחר קובץ אחד
+Alerts Service || שירות התראות
+Alerts || התראות
+Email Notifications || הודעות דוא&quot;ל
+Mail Server || שרת דואר
+Mail User || משתמש דואר
+TLS || TLS
+Backends Alert || התראת גב
+Cluster Alert || התראת אשכולות
+Prefix Subject || נושא קידומת
+Avoid flapping time || הימנע זמן מתנפנף
+The time that alerts wait when backend is flapping || הזמן שמתריע כאשר המתכתי מתהפך
+User Settings || הגדרות משתמש
+ZAPI Key || מפתח ZAPI
+Change Password || שינוי סיסמא
+Current password || סיסמא נוכחית
+New password || סיסמא חדשה
+Repeat new password || חזור על סיסמה חדשה
+Log List || רשימת היומנים
+Log view || תצוגת יומן
+When this action is executed a file with system information will be downloaded. || כאשר פעולה זו מתבצעת קובץ עם מידע מערכת יורדו.
+This action may take several seconds, you can continue browsing the GUI. || פעולה זו עשויה להימשך מספר שניות, תוכל להמשיך לגלוש בממשק הגרפי.
+Select an interface which won't be deleted || בחר ממשק שלא יימחק
+This action will destroy all the config, except the selected interface, the backups and the activation certificate. || פעולה זו תשמיד את כל התצורה, למעט הממשק שנבחר, הגיבויים ותעודת ההפעלה.
+The current credentials for user root will not be modified. || האישורים הנוכחיים לשורש המשתמש לא ישונו.
+User List || רשימת משתמשים
+Group List || רשימת קבוצות
+Role List || רשימת תפקידים
+Role Settings || הגדרות תפקיד
+Show all permissions || הצג את כל ההרשאות
+Hide all permissions || הסתר את כל ההרשאות
+Show permissions || הצג הרשאות
+Hide permissions || הסתר הרשאות
+LDAP Server || שרת LDAP
+Base DN || בסיס DN
+Bind DN || לאגד את ד.נ.
+Scope || היקף
+Bind Password || כבל סיסמא
+Filter || מסנן
+Global Services || שירותים גלובליים
+Enable session replication || אפשר שכפול של פעילויות באתר
+Enable Duplicated network || הפעל רשת כפולה
+Enable ARP announce || אפשר הכרזת ARP
+Custom Routes || נתיבים מותאמים אישית
+System Routes || נתיבי מערכת
+Use proxy of new generation || השתמש בפרוקסי של הדור החדש
+Validation Systems || מערכות אימות
+AWS Credentials || תעודות AWS
+Access Key || מפתח גישה
+Secret Key || מפתח סודי
+Region || אזור
+SSL Certificate || תעודת SSL
+RBAC User || משתמש RBAC
+RBAC Group || קבוצת RBAC
+RBAC Role || תפקיד RBAC
+Network Virtual Interface || ממשק רשת וירטואלית
+System Service || שירות המערכת
+Notification || הודעה
+Host or URL allowed || מארח או כתובת אתר מותר
+It will not be used if the HOST/URL field contains a URL || זה לא ישמש אם שדה HOST / URL מכיל כתובת אתר
+Filter used to get the LDAP field that contains the user ID to log in || מסנן המשמש לקבלת השדה LDAP שמכיל את מזהה המשתמש בכניסה
+The Search Request will be performed against the entry specified as the search base DN. || בקשת החיפוש תבוצע כנגד הרשומה שצוינה כ- DN בסיס הבסיס.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN. || בקשת החיפוש תבוצע כנגד ערכים שהם כפיפות מיידיות של הרשומה שצוינה כבסיס החיפוש DN.
+The Search Request will be performed against the search base and all entries below || בקשת החיפוש תבוצע כנגד בסיס החיפוש וכל הערכים שלהלן
+The new management GUI address is {{param}} please reconnect to GUI in the new URL. || כתובת GUI לניהול החדשה היא {{param}} אנא התחבר מחדש ל- GUI בכתובת האתר החדשה.
+The <strong> HTTP service </strong> has been updated successfully. ||   <strong> שירות HTTP </strong> עודכן בהצלחה.
+The <strong> SSH service </strong> has been updated successfully. ||   <strong> שירות SSH </strong> עודכן בהצלחה.
+The <strong> SNMP service </strong> has been updated successfully. ||   <strong> שירות SNMP </strong> עודכן בהצלחה.
+The <strong> global services </strong> have been updated successfully ||   <strong> שירותים גלובליים </strong> עודכנו בהצלחה
+The <strong> DNS service </strong> has been updated successfully. ||   <strong> שירות DNS </strong> עודכן בהצלחה.
+The <strong> NTP service </strong> has been updated successfully. ||   <strong> שירות NTP </strong> עודכן בהצלחה.
+The <strong> Proxy service </strong> has been updated successfully. ||   <strong> שירות פרוקסי </strong> עודכן בהצלחה.
+The backup <strong> {{param}} </strong> has been deleted successfully. || הגיבוי <strong> {{param}} </strong> נמחק בהצלחה.
+The backup <strong> {{param}} </strong> has been applied successfully. || הגיבוי <strong> {{param}} </strong> הוחל בהצלחה.
+The backup <strong> {{param}} </strong> has been downloaded successfully. || הגיבוי <strong> {{param}} </strong> הורד בהצלחה.
+The backup <strong> {{param}} </strong> has been uploaded successfully. || הגיבוי <strong> {{param}} </strong> הועלה בהצלחה.
+The backup <strong> {{param}} </strong> has been created successfully. || הגיבוי <strong> {{param}} </strong> נוצרה בהצלחה.
+The <strong> backends alert </strong> has been applied successfully. ||   <strong> התראת אזכרה </strong> הוחל בהצלחה.
+The <strong> cluster alert </strong> has been applied successfully. ||   <strong> אשכול אשכול </strong> הוחל בהצלחה.
+The configuration of email has been updated successfully. || תצורת הדוא&quot;ל עודכנה בהצלחה.
+The alert has been updated successfully. || ההתראה עודכנה בהצלחה.
+The test email has been sent successfully. || דוא&quot;ל הבדיקה נשלח בהצלחה.
+The user has been updated successfully. || המשתמש עודכן בהצלחה.
+The log <strong> {{param}} </strong> has been downloaded successfully. || היומן <strong> {{param}} </strong> הורד בהצלחה.
+The <strong> Support Save </strong> has been downloaded successfully. ||   <strong> שמור תמיכה </strong> הורד בהצלחה.
+The user <strong> {{param}} </strong> has been deleted successfully. || המשתמש <strong> {{param}} </strong> נמחק בהצלחה.
+The user {{param}} has been created successfully. || המשתמש {{param}} נוצר בהצלחה.
+The user {{param}} has been updated successfully. || המשתמש {{param}} עודכן בהצלחה.
+The group <strong> {{param}} </strong> has been deleted successfully. || הקבוצה <strong> {{param}} </strong> נמחק בהצלחה.
+The group {{param}} has been created successfully. || הקבוצה {{param}} נוצרה בהצלחה.
+The group {{param}} has been updated successfully. || הקבוצה {{param}} עודכנה בהצלחה.
+The user <strong> {{param}} </strong> has been added to the group successfully. || המשתמש <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
+The user <strong> {{param}} </strong> has been removed to the group successfully. || המשתמש <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
+The farm <strong> {{param}} </strong> has been added to the group successfully. || החווה <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
+The farm <strong> {{param}} </strong> has been removed to the group successfully. || החווה <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
+The interface <strong> {{param}} </strong> has been added to the group successfully. || הממשק <strong> {{param}} </strong> נוסף לקבוצה בהצלחה.
+The interface <strong> {{param}} </strong> has been removed to the group successfully. || הממשק <strong> {{param}} </strong> הוסר לקבוצה בהצלחה.
+The role <strong> {{param}} </strong> has been deleted successfully. || התפקיד <strong> {{param}} </strong> נמחק בהצלחה.
+The role {{param}} has been created successfully. || התפקיד {{param}} נוצר בהצלחה.
+The role {{param}} has been updated successfully. || התפקיד {{param}} עודכן בהצלחה.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct. || הוגדר שרת LDAP. אנא, בדוק את הקישוריות כדי לאשר שההגדרה נכונה.
+The connectivity test has been done successfully. || מבחן הקישוריות נעשה בהצלחה.
+The validation system <strong> {{param}} </strong> has been enabled successfully. || מערכת האימות <strong> {{param}} </strong> הופעל בהצלחה.
+The validation system <strong> {{param}} </strong> has been disabled successfully. || מערכת האימות <strong> {{param}} </strong> הושבת בהצלחה.
+The cluster has been created successfully. || האשכול נוצר בהצלחה.
+The cluster has been updated successfully. || האשכול עודכן בהצלחה.
+The cluster has been destroyed successfully. || האשכול נהרס בהצלחה.
+The <strong>local node</strong> has been put in maintenance successfully. ||   <strong>צומת מקומי</strong> הוכנס לתחזוקה בהצלחה.
+The <strong>local node</strong> has been enabled successfully. ||   <strong>צומת מקומי</strong> הופעל בהצלחה.
+The AWS credentials have been configured successfully. || אישורי ה- AWS הוגדרו בהצלחה.
+The Azure credentials have been configured successfully. || אישורי Azure הוגדרו בהצלחה.
+Are you sure you want to delete the backup {{param}}? || האם אתה בטוח שברצונך למחוק את הגיבוי {{param}}?
+Are you sure you want to delete the selected backups? || האם אתה בטוח שברצונך למחוק את הגיבויים שנבחרו?
+Are you sure you want to delete the user {{param}}? || האם אתה בטוח שברצונך למחוק את המשתמש {{param}}?
+Are you sure you want to delete the selected users? || האם אתה בטוח שברצונך למחוק את המשתמשים שנבחרו?
+Are you sure you want to delete the group {{param}}? || האם אתה בטוח שברצונך למחוק את הקבוצה {{param}}?
+Are you sure you want to delete the selected groups? || האם אתה בטוח שברצונך למחוק את הקבוצות שנבחרו?
+Are you sure you want to delete the role {{param}}? || האם אתה בטוח שברצונך למחוק את התפקיד {{param}}?
+Are you sure you want to delete the selected roles? || האם אתה בטוח שברצונך למחוק את התפקידים שנבחרו?
+Are you sure you want to destroy the cluster? || האם אתה בטוח שברצונך להרוס את האשכול?
+Dashboard || לוח דשבורד
+News || חדשות 
+LSLB || LSLB
+Farms || חוות
+SSL Certificates || תעודות SSL
+Generate csr || צור csr
+Stats || סטטיסטיקה
+GSLB || GSLB
+DSLB || DSLB
+IPDS || IPDS
+Settings || הגדרות
+Blacklists || רשימות שחורות
+DoS || DoS
+RBL || RBL
+Rules || חוקי
+Domains || תחומים
+WAF || WAF
+Rulesets || ערכות כללים
+Files || קבצים
+Monitoring || ניטור
+Graphs || גרפים
+Farmguardians || חקלאים
+Network || רשת
+NIC || NIC
+Bonding || מליטה
+VLAN || VLAN
+Virtual Interfaces || ממשקים וירטואליים
+Floating IPs || צפים IPs
+Gateway || Gateway
+Aliases || כינויים
+Routing || ניתוב
+Tables || לוחות
+System || מערכת
+RBAC || RBAC
+Users || משתמש
+Groups || קבוצות
+Roles || תפקידים
+Local Services || שירותים מקומיים
+Remote Services || שירותים מרוחקים
+Cluster || אשכול
+Backups || גיבויים
+Notifications || הודעות
+User || משתמש
+Logs || יומנים
+Activation Certificate || תעודת הפעלה
+License || רישיון
+SupportSave || SupportSave
+Factory Reset || איפוס למפעל

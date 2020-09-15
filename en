@@ -1,176 +1,154 @@
-Dashboard
-LSLB
-Farms
-SSL Certificates
-DSLB
-Monitoring
-Graphs
-Farm Stats
-Farmguardians
-Network
-NIC
-VLAN
-Virtual interfaces
-Gateway
-System
-Remote Services
-Backups
-User
-Logs
-License
-Support Save
-Create
+Sign in with your username and password
+Success!
+Username
+User should be the real one!
+Password should contains from {{min}} to {{max}} characters
+Sign In
+Logging out, please wait...
+Package list to upgrade
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i'
+*This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line.
+No activation certificate
+There isn't a valid ZEVENET certificate file, please request a new one
+Certificate Key
+Activation Certificate file
+Activation Data
+Copy data to the clipboard
+Activation Certificate
+Select an activation certificate
+Upload Activation Certificate
+No Support
+Certificate expired
+Support expired
+Certificate expires in {{param}} {{param2}}
+Support expires in {{param}} {{param2}}
+The activation certificate has been uploaded successfully.
+The Activation Certificate has been deleted successfully.
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate
+Upload
+Uploading
+Add
+Disable maintenance
+Enable maintenance
+Drain mode
+Cut mode
 Edit
 Configure
-Upload
+Save
+Add Variable
+Bring
+Export
+All data
+Only selected
+Apply
+Create
+Cancel
+Submit
+New Service
+New Zone
+New Route
+Basic
+Advanced
+Generate
+Generating
+Delete
+Bring Up
+Bring down
+Restart
+Restarting
+Start
+Stop
+Unset
+Enable
+Disable
+Remove
+Download
+Downloading
+Update
+New Rule
+Next
+Back
+Generate Random MAC
+Destroy
+Test Email
+Generate Random Key
+Upload Certificate
+Delete Certificate
+List
+Menu
+Modify
+Show
+Action
+Test
+Schedule
+Upgrade
 View
-Generate CSR
-farm
-certificate
-farmguardian
-VLAN
-virtual interface
-backup
-backend
-session
-Professional Products
-Professional Services
-News
-Resources
-System Stats
-CPU
-Memory
-Load
-Cores
-System Information
-Zevenet Version
-Appliance Version
-Kernel Version
-Hostname
-System Date
-NIC Interfaces
-Megabytes (MB)
-Farm List
-Name
-Profile
+Info
+Test Connectivity
+Show certificate
+Force Changes
+Page Not Found
+The page you were looking for doesn't exist
+Take me home
 Status
-LSLB Farm List
-Create LSLB Farm
-Listener
-Advanced settings
+Actions
+Name
+ID
+Alias
+IP
+Interface
+Priority
+Port
+Weight
+Max. Conns
+Name
+Virtual IP
+Vitual Port
+Virtual IP and Port
+Default TCP port health check
+Health Checks for backend
+Default Name Server
+Type
+Data
+Profile
+HTTPS Parameters
+Ciphers
+Custom ciphers
+Protocol type
+NAT type
 Rewrite location headers
 HTTP verbs accepted
+Ignore 100 continue
 Backend connection timeout
 Backend response timeout
 Frequency to check resurrected backends
 Client request timeout
-Message Error 414
-Message Error 500
-Message Error 501
-Message Error 503
-HTTPS Parameters
-Disable SSLv2
-Disable SSLv3
-Disable TLSv1
-Disable TLSv1.1
-Disable TLSv1.2
-Ciphers
-Custom Ciphers
-Certificate Enabled
+Message Error
+Request Headers
+Response Headers
+Persistence
+Persistence session time to live
+TTL
+Persistence session identifier
+Virtual IP
+Load balancing Scheduler
+Algorithm
+Round Robin
 Virtual Host
 URL Pattern
 Least Response
 HTTPS Backends
+STS Header
+Timeout
 Redirect
 Redirect URL
 Redirect Type
-Load balancer Algorithm
-Persistence
-Persistence session identifier
-Persistence session time to live
-No persistence
-IP: Client address
-BASIC: Basic authentication
-URL: A request parameter
-PARM: An URI parameter
-COOKIE: A certain cookie
-HEADER: A certain request header
-Protocol type
-Nat type
-Load balancer Algorithm
-Persistence
-Persistence session time to live
-No persistence
-IP: Source IP
-Port: Source
-MAC: Source MAC
-Source IP and Source Port
-Source IP and Destination Port
-Weight: connection linear dispatching by weight
-Source Hash: Hash per Source IP and Source Port
-Simple Source Hash: Hash per Source IP only
-Symmetric Hash: Round trip hash per IP and Port
-Round Robin: Sequential backend selection
-SSL Certificate List
-Generate CSR
-Upload SSL Certificate
-Choose one or more files
-DSLB Farm List
-Create DSLB Farm
-System Graphs
-Interfaces Graphs 
-Show Graphs
-Farms Graphs
-Select Graphs
-Farms Stats
-Farms Graphs
-Farmguardians
-Farms Settings
-Create Farmguardian
-NIC List
-VLAN Interface List
-Create VLAN interface
-Virtual Interface List
-Create Virtual interface
-IPv4 Gateway
-IPv6 Gateway
-Gateway Settings
-DNS Service
-Default is 8.8.8.8
-Optional
-Default is pool.ntp.org
-Primary server
-Secondary server
-NPT Service
-NPT Server
-SNMP Service
-Enable SNMP
-Physical interface where is running SNMP service
-SNMP Port where is running SNMP service
-Default is 161.
-Community name
-IP or subnet with access (IP/bit)
-Backup List
-Upload Backup
-Backup File
-Create Backup
-Choose one file
-Settings User
-User
-ZAPI Permissions
-ZAPI Key
-Change Password
-Current Password
-New Password
-Repeat new password
-Log List
-Log View
-Number of lines
-License
-Support Save
-When this action is executed a file with system information will be downloaded.
-This action may take several seconds, you can continue browsing the GUI.
-Name
+Redirect Code
+Cookie Insert
+Cookie Name
+Cookie Domain
+Cookie Path
+Cookie TTL
 Locality
 Country
 State/Province
@@ -178,167 +156,1005 @@ Common Name
 Organization
 Division
 E-mail Address
-Services Settings
-Global Settings
-Virtual IP and Port
-Backend
+File
+Issuer
+Creation
+Expiration
+Certificate
+Established Conns
+Pending Conns
+Service
+Session ID
+Backend ID
+Requests
+Failed REQ
+Failed RES
+Truncated Resp TC
+Extended DNS Big
+Extended DNS TC
+No Error
+Refused
+Non-existent Domain
+Notimp
+Bad Version
+Format Error
+Dropped
+V6
+Extended DNS
+Extended DNS-ClientSub
+Client
+Listerner
+Value
+Custom IP
+Policy
+Remote URL
+Frequency
+Rule
+Limit RST request per source IP
+Total connections per source IP
+Limit Burst
+Total connections limit per source IP
+Hits
+Time
+Log level
+Only logging
+Local traffic
+Queue size
+Max. Threads
+Cache size
+Cache time
+Check Request Body
+Check Response Body
+Request Body Limit
+Default Phase
+Default Log
+Rules
+Rule Type
+Mark
+Phase
+Resolution
+Rule ID
+Skip
+Skip after
+Execute
+Description
 Interval
 Cut connections
-Description
-Copy rule
-Rule to copy
-seconds
-Log
-Address
-Virtual interface name
+Command
+MAC
+Netmask
+Farms
+Gateway
+IP Address
+CIDR
+Mode
+Slaves
 Parent Interface
-VLAN Name
+Address
+Host
+Date
+Alert
+Password
+Log
+ZAPI Permissions
+GUI Permissions
+Role
+Rules Date
+Scheduled
+Variable
+Variable's argument
+Ignore this <i>variable</i> for the match
+Count elements of <i>variables</i>
+Variables
+Transformations
+Operating
+Multi Match
+Not Match
+Operator
+Module
+Floating IP
+Interfaces
+Group
+Virtual Interface
+URL
+From
+Table
+To
+Route
+Via
+Backend Alias
+Version
+System
+Failback
+Check Interval
+Node
+Message
+Hostname
+No {{param}} found
+Edit
+Global
+Services
+Select a {{param}}
+Resources
+Backends
+Strict Transport Security
+Farms Stats
+Copy to clipboard
+Hide nodes
+Show nodes
+Hide backends
+Show backends
+Hide graphs
+Show graphs
+Sessions
+Clients
+Servers
+Extended
+Nodes
+Number of lines
+View All
+View Less
+Valid
+Expired
+Near to expire
+True
+False
+No configured
+In use by bonding interface
+The cluster service interface has to be changed or disabled before to be able to modify this interface
+Enabled
+Disabled
+Needed restart
+Critical
+Problem
+Maintenance
+Master
+Backup
+Not configured
+Undefined
+Daily Graph
+Weekly Graph
+Monthly Graph
+Yearly Graph
+Documentation
+Reload farmguardian list
+Cookie
+Zones
+System Stats
+CPU
+Memory
+Load
+Cores
+Traffic In
+Traffic Out
+Nothing
+Custom
+All interfaces
+All farms
+Default State
+Up
+Down
+Installed and updated
+Not installed
+Updates available
+Interface
+Type
+Zone
+Transformation
+Backend
+Condition
+Domain
+Resource
+Graph
+Session
+IP alias
+Interface alias
+Backup
+Farm
+Header
+Pattern
+Source
+Blacklist
 Farmguardian
-Load balancer Algorithm
-Health Checks for backend
-Descriptive text, this name will be used to identify this certificate.
+Package
+DoS rule
+RBL rule
+WAF ruleset
+VLAN
+Routing Rule
+Routing Table
+Needed restart
+There're changes that need to be applied, restart the farm to apply them!
+Close
+The <strong> factory reset </strong> has been completed successfully.
+The interface <strong> {{name}} </strong> has been updated successfully.
+The <strong>HTTP Service</strong> has been updated successfully.
+An error has occurred on the server, try again later
+Connection to web server failed
+An unexpected error has occurred
+System Information
+ZEVENET Version
+Appliance Version
+Kernel Version
+System Date
+NIC Traffic
+Total number of connections in realtime.
+Connections
+Professional Products
+Professional Services
+No Virtual Interfaces
+No VLANs
+Create DSLB Farm
+Create Virtual interface
+Create GSLB Farm
+Generate CSR
+Create LSLB Farm
+Upload SSL Certificate
+Create Blacklist
+Create DoS rule
+Create RBL rule
+Create WAF ruleset
+Create Rule
+Create Farmguardian
+Create Bonding interface
+Create VLAN interface
+Upload Backup
+Create Backup
+Create User
+Create Group
+Create Role
+Create Route
+is required
+is not valid, it only is possible alphanumeric characters and dash (-).
 Only editable when the farm is down.
+Virtual Port is not valid, it is possible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)
+has to be greater than 0
+Redirect should be a URL (http(s)://...)
+Country can only have two characters.
+E-mail has to be a valid email
+The password does not match
+has to be a value between {{min}} and {{max}}
+Global Settings
+IPDS Settings
+Advanced Settings
+Domains Settings
+Rules Settings
+Blacklists rules
+DoS rules
+RBL rules
+WAF rulesets
+Services Settings
+Zones Settings
+Global Filter
+Refresh
+Seconds
+per second
+Refresh status every
+Refresh stats every
+Not refresh
+Farms Settings
+Minutes
+Hours
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Deny
+Allow
+Daily
+Weekly
+Monthly
+entries
+threads
+Sort
+SORT MODE: Drag and drop the service to the desired position.
+The farm will be restarted automatically.
+bytes
+Default is
+Optional
+days
+Go to
+Edit in form mode
+Edit in raw mode
+Create in form mode
+Create in raw mode
+Available certificates
+Enabled certificates
+Search certificate
+Available blacklists
+Enabled blacklists
+Search blacklist
+Available DoS rules
+Enabled DoS rules
+Search DoS rule
+Available RBL rules
+Enabled RBL rules
+Search RBL rule
+Available WAF rulesets
+Enabled WAF rulesets
+Search WAF ruleset
+Available farms
+Enabled farms
+Search farm
+Available domains
+Enabled domains
+Search domain
+Enabled rules
+Disabled rules
+Search rule
+Available NICs
+Enabled NICs
+Search NIC
+Search slaves
+Slaves NICs
+Available users
+Enabled users
+Search user
+Available interfaces
+Enabled interfaces
+Search interface
+Managed interfaces
+Unmanaged interfaces
+Search interface
+LSLB Farm List
+GSLB Farm List
+DSLB Farm List
+Copy farm
+Farm to copy
+Select the farm to copy
+Weight: connection linear dispatching by weight
+Priority: connections always to the most prio available
+Source Hash: Hash per Source IP and Source Port
+Simple Source Hash: Hash per Source IP only
+Symmetric Hash: Round trip hash per IP and Port
+Round Robin: Sequential backend selection
+Least Connections: connections to the least open conns available
+Disabled
+Enabled
+Enabled and compare backends
+No persistence
+IP: Source IP
+Port: Source Por
+MAC: Source MAC
+Source IP and Source Port
+Source IP and Destination Port
+No persistence
+IP: Client address
+BASIC: Basic authentication
+URL: A request parameter
+PARM: An URI parameter
+COOKIE: A certain cookie
+HEADER: A certain request header
+The farm has been updated successfully
+The farm <strong> {{param}} </strong> has been deleted successfully.
+The farm <strong> {{param}} </strong> has been started successfully.
+The farm <strong> {{param}} </strong> has been restarted successfully.
+The farm <strong> {{param}} </strong> has been stopped successfully.
+The farm <strong> {{param}} </strong> has been created successfully.
+The backend has been created successfully.
+The backend has been updated successfully.
+The backend <strong> {{param}} </strong> has been deleted successfully.
+The backend <strong> {{param}} </strong> has been put in maintenance successfully.
+The backend <strong> {{param}} </strong> has been upped successfully.
+Backends with high priority value <strong> {{param}} </strong> will not be used.
+The resource has been created successfully.
+The resource has been updated successfully.
+The backend <strong> {{param}} </strong> has been deleted successfully.
+The SSL certificate <strong> {{param}} </strong> has been added to the farm successfully.
+The SSL certificate <strong> {{param}} </strong> has been removed of the farm successfully.
+The SSL certificate <strong> {{param}} </strong> has been sorted successfully.
+The service <strong> {{param}} </strong> has been created successfully.
+The service <strong> {{param}} </strong> has been updated successfully.
+The service <strong> {{param}} </strong> has been deleted successfully.
+The service <strong> {{param}} </strong> has been moved successfully.
+The farmguardians list has been reloaded successfully.
+The farmguardian has been disabled successfully.
+The farmguardian has been changed to {{param}} successfully.
+The zone <strong> {{param}} </strong> has been created successfully.
+The zone <strong> {{param}} </strong> has been updated successfully.
+The zone <strong> {{param}} </strong> has been deleted successfully.
+The blacklist <strong> {{param}} </strong> has been added to the farm successfully.
+The blacklist <strong> {{param}} </strong> has been removed of the farm successfully.
+The DoS rule <strong> {{param}} </strong> has been added to the farm successfully.
+The DoS rule <strong> {{param}} </strong> has been removed of the farm successfully.
+The RBL rule <strong> {{param}} </strong> has been added to the farm successfully.
+The RBL rule <strong> {{param}} </strong> has been removed of the farm successfully.
+The WAF ruleset <strong> {{param}} </strong> has been sorted successfully.
+The WAF ruleset <strong> {{param}} </strong> has been added to the farm successfully.
+The WAF ruleset <strong> {{param}} </strong> has been removed of the farm successfully.
+The profile has been changed to {{param}} successfully.
+The algorithm has been changed to the weight algorithm, because of the least Connections algorithm is not allowed with the selected NAT type. You can choose another algorithm from the services tab.
+The request header has been saved successfully.
+The request header has been deleted successfully.
+The request header pattern has been saved successfully.
+The request header pattern has been deleted successfully.
+The response header has been saved successfully.
+The response header has been deleted successfully.
+The response header pattern has been saved successfully.
+The response header pattern has been deleted successfully.
+The service has to have one backend at least.
+Are you sure you want to delete the farm {{param}}?
+Are you sure you want to delete the selected farms?
+Are you sure you want to delete the service {{param}}?
+Are you sure you want to delete the zone {{param}}?
+Are you sure you want to delete the selected resources?
+Are you sure you want to delete the resource {{param}}?
+Are you sure you want to delete the backend {{param}}?
+Are you sure you want to delete the selected backends?
+Are you sure you want to delete the request header with ID {{id}}?
+Are you sure you want to delete the request header pattern with ID {{id}}?
+Are you sure you want to delete the selected request headers?
+Are you sure you want to delete the selected request headers patterns?
+Are you sure you want to delete the response header with ID {{id}}?
+Are you sure you want to delete the response header pattern with ID {{id}}?
+Are you sure you want to delete the selected response headers?
+Are you sure you want to delete the selected response headers patterns?
+Are you sure you want to delete the {{param}} blacklist?
+Are you sure you want to delete the selected blacklists?
+The gateway of the interface {{ param }} will be deleted and replaced for this farm. Do you wish to continue?
+SSL Certificate list
+Choose one certificate
+Choose one or more files
+Selected files
+Descriptive text, this name will be used to identify this certificate.
 City where your organization is located.
 Country (two characters) where your organization is located.
 State or province where your organization is located.
 FQDN of the server. Example: domain.com, mail.domain.com, or *.domain.com.
-The full legal name of your organization/company (ex.: Zevenet Co.). 
+The full legal name of your organization/company (ex.: ZEVENET Co.)
 Your department; such as 'IT','Web', 'Office', etc.
-Your email address.
-Name
-Name
-Profile
-Virtual IP
-Virtual Port
-Status
-Actions
-ID
-IP
-Address
-Port
-Timeout
-Weight
-Common Name
-Type
-File
-Issuer
-Create on
-Expire on
-Priority
-Interface
-Service
-Client
-Sessions
-Session ID
-Backend ID
-Command
-Description
-Farms
-Farm
-Gateway
-Netmask
-MAC
-IP Address (IPv4 / IPv6)
-VLAN tag
-Date
-Log
-Established Conns
-Pending Conns
-No
-found
- is required
- is not valid, it only is possible alphanumeric characters and dash (-).
- not is valid, it is posible to define a single port, several ports or ranges of ports (Ex: 80 or 80,81 or 80:90)
- has to be greater than 0
- can only has two characters.
- has to be a valid email.
-does not match.
-The farm <strong>{{param}}</strong> has been deleted successfully.
-The farm <strong>{{param}}</strong> {{param2}} has been deleted successfully.
-Are you sure you want to delete the {{param}} farmname ?
-The farm <strong>{{param}}</strong> has been {{param2}}ed successfully.
-The farm <strong>{{param}}</strong> has been created successfully.
-The farm <strong>{{param}}</strong> has been restarted successfully.
-The backend has been created successfully.
-The profile has been changed to {{param}} successfully.
-The farmguardian has been disabled sucessfully.
-The farmguardian has been changed to {{param}} successfully.
-The <strong>{{param}}</strong> farmguardian has been created successfully.
-The <strong>{{param}}</strong> farmguardian has been updated successfully
+Your email address
+The CSR <strong> {{param}} </strong> has been generated successfully.
+The certificate <strong> {{param}} </strong> has been uploaded successfully.
+The certificate <strong> {{param}} </strong> has been deleted successfully.
+The certificate <strong> {{param}} </strong> has been downloaded successfully.
+Are you sure you want to delete the certificate {{param}}?
+Are you sure you want to delete the selected certificates?
+Updates
+Update list
+Period time
+Exact time
+Daily every
+Day of the week
+Day of the month
+Sources
+DoS rules IPDS
+RBL rules IPDS
+Copy rule
+Rule to copy
+Ruleset to copy
+Select the rule to copy
+Select the ruleset to copy
+Custom Domain List
+Preloaded Domain List
+WAF rulesets IPDS
+Default Action
+Disable Rules
+IPDS Package Updates
+Conditions
+Flow
+WAF File List
+WAF file
+Content File
+Select files
+Select a file
+Select transformations
+Connection limit per second.
+Total connections limit per source IP.
+Check bogus TCP flags.
+Limit RST request per second.
+Allow: Finish the WAF processing and complete the HTTP transaction
+Pass: Continue executing the rules
+Deny: Cut the request and not execute rules left
+Redirect: The client received a URL to redirect
+Default action: The default action of this ruleset
+Request headers are received
+Request body is received
+Response headers are received
+Response body is received
+Before than logging
+LUA Script
+Data file
+It is a collection with the values of arguments in a request.
+It is a collection with the values of arguments in a JSON request. This variable will be available in the case that WAF parses the JSON arguments, for it, the rule set REQUEST-901-INITIALIZATION should be enabled.
+The total size of the request parameters. The files are excluded.
+It is a collection with the names of the arguments in a request.
+It contains the file names in the user filesys. Only when the data is multipart/form-data.
+It is the total size of the files in a request. Only when the data is multipart/form-data.
+It is a list of filenames used to upload the files. Only when the data is multipart/form-data.
+It contains a list of individual file sizes. Only when the data is multipart/form-data.
+This variable is 1 if the request body format is not correct for a JSON or XML, else it has the value 0.
+It is the raw body request. If the request has not the “application/x-www-form-urlencoded” header, it is necessary to use “ctl:forceRequestBodyVariable” in the REQUEST_HEADER phase.
+It is the number of bytes of the request body.
+It is a list with all request cookies values.
+It is a list with all request cookies names.
+This variable has all the request headers.
+This variable has a list with the request headers names.
+It is the request method.
+This variable holds the request HTTP version protocol.
+It is the URI request path. The virtual host is excluded.
+It is the information before than the URI path.
+It is the full request.
+It is the number of bytes that full request can have.
+It is the raw body response.
+It is the number of bytes of the response body.
+This variable has all response headers.
+This variable has a list with the response headers names.
+This variable holds the response HTTP version protocol.
+It is the response HTTP code.
+It is the IP address of the client.
+It is the port where the client initializes the connection.
+It is the name of the authenticated user.
+It is the server time. The format is hours:minutes:seconds.
+It is the number of milliseconds since the beginning of the current transaction.
+It is the field filename in a multipart request.
+It is the field name in a multipart request.
+It is the matched value in the last match operation. This value does not need the capture option but it is replaced in each match operation.
+It is a list of all matched values.
+It is the IP address of the server.
+It is the virtual host, it gets from the request URI.
+It is the environment variables of the WAF.
+It is a collection of variables for the current transaction. These variables will be removed when the transaction ends. The variables TX:0-TX:9 saves the values captured with the strRegex or strPhrases operators.
+Decodes a Base64-encoded string.
+Decodes a Base64-encoded string ignoring invalid characters.
+Decodes SQL hex data.
+Encodes using Base64 encoding.
+Avoids the problem related with the escaped command line.
+Converts any of the whitespace characters (0x20, \\f, \\t, \\n, \\r, \\v, 0xa0) to spaces (ASCII 0x20), compressing multiple consecutive space characters into one.
+Decodes characters encoded using the CSS 2.x escape rules. This function uses only up to two bytes in the decoding process, meaning that it is useful to uncover ASCII characters encoded using CSS encoding (that wouldn’t normally be encoded), or to counter evasion, which is a combination of a backslash and non-hexadecimal characters (e.g., ja\\vascript is equivalent to javascript).
+Decodes ANSI C escape sequences: \\a, \\b, \\f, \\n, \\r, \\t, \\v, \\, \\?, \\’, \\”, \\xHH (hexadecimal), \\0OOO (octal). Invalid encodings are left in the output.
+Decodes a string that has been encoded using the same algorithm as the one used in hexEncode (see following entry).
+Encodes string (possibly containing binary characters) by replacing each input byte with two hexadecimal characters. For example, xyz is encoded as 78797a.
+Decodes the characters encoded as HTML entities.
+Decodes JavaScript escape sequences.
+Looks up the length of the input string in bytes, placing it (as string) in output.
+Converts all characters to lowercase using the current C locale.
+Calculates an MD5 hash from the data in the input. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.
+Not an actual transformation function, but an instruction to remove previous transformation functions associated with the current rule.
+Removes multiple slashes, directory self-references, and directory back-references (except when at the beginning of the input) from the input string.
+Same as normalizePath, but first converts backslash characters to forward slashes.
+Calculates even parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.
+Calculates odd parity of 7-bit data replacing the 8th bit of each target byte with the calculated parity bit.
+Calculates zero parity of 7-bit data replacing the 8th bit of each target byte with a zero-parity bit, which allows inspection of even/odd parity 7-bit data as ASCII7 data.
+Removes all NUL bytes from input.
+Removes all whitespace characters from the input.
+Replaces each occurrence of a C-style comment (/* … */) with a single space (multiple consecutive occurrences of which will not be compressed). Unterminated comments will also be replaced with space (ASCII 0x20). However, a standalone termination of a comment (*/) will not be acted upon.
+Removes common comments chars (/*, */, –, #).
+Replaces NUL bytes in input with space characters (ASCII 0x20).
+Decodes a URL-encoded input string. Invalid encodings (i.e., the ones that use non-hexadecimal characters, or the ones that are at the end of the string and have one or two bytes missing) are not converted, but no error is raised.
+Converts all characters to uppercase using the current C locale.
+Like urlDecode, but with support for the Microsoft-specific %u encoding.
+Encodes input string using URL encoding.
+Converts all UTF-8 characters sequences to Unicode. This helps input normalization especially for non-english languages minimizing false-positives and false-negatives.
+Calculates a SHA1 hash from the input string. The computed hash is in a raw binary form and may need to be encoded into the text to be printed (or logged). Hash functions are commonly used in combination with hexEncode.
+Removes whitespace from the left side of the input string.
+Removes whitespace from the right side of the input string.
+Removes whitespace from both the left and right sides of the input string.
+The rule will match if any of the variables begin with the value of operating.
+The rule will match if any of the variables contain the value of operating.
+The rule will match if any of the variables contain a word as the string one.
+The rule will match if any of the variables end with the value of operating.
+The rule will match if any of the variables match with the value of operating.
+The rule will match if any of the variables match with the value of operating.
+The rule will match if any of the variables is identical to the value of operating.
+The rule will match if any of the variables match in the regular expression used in operating.
+The rule will match if any of the variables match in any of the values of the list operating.
+It the same that the operator strPhrases but the operating is a file where it is defined as a list of phrases.
+The rule will match if any of the variables is equal to the number used in operating.
+The rule will match if any of the variables is greater or equal to the number used in operating.
+The rule will match if any of the variables is greater than the number used in operating.
+The rule will match if any of the variables is lower or equal to the number used in operating.
+The rule will match if any of the variables is lower than the number used in operating.
+It applies the detection of SQL injection to the list of variables. This operator does not expect any operating.
+It applies the detection of XSS injection to the list of variables. This operator does not expect any operating.
+Try to match the IP or network segments of operating with the list of variables.
+It is the same as the operator ipMatch, but this tries the match of the variables against a file with a list of IPs and network segments.
+It checks that the number of byte of the variables are in one of the operating values. An example of operating is “10, 13, 32-126”.
+It validates encoded data. This operator must be used only for data that does not encode data commonly or for data are encoded several times.
+It validates that variables are UTF-8. This operator does not expect any operating.
+It verifies if variables are a credit card number. This parameter accepts a regular expression as operating, if it matches then it applies the credit card verified.
+It verifies if variables are a US Social Security Number. This parameter accepts a regular expression as operating, if it matches then it applies the SSN verication.
+It returns true always, forcing a match.
+It returns false always, forcing a non-match.
+A word is delimited by characters different to (a-z, 0-9 and '_')
+Can be a list of strings split by the character ,
+Can be a list of strings split by the character |,
+Can be a list of strings split by a blank space
+Can be a list of IPs or network segments split by the character ,
+Can be a list of IPs ranges split by the character ,
+Can be selected more than one file.
+It uses the PCRE engine, optional field.
+It uses the PCRE engine, optional field.
+It uses the PCRE engine. The expression (?i) is used to match using case-insensitive.
+This operator does not expect any operating.
+String.
+Number.
+The <strong> {{param}} </strong> blacklist has been created successfully.
+The <strong> {{param}} </strong> blacklist has been deleted successfully.
+The <strong> {{param}} </strong> blacklist has been stopped successfully.
+The <strong> {{param}} </strong> blacklist has been started successfully.
+The <strong> {{param}} </strong> blacklist has been updated successfully.
+The farm <strong> {{param}} </strong> has been added to the blacklist successfully.
+The farm <strong> {{param}} </strong> has been removed of the blacklist successfully.
+The <strong> {{param}} </strong> DoS rule has been created successfully.
+The <strong> {{param}} </strong> DoS rule has been deleted successfully.
+The <strong> {{param}} </strong> DoS rule has been stopped successfully.
+The <strong> {{param}} </strong> DoS rule has been started successfully.
+The farm <strong> {{param}} </strong> has been added to the DoS rule successfully.
+The farm <strong> {{param}} </strong> has been removed of the DoS rule successfully.
+The source has been created successfully
+The source has been updated successfully
+The source <strong> {{param}} </strong> has been deleted successfully.
+The <strong> {{param}} </strong> RBL rule has been created successfully.
+The <strong> {{param}} </strong> RBL rule has been updated successfully.
+The <strong> {{param}} </strong> RBL rule has been deleted successfully.
+The <strong> {{param}} </strong> RBL rule has been stopped successfully.
+The <strong> {{param}} </strong> RBL rule has been started successfully.
+The farm <strong> {{param}} </strong> has been added to the RBL rule successfully.
+The farm <strong> {{param}} </strong> has been removed of the RBL rule successfully.
+The domain <strong> {{param}} </strong> has been added to the RBL rule successfully.
+The domain <strong> {{param}} </strong> has been removed of the RBL rule successfully.
+The domain <strong> {{param}} </strong> has been created successfully
+The domain has been updated successfully
+The domain <strong> {{param}} </strong> has been deleted successfully.
+The <strong> {{param}} </strong> WAF ruleset has been created successfully.
+The <strong> {{param}} </strong> WAF ruleset has been deleted successfully.
+The <strong> {{param}} </strong> WAF ruleset has been stopped successfully.
+The <strong> {{param}} </strong> WAF ruleset has been started successfully.
+The <strong> {{param}} </strong> WAF ruleset has been updated successfully.
+The farm <strong> {{param}} </strong> has been added to the WAF ruleset successfully.
+The farm <strong> {{param}} </strong> has been removed of the WAF ruleset successfully.
+The rule <strong> {{param}} </strong> has been created successfully.
+The rule <strong> {{param}} </strong> has been moved successfully.
+The rule <strong> {{param}} </strong> has been deleted successfully.
+The rule <strong> {{param}} </strong> has been updated successfully
+The match has been created successfully
+The match <strong> {{param}} </strong> has been deleted successfully.
+The WAF file <strong> {{param}} </strong> has been created successfully.
+The WAF file <strong> {{param}} </strong> has been deleted successfully.
+The WAF file <strong> {{param}} </strong> has been updated successfully.
+The <strong> IPDS package </strong> has been scheduled successfully.
+The <strong> IPDS package </strong> has been upgraded successfully.
+Are you sure you want to delete the {{param}} blacklist?
+Are you sure you want to delete the selected blacklists?
+Are you sure you want to delete the {{param}} DoS rule?
+Are you sure you want to delete the selected DoS rules?
+Are you sure you want to delete the source {{param}}?
+Are you sure you want to delete the selected sources?
+Are you sure you want to delete the {{param}} RBL rule?
+Are you sure you want to delete the selected RBL rules?
+Are you sure you want to delete the domain {{param}}?
+Are you sure you want to delete the selected domains?
+Are you sure you want to delete the {{param}} WAF ruleset?
+Are you sure you want to delete the selected rulesets?
+'Are you sure you want to delete the rule {{param}}?
+Are you sure you want to delete the match {{param}}?
+Are you sure you want to delete the selected matches?
+Are you sure you want to delete the file {{param}}?
+Are you sure you want to delete the selected files?
+System Graphs
+Interfaces Graphs
+Farms Graph
+Farms Stats
+System Stats
+Network Stats
+Copy farmguardian
+Farmguardian to copy
+Select the farmguardian to copy
+Total Memory
+Free Memory
+Used Memory
+Buffers
+Cached
+Total Swap
+Free Swap
+Used Swap
+Cached Swap
+Idle
+Usage
+Iowait
+Irq
+Nice
+Softirq
+Sys
+User
+Last minute
+Last 5 minutes
+Last 15 minutes
 Are you sure you want to delete the {{param}} farmguardian?
-The <strong>{{param}}</strong> farmguardian has been deleted successfully.
-The farm has been updated successfully.
-Are you sure you want to delete the farm {{param}} {{param2}} of the farmguardian?
-Are you sure you want to delete the backend {{param}}?
-The backend <strong>{{param}}</strong> has been deleted successfully
-The backend <strong>{{param}}</strong> has been {{param2}} successfully.
-The service <strong>{{param}}</strong> has been created successfully.
-The service <strong>{{param}}</strong> has been deleted successfully.
-The service <strong>{{param}}</strong> has been updated successfully.
-The <strong>{{param}}</strong> Gateway has been updated successfully.
-Are you sure you want to unset the current gateway?
-Are you sure you want to unset the {{param}} gateway?
-The <strong>{{param}}</strong> Gateway has been unconfigured successfully.
-The <strong>{{param}}</strong> NIC has been updated successfully.
-The <strong>{{param}}</strong> NIC has been unconfigured successfully.
-The <strong>{{param}}</strong> NIC is {{param2}}
-The <strong>{{param}}</strong> Virtual interface has been created successfully.
-The <strong>{{param}}</strong> Virtual interface has been updated successfully.
-Are you sure you want to delete the {{param}} Virtual interface?
-The <strong>{{param}}</strong> Virtual interface has been deleted successfully.
-The <strong>{{param}}</strong> VLAN has been created successfully.
-The <strong>{{param}}</strong> VLAN has been updated successfully.
-Are you sure you want to delete the {{param}} VLAN?
-The <strong>{{param}}</strong> VLAN has been deleted successfully.
-The <strong>{{param}}</strong> VLAN is {{param2}}
-The backup <strong>{{param}}</strong> has been created successfully.
-The backup <strong>{{param}}</strong> has been uploaded successfully.
-Are you sure you want to delete the backup {{param}}?
-The backup <strong>{{param}}</strong> has been deleted successfully.
-The backup <strong>{{param}}</strong> has been applied successfully.
-The backup <strong>{{backup}}</strong> has been downloaded successfully.
-The log <strong>{{param}}</strong> has been downloaded successfully.
-The <strong>{{param}}</strong> service has been updated successfully.
-The <strong> Support Save </strong> has been downloaded successfully
+Are you sure you want to delete the selected farmguardians?
+The <strong> {{param}} </strong> farmguardian has been created successfully.
+The <strong> {{param}} </strong> farmguardian has been deleted successfully.
+The <strong> {{param}} </strong> farmguardian has been updated successfully.
+The farm <strong> {{param}} </strong> has been added to the farmguardian successfully.
+The farm <strong> {{param}} </strong> has been removed to the farmguardian successfully.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been added to the farmguardian successfully.
+The farm <strong> {{param}} with the service {{param2}} </strong> has been removed to the farmguardian successfully.
+NIC List
+Bonding Interface List
+Select the slaves
+VLAN Interface List
+VLAN ID
+VLAN tag
+Virtual Interface List
+Virtual interface name
+Virtual interface tag
+Floating IP List
+IPv4 Gateway
+IPv6 Gateway
+IPv4 Gateway Settings
+IPv6 Gateway Settings
+Backends Aliases
+Interfaces Aliases
+Routing Rule List
+Routing Table List
+Priority should be a value between {{min}} and {{max}}
+Configure table {{param}}
+Available Routes
+Routing table for the outputs of the interface {{param}}.
+Should be a IP address or CIDR
+Should be a IP address (IPv4/IPv6)
+Are you sure you want to unset the NIC {{param}}?
+Are you sure you want to unset the selected NIC?
+Are you sure you want to unset the Bonding {{param}}?
+Are you sure you want to unset the selected Bondings?
+Are you sure you want to delete the Bonding {{param}}?
+Are you sure you want to delete the selected Bondings?
+Are you sure you want to delete the VLAN {{param}}?
+Are you sure you want to delete the selected VLANs?
+Are you sure you want to delete the Virtual interface {{param}}?
+Are you sure you want to delete the selected Virtual interfaces?
+Are you sure you want to unset the Floating IP of {{param}}?
+Are you sure you want to unset the selected Floating IPs?
+Are you sure you want to unset the gateway for {{param}}?
+Are you sure you want to delete the alias {{param}}?
+Are you sure you want to delete the selected aliases?
+Are you sure you want to delete the routing rule {{param}}?
+Are you sure you want to delete the selected routing rules?
+Are you sure you want to delete the route {{param}}?
+Are you sure you want to delete the selected routes?
+The <strong> {{param}} </strong> NIC has been unconfigured successfully.
+The <strong> {{param}} </strong> NIC is up.
+The <strong> {{param}} </strong> NIC is down.
+The <strong> {{param}} </strong> NIC has been updated successfully.
+The <strong> {{param}} </strong> NIC has updated the alias successfully.
+The <strong> {{param}} </strong> Bonding has been created successfully.
+The <strong> {{param}} </strong> Bonding has been unconfigured successfully.
+The <strong> {{param}} </strong> Bonding is up.
+The <strong> {{param}} </strong> Bonding is down.
+The <strong> {{param}} </strong> Bonding has been updated successfully.
+The <strong> {{param}} </strong> Bonding has updated the alias successfully.
+The <strong> {{param}} </strong> Bonding has been deleted successfully.
+The <strong> {{param}} </strong> slave has been added to the Bonding successfully.
+The <strong> {{param}} </strong> slave has been removed of the Bonding successfully.
+The <strong> {{param}} </strong> VLAN has been created successfully.
+The <strong> {{param}} </strong> VLAN is up.
+The <strong> {{param}} </strong> VLAN is down.
+The <strong> {{param}} </strong> VLAN has been updated successfully.
+The <strong> {{param}} </strong> VLAN has updated the alias successfully.
+The <strong> {{param}} </strong> VLAN has been deleted successfully.
+The <strong> {{param}} </strong> Virtual interface has been created successfully.
+The <strong> {{param}} </strong> Virtual interface is up.
+The <strong> {{param}} </strong> Virtual interface is down.
+The <strong> {{param}} </strong> Virtual interface has been updated successfully.
+The <strong> {{param}} </strong> Virtual interface has updated the alias successfully.
+The <strong> {{param}} </strong> Virtual interface has been deleted successfully.
+The <strong> {{param}} </strong> Floating IP has been unconfigured successfully.
+The <strong> {{param}} </strong> Floating IP is up.
+The <strong> {{param}} </strong> Floating IP is down.
+The <strong> {{param}} </strong> Floating IP has been updated successfully.
+The <strong> {{param}} </strong> Floating IP has updated the alias successfully.
+The <strong> {{param}} </strong> Floating IP has been deleted successfully.
+The Gateway for <strong> {{param}} </strong> has been unconfigured successfully.
+The Gateway for <strong> {{param}} </strong> has been updated successfully.
+The <strong> {{param}} </strong> Alias has been created successfully.
+The <strong> {{param}} </strong> Alias has been updated successfully.
+The <strong> {{param}} </strong> Alias has been deleted successfully.
+The <strong> {{param}} </strong> routing rule has been deleted successfully.
+The <strong> {{param}} </strong> routing rule has been updated successfully.
+The <strong> {{param}} </strong> routing rule has been created successfully.
+The route <strong> {{param}} </strong> has been deleted successfully.
+The route <strong> {{param}} </strong> has been updated successfully.
+The route <strong> {{param}} </strong> has been created successfully.
+To remove a route you must select it first.
+The route {{param}} cannot be removed because it is a system route.
+The interface <strong> {{param}} </strong> has been disabled.
+The interface <strong> {{param}} </strong> has been enabled.
+The <strong> {{param}} </strong> slave can not be removed. The Bonding must have at least one slave.
+HTTP Service
+SSH Service
+SNMP Service
+The physical interface where is running GUI service
+If the cluster is up you only can select the cluster interface or all
+HTTPS Port where is running GUI service
+The physical interface where is running SSH service
+SSH Port where is running SSH service
+Enable SNMP
+The physical interface where is running SNMP service
+SNMP Port where is running SNMP service
+Community name
+IP or subnet with access
+Primary server
+Secondary Server
+NTP server
+NTP Service
+Proxy Service
+DNS Service
+Configure cluster
+Local IP
+Remote IP
+Remote Node Password
+Confirm Password
+Backup List
+Backup file
+Choose one file
+Alerts Service
+Alerts
+Email Notifications
+Mail Server
+Mail User
+TLS
+Backends Alert
+Cluster Alert
+Prefix Subject
+Avoid flapping time
+The time that alerts wait when backend is flapping
+User Settings
+ZAPI Key
+Change Password
+Current password
+New password
+Repeat new password
+Log List
+Log view
+When this action is executed a file with system information will be downloaded.
+This action may take several seconds, you can continue browsing the GUI.
+Select an interface which won't be deleted
+This action will destroy all the config, except the selected interface, the backups and the activation certificate.
+The current credentials for user root will not be modified.
+User List
+Group List
+Role List
+Role Settings
+Show all permissions
+Hide all permissions
+Show permissions
+Hide permissions
+LDAP Server
+Base DN
+Bind DN
+Scope
+Bind Password
+Filter
+Global Services
+Enable session replication
+Enable Duplicated network
+Enable ARP announce
+Custom Routes
+System Routes
+Use proxy of new generation
+Validation Systems
+AWS Credentials
+Access Key
+Secret Key
+Region
+SSL Certificate
+RBAC User
+RBAC Group
+RBAC Role
+Network Virtual Interface
+System Service
+Notification
+Host or URL allowed
+It will not be used if the HOST/URL field contains a URL
+Filter used to get the LDAP field that contains the user ID to log in
+The Search Request will be performed against the entry specified as the search base DN.
+The Search Request will be performed against entries that are immediate subordinates of the entry specified as the search base DN.
+The Search Request will be performed against the search base and all entries below
+The new management GUI address is {{param}} please reconnect to GUI in the new URL.
+The <strong> HTTP service </strong> has been updated successfully.
+The <strong> SSH service </strong> has been updated successfully.
+The <strong> SNMP service </strong> has been updated successfully.
+The <strong> global services </strong> have been updated successfully
+The <strong> DNS service </strong> has been updated successfully.
+The <strong> NTP service </strong> has been updated successfully.
+The <strong> Proxy service </strong> has been updated successfully.
+The backup <strong> {{param}} </strong> has been deleted successfully.
+The backup <strong> {{param}} </strong> has been applied successfully.
+The backup <strong> {{param}} </strong> has been downloaded successfully.
+The backup <strong> {{param}} </strong> has been uploaded successfully.
+The backup <strong> {{param}} </strong> has been created successfully.
+The <strong> backends alert </strong> has been applied successfully.
+The <strong> cluster alert </strong> has been applied successfully.
+The configuration of email has been updated successfully.
+The alert has been updated successfully.
+The test email has been sent successfully.
 The user has been updated successfully.
-The CSR <strong>{{param}}</strong> has been generated successfully.
-The certificate <strong>{{param}}</strong> has been uploaded successfully.
-The certificate <strong>{{param}}</strong> has been deleted successfully.
-The certificate <strong>{{param}}</strong> has been downloaded successfully.
-New Service
-Create
-Cancel
-Submit
-Save
-Generate
-Update
-Upload
-Generate Random Key
-Generate Support Save
-clear
-start
-Apply
-Add
-Edit
-Go to Home
-404 Page not Found
-The page you were looking for doesn't exist
-No farms found
-Established Conns
-Pending Conns
-Select a graph
-Select a profile
-Select a Virtual IP
-Select a parent interface
-Select an interface
-Logout
-Sign in with your username and password
-Username
-Password
-Sign In
-User is required!
-User should be the real one
-Password is required
-Password should contains {{param}} to {{param2}} characters
-Success!
-You have been successfully logged in.
+The log <strong> {{param}} </strong> has been downloaded successfully.
+The <strong> Support Save </strong> has been downloaded successfully.
+The user <strong> {{param}} </strong> has been deleted successfully.
+The user {{param}} has been created successfully.
+The user {{param}} has been updated successfully.
+The group <strong> {{param}} </strong> has been deleted successfully.
+The group {{param}} has been created successfully.
+The group {{param}} has been updated successfully.
+The user <strong> {{param}} </strong> has been added to the group successfully.
+The user <strong> {{param}} </strong> has been removed to the group successfully.
+The farm <strong> {{param}} </strong> has been added to the group successfully.
+The farm <strong> {{param}} </strong> has been removed to the group successfully.
+The interface <strong> {{param}} </strong> has been added to the group successfully.
+The interface <strong> {{param}} </strong> has been removed to the group successfully.
+The role <strong> {{param}} </strong> has been deleted successfully.
+The role {{param}} has been created successfully.
+The role {{param}} has been updated successfully.
+The LDAP server has been configured. Please, test the connectivity to confirm that the configuration is correct.
+The connectivity test has been done successfully.
+The validation system <strong> {{param}} </strong> has been enabled successfully.
+The validation system <strong> {{param}} </strong> has been disabled successfully.
+The cluster has been created successfully.
+The cluster has been updated successfully.
+The cluster has been destroyed successfully.
+The <strong>local node</strong> has been put in maintenance successfully.
+The <strong>local node</strong> has been enabled successfully.
+The AWS credentials have been configured successfully.
+The Azure credentials have been configured successfully.
+Are you sure you want to delete the backup {{param}}?
+Are you sure you want to delete the selected backups?
+Are you sure you want to delete the user {{param}}?
+Are you sure you want to delete the selected users?
+Are you sure you want to delete the group {{param}}?
+Are you sure you want to delete the selected groups?
+Are you sure you want to delete the role {{param}}?
+Are you sure you want to delete the selected roles?
+Are you sure you want to destroy the cluster?
+Dashboard
+News
+LSLB
+Farms
+SSL Certificates
+Generate csr
+Stats
+GSLB
+DSLB
+IPDS
+Settings
+Blacklists
+DoS
+RBL
+Rules
+Domains
+WAF
+Rulesets
+Files
+Monitoring
+Graphs
+Farmguardians
+Network
+NIC
+Bonding
+VLAN
+Virtual Interfaces
+Floating IPs
+Gateway
+Aliases
+Routing
+Tables
+System
+RBAC
+Users
+Groups
+Roles
+Local Services
+Remote Services
+Cluster
+Backups
+Notifications
+User
+Logs
+Activation Certificate
+License
+SupportSave
+Factory Reset
