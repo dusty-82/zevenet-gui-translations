@@ -6,7 +6,7 @@ Password should contains from {{min}} to {{max}} characters || La password deve 
 Sign In || Accedi
 Logging out, please wait... || Disconnessione, attendere ...
 Package list to upgrade || Elenco dei pacchetti da aggiornare
-To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || Per aggiornare il sistema, eseguire in una shell il seguente comando: 'checkupgrades -i'
+To upgrade the system, please, execute in a shell the following command:'checkupgrades -i' || Per aggiornare il sistema, esegui il seguente comando in una shell: 'checkupgrades -i'
 *This information is updated daily, if you want to force the check run <code>checkupgrades</code> from command line. || * Queste informazioni vengono aggiornate quotidianamente, se si desidera forzare l'esecuzione del controllo <code>checkupgrades</code> dalla riga di comando.
 No activation certificate || Nessun certificato di attivazione
 There isn't a valid ZEVENET certificate file, please request a new one || Non esiste un file di certificato ZEVENET valido, richiederne uno nuovo
@@ -24,70 +24,70 @@ Certificate expires in {{param}} {{param2}} || Il certificato scade tra {{param}
 Support expires in {{param}} {{param2}} || Il supporto scade tra {{param}} {{param2}}
 The activation certificate has been uploaded successfully. || Il certificato di attivazione è stato caricato correttamente.
 The Activation Certificate has been deleted successfully. || Il certificato di attivazione è stato eliminato correttamente.
-Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || Eliminare il certificato di attivazione \\n Se lo si cancella, si perderà l'accesso alla GUI, fino al caricamento di un altro certificato
-Upload || Caricare
-Uploading || Caricamento
+Are you sure to delete the activation certificate\\n If you delete it you will lose access to the GUI, until the upload of another certificate || Elimina il certificato di attivazione \\n Se lo si cancella, si perderà l'accesso alla GUI, fino al caricamento di un altro certificato
+Upload || Carica
+Uploading || In caricamento
 Add || Aggiungi
-Disable maintenance || Disabilitare la manutenzione
+Disable maintenance || Disabilita manutenzione
 Enable maintenance || Abilita manutenzione
 Drain mode || Modalità di scarico
 Cut mode || Modalità di taglio
 Edit || Modifica
 Configure || Configurazione
-Save || Risparmia
+Save || Salva
 Add Variable || Aggiungi variabile
 Bring || Portare
-Export || Esportare
+Export || Esporta
 All data || Tutti i dati
 Only selected || Solo selezionato
 Apply || Iscriviti
-Create || Creare
-Cancel || Annullare
-Submit || Invio
+Create || Crea
+Cancel || Annulla
+Submit || Invia
 New Service || Nuovo servizio
 New Zone || Nuova zona
 New Route || Nuova rotta
-Basic || Basic
-Advanced || Avanzate
-Generate || Generare
+Basic || Base
+Advanced || Avanzato
+Generate || Genera
 Generating || Generazione
 Delete || Cancella
 Bring Up || Menzionare
 Bring down || Abbassa
-Restart || nuovo inizio
-Restarting || ripresa
+Restart || Riavvia
+Restarting || Riprendi
 Start || Inizia
-Stop || Stop
-Unset || unset
-Enable || permettere
+Stop || Ferma
+Unset || Unset
+Enable || Permetti
 Disable || Disabilita
-Remove || Rimuovere
-Download || Scaricare
-Downloading || Download
-Update || aggiornare
+Remove || Rimuovi
+Download || Scarica
+Downloading || In Download
+Update || Aggiorna
 New Rule || Nuova regola
-Next || Prossima
+Next || Successivo
 Back || Indietro
-Generate Random MAC || Genera MAC casuale
-Destroy || Distruggere
-Test Email || Prova e-mail
-Generate Random Key || Genera una chiave casuale
-Upload Certificate || Carica certificato
-Delete Certificate || Elimina certificato
+Generate Random MAC || Genera MAC Casuale
+Destroy || Distruggi
+Test Email || Prova Email
+Generate Random Key || Genera una Chiave Casuale
+Upload Certificate || Carica Certificato
+Delete Certificate || Elimina Certificato
 List || Lista
 Menu || Menu
-Modify || modificare
+Modify || Modifica
 Show || Mostra
 Action || Azione
-Test || prova
+Test || Prova
 Schedule || Programma
 Upgrade || Upgrade
-View || Vedi
+View || Mostra
 Info || Info
-Test Connectivity || Test connettività
-Show certificate || Mostra certificato
-Force Changes || Forza cambiamenti
-Page Not Found || Pagina non trovata
+Test Connectivity || Test Connettività
+Show certificate || Mostra Certificato
+Force Changes || Forza Modifiche
+Page Not Found || Pagina Non Trovata
 The page you were looking for doesn't exist || La pagina che stavi cercando non esiste
 Take me home || Portami a casa
 Status || Stato
@@ -98,56 +98,56 @@ Alias || Alias
 IP ||  IP
 Interface || Interfaccia
 Priority || Priorità
-Port || Porto
+Port || Porta
 Weight || Peso
 Max. Conns || Max. Conns
 Name || Nome
-Virtual IP || IP virtuale
-Vitual Port || Porto Vituale
-Virtual IP and Port || IP virtuale e porta
+Virtual IP || IP Virtuale
+Vitual Port || Porta Virtuale
+Virtual IP and Port || IP Virtuale e Porta
 Default TCP port health check || Controllo dello stato della porta TCP predefinito
-Health Checks for backend || Controlli sanitari per il back-end
-Default Name Server || Nome server predefinito
-Type || Tipologia
-Data || dati
+Health Checks for backend || Controlli dello Stato dei backend
+Default Name Server || Nome Server Predefinito
+Type || Tipo
+Data || Dati
 Profile || Profilo
 HTTPS Parameters || Parametri HTTPS
-Ciphers || Ciphers
-Custom ciphers || Cifrari personalizzati
+Ciphers || Cifratura
+Custom ciphers || Cifratura Personalizzata
 Protocol type || Tipo di protocollo
 NAT type || Tipo NAT
-Rewrite location headers || Riscrivi intestazioni di posizione
+Rewrite location headers || Riscrivi location headers
 HTTP verbs accepted || Verbi HTTP accettati
 Ignore 100 continue || Ignora 100 continua
-Backend connection timeout || Timeout della connessione back-end
-Backend response timeout || Timeout della risposta backend
+Backend connection timeout || Timeout della connessione al backend
+Backend response timeout || Timeout della risposta del backend
 Frequency to check resurrected backends || Frequenza per controllare i backend risorti
 Client request timeout || Timeout della richiesta del client
 Message Error || Errore messaggio
-Request Headers || Richiedi intestazioni
-Response Headers || Header di risposta
+Request Headers || Richiedi Header
+Response Headers || Header di Risposta
 Persistence || Persistenza
-Persistence session time to live || Tempo di permanenza per vivere
+Persistence session time to live || Tempo di Persistenza della sessione
 TTL || TTL
 Persistence session identifier || Identificatore della sessione di persistenza
-Virtual IP || IP virtuale
+Virtual IP || IP Virtuale
 Load balancing Scheduler || Pianificazione del bilanciamento del carico
 Algorithm || Algoritmo
 Round Robin || Round Robin
-Virtual Host || Host virtuale
-URL Pattern || Pattern URL
-Least Response || Minima risposta
+Virtual Host || Host Virtuale
+URL Pattern || URL Pattern
+Least Response || Risposta Minima
 HTTPS Backends || Backend HTTPS
-STS Header || Intestazione STS
+STS Header || Header STS
 Timeout || timeout
-Redirect || Reindirizzare
-Redirect URL || URL di reindirizzamento
-Redirect Type || Tipo di reindirizzamento
-Redirect Code || Codice di reindirizzamento
-Cookie Insert || Inserimento cookie
-Cookie Name || Nome Cookie
-Cookie Domain || Dominio dei cookie
-Cookie Path || Percorso dei cookie
+Redirect || Reindirizza
+Redirect URL || URL di Reindirizzamento
+Redirect Type || Tipo di Reindirizzamento
+Redirect Code || Codice di Reindirizzamento
+Cookie Insert || Inserisci Cookie
+Cookie Name || Nome del Cookie
+Cookie Domain || Dominio del Cookie
+Cookie Path || Percorso del Cookie
 Cookie TTL || Cookie TTL
 Locality || Località
 Country || Nazionalita'
@@ -155,144 +155,144 @@ State/Province || Provincia
 Common Name || Nome comune
 Organization || Organizzazione
 Division || Divisione
-E-mail Address || Indirizzo email
+E-mail Address || Indirizzo Email
 File || Compila il 
 Issuer || Emittente
 Creation || Creazione
 Expiration || Scadenza
 Certificate || Certificato
-Established Conns || Conns stabilito
-Pending Conns || Connes in sospeso
+Established Conns || Conns Stabilite
+Pending Conns || Connes in Sospeso
 Service || Assistenza
-Session ID || Session ID
-Backend ID || ID back-end
-Requests || richieste
-Failed REQ || REQ non riuscito
-Failed RES || RES non riuscita
+Session ID || ID Sessione
+Backend ID || ID Backend
+Requests || Richieste
+Failed REQ || REQ non Riuscita
+Failed RES || RES non Riuscita
 Truncated Resp TC || Troncato Resp TC
 Extended DNS Big || DNS esteso grande
 Extended DNS TC || TC DNS esteso
-No Error || Nessun errore
-Refused || rifiutato
-Non-existent Domain || Dominio inesistente
+No Error || Nessun Errore
+Refused || Rifiutato
+Non-existent Domain || Dominio Inesistente
 Notimp || NOTIMP
-Bad Version || Cattiva versione
-Format Error || Errore di formato
+Bad Version || Versione Errata
+Format Error || Formato Errato
 Dropped || Dropped
 V6 ||  V6
 Extended DNS || DNS esteso
 Extended DNS-ClientSub || DNS-ClientSub esteso
-Client || Cliente
+Client || Client
 Listerner || Listerner
 Value || Valore
-Custom IP || IP personalizzato
+Custom IP || IP Personalizzato
 Policy || Politica
-Remote URL || URL remoto
+Remote URL || URL Remoto
 Frequency || Frequenza
 Rule || Regola
 Limit RST request per source IP || Limita richiesta RST per IP sorgente
-Total connections per source IP || Connessioni totali per IP di origine
+Total connections per source IP || Connessioni totali per IP sorgente
 Limit Burst || Limite di scoppio
-Total connections limit per source IP || Limite totale delle connessioni per IP di origine
+Total connections limit per source IP || Limite totale delle connessioni per IP sorgente
 Hits || Visualizzazioni
 Time || Tempo
-Log level || Livello di registro
-Only logging || Solo registrazione
+Log level || Livello di Registro
+Only logging || Solo Registrazione
 Local traffic || Traffico locale
 Queue size || Dimensione della coda
-Max. Threads || Max. discussioni
+Max. Threads || Max. Thread
 Cache size || Dimensione della cache
 Cache time || Tempo di cache
-Check Request Body || Controlla il corpo della richiesta
-Check Response Body || Controllare il corpo della risposta
-Request Body Limit || Limite corpo richiesta
-Default Phase || Fase predefinita
-Default Log || Registro predefinito
+Check Request Body || Controlla il Request Body
+Check Response Body || Controlla il Request Body
+Request Body Limit || Limite Request Body
+Default Phase || Fase Predefinita
+Default Log || Registro Predefinito
 Rules || Regole
-Rule Type || Tipo di regola
-Mark || Mark
+Rule Type || Tipo di Regola
+Mark || Segna
 Phase || Fase
 Resolution || Risoluzione
 Rule ID || ID regola
 Skip || Saltare
 Skip after || Salta dopo
-Execute || Eseguire
+Execute || Esegui
 Description || Descrizione
 Interval || Intervallo
-Cut connections || Tagliare le connessioni
+Cut connections || Taglia le connessioni
 Command || Comando
 MAC || MAC
-Netmask || maschera di rete
-Farms || Farms
-Gateway || porta
+Netmask || Netmask
+Farms || Farm
+Gateway || Gateway
 IP Address || Indirizzo IP
 CIDR || CIDR
 Mode || Modalità
-Slaves || Schiavi
-Parent Interface || Interfaccia genitore
+Slaves || Secondario
+Parent Interface || Interfaccia Genitore
 Address || Indirizzo
-Host || ospite
+Host || Host
 Date || Data
-Alert || Mettere in guardia
+Alert || Allarme
 Password || Password
 Log || Log
 ZAPI Permissions || Autorizzazioni ZAPI
 GUI Permissions || Autorizzazioni GUI
 Role || Ruolo
-Rules Date || Data delle regole
-Scheduled || In programma
+Rules Date || Data delle Regole
+Scheduled || Programmato
 Variable || Variabile
 Variable's argument || Argomento della variabile
-Ignore this <i>variable</i> for the match || Ignora questo <i>variabile</i> per la partita
+Ignore this <i>variable</i> for the match || Ignora questo <i>variabile</i> per la corrispondenza
 Count elements of <i>variables</i> || Conta gli elementi di <i>variabili</i>
 Variables || Variabili
 Transformations || Trasformazioni
 Operating || Operativo
-Multi Match || Partita multipla
-Not Match || Non corrisponde
+Multi Match || Corrispondenza multipla
+Not Match || Non Corrisponde
 Operator || Operatore
 Module || Modulo
-Floating IP || IP fluttuante
-Interfaces || interfacce
+Floating IP || IP Fluttuante
+Interfaces || Interfacce
 Group || Gruppo
-Virtual Interface || Interfaccia virtuale
+Virtual Interface || Interfaccia Virtuale
 URL || URL
-From || A partire dal
-Table || tavolo
+From || Da
+Table || Tavolo
 To || A
-Route || strada
+Route || Rotta
 Via || via
-Backend Alias || Alias ​​di backend
+Backend Alias || Alias Backend
 Version || Versione
-System || sistema
-Failback || failback
-Check Interval || Controlla l'intervallo
+System || Sistema
+Failback || Failback
+Check Interval || Intervallo di Controllo
 Node || Nodo
 Message || Messaggio
-Hostname || Nome host
+Hostname || Nome Host
 No {{param}} found || Nessun {{param}} trovato
 Edit || Modifica
 Global || Globale
 Services || Servizi
 Select a {{param}} || Seleziona un {{param}}
 Resources || Risorse
-Backends || backend
-Strict Transport Security || Severa sicurezza dei trasporti
-Farms Stats || Statistiche delle fattorie
+Backends || Backend
+Strict Transport Security || Sicurezza di trasporto Restritiva
+Farms Stats || Statistiche delle Farm
 Copy to clipboard || Copia negli appunti
 Hide nodes || Nascondi nodi
 Show nodes || Mostra nodi
-Hide backends || Nascondi i backend
+Hide backends || Nascondi backend
 Show backends || Mostra backend
 Hide graphs || Nascondi grafici
 Show graphs || Mostra grafici
 Sessions || Sessioni
-Clients || Clienti
+Clients || Client
 Servers || Server
-Extended || estesa
-Nodes || Nodes
+Extended || Esteso
+Nodes || Nodi
 Number of lines || Numero di linee
-View All || Guarda tutto
+View All || Visualizza tutto
 View Less || Visualizza di meno
 Valid || Valido
 Expired || Scaduto
@@ -300,69 +300,69 @@ Near to expire || Quasi scaduto
 True || Vero
 False || Falso
 No configured || Non configurato
-In use by bonding interface || In uso dall'interfaccia di collegamento
-The cluster service interface has to be changed or disabled before to be able to modify this interface || L'interfaccia del servizio cluster deve essere modificata o disabilitata prima di poter modificare questa interfaccia
-Enabled || abilitato
-Disabled || disabile
+In use by bonding interface || In uso dall'interfaccia di bonding
+The cluster service interface has to be changed or disabled before to be able to modify this interface || L'interfaccia del servizio cluster deve essere modificata o disattivata prima di poterla modificare.
+Enabled || Abilitato
+Disabled || Disabilitato
 Needed restart || Riavvio necessario
-Critical || critico
-Problem || Problema
+Critical || Critico
+Problem || Problemaa
 Maintenance || Manutenzione
-Master || Maestro
-Backup || di riserva
-Not configured || non configurato
+Master || Master
+Backup || Backup
+Not configured || Non configurato
 Undefined || Indefinito
-Daily Graph || Grafico giornaliero
-Weekly Graph || Grafico settimanale
-Monthly Graph || Grafico mensile
-Yearly Graph || Grafico annuale
+Daily Graph || Grafico Giornaliero
+Weekly Graph || Grafico Settimanale
+Monthly Graph || Grafico Mensile
+Yearly Graph || Grafico Annuale
 Documentation || Documentazione
-Reload farmguardian list || Ricarica l'elenco dei guardiani della fattoria
+Reload farmguardian list || Ricarica l'elenco dei farmguardian
 Cookie || Cookie
 Zones || Zone
-System Stats || Statistiche del sistema
-CPU || processore
+System Stats || Statistiche del Sistema
+CPU || CPU
 Memory || Memoria
-Load || Caricare
-Cores || Colori
-Traffic In || Traffic In
-Traffic Out || Traffic Out
+Load || Carico
+Cores || Core
+Traffic In || Traffico In Entrata
+Traffic Out || Traffic In Uscita
 Nothing || Niente
 Custom || Personalizzato
 All interfaces || Tutte le interfacce
-All farms || Tutte le fattorie
-Default State || Stato predefinito
-Up ||  Up
-Down || giù
+All farms || Tutte le Farm
+Default State || Stato Predefinito
+Up ||  Su
+Down || Giù
 Installed and updated || Installato e aggiornato
 Not installed || Non installato
 Updates available || Aggiornamenti disponibili
 Interface || Interfaccia
-Type || Tipologia
+Type || Tipo
 Zone || Zona
 Transformation || Trasformazione
-Backend || BACKEND
+Backend || Backend
 Condition || Condizione
 Domain || Dominio
 Resource || Gestione
 Graph || Grafico
 Session || Sessione
-IP alias || Alias ​​IP
-Interface alias || Alias ​​di interfaccia
-Backup || di riserva
-Farm || Fattoria
-Header || testata
+IP alias || Alias IP
+Interface alias || Alias Interfaccia
+Backup || Backup
+Farm || Farm
+Header || Header
 Pattern || Modello
-Source || Fonte
-Blacklist || Lista nera
+Source || Sorgente
+Blacklist || Blacklist
 Farmguardian || Farmguardian
 Package || Pacchetto
 DoS rule || Regola DoS
 RBL rule || Regola RBL
 WAF ruleset || Set di regole WAF
 VLAN || VLAN
-Routing Rule || Regola di routing
-Routing Table || Tabella di routing
+Routing Rule || Regola di Instradamento
+Routing Table || Tabella di Instradamento
 Needed restart || Riavvio necessario
 There're changes that need to be applied, restart the farm to apply them! || Ci sono modifiche che devono essere applicate, riavvia la farm per applicarle!
 Close || Chiudi
